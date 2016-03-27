@@ -12,7 +12,7 @@ public class Edge {
 	public Node target;
 	public Node from;
 	public String lineType;
-	public int dist = 0; // in km
+	public ArrayList<Integer> dist = new ArrayList<Integer>(); // in km
 	public ArrayList<Time> time = new ArrayList<Time>(); // in min
 	public boolean oriented;
 	
@@ -30,7 +30,7 @@ public class Edge {
 	public void print(){
 		System.out.println("EDGE: "+id);
 		System.out.println("name: "+name);
-		System.out.println("Km: "+dist);
+		System.out.println("Km: "+dist.get(0));
 		if (time.size()>0) System.out.println("Time: "+time.get(0).minutes);
 	}
 	

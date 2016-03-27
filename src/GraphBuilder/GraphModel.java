@@ -58,7 +58,7 @@ public class GraphModel {
 		if ( old != null) { //edge is already in graph
 			//if (old.dist != e.dist && e.dist > 0) Logger.logProblem(this, "Diffrent distance for the same Edge: " + e.name);
 			//if (!old.lineType.equals(e.lineType)) Logger.logProblem(this, "Diffrent lineType for the same Edge");
-			
+			old.dist.add(e.dist.get(0));
 			old.time.add(e.time.get(0));
 			return false;
 		}
@@ -122,7 +122,7 @@ public class GraphModel {
 			writer.println("NODE: "+tmp.id);
 			for (int j=0;j<tmp.edges.size();j++){
 				Edge e = tmp.edges.get(j);
-				writer.println("TO: "+ e.target.id + " by " + e.dist + "km");
+				writer.println("TO: "+ e.target.id + " by " + e.dist.get(0) + "km");
 				writer.print("TIME_COST: ");
 				for (int k=0;k<e.time.size();k++){
 					if (k!=0) writer.print(" ");
@@ -153,13 +153,13 @@ public class GraphModel {
 
 		for (Edge tmp : edgesA){
 			writer.print(tmp.from.id+" "+tmp.target.id);		
-			writer.print(" "+tmp.dist);
+			writer.print(" "+tmp.dist.get(0));
 			for (int j=0;j<tmp.time.size();j++)
 				writer.print(" "+tmp.time.get(j).minutes);
 			writer.println();
 			if (oriented){
 				writer.print(tmp.target.id+" "+tmp.from.id);		
-				writer.print(" "+tmp.dist);
+				writer.print(" "+tmp.dist.get(0));
 				for (int j=0;j<tmp.time.size();j++)
 					writer.print(" "+tmp.time.get(j).minutes);
 				writer.println();
@@ -184,11 +184,11 @@ public class GraphModel {
 		else writer.println("*Edges");
 		for (Edge tmp: edgesA){
 			writer.print(tmp.from.id+" "+tmp.target.id);
-			writer.print(" "+tmp.dist);
+			writer.print(" "+tmp.dist.get(0));
 			writer.println();
 			if (oriented){
 				writer.print(tmp.target.id+" "+tmp.from.id);
-				writer.print(" "+tmp.dist);
+				writer.print(" "+tmp.dist.get(0));
 				writer.println();
 			}
 		}

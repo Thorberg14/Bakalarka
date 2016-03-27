@@ -39,7 +39,7 @@ public class Converter {
 			
 			Edge e = new Edge(lastNode,n,EDGE_ORIENTATION);		
 			e.time.add(getTime(last,dm));
-			e.dist = dm.vzdialenost - last.vzdialenost;				
+			e.dist.add(new Integer(dm.vzdialenost - last.vzdialenost));				
 			e.lineType = dm.lineType;
 			e.target = n;
 			e.from = lastNode;
@@ -86,17 +86,17 @@ public class Converter {
 		if (edges.size() <= 0) { Logger.logDebug(this, "empty rotue"); return; }
 		boolean rev = true;
 		for (Edge e : edges) 
-			if (e.dist > 0) 
+			if (e.dist.get(0) > 0) 
 				rev = false;
 		if (rev){
 			Logger.logDebug(this,"reversed distance route ("+edges.size()+") discovered in "+edges.get(0).lineType);
 			for (Edge e : edges) 
-				e.dist *= -1;
+				e.dist.set(0, new Integer( e.dist.get(0) * -1));
 		}
 		
 		for (int i = 0; i< edges.size(); i++){
 			Edge e = edges.get(i);
-			if (e.dist < 0){
+			if (e.dist.get(0) < 0){
 				if (breaks.get(i)){
 					Logger.logDebug(this, "subroute discovered in "+e.lineType+" ("+e.from.name+")");
 				}
