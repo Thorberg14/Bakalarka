@@ -1,0 +1,12043 @@
+*Vertices 5617
+1 Hamburg-Altona
+2 Hamburg Dammtor
+3 Hamburg Hbf
+4 Hamburg-Bergedorf
+5 Aumühle
+6 Friedrichsruh
+7 Schwarzenbek
+8 Müssen
+9 Büchen
+10 Schwanheide
+11 Boizenburg (Elbe)
+12 Brahlstorf
+13 Pritzier
+14 Hagenow Land
+15 Kirch Jesar
+16 Zachun
+17 Holthusen
+18 Schwerin Süd
+19 Schwerin Görries
+20 Schwerin Mitte
+21 Schwerin Hbf
+22 Lübstorf
+23 Bad Kleinen
+24 Ventschow
+25 Blankenberg (Meckl)
+26 Bützow
+27 Schwaan
+28 Rostock Hbf
+29 Wedel (Holst) (S-Bahn)
+30 Rissen (S-Bahn)
+31 Sülldorf (S-Bahn)
+32 Iserbrook (S-Bahn)
+33 Blankenese (S-Bahn)
+34 Hochkamp (S-Bahn)
+35 Klein Flottbek (S-Bahn)
+36 Othmarschen (S-Bahn)
+37 Bahrenfeld (S-Bahn)
+38 Königstraße (S-Bahn)
+39 Reeperbahn (S-Bahn)
+40 Landungsbrücken (S-Bahn)
+41 Stadthausbrücke (S-Bahn)
+42 Jungfernstieg (S-Bahn)
+43 Berliner Tor (S-Bahn)
+44 Landwehr (S-Bahn)
+45 Hasselbrook (S-Bahn)
+46 Wandsbeker Chaussee (S-Bahn)
+47 Friedrichsberg (S-Bahn)
+48 Barmbek (S-Bahn)
+49 Alte Wöhr (S-Bahn)
+50 Rübenkamp (S-Bahn)
+51 Ohlsdorf (S-Bahn)
+52 Kornweg (Klein Borstel) (S-Bahn)
+53 Hoheneichen (S-Bahn)
+54 Wellingsbüttel (S-Bahn)
+55 Poppenbüttel (S-Bahn)
+56 Holstenstraße (S-Bahn)
+57 Sternschanze (S-Bahn)
+58 Rothenburgsort (S-Bahn)
+59 Tiefstack (S-Bahn)
+60 Billwerder-Moorfleet (S-Bahn)
+61 Mittlerer Landweg (S-Bahn)
+62 Allermöhe (S-Bahn)
+63 Nettelnburg (S-Bahn)
+64 Elbgaustraße (S-Bahn)
+65 Eidelstedt (S-Bahn)
+66 Stellingen (S-Bahn)
+67 Langenfelde (S-Bahn)
+68 Diebsteich (S-Bahn)
+69 Reinbek (S-Bahn)
+70 Wohltorf (S-Bahn)
+71 Pinneberg
+72 Thesdorf (S-Bahn)
+73 Halstenbek (S-Bahn)
+74 Krupunder (S-Bahn)
+75 Hammerbrook (S-Bahn)
+76 Veddel (S-Bahn)
+77 Wilhelmsburg (S-Bahn)
+78 Hamburg-Harburg
+79 Harburg Rathaus (S-Bahn)
+80 Heimfeld (S-Bahn)
+81 Neuwiedenthal (S-Bahn)
+82 Hamburg-Neugraben
+83 Fischbek
+84 Neu Wulmstorf
+85 Buxtehude
+86 Neukloster (Kr Stade)
+87 Horneburg
+88 Dollern
+89 Agathenburg
+90 Stade
+91 Prisdorf
+92 Tornesch
+93 Elmshorn
+94 Herzhorn
+95 Glückstadt
+96 Krempe
+97 Kremperheide
+98 Itzehoe
+99 Hamburg-Wandsbek
+100 Tonndorf
+101 Hamburg-Rahlstedt
+102 Ahrensburg
+103 Bargteheide
+104 Kupfermühle
+105 Bad Oldesloe
+106 Reinfeld (Holst)
+107 Lübeck Hbf
+108 Lübeck Kücknitz
+109 Lübeck Travemünde Skandinavienkai
+110 Lübeck Travemünde Hafen
+111 Lübeck Travemünde Strand
+112 Meckelfeld
+113 Maschen
+114 Stelle
+115 Ashausen
+116 Winsen (Luhe)
+117 Radbruch
+118 Bardowick
+119 Lüneburg
+120 Bienenbüttel
+121 Bad Bevensen
+122 Uelzen
+123 Suderburg
+124 Unterlüß
+125 Eschede
+126 Celle Pbf
+127 Großburgwedel
+128 Isernhagen
+129 Langenhagen-Mitte
+130 Hannover Hbf
+131 Wendisch Evern
+132 Vastorf
+133 Bavendorf
+134 Dahlenburg
+135 Neetzendorf
+136 Göhrde
+137 Leitstade
+138 Hitzacker
+139 Dannenberg Ost
+140 Stederdorf (Kr Uelzen)
+141 Wieren
+142 Bad Bodenteich
+143 Wittingen
+144 Knesebeck
+145 Vorhop
+146 Schönewörde
+147 Wahrenholz
+148 Neudorf-Platendorf
+149 Triangel
+150 Gifhorn-Stadt
+151 Gifhorn
+152 Rötgesbüttel
+153 Meine
+154 Braunschweig-Gliesmarode
+155 Braunschweig Hbf
+156 Bremen Hbf
+157 Achim
+158 Langwedel
+159 Visselhövede
+160 Soltau (Han)
+161 Munster (Örtze)
+162 Brockhöfe
+163 Ebstorf (Kr Uelzen)
+164 Hittfeld
+165 Klecken
+166 Buchholz (Nordheide)
+167 Sprötze
+168 Tostedt
+169 Lauenbrück
+170 Scheeßel
+171 Rotenburg (Wümme)
+172 Sottrum
+173 Ottersberg (Han)
+174 Sagehorn
+175 Bremen-Oberneuland
+176 Cuxhaven
+177 Otterndorf
+178 Cadenberge
+179 Wingst
+180 Hemmoor
+181 Hechthausen
+182 Himmelpforten
+183 Hammah
+184 Bremerhaven-Wulsdorf
+185 Bremerhaven Hbf
+186 Suerhop
+187 Holm-Seppensen
+188 Büsenbachtal
+189 Handeloh
+190 Wintermoor
+191 Schneverdingen
+192 Hemsen (b Soltau)
+193 Wolterdingen (Han)
+194 Soltau (Han) Nord
+195 Dorfmark
+196 Bad Fallingbostel
+197 Walsrode
+198 Hodenhagen
+199 Eickeloh
+200 Hademstorf
+201 Schwarmstedt
+202 Lindwedel
+203 Bennemühlen
+204 Mellendorf
+205 Verden (Aller)
+206 Dörverden
+207 Eystrup
+208 Nienburg (Weser)
+209 Leese-Stolzenau
+210 Petershagen-Lahde
+211 Minden (Westf)
+212 Nordholz
+213 Dorum (Kr Cuxhaven)
+214 Wremen
+215 Bremerhaven-Lehe Pbf
+216 Loxstedt
+217 Lunestedt
+218 Stubben
+219 Lübberstedt
+220 Oldenbüttel
+221 Osterholz-Scharmbeck
+222 Ritterhude
+223 Bremen-Burg
+224 Bremen-Oslebshausen
+225 Bremen-Walle
+226 Bremen-Vegesack
+227 Bremen-Schönebeck
+228 Bremen-St Magnus
+229 Bremen-Lesum
+230 Bremen-Sebaldsbrück
+231 Bremen-Mahndorf
+232 Baden (Kr Verden)
+233 Etelsen
+234 Wilster
+235 Burg (Dithm)
+236 St. Michaelisdonn
+237 Meldorf
+238 Heide (Holst)
+239 Lunden
+240 Friedrichstadt
+241 Husum
+242 Bredstedt
+243 Langenhorn (Schlesw)
+244 Niebüll
+245 Klanxbüll
+246 Morsum (Sylt)
+247 Keitum
+248 Westerland (Sylt)
+249 Neumünster
+250 Nortorf
+251 Rendsburg
+252 Owschlag
+253 Schleswig
+254 Jübek
+255 Tarp
+256 Flensburg Weiche
+257 Flensburg
+258 Neumünster Stadtwald
+259 Wasbek
+260 Aukrug
+261 Hohenwestedt
+262 Osterstedt
+263 Beringstedt
+264 Gokels
+265 Hademarschen
+266 Beldorf
+267 Albersdorf
+268 Nordhastedt
+269 Tiebensee
+270 Jarrenwisch
+271 Wesselburen
+272 Süderdeich
+273 Reinsbüttel
+274 Büsum
+275 Felde
+276 Kiel Hbf
+277 Witzwort
+278 Harblek
+279 Tönning
+280 Kating
+281 Katharinenheerd
+282 Garding
+283 Sandwehle
+284 Tating
+285 Bad St Peter Süd
+286 Bad St Peter-Ording
+287 Bad Schwartau
+288 Timmendorferstrand
+289 Scharbeutz
+290 Haffkrug
+291 Sierksdorf
+292 Neustadt (Holst)
+293 Lensahn
+294 Oldenburg (Holst)
+295 Großenbrode
+296 Puttgarden
+297 Rickling
+298 Wahlstedt
+299 Fahrenkrug
+300 Bad Segeberg
+301 Altengörs
+302 Wakendorf
+303 Fresenburg
+304 Echem
+305 Lauenburg (Elbe)
+306 Mölln (Lauenburg)
+307 Ratzeburg
+308 Lübeck-Flughafen
+309 Pansdorf
+310 Pönitz (Holst)
+311 Eutin
+312 Bad Malente Gremsmühlen
+313 Plön
+314 Ascheberg (Holst)
+315 Preetz
+316 Raisdorf
+317 Kiel-Hassee CITTIPARK
+318 Suchsdorf
+319 Gettorf
+320 Eckernförde
+321 Rieseby
+322 Süderbrarup
+323 Sörup
+324 Husby
+325 Rehna
+326 Holdorf (Meckl)
+327 Gadebusch
+328 Lützow
+329 Groß Brütz
+330 Schwerin-Warnitz
+331 Schwerin-Margaretenhof
+332 Schwerin-Lankow
+333 Wüstmark
+334 Plate (Meckl)
+335 Sukow (b Schwerin)
+336 Crivitz
+337 Ruthenbeck
+338 Friedrichsruhe (Meckl)
+339 Domsühl
+340 Parchim
+341 Strohkirchen
+342 Jasnitz
+343 Ludwigslust
+344 Groß Laasch
+345 Neustadt-Glewe
+346 Dütschow
+347 Spornitz
+348 Lübz
+349 Passow (Meckl)
+350 Gallin
+351 Karow (Meckl)
+352 Alt Schwerin
+353 Malchow (Meckl)
+354 Nossentin
+355 Jabel (Meckl)
+356 Schwenzin
+357 Warenshof
+358 Waren (Müritz)
+359 Kargow
+360 Klockow (b Waren/Müritz)
+361 Kratzeburg
+362 Neustrelitz Hbf
+363 Groß Quassow
+364 Wesenberg
+365 Mirow
+366 Lübeck-St.Jürgen
+367 Herrnburg
+368 Lüdersdorf (Meckl)
+369 Schönberg (Meckl)
+370 Grieben (Meckl)
+371 Grevesmühlen
+372 Plüschow
+373 Bobitz
+374 Güstrow
+375 Priemerburg
+376 Lalendorf
+377 Neu Wokern
+378 Teterow
+379 Malchin
+380 Reuterstadt Stavenhagen
+381 Kleeth
+382 Mölln (Meckl)
+383 Neubrandenburg
+384 Sponholz
+385 Neetzka
+386 Oertzenhof
+387 Strasburg (Uckerm)
+388 Blumenhagen
+389 Pasewalk
+390 Sandförde
+391 Jatznick
+392 Torgelow
+393 Eggesin
+394 Hoppenwalde
+395 Ueckermünde
+396 Ueckermünde Stadthafen
+397 Pasewalk Ost
+398 Zerrenthin
+399 Löcknitz
+400 Grambow
+401 Rostock Parkstraße
+402 Rostock Holbeinplatz
+403 Rostock-Bramow
+404 Rostock-Marienehe
+405 Rostock Evershagen
+406 Rostock Lütten Klein
+407 Rostock Lichtenhagen
+408 Warnemünde Werft
+409 Warnemünde
+410 Lüssow (Meckl)
+411 Mistorf
+412 Huckstorf
+413 Pölchow
+414 Papendorf
+415 Kassebohm
+416 Rostock-Dierkow
+417 Rostock Hinrichsdorfer Straße
+418 Rostock-Toitenwinkel
+419 Rostock Seehafen Nord
+420 Bentwisch
+421 Mönchhagen
+422 Rövershagen
+423 Rostock Torfbrücke
+424 Graal-Müritz-Koppelweg
+425 Graal-Müritz
+426 Wismar
+427 Hornstorf
+428 Kalsow
+429 Steinhausen-Neuburg
+430 Hagebök
+431 Teschow
+432 Neubukow
+433 Sandhagen (b Bad Doberan)
+434 Kröpelin
+435 Reddelich
+436 Bad Doberan
+437 Althof
+438 Parkentin
+439 Groß Schwaß
+440 Rostock Thierfelder Straße
+441 Roggentin
+442 Broderstorf
+443 Groß Lüsewitz
+444 Sanitz (b Rostock)
+445 Tessin West
+446 Tessin
+447 Kavelstorf
+448 Scharstorf
+449 Kronskamp
+450 Laage (Meckl)
+451 Subzin-Liessow
+452 Plaaz
+453 Mierendorf
+454 Gelbensande
+455 Ribnitz-Damgarten West
+456 Ribnitz-Damgarten Ost
+457 Altenwillershagen
+458 Buchenhorst
+459 Velgast
+460 Martensdorf
+461 Stralsund-Grünhufe
+462 Stralsund
+463 Stralsund Rügendamm
+464 Altefähr
+465 Rambin (Rügen)
+466 Samtens
+467 Teschenhagen
+468 Bergen auf Rügen
+469 Lietzow (Rügen)
+470 Sagard
+471 Lancken
+472 Sassnitz
+473 Kummerow (b Stralsund)
+474 Wüstenfelde
+475 Miltzow
+476 Jeeser
+477 Greifswald
+478 Greifswald Süd
+479 Groß Kiesow
+480 Züssow
+481 Putbus
+482 Lauterbach (Rügen)
+483 Lauterbach (Mole)
+484 Potsdam-Rehbrücke
+485 Potsdam Medienstadt Babelsberg
+486 Berlin-Wannsee
+487 Berlin-Charlottenburg
+488 Berlin Zoologischer Garten
+489 Berlin Hauptbahnhof-Lehrter Bahnhof
+490 Berlin-Friedrichstraße
+491 Alexanderplatz
+492 Berlin Ostbahnhof
+493 Nikolassee
+494 Berlin-Schlachtensee
+495 Mexikoplatz
+496 Berlin-Zehlendorf
+497 Sundgauer Straße
+498 Berlin-Lichterfelde West
+499 Botanischer Garten
+500 Rathaus Steglitz
+501 Feuerbachstraße
+502 Friedenau
+503 Schöneberg
+504 Yorckstraße
+505 Berlin Anhalter Bahnhof
+506 Potsdamer Platz
+507 Brandenburger Tor
+508 Oranienburger Straße
+509 Berlin-Nordbahnhof
+510 Humboldthain
+511 Berlin-Gesundbrunnen
+512 Bornholmer Straße
+513 Wollankstraße
+514 Berlin-Schönholz
+515 Berlin-Wilhelmsruh
+516 Wittenau (Wilhelmsruher Damm)
+517 Waidmannslust
+518 Berlin-Hermsdorf
+519 Berlin-Frohnau
+520 Hohen Neuendorf (b Berlin)
+521 Birkenwerder (b Berlin)
+522 Borgsdorf
+523 Lehnitz
+524 Oranienburg
+525 Blankenfelde (Kr Teltow-Fläming)
+526 Mahlow
+527 Lichtenrade
+528 Schichauweg
+529 Buckower Chaussee
+530 Berlin-Marienfelde
+531 Attilastraße
+532 Priesterweg
+533 Berlin Südkreuz
+534 Berlin-Pankow
+535 Pankow-Heinersdorf
+536 Berlin-Blankenburg
+537 Berlin-Karow
+538 Berlin-Buch
+539 Röntgental
+540 Zepernick (b Bernau)
+541 Bernau-Friedenstal
+542 Bernau (b Berlin)
+543 Teltow Stadt
+544 Lichterfelde Süd
+545 Osdorferstraße
+546 Berlin-Lichterfelde Ost
+547 Lankwitz
+548 Südende
+549 Mühlenbeck-Mönchmühle
+550 Karl-Bonhoeffer-Nervenklinik
+551 Eichborndamm
+552 Berlin-Tegel
+553 Schulzendorf (b Tegel)
+554 Heiligensee
+555 Hennigsdorf (b Berlin)
+556 Erkner
+557 Wilhelmshagen
+558 Rahnsdorf
+559 Berlin-Friedrichshagen
+560 Hirschgarten
+561 Berlin-Köpenick
+562 Wuhlheide
+563 Berlin-Karlshorst
+564 Betriebsbahnhof Berlin-Rummelsburg
+565 Berlin-Rummelsburg
+566 Ostkreuz
+567 Warschauer Straße
+568 Jannowitzbrücke
+569 Hackescher Markt
+570 Bellevue
+571 Tiergarten
+572 Savignyplatz
+573 Berlin-Westkreuz
+574 Messe Süd (Eichkamp)
+575 Heerstraße
+576 Olympiastadion
+577 Pichelsberg
+578 Stresow
+579 Berlin-Spandau
+580 Innsbrucker Platz
+581 Bundesplatz
+582 Heidelberger Platz
+583 Hohenzollerndamm
+584 Berlin-Halensee
+585 Messe Nord / ICC (Witzleben)
+586 Westend
+587 Jungfernheide
+588 Beusselstraße
+589 Westhafen
+590 Wedding
+591 Schönhauser Allee
+592 Prenzlauer Allee
+593 Greifswalder Straße
+594 Landsberger Allee
+595 Storkower Straße
+596 Treptower Park
+597 Sonnenallee
+598 Berlin-Neukölln
+599 Hermannstraße
+600 Berlin-Tempelhof
+601 Berlin Frankfurter Allee
+602 Strausberg Nord
+603 Strausberg Stadt
+604 Hegermühle
+605 Strausberg
+606 Petershagen Nord
+607 Fredersdorf (b Berlin)
+608 Neuenhagen (b Berlin)
+609 Hoppegarten (Mark)
+610 Birkenstein
+611 Berlin-Mahlsdorf
+612 Berlin-Kaulsdorf
+613 Biesdorf
+614 Friedrichsfelde Ost
+615 Berlin-Lichtenberg
+616 Nöldnerplatz
+617 Berlin-Grunewald
+618 Griebnitzsee
+619 Babelsberg
+620 Potsdam Hbf
+621 Ahrensfelde
+622 Mehrower Allee
+623 Raoul-Wallenberg-Straße
+624 Berlin-Marzahn
+625 Poelchaustraße
+626 Springpfuhl
+627 Wartenberg
+628 Berlin-Hohenschönhausen
+629 Gehrenseestraße
+630 Zeuthen
+631 Eichwalde
+632 Berlin-Grünau
+633 Berlin-Adlershof
+634 Betriebsbahnhof Berlin-Schöneweide
+635 Berlin-Schöneweide Pbf
+636 Baumschulenweg
+637 Plänterwald
+638 Schönfließ
+639 Bergfelde (b Berlin)
+640 Flughafen Berlin-Schönefeld
+641 Grünbergallee
+642 Altglienicke
+643 Magdeburg Hbf
+644 Magdeburg-Neustadt
+645 Magdeburg-Herrenkrug
+646 Biederitz
+647 Gerwisch
+648 Möser
+649 Burg (b Magdeburg)
+650 Güsen (Kr Genthin)
+651 Genthin
+652 Wusterwitz
+653 Kirchmöser
+654 Brandenburg Hbf
+655 Götz
+656 Groß Kreutz
+657 Werder (Havel)
+658 Potsdam Park Sanssouci
+659 Potsdam Charlottenhof
+660 Golm
+661 Fangschleuse
+662 Hangelsberg
+663 Fürstenwalde (Spree)
+664 Berkenbrück
+665 Briesen (Mark)
+666 Jacobsdorf (Mark)
+667 Pillgram
+668 Frankfurt (Oder)-Rosengarten
+669 Frankfurt (Oder)
+670 Kraftwerk Finkenheerd
+671 Finkenheerd
+672 Wiesenau
+673 Ziltendorf
+674 Eisenhüttenstadt
+675 Neuzelle
+676 Wellmitz
+677 Coschen
+678 Guben
+679 Kerkwitz
+680 Jänschwalde Ost
+681 Jänschwalde
+682 Peitz Ost
+683 Teichland
+684 Cottbus-Willmersdorf Nord
+685 Cottbus-Merzdorf
+686 Cottbus-Sandow
+687 Cottbus
+688 Stendal
+689 Hämerten
+690 Schönhausen (Elbe)
+691 Großwudicke
+692 Rathenow
+693 Nennhausen
+694 Buschow
+695 Wustermark
+696 Elstal
+697 Dallgow-Döberitz
+698 Berlin-Staaken
+699 Königs Wusterhausen
+700 Brand (Niederlausitz)
+701 Lübben (Spreewald)
+702 Lübbenau (Spreewald)
+703 Raddusch
+704 Vetschau
+705 Kunersdorf
+706 Kolkwitz
+707 Klein Bünzow
+708 Anklam
+709 Ducherow
+710 Ferdinandshof
+711 Nechlin
+712 Prenzlau
+713 Seehausen (Uckermark)
+714 Warnitz (Uckermark)
+715 Wilmersdorf (b Angermünde)
+716 Angermünde
+717 Schwedt (Oder)
+718 Schwedt (Oder) Mitte
+719 Pinnow (Uckermark)
+720 Chorin
+721 Britz
+722 Eberswalde Hbf
+723 Dahlewitz
+724 Rangsdorf
+725 Dabendorf
+726 Zossen
+727 Wünsdorf Waldstadt
+728 Neuhof (b Zossen)
+729 Baruth (Mark)
+730 Klasdorf
+731 Golßen (Niederlausitz)
+732 Drahnsdorf
+733 Luckau-Uckro
+734 Walddrehna
+735 Doberlug-Kirchhain
+736 Rückersdorf
+737 Hohenleipisch
+738 Elsterwerda
+739 Mecklenburg Dorf
+740 Petersdorf (Meckl)
+741 Moidentin
+742 Sülstorf
+743 Rastow
+744 Lüblow (Meckl)
+745 Grabow (Meckl)
+746 Karstädt
+747 Wittenberge
+748 Bad Wilsnack
+749 Glöwen
+750 Breddin
+751 Neustadt (Dosse)
+752 Friesack (Mark)
+753 Paulinenaue
+754 Nauen
+755 Falkensee
+756 Teltow
+757 Großbeeren
+758 Birkengrund
+759 Ludwigsfelde
+760 Luckenwalde
+761 Jüterbog
+762 Zarrendorf
+763 Elmenhorst
+764 Wittenhagen
+765 Grimmen
+766 Rakow
+767 Demmin
+768 Utzedel
+769 Sternfeld
+770 Gnevkow
+771 Altentreptow
+772 Burg Stargard (Meckl)
+773 Cammin (Meckl)
+774 Blankensee (Meckl)
+775 Fürstenberg (Havel)
+776 Dannenwalde (Kr Gransee)
+777 Gransee
+778 Löwenberg (Mark)
+779 Thyrow
+780 Trebbin
+781 Woltersdorf (b Luckenwalde)
+782 Oehna
+783 Linda (Elster)
+784 Holzdorf (Elster)
+785 Herzberg (Elster) West
+786 Falkenberg (Elster)
+787 Niedergörsdorf
+788 Blönsdorf
+789 Klebitz
+790 Zahna
+791 Bülzig
+792 Zörnigall
+793 Lutherstadt Wittenberg
+794 Weisen
+795 Perleberg
+796 Groß Pankow
+797 Pritzwalk
+798 Heiligengrabe
+799 Liebenthal (Prign)
+800 Wittstock (Dosse)
+801 Dossow (Prign)
+802 Fretzdorf
+803 Netzeband
+804 Walsleben
+805 Neuruppin West
+806 Neuruppin Rheinsberger Tor
+807 Wustrau-Radensleben
+808 Beetz-Sommerfeld
+809 Kremmen
+810 Schwante
+811 Vehlefanz
+812 Bärenklau
+813 Velten (Mark)
+814 Dessau Hbf
+815 Roßlau (Elbe)
+816 Thießen
+817 Jeber-Bergfrieden
+818 Medewitz (Mark)
+819 Wiesenburg (Mark)
+820 Belzig
+821 Baitz
+822 Brück (Mark)
+823 Borkheide
+824 Beelitz-Heilstätten
+825 Seddin
+826 Michendorf
+827 Wilhelmshorst
+828 Dresden-Neustadt
+829 Coswig (Bz Dresden)
+830 Dresden Hbf
+831 Dresden-Friedrichstadt
+832 Dresden-Cotta
+833 Dresden-Kemnitz
+834 Dresden-Stetzsch
+835 Cossebaude
+836 Niederwartha
+837 Radebeul-Naundorf
+838 Weinböhla Hp
+839 Niederau
+840 Priestewitz
+841 Großenhain Cottb Bf
+842 Zabeltitz
+843 Frauenhain
+844 Prösen Ost
+845 Elsterwerda-Biehla
+846 Lampertswalde
+847 Ortrand
+848 Ruhland
+849 Senftenberg
+850 Sedlitz Ost
+851 Neupetershain
+852 Drebkau
+853 Brieselang
+854 Finkenkrug
+855 Seegefeld
+856 Albrechtshof
+857 Sachsenhausen (Nordb)
+858 Nassenheide
+859 Grüneberg
+860 Bergsdorf
+861 Zehdenick (Mark)
+862 Zehdenick-Neuhof
+863 Vogelsang (Kr Gransee)
+864 Hammelspring
+865 Templin
+866 Templin Stadt
+867 Zeesen
+868 Bestensee
+869 Groß Köris
+870 Halbe
+871 Oderin
+872 Schönwalde (Spreewald)
+873 Lubolz
+874 Calau (Niederlausitz)
+875 Altdöbern
+876 Großräschen
+877 Hosena
+878 Lauta (Niederlausitz)
+879 Schwarzkollm
+880 Hoyerswerda
+881 Hohen Neuendorf West
+882 Marquardt
+883 Priort
+884 Saarmund
+885 Genshagener Heide
+886 Potsdam Pirschheide
+887 Caputh-Geltow
+888 Caputh-Schwielowsee
+889 Ferch-Lienewitz
+890 Ahrensfelde Friedhof
+891 Ahrensfelde Nord
+892 Blumberg (b Berlin)
+893 Seefeld (Mark)
+894 Werneuchen
+895 Herrensee
+896 Rehfelde (Kr Strausberg)
+897 Müncheberg (Mark)
+898 Obersdorf
+899 Trebnitz (Mark)
+900 Alt Rosenthal
+901 Seelow-Gusow
+902 Werbig
+903 Golzow (Oderbruch)
+904 Gorgast
+905 Küstrin-Kietz
+906 Beelitz Stadt
+907 Elsholz
+908 Buchholz (Zauche)
+909 Treuenbrietzen
+910 Treuenbrietzen Süd
+911 Altes Lager
+912 Bad Saarow-Pieskow
+913 Fürstenwalde (Spree) Süd
+914 Frankfurt (Oder)-Neuberesinchen
+915 Helenesee
+916 Müllrose
+917 Mixdorf
+918 Grunow (Niederlausitz)
+919 Schneeberg (Mark)
+920 Oegeln
+921 Beeskow
+922 Buckow (b Beeskow)
+923 Lindenberg (Mark)
+924 Wendisch-Rietz
+925 Hubertushöhe
+926 Storkow (Mark)
+927 Kummersdorf (b Storkow)
+928 Friedersdorf (b Königs Wusterhausen)
+929 Kablow
+930 Zernsdorf
+931 Niederlehme
+932 Kolkwitz Süd
+933 Gollmitz (Niederlausitz)
+934 Finsterwalde (Niederlausitz)
+935 Schönborn (b Doberlug)
+936 Beutersitz
+937 Uebigau
+938 Klinge
+939 Forst (Lausitz)
+940 Brandenburg-Altstadt
+941 Görden
+942 Fohrde
+943 Pritzerbe
+944 Döberitz
+945 Premnitz Zentrum
+946 Premnitz Nord
+947 Mögelin
+948 Rüdnitz
+949 Biesenthal
+950 Melchow
+951 Golzow (b Eberswalde)
+952 Alt Hüttendorf
+953 Joachimsthal Kaiserbahnhof
+954 Joachimsthal
+955 Niederfinow
+956 Falkenberg (Mark)
+957 Bad Freienwalde (Oder)
+958 Altranft
+959 Wriezen
+960 Neutrebbin
+961 Letschin
+962 Seelow (Mark)
+963 Schönfließ Dorf
+964 Tantow
+965 Petershagen (Uckermark)
+966 Casekow
+967 Schönow (Kr Uckermark)
+968 Passow (Uckermark)
+969 Leipzig Hbf
+970 Leipzig-Thekla
+971 Leipzig-Heiterblick
+972 Taucha (b Leipzig)
+973 Pönitz (b Leipzig)
+974 Jesewitz (b Leipzig)
+975 Eilenburg
+976 Eilenburg Ost
+977 Doberschütz
+978 Mockrehna
+979 Torgau
+980 Beilrode
+981 Meinsdorf
+982 Klieken
+983 Coswig (Anh)
+984 Griebo
+985 Lutherstadt Wittenberg-Piesteritz
+986 Lutherstadt Wittenberg West
+987 Lutherstadt Wittenberg Altstadt
+988 Mühlanger
+989 Elster (Elbe)
+990 Jessen (Elster)
+991 Annaburg
+992 Fermerswalde
+993 Kämmereiforst
+994 Krensitz
+995 Hohenroda
+996 Delitzsch ob Bf
+997 Kyhna
+998 Klitschmar
+999 Landsberg (b Halle/Saale) Süd
+1000 Reußen
+1001 Peißen
+1002 Halle (Saale) Hbf
+1003 Zittau
+1004 Hirschfelde
+1005 Krzewina Zgorzelecka
+1006 Hagenwerder
+1007 Görlitz-Weinhübel
+1008 Görlitz
+1009 Kodersdorf
+1010 Horka Pbf
+1011 Uhsmannsdorf
+1012 Hähnichen
+1013 Rietschen
+1014 Weißwasser (Oberlausitz)
+1015 Schleife
+1016 Spremberg
+1017 Bagenz
+1018 Neuhausen (Cottbus)
+1019 Kiekebusch (Cottbus)
+1020 Dresden Industriegelände
+1021 Dresden-Klotzsche
+1022 Weixdorf Bad
+1023 Weixdorf
+1024 Hermsdorf (b Dresden)
+1025 Ottendorf-Okrilla Süd
+1026 Ottendorf-Okrilla Hp
+1027 Ottendorf-Okrilla Nord
+1028 Laußnitz
+1029 Königsbrück
+1030 Langebrück (Sachs)
+1031 Radeberg
+1032 Arnsdorf (b Dresden)
+1033 Kleinröhrsdorf
+1034 Großröhrsdorf
+1035 Pulsnitz
+1036 Bischheim-Gersdorf
+1037 Kamenz (Sachs)
+1038 Lauchhammer
+1039 Plessa
+1040 Bad Liebenwerda
+1041 Rehfeld (b Falkenberg/Elster)
+1042 Niesky
+1043 Petershain
+1044 Mücka
+1045 Klitten
+1046 Uhyst
+1047 Lohsa
+1048 Hoyerswerda-Neustadt
+1049 Dresden Mitte
+1050 Großharthau
+1051 Weickersdorf (Sachs)
+1052 Bischofswerda
+1053 Demitz-Thumitz
+1054 Seitschen
+1055 Bautzen
+1056 Kubschütz
+1057 Pommritz
+1058 Breitendorf
+1059 Löbau (Sachs)
+1060 Zoblitz
+1061 Reichenbach (Oberlausitz)
+1062 Gersdorf (b Görlitz)
+1063 Görlitz-Rauschwalde
+1064 Dresden Freiberger Straße
+1065 Schmölln (Oberlausitz)
+1066 Putzkau
+1067 Neukirch (Lausitz) West
+1068 Neukirch (Lausitz) Ost
+1069 Wilthen
+1070 Schirgiswalde-Kirschau
+1071 Sohland
+1072 Taubenheim (Spree)
+1073 Neusalza-Spremberg
+1074 Ebersbach (Sachs)
+1075 Neugersdorf
+1076 Eibau
+1077 Oberoderwitz Oberdorf
+1078 Oberoderwitz
+1079 Niederoderwitz
+1080 Mittelherwigsdorf (Sachs)
+1081 Hainewalde
+1082 Großschönau (Sachs)
+1083 Seifhennersdorf
+1084 Leutersdorf
+1085 Zittau Hp
+1086 Zittau Süd
+1087 Zittau Vorstadt
+1088 Olbersdorf Niederdorf
+1089 Olbersdorf Oberdorf
+1090 Bertsdorf
+1091 Kurort Jonsdorf Hst
+1092 Kurort Jonsdorf
+1093 Kurort Oybin-Niederdorf
+1094 Teufelsmühle
+1095 Kurort Oybin
+1096 Meißen Triebischtal
+1097 Meißen
+1098 Neusörnewitz
+1099 Radebeul-Zitzschewig
+1100 Radebeul West
+1101 Radebeul-Weintraube
+1102 Radebeul Ost
+1103 Dresden-Trachau
+1104 Dresden-Pieschen
+1105 Dresden-Strehlen
+1106 Dresden-Reick
+1107 Dresden-Dobritz
+1108 Dresden-Niedersedlitz Hp (DHD)
+1109 Dresden-Zschachwitz
+1110 Heidenau
+1111 Heidenau Süd
+1112 Heidenau-Großsedlitz
+1113 Pirna
+1114 Obervogelgesang (Kr Pirna)
+1115 Stadt Wehlen (Sachs)
+1116 Kurort Rathen (Kr Pirna)
+1117 Königstein (Sächs Schweiz)
+1118 Bad Schandau
+1119 Krippen
+1120 Schmilka-Hirschmühle
+1121 Schöna
+1122 Dresden Grenzstraße
+1123 Dresden Flughafen
+1124 Dohna (Sachs)
+1125 Köttewitz
+1126 Weesenstein
+1127 Burkhardswalde-Maxen
+1128 Mühlbach (b Pirna)
+1129 Niederschlottwitz
+1130 Oberschlottwitz
+1131 Glashütte (Sachs)
+1132 Bärenhecke-Johnsbach
+1133 Bärenstein (b Glashütte/Sachs)
+1134 Lauenstein (Sachs)
+1135 Hartmannmühle
+1136 Geising
+1137 Kurort Altenberg (Erzgeb)
+1138 Neustadt (Sachs)
+1139 Langenwolmsdorf
+1140 Langenwolmsdorf Mitte
+1141 Stolpen
+1142 Helmsdorf (b Pirna)
+1143 Dürrröhrsdorf
+1144 Lohmen
+1145 Pirna-Copitz Nord
+1146 Pirna-Copitz
+1147 Rathmannsdorf (Kr Pirna)
+1148 Porschdorf (Kr Pirna)
+1149 Goßdorf-Kohlmühle
+1150 Mittelndorf
+1151 Ulbersdorf
+1152 Amtshainersdorf
+1153 Sebnitz (Sachs)
+1154 Krumhermsdorf
+1155 Neuwiederitzsch LeipzigerMesse
+1156 Rackwitz (B Leipzig)
+1157 Zschortau
+1158 Delitzsch unt Bf
+1159 Petersroda
+1160 Bitterfeld
+1161 Dessau Süd
+1162 Marke
+1163 Raguhn
+1164 Jeßnitz (Anh)
+1165 Wolfen (Kr Bitterfeld)
+1166 Greppin
+1167 Roitzsch (Kr Bitterfeld)
+1168 Brehna
+1169 Landsberg (b Halle/Saale)
+1170 Hohenthurm
+1171 Königsborn
+1172 Wahlitz
+1173 Gommern
+1174 Prödel
+1175 Lübs (b Magdeburg)
+1176 Güterglück
+1177 Zerbst
+1178 Jütrichau
+1179 Rodleben
+1180 Woltersdorf (b Magdeburg)
+1181 Büden
+1182 Ziepel
+1183 Zeddenick (Sachs-Anh)
+1184 Möckern (b Magdeburg)
+1185 Zeppernick (b Magdeburg)
+1186 Loburg
+1187 Stendal Vorbf
+1188 Bindfelde
+1189 Miltern
+1190 Tangermünde West
+1191 Tangermünde
+1192 Lehrte
+1193 Immensen-Arpke
+1194 Dollbergen
+1195 Dedenhausen
+1196 Meinersen
+1197 Leiferde (b Gifhorn)
+1198 Calberlah
+1199 Fallersleben
+1200 Wolfsburg
+1201 Weddel (Braunschw)
+1202 Oebisfelde
+1203 Miesterhorst
+1204 Mieste
+1205 Solpke
+1206 Gardelegen
+1207 Jävenitz
+1208 Uchtspringe
+1209 Vinzelberg
+1210 Möringen (Altm)
+1211 Magdeburg-Eichenweiler
+1212 Magdeburg-Rothensee
+1213 Wolmirstedt
+1214 Zielitz Ort
+1215 Angern-Rogätz
+1216 Mahlwinkel
+1217 Tangerhütte
+1218 Demker
+1219 Stendal-Stadtsee
+1220 Eichstedt (Altm)
+1221 Goldbeck (Kr Osterburg)
+1222 Osterburg
+1223 Seehausen (Altm)
+1224 Geestgottberg
+1225 Bösdorf (Sachs-Anh)
+1226 Rätzlingen
+1227 Wegenstedt
+1228 Flechtingen
+1229 Haldensleben
+1230 Vahldorf
+1231 Groß Ammensleben
+1232 Meitzendorf
+1233 Barleben
+1234 Zielitz
+1235 Barleber See
+1236 Magdeburg-Hasselbachplatz
+1237 Magdeburg-Buckau
+1238 Magdeburg Thälmannwerk
+1239 Magdeburg-Salbke
+1240 Magdeburg Südost
+1241 Schönebeck-Frohse
+1242 Schönebeck (Elbe)
+1243 Schönebeck (Elbe) Süd
+1244 Schönebeck-Salzelmen
+1245 Hämelerwald
+1246 Vöhrum
+1247 Peine
+1248 Vechelde
+1249 Schandelah
+1250 Königslutter
+1251 Frellstedt
+1252 Helmstedt
+1253 Marienborn
+1254 Wefensleben
+1255 Eilsleben (b Magdeburg)
+1256 Ovelgünne
+1257 Dreileben-Drackenstedt
+1258 Ochtmersleben
+1259 Wellen (b Magdeburg)
+1260 Niederndodeleben
+1261 Magdeburg-Sudenburg
+1262 Wolfenbüttel
+1263 Dettum
+1264 Schöppenstedt
+1265 Hildesheim Hbf
+1266 Hoheneggelsen
+1267 Woltwiesche
+1268 Lengede-Broistedt
+1269 Beyendorf
+1270 Dodendorf
+1271 Osterweddingen
+1272 Langenweddingen
+1273 Blumenberg
+1274 Hadmersleben
+1275 Oschersleben (Bode)
+1276 Hordorf
+1277 Krottorf
+1278 Nienhagen (b Halberstadt)
+1279 Groß Quenstedt
+1280 Halberstadt
+1281 Wegeleben
+1282 Ditfurt
+1283 Quedlinburg
+1284 Neinstedt
+1285 Thale Musestieg
+1286 Thale Hbf
+1287 Hildesheim Ost
+1288 Großdüngen
+1289 Derneburg (Han)
+1290 Baddeckenstedt
+1291 Salzgitter-Ringelheim
+1292 Goslar
+1293 Oker
+1294 Bad Harzburg
+1295 Wernigerode
+1296 Wernigerode-Westerntor
+1297 Wernigerode Hochschule Harz
+1298 Wernigerode-Hasserode
+1299 Steinerne Renne
+1300 Drei Annen Hohne
+1301 Schierke
+1302 Brocken
+1303 Nordhausen Nord
+1304 Hesseröder Straße
+1305 Nordhausen Altentor
+1306 Nordhausen Ricarda-Huch-Straße
+1307 Nordhausen Schurzfell
+1308 Nordhausen-Krimderode
+1309 Niedersachswerfen-Herkules Markt
+1310 Niedersachswerfen Ost
+1311 Niedersachswerfen Ilfelder Straße
+1312 Ilfeld Schreiberwiese
+1313 Ilfeld
+1314 Ilfeld Neanderklinik
+1315 Ilfeld Bad
+1316 Netzkater
+1317 Eisfelder Talmühle
+1318 Tiefenbachmühle
+1319 Sophienhof
+1320 Benneckenstein
+1321 Sorge
+1322 Elend
+1323 Halberstadt Oststraße
+1324 Halberstadt-Spiegelsberge
+1325 Langenstein
+1326 Börnecke (Harz)
+1327 Blankenburg (Harz)
+1328 Vienenburg
+1329 Stapelburg
+1330 Ilsenburg
+1331 Darlingerode
+1332 Wernigerode Elmowerk
+1333 Heudeber-Danstedt
+1334 Hedersleben-Wedderstedt
+1335 Gatersleben
+1336 Nachterstedt-Hoym
+1337 Frose
+1338 Aschersleben Pbf
+1339 Drohndorf-Mehringen
+1340 Freckleben
+1341 Sandersleben (Anh)
+1342 Belleben
+1343 Könnern
+1344 Domnitz (SaalKr)
+1345 Nauendorf (Saalkr)
+1346 Wallwitz (Saalkr)
+1347 Teicha
+1348 Halle-Trotha
+1349 Quedlinburg-Quarmbeck
+1350 Bad Suderode
+1351 Gernrode (Harz)
+1352 Sternhaus Haferfeld
+1353 Sternhaus Ramberg
+1354 Mägdesprung
+1355 Drahtzug
+1356 Alexisbad
+1357 Harzgerode
+1358 Silberhütte (Anhalt)
+1359 Straßberg (Harz)
+1360 Straßberg (Harz) Glasebach
+1361 Güntersberge
+1362 Friedrichshöhe
+1363 Albrechtshaus
+1364 Stiege
+1365 Hasselfelde
+1366 Birkenmoor
+1367 Schierstedt
+1368 Giersleben
+1369 Güsten
+1370 Ilberstedt
+1371 Bernburg
+1372 Bernburg-Friedenshall
+1373 Baalberge
+1374 Biendorf
+1375 Frenz
+1376 Köthen
+1377 Osternienburg
+1378 Elsnigk (Anh)
+1379 Dessau-Mosigkau
+1380 Dessau-Alten
+1381 Eggersdorf
+1382 Eickendorf
+1383 Förderstedt
+1384 Staßfurt
+1385 Neundorf (Anh)
+1386 Hettstedt
+1387 Klostermansfeld
+1388 Sangerhausen
+1389 Oberröblingen (Helme)
+1390 Voigtstedt
+1391 Artern
+1392 Reinsdorf (b Artern)
+1393 Bretleben
+1394 Heldrungen
+1395 Etzleben
+1396 Griefstedt
+1397 Leubingen
+1398 Sömmerda
+1399 Großrudestedt
+1400 Stotternheim
+1401 Erfurt Ost
+1402 Erfurt Hbf
+1403 Klostermannsfeld Randsiedlung
+1404 Mansfeld (Südharz)
+1405 Vatterode
+1406 Vatterröder Teich
+1407 Gräfenstuhl-Klippmühle
+1408 Biesenrode
+1409 Friesdorf Ost
+1410 Friesdorf
+1411 Wippra
+1412 Schönebeck-Felgeleben
+1413 Gnadau
+1414 Calbe (Saale) Ost
+1415 Sachsendorf (b Calbe)
+1416 Wulfen (Anh)
+1417 Arensdorf (b Köthen)
+1418 Weißandt-Gölzau
+1419 Stumsdorf
+1420 Niemberg
+1421 Zöberitz
+1422 Flughafen Leipzig/Halle
+1423 Hannover Bismarckstraße
+1424 Hannover-Messe / Laatzen
+1425 Rethen (Leine)
+1426 Sarstedt
+1427 Barnten
+1428 Nordstemmen
+1429 Elze (Han)
+1430 Banteln
+1431 Alfeld (Leine)
+1432 Freden (Leine)
+1433 Kreiensen
+1434 Einbeck-Salzderhelden
+1435 Northeim (Han)
+1436 Nörten-Hardenberg
+1437 Göttingen
+1438 Salzgitter-Lebenstedt
+1439 Salzgitter-Watenstedt
+1440 Salzgitter-Immendorf
+1441 Salzgitter-Thiede
+1442 Börßum
+1443 Schladen (Harz)
+1444 Langelsheim
+1445 Seesen
+1446 Bad Gandersheim
+1447 Stadtoldendorf
+1448 Holzminden
+1449 Ottbergen
+1450 Wehrden (Weser)
+1451 Lauenförde
+1452 Bad Karlshafen
+1453 Bodenfelde
+1454 Vernawahlshausen
+1455 Offensen (Kr Northeim)
+1456 Adelebsen
+1457 Lödingsen
+1458 Lenglern
+1459 Uslar
+1460 Volpriehausen
+1461 Hardegsen
+1462 Katlenburg
+1463 Wulften
+1464 Hattorf
+1465 Herzberg (Harz)
+1466 Bad Lauterberg im Harz Barbis
+1467 Bad Sachsa
+1468 Walkenried
+1469 Ellrich
+1470 Woffleben
+1471 Niedersachswerfen
+1472 Nordhausen-Salza
+1473 Nordhausen
+1474 Salzgitter Bad
+1475 Münchehof (Harz)
+1476 Gittelde
+1477 Osterode am Harz Mitte
+1478 Osterode am Harz Leege
+1479 Herzberg Schloß
+1480 Bückeburg
+1481 Kirchhorsten
+1482 Stadthagen
+1483 Lindhorst (Schaumb-Lippe)
+1484 Haste (Han)
+1485 Wunstorf
+1486 Dedensen / Gümmer
+1487 Seelze Pbf
+1488 Letter
+1489 Hannover-Leinhausen
+1490 Hannover-Nordstadt
+1491 Hannover-Linden
+1492 Hannover-Bornum
+1493 Empelde
+1494 Ronnenberg (Han)
+1495 Weetzen
+1496 Lemmie
+1497 Wennigsen (Deister)
+1498 Egestorf (Deister)
+1499 Kirchdorf (Deister)
+1500 Barsinghausen
+1501 Winninghausen
+1502 Bantorf
+1503 Bad Nenndorf
+1504 Linsburg
+1505 Hagen (Han)
+1506 Eilvese
+1507 Neustadt a Rübenberge
+1508 Poggenhagen
+1509 Hannover-Kleefeld
+1510 Hannover Karl-Wiechert-Allee
+1511 Anderten-Misburg
+1512 Ahlten (Han)
+1513 Sehnde
+1514 Algermissen
+1515 Harsum
+1516 Bissendorf
+1517 Langenhagen -Kaltenweide
+1518 Langenhagen Pferdemarkt
+1519 Hannover -Vinnhorst
+1520 Hannover -Ledeburg
+1521 Emmerke
+1522 Hannover-Flughafen
+1523 Holtensen (b Weetzen)
+1524 Bennigsen
+1525 Eldagsen-Völksen
+1526 Springe
+1527 Bad Münder (Deister)
+1528 Hameln
+1529 Emmerthal
+1530 Bad Pyrmont
+1531 Lügde
+1532 Schieder
+1533 Steinheim (Westf)
+1534 Altenbeken
+1535 Paderborn Hbf
+1536 Aligse
+1537 Burgdorf (Han)
+1538 Otze
+1539 Ehlershausen
+1540 Bielefeld Hbf
+1541 Brake (b Bielefeld)
+1542 Herford
+1543 Löhne (Westf)
+1544 Bad Oeynhausen
+1545 Porta Westfalica
+1546 Bünde (Westf)
+1547 Kirchlengern
+1548 Bad Oeynhausen Süd
+1549 Vlotho
+1550 Rinteln
+1551 Hessisch Oldendorf
+1552 Coppenbrügge
+1553 Voldagsen
+1554 Osterwald
+1555 Wesseln
+1556 Bad Salzdetfurth-Solebad
+1557 Bad Salzdetfurth
+1558 Bodenburg
+1559 Bad Bentheim
+1560 Schüttorf
+1561 Salzbergen
+1562 Rheine
+1563 Hörstel
+1564 Ibbenbüren-Esch
+1565 Ibbenbüren
+1566 Ibbenbüren-Laggenbeck
+1567 Osnabrück Hasetor
+1568 Osnabrück Hbf
+1569 Wissingen
+1570 Westerhausen
+1571 Melle
+1572 Bruchmühlen
+1573 Bremen-Hemelingen
+1574 Dreye
+1575 Kirchweyhe
+1576 Barrien
+1577 Syke
+1578 Bramstedt (b Syke)
+1579 Bassum
+1580 Twistringen
+1581 Barnstorf (Han)
+1582 Diepholz
+1583 Lemförde
+1584 Bohmte
+1585 Hasbergen (Kr Osnabrück)
+1586 Natrup-Hagen
+1587 Lengerich (Westf)
+1588 Kattenvenne
+1589 Ostbevern
+1590 Westbevern
+1591 Münster (Westf) Hbf
+1592 Rahden (Kr Lübbecke)
+1593 Espelkamp
+1594 Lübbecke (Westf)
+1595 Holzhausen-Heddinghausen
+1596 Neue Mühle
+1597 Bieren-Rödinghausen
+1598 Hiddenhausen-Schweicheln
+1599 Delmenhorst
+1600 Hude
+1601 Oldenburg (Oldb) Hbf
+1602 Bad Zwischenahn
+1603 Westerstede-Ocholt
+1604 Augustfehn
+1605 Leer (Ostfriesl)
+1606 Emden Hbf
+1607 Marienhafe
+1608 Norden
+1609 Norddeich
+1610 Norddeich Mole
+1611 Bookholzberg
+1612 Schierbrok
+1613 Hoykenkamp
+1614 Heidkrug
+1615 Bremen Neustadt
+1616 Nordenham
+1617 Kleinensiel
+1618 Rodenkirchen (Oldb)
+1619 Brake (Unterweser)
+1620 Elsfleth
+1621 Berne
+1622 Wilhelmshaven
+1623 Sande
+1624 Varel (Oldb)
+1625 Rastede
+1626 Sandkrug
+1627 Huntlosen
+1628 Großenkneten
+1629 Ahlhorn
+1630 Cloppenburg
+1631 Essen (Oldb)
+1632 Quakenbrück
+1633 Bersenbrück
+1634 Bramsche
+1635 Achmer
+1636 Halen
+1637 Sanderbusch
+1638 Schortens-Heidmühle (Oldb)
+1639 Jever
+1640 Wittmund
+1641 Burhafe
+1642 Esens (Ostfriesl)
+1643 Ganderkesee
+1644 Brettorf
+1645 Wildeshausen
+1646 Rechterfeld
+1647 Goldenstedt (Oldb)
+1648 Lutten
+1649 Vechta
+1650 Lohne (Oldb)
+1651 Mühlen (Oldb)
+1652 Steinfeld (Oldb)
+1653 Holdorf (Oldb)
+1654 Neuenkirchen (Oldb)
+1655 Rieste
+1656 Hesepe
+1657 Papenburg (Ems)
+1658 Aschendorf
+1659 Dörpen
+1660 Lathen
+1661 Haren (Ems)
+1662 Meppen
+1663 Geeste
+1664 Lingen (Ems)
+1665 Leschede
+1666 Weener
+1667 Hamm (Westf)
+1668 Heessen
+1669 Ahlen (Westf)
+1670 Neubeckum
+1671 Oelde
+1672 Rheda-Wiedenbrück
+1673 Gütersloh Hbf
+1674 Isselhorst-Avenwedde
+1675 Brackwede
+1676 Quelle Kupferheide
+1677 Quelle
+1678 Steinhagen (Westf) Bielefelder Straße
+1679 Steinhagen (Westf)
+1680 Künsebeck
+1681 Halle (Westf)
+1682 Halle (Westf)-Gerry-Weber-Stadion
+1683 Hesseln
+1684 Borgholzhausen
+1685 Westbarthausen
+1686 Dissen-Bad Rothenfelde
+1687 Brackwede Süd
+1688 Windelsbleiche
+1689 Sennestadt
+1690 Schloß Holte
+1691 Hövelriege
+1692 Hövelhof
+1693 Sennelager
+1694 Paderborn Nord
+1695 Paderborn Kasseler Tor
+1696 Bad Driburg (Westf)
+1697 Brakel (Kr Höxter)
+1698 Godelheim
+1699 Höxter Rathaus
+1700 Lüchtringen
+1701 Bielefeld Ost
+1702 Oldentrup
+1703 Ubbedissen
+1704 Oerlinghausen
+1705 Helpup
+1706 Ehlenbruch
+1707 Lage (Lippe)
+1708 Hörstmar (Lippe)
+1709 Bad Salzuflen
+1710 Schötmar
+1711 Sylbach
+1712 Detmold
+1713 Horn-Bad Meinberg
+1714 Leopoldstal
+1715 Sandebeck
+1716 Telgte
+1717 Raestrup-Everswinkel
+1718 Warendorf
+1719 Beelen
+1720 Clarholz
+1721 Herzebrock
+1722 Münster Zentrum Nord
+1723 Münster-Häger
+1724 Altenberge
+1725 Nordwalde
+1726 Steinfurt-Borghorst
+1727 Steinfurt-Grottenkamp
+1728 Steinfurt-Burgsteinfurt
+1729 Metelen Land
+1730 Ochtrup
+1731 Gronau (Westf)
+1732 Havixbeck
+1733 Billerbeck
+1734 Lutum
+1735 Coesfeld (Westf)
+1736 Münster-Amelsbüren
+1737 Davensberg
+1738 Ascheberg (Westf)
+1739 Capelle (Westf)
+1740 Werne (a d Lippe)
+1741 Lünen Hbf
+1742 Preußen
+1743 Dortmund-Derne
+1744 Dortmund-Kirchderne
+1745 Dortmund Hbf
+1746 Bork (Westf)
+1747 Selm-Beifang
+1748 Selm (Kr Lüdinghausen)
+1749 Lüdinghausen
+1750 Dülmen
+1751 Lette (Kr Coesfeld)
+1752 Rosendahl-Holtwick
+1753 Legden
+1754 Ahaus
+1755 Epe (Westf)
+1756 Köln Hbf
+1757 Köln Messe/Deutz
+1758 Köln-Mülheim
+1759 Leverkusen Mitte
+1760 Düsseldorf-Benrath
+1761 Düsseldorf Hbf
+1762 Düsseldorf Flughafen
+1763 Duisburg Hbf
+1764 Mülheim (Ruhr) Hbf
+1765 Essen Hbf
+1766 Essen-Kray Süd
+1767 Wattenscheid
+1768 Bochum Hbf
+1769 Dortmund-Scharnhorst
+1770 Dortmund-Kurl
+1771 Kamen-Methler
+1772 Kamen
+1773 Nordbögge
+1774 Oberhausen Hbf
+1775 Essen-Altenessen
+1776 Gelsenkirchen Hbf
+1777 Wanne-Eickel Hbf
+1778 Herne
+1779 Castrop-Rauxel Hbf
+1780 Dortmund-Mengede
+1781 Emmerich
+1782 Praest
+1783 Millingen (Kr Rees)
+1784 Empel-Rees
+1785 Haldern (Rheinl)
+1786 Mehrhoog
+1787 Wesel-Feldmark
+1788 Wesel
+1789 Friedrichsfeld (Niederrhein)
+1790 Voerde (Niederrhein)
+1791 Dinslaken
+1792 Oberhausen-Holten
+1793 Oberhausen-Sterkrade
+1794 Blumenkamp
+1795 Hamminkeln
+1796 Dingden
+1797 Bocholt
+1798 Borken (Westf)
+1799 Marbeck-Heiden
+1800 Rhade
+1801 Deuten
+1802 Hervest-Dorsten
+1803 Dorsten
+1804 Feldhausen
+1805 Gladbeck-Zweckel
+1806 Gladbeck West
+1807 Bottrop-Boy
+1808 Bottrop Hbf
+1809 Essen-Borbeck
+1810 Wulfen (Westf)
+1811 Lembeck
+1812 Reken
+1813 Maria-Veen
+1814 Mönchengladbach Hbf
+1815 Viersen
+1816 Anrath
+1817 Forsthaus
+1818 Krefeld Hbf
+1819 Krefeld-Oppum
+1820 Krefeld-Linn
+1821 Krefeld-Uerdingen
+1822 Hohenbudberg Bayerwerk
+1823 Rheinhausen
+1824 Rheinhausen Ost
+1825 Duisburg-Hochfeld Süd
+1826 Recklinghausen Süd
+1827 Recklinghausen Hbf
+1828 Marl-Sinsen
+1829 Haltern am See
+1830 Sythen
+1831 Buldern
+1832 Nottuln-Appelhülsen
+1833 Bösensell
+1834 Münster-Albachten
+1835 Gladbeck Ost
+1836 Gelsenkirchen-Buer Süd
+1837 Gelsenkirchen Zoo
+1838 Herne-Börnig
+1839 Castrop-Rauxel Süd
+1840 Castrop-Rauxel-Merklinde
+1841 Dortmund-Bövinghausen
+1842 Dortmund-Lütgendortmund Nord
+1843 Dortmund-Marten
+1844 Dortmund-Rahm
+1845 Dortmund-Huckarde Nord
+1846 Dortmund-Barop
+1847 Dortmund-Kruckel
+1848 Witten-Annen Nord
+1849 Witten Hbf
+1850 Wetter (Ruhr)
+1851 Hagen-Vorhalle
+1852 Hagen Hbf
+1853 Bochum NOKIA
+1854 Bochum-Hamme
+1855 Bochum West
+1856 Welver
+1857 Borgeln
+1858 Soest
+1859 Bad Sassendorf
+1860 Lippstadt
+1861 Dedinghausen
+1862 Ehringhausen (Kr Lippstadt)
+1863 Geseke
+1864 Salzkotten
+1865 Scharmede
+1866 Willebadessen
+1867 Warburg (Westf)
+1868 Liebenau (Bz Kassel)
+1869 Hofgeismar-Hümme
+1870 Hofgeismar
+1871 Grebenstein
+1872 Immenhausen (Hess)
+1873 Espenau-Mönchehof
+1874 Vellmar-Obervellmar
+1875 Kassel-Harleshausen
+1876 Kassel Hbf
+1877 Kassel-Wilhelmshöhe
+1878 Dortmund Signal-Iduna-Park
+1879 Dortmund-Hörde
+1880 Dortmund-Aplerbeck
+1881 Dortmund-Sölde
+1882 Holzwickede
+1883 Unna
+1884 Lünern
+1885 Hemmerde
+1886 Werl
+1887 Westönnen
+1888 Dortmund-Aplerbeck Süd
+1889 Schwerte (Ruhr)
+1890 Ergste
+1891 Hennen
+1892 Kalthof (Kr Iserlohn)
+1893 Iserlohnerheide
+1894 Iserlohn
+1895 Dortmund-Tierpark
+1896 Dortmund-Kirchhörde
+1897 Dortmund-Löttringhausen
+1898 Wittbräucke
+1899 Herdecke
+1900 Hagen-Oberhagen
+1901 Dahl
+1902 Rummenohl
+1903 Dahlerbrück
+1904 Schalksmühle
+1905 Brügge (Westf)
+1906 Lüdenscheid
+1907 Fröndenberg
+1908 Wickede (Ruhr)
+1909 Neheim-Hüsten
+1910 Arnsberg (Westf)
+1911 Oeventrop
+1912 Freienohl
+1913 Meschede
+1914 Bestwig
+1915 Olsberg
+1916 Brilon Wald
+1917 Hoppecke
+1918 Messinghausen
+1919 Beringhausen
+1920 Bredelar
+1921 Marsberg
+1922 Westheim (Westf)
+1923 Scherfede
+1924 Frömern
+1925 Ardey
+1926 Bösperde
+1927 Menden (Sauerland)
+1928 Menden (Sauerland) Süd
+1929 Lendringsen
+1930 Binolen
+1931 Volkringhausen
+1932 Sanssouci
+1933 Balve
+1934 Garbeck
+1935 Küntrop
+1936 Neuenrade
+1937 Bigge
+1938 Siedlinghausen
+1939 Silbach
+1940 Hohenlimburg
+1941 Letmathe
+1942 Letmathe-Dechenhöhle
+1943 Finnentrop
+1944 Heggen
+1945 Attendorn
+1946 Kraghammer
+1947 Listerscheid
+1948 Sondern
+1949 Eichhagen
+1950 Olpe
+1951 Siegen
+1952 Siegen-Weidenau
+1953 Hüttental-Geisweid
+1954 Kreuztal
+1955 Ferndorf (Kr Siegen)
+1956 Kredenbach
+1957 Dahlbruch
+1958 Hillnhütten
+1959 Stift Keppel-Allenbach
+1960 Hilchenbach
+1961 Vormwald Dorf
+1962 Vormwald
+1963 Lützel
+1964 Erndtebrück
+1965 Birkelbach
+1966 Aue-Wingeshausen
+1967 Berghausen
+1968 Raumland-Markhausen
+1969 Bad Berleburg
+1970 Rudersdorf (Kr Siegen)
+1971 Dillbrecht
+1972 Rodenbach (Dillkr)
+1973 Haiger
+1974 Sechshelden
+1975 Dillenburg
+1976 Niederscheld (Dillkr) Süd
+1977 Burg (Dillkr) Nord
+1978 Herborn (Dillkr)
+1979 Sinn
+1980 Edingen (Kr Wetzlar)
+1981 Katzenfurt
+1982 Ehringshausen (Kr Wetzlar)
+1983 Werdorf
+1984 Aßlar
+1985 Wetzlar
+1986 Dutenhofen (Kr Wetzlar)
+1987 Gießen
+1988 Duisburg-Obermeiderich
+1989 Duisburg-Meiderich Ost
+1990 Duisburg-Meiderich Süd
+1991 Duisburg-Ruhrort
+1992 Duisburg-Wedau
+1993 Duisburg-Bissingheim
+1994 Duisburg-Entenfang
+1995 Solingen Hbf
+1996 Solingen Vogelpark
+1997 Hilden Süd
+1998 Hilden
+1999 Düsseldorf-Eller
+2000 Düsseldorf-Eller Mitte
+2001 Düsseldorf-Oberbilk
+2002 Düsseldorf Volksgarten
+2003 Düsseldorf Wehrhahn
+2004 Düsseldorf Zoo
+2005 Düsseldorf-Derendorf
+2006 Düsseldorf-Unterrath
+2007 Angermund
+2008 Duisburg-Rahm
+2009 Duisburg-Großenbaum
+2010 Duisburg-Buchholz
+2011 Duisburg Schlenk
+2012 Mülheim (Ruhr)-Styrum
+2013 Essen-Frohnhausen
+2014 Essen West
+2015 Essen-Steele
+2016 Essen-Steele Ost
+2017 Essen-Eiberg
+2018 Wattenscheid-Höntrop
+2019 Bochum-Ehrenfeld
+2020 Bochum-Langendreer West
+2021 Bochum-Langendreer
+2022 Dortmund-Kley
+2023 Dortmund-Oespel
+2024 Dortmund-Universität
+2025 Dortmund-Dorstfeld Süd
+2026 Dortmund-Dorstfeld
+2027 Düsseldorf-Friedrichstadt
+2028 Düsseldorf-Bilk
+2029 Düsseldorf Völklinger Straße
+2030 Düsseldorf-Hamm
+2031 Neuss Rheinpark-Center
+2032 Neuss Am Kaiser
+2033 Neuss Hbf
+2034 Neuss Süd
+2035 Norf
+2036 Neuss Allerheiligen
+2037 Nievenheim
+2038 Dormagen
+2039 Dormagen Bayerwerk
+2040 Köln-Worringen
+2041 Köln-Blumenberg
+2042 Köln-Chorweiler Nord
+2043 Köln-Chorweiler
+2044 Köln Volkhovener Weg
+2045 Köln-Longerich
+2046 Köln Geldernstr/Parkgürtel
+2047 Köln-Nippes
+2048 Köln Hansaring
+2049 Köln-Buchforst
+2050 Köln-Holweide
+2051 Köln-Dellbrück
+2052 Duckterath
+2053 Bergisch Gladbach
+2054 Düren
+2055 Merzenich
+2056 Buir
+2057 Sindorf
+2058 Horrem
+2059 Frechen-Königsdorf
+2060 Köln-Weiden West
+2061 Lövenich
+2062 Köln-Müngersdorf Technologiepark
+2063 Köln-Ehrenfeld
+2064 Köln Trimbornstrasse
+2065 Köln Airport-Businesspark
+2066 Köln Steinstraße
+2067 Porz (Rhein)
+2068 Porz-Wahn
+2069 Spich
+2070 Troisdorf
+2071 Siegburg/Bonn
+2072 Hennef (Sieg)
+2073 Blankenberg (Sieg)
+2074 Merten (Sieg)
+2075 Eitorf
+2076 Herchen
+2077 Dattenfeld (Sieg)
+2078 Schladern (Sieg)
+2079 Rosbach (Sieg)
+2080 Au (Sieg)
+2081 Köln Frankfurter Straße
+2082 Köln/Bonn Flughafen
+2083 Essen-Dellwig
+2084 Essen-Bergeborbeck
+2085 Essen-Katernberg Süd
+2086 Dortmund-Nette/Östrich
+2087 Dortmund-Westerfilde
+2088 Dortmund-Huckarde
+2089 Dortmund-Wischlingen
+2090 Düsseldorf-Flingern
+2091 Düsseldorf-Gerresheim
+2092 Mülheim (Ruhr) West
+2093 Essen-Horst
+2094 Bochum-Dahlhausen
+2095 Hattingen (Ruhr)
+2096 Hattingen (Ruhr) Mitte
+2097 Dortmund-Lütgendortmund
+2098 Dortmund-Somborn
+2099 Dortmund-Germania
+2100 Dortmund-Marten Süd
+2101 Dortmund-West
+2102 Dortmund-Möllerbrücke
+2103 Dortmund-Stadthaus
+2104 Dortmund-Körne West
+2105 Dortmund-Körne
+2106 Dortmund-Knappschaftskrankenhaus
+2107 Dortmund-Brackel
+2108 Dortmund-Asseln Mitte
+2109 Dortmund-Wickede West
+2110 Dortmund-Wickede
+2111 Massen
+2112 Unna-Königsborn
+2113 Unna-West
+2114 Köln-Stammheim
+2115 Bayerwerk
+2116 Leverkusen-Küppersteg
+2117 Leverkusen-Rheindorf
+2118 Langenfeld (Rheinl)
+2119 Langenfeld (Rheinl)-Berghausen
+2120 Düsseldorf-Hellerhof
+2121 Düsseldorf-Garath
+2122 Düsseldorf-Reisholz
+2123 Düsseldorf-Eller Süd
+2124 Düsseldorf-Rath Mitte
+2125 Düsseldorf-Rath
+2126 Ratingen Ost
+2127 Hösel
+2128 Kettwig Stausee
+2129 Kettwig
+2130 Essen-Werden
+2131 Essen-Hügel
+2132 Essen Stadtwald
+2133 Essen Süd
+2134 Hagen-Wehringhausen
+2135 Hagen-Heubing
+2136 Hagen-Westerbauer
+2137 Gevelsberg-Knapp
+2138 Gevelsberg Hbf
+2139 Gevelsberg-Kipp
+2140 Gevelsberg West
+2141 Schwelm
+2142 Schwelm West
+2143 Wuppertal-Langerfeld
+2144 Wuppertal-Oberbarmen
+2145 Wuppertal-Barmen
+2146 Wuppertal-Unterbarmen
+2147 Wuppertal Hbf
+2148 Wuppertal-Steinbeck
+2149 Wuppertal Zoologischer Garten
+2150 Wuppertal-Sonnborn
+2151 Wuppertal-Vohwinkel
+2152 Gruiten
+2153 Hochdahl-Millrath
+2154 Hochdahl
+2155 Erkrath
+2156 Büttgen
+2157 Kleinenbroich
+2158 Korschenbroich
+2159 Mönchengladbach-Lürrip
+2160 Marl-Hamm
+2161 Marl Mitte
+2162 Gelsenkirchen-Hassel
+2163 Gelsenkirchen-Buer Nord
+2164 Essen-Dellwig Ost
+2165 Essen-Gerschede
+2166 Essen-Borbeck Süd
+2167 Essen-Überruhr
+2168 Essen-Holthausen
+2169 Essen-Kupferdreh
+2170 Nierenhof
+2171 Velbert-Langenberg
+2172 Velbert-Neviges
+2173 Velbert-Rosenhügel
+2174 Wülfrath-Aprath
+2175 Leverkusen-Schlebusch
+2176 Opladen
+2177 Leichlingen
+2178 Haan
+2179 Ennepetal
+2180 Bönen
+2181 Bockum-Hövel
+2182 Mersch (Westf)
+2183 Drensteinfurt
+2184 Rinkerode
+2185 Münster-Hiltrup
+2186 Wuppertal-Ronsdorf
+2187 Remscheid-Lüttringhausen
+2188 Remscheid-Lennep
+2189 Remscheid Hbf
+2190 Remscheid-Güldenwerth
+2191 Solingen-Schaberg
+2192 Solingen-Mitte
+2193 Solingen-Grünewald
+2194 Rösrath-Stümpen
+2195 Rösrath
+2196 Hoffnungsthal
+2197 Honrath
+2198 Overath
+2199 Engelskirchen
+2200 Ründeroth
+2201 Dieringhausen
+2202 Gummersbach
+2203 Marienheide
+2204 Etzbach
+2205 Wissen (Sieg)
+2206 Niederhövels
+2207 Scheuerfeld (Sieg)
+2208 Betzdorf (Sieg)
+2209 Kirchen
+2210 Freusburg Siedlung
+2211 Brachbach
+2212 Mudersbach
+2213 Niederschelden
+2214 Niederschelden Nord Hp
+2215 Eiserfeld (Sieg)
+2216 Geilhausen
+2217 Hohegrete
+2218 Breitscheidt (Kr Altenkirchen)
+2219 Kloster Marienthal
+2220 Obererbach
+2221 Altenkirchen (Westerw)
+2222 Ingelbach
+2223 Hattert
+2224 Hachenburg
+2225 Unnau-Korb
+2226 Nistertal-Bad Marienberg
+2227 Büdingen
+2228 Enspel
+2229 Rotenhain
+2230 Langenhahn
+2231 Westerburg
+2232 Willmenrod
+2233 Berzhahn
+2234 Wilsenroth
+2235 Frickhofen
+2236 Niederzeuzheim
+2237 Hadamar
+2238 Niederhadamar
+2239 Elz (Kr Limburg/Lahn)
+2240 Staffel
+2241 Diez Ost
+2242 Limburg (Lahn)
+2243 Grünebacher Hütte
+2244 Grünebach Ort
+2245 Sassenroth
+2246 Königsstollen
+2247 Herdorf
+2248 Struthütten
+2249 Altenseelbach
+2250 Neunkirchen (Kr Siegen)
+2251 Wahlbach (Kr Siegen)
+2252 Burbach (Kr Siegen)
+2253 Würgendorf Ort
+2254 Würgendorf
+2255 Holzhausen (Kr Siegen)
+2256 Niederdresselndorf
+2257 Allendorf (Dillkr)
+2258 Haiger Obertor
+2259 Rheydt Hbf
+2260 Rheydt-Odenkirchen
+2261 Hochneukirch
+2262 Jüchen
+2263 Grevenbroich
+2264 Rommerskirchen
+2265 Stommeln
+2266 Pulheim
+2267 Friedrich Wilhelmshütte
+2268 Menden (Rheinl)
+2269 Bonn-Beuel
+2270 Bonn-Oberkassel
+2271 Niederdollendorf
+2272 Königswinter
+2273 Rhöndorf
+2274 Bad Honnef (Rhein)
+2275 Unkel
+2276 Erpel (Rhein)
+2277 Linz (Rhein)
+2278 Leubsdorf (Rhein)
+2279 Bad Hönningen
+2280 Rheinbrohl
+2281 Leutesdorf (Rhein)
+2282 Neuwied
+2283 Urmitz Rheinbrücke
+2284 Koblenz-Lützel
+2285 Koblenz Hbf
+2286 Niederlahnstein
+2287 Oberlahnstein
+2288 Braubach
+2289 Osterspai
+2290 Filsen
+2291 Kamp-Bornhofen
+2292 Kestert
+2293 St. Goarshausen
+2294 Kaub
+2295 Lorchhausen
+2296 Lorch (Rhein)
+2297 Assmannshausen
+2298 Rüdesheim (Rhein)
+2299 Geisenheim
+2300 Oestrich-Winkel
+2301 Hattenheim
+2302 Erbach (Rheingau)
+2303 Eltville
+2304 Niederwalluf
+2305 Wiesbaden-Schierstein
+2306 Wiesbaden-Biebrich
+2307 Wiesbaden Hbf
+2308 Köln West
+2309 Köln Süd
+2310 Hürth-Kalscheuren
+2311 Brühl
+2312 Sechtem
+2313 Roisdorf
+2314 Bonn Hbf
+2315 Bonn-Bad Godesberg
+2316 Bonn-Mehlem
+2317 Rolandseck
+2318 Oberwinter
+2319 Remagen
+2320 Sinzig (Rhein)
+2321 Bad Breisig
+2322 Brohl
+2323 Namedy
+2324 Andernach
+2325 Weißenthurm
+2326 Urmitz
+2327 Rhens
+2328 Spay
+2329 Boppard Hbf
+2330 Boppard-Bad Salzig
+2331 Boppard-Hirzenach
+2332 St. Goar
+2333 Oberwesel
+2334 Bacharach
+2335 Niederheimbach
+2336 Trechtingshausen
+2337 Bingen (Rhein) Hbf
+2338 Bingen (Rhein) Stadt
+2339 Bingen-Gaulsheim
+2340 Gau Algesheim
+2341 Ingelheim
+2342 Heidesheim (Rheinhess)
+2343 Uhlerborn
+2344 Budenheim
+2345 Mainz-Mombach
+2346 Mainz Hbf
+2347 Mainz Römisches Theater
+2348 Mainz-Bischofsheim
+2349 Rüsselsheim
+2350 Frankfurt (Main) Flughafen Regionalbahnhof
+2351 Frankfurt (Main) Niederrad
+2352 Frankfurt (Main) Hbf
+2353 Kierberg
+2354 Erftstadt
+2355 Weilerswist
+2356 Derkum
+2357 Großbüllesheim
+2358 Euskirchen
+2359 Satzvey
+2360 Mechernich
+2361 Scheven
+2362 Kall
+2363 Urft
+2364 Nettersheim
+2365 Blankenheim (Wald)
+2366 Schmidtheim
+2367 Dahlem (Eifel)
+2368 Jünkerath
+2369 Lissendorf
+2370 Oberbettingen-Hillesheim
+2371 Gerolstein
+2372 Birresborn
+2373 Mürlenbach
+2374 Densborn
+2375 Usch-Zendscheid
+2376 St. Thomas
+2377 Kyllburg
+2378 Bitburg-Erdorf
+2379 Hüttingen
+2380 Philippsheim
+2381 Speicher
+2382 Auw an der Kyll
+2383 Daufenbach
+2384 Kordel
+2385 Ehrang
+2386 Pfalzel
+2387 Trier Hbf
+2388 Bad Münstereifel
+2389 Iversheim
+2390 Arloff
+2391 Kreuzweingarten
+2392 Stotzheim
+2393 Zuckerfabrik
+2394 Kuchenheim
+2395 Odendorf
+2396 Rheinbach
+2397 Meckenheim (Bz Köln)
+2398 Meckenheim Industriepark
+2399 Kottenforst
+2400 Witterschlick
+2401 Bonn-Duisdorf
+2402 Ahrbrück
+2403 Kreuzberg (Ahr)
+2404 Altenahr
+2405 Mayschoß
+2406 Rech
+2407 Dernau
+2408 Walporzheim
+2409 Ahrweiler Markt
+2410 Ahrweiler
+2411 Bad Neuenahr
+2412 Heimersheim
+2413 Bad Bodendorf
+2414 Kaisersesch
+2415 Urmersbach
+2416 Monreal
+2417 Mayen West
+2418 Mayen Ost
+2419 Kottenheim
+2420 Mendig
+2421 Kruft
+2422 Plaidt
+2423 Miesenheim
+2424 Boppard Süd
+2425 Boppard-Buchholz
+2426 Boppard-Fleckertshöhe
+2427 Ehr
+2428 Emmelshausen
+2429 Aachen Hbf
+2430 Aachen-Rothe Erde
+2431 Eilendorf
+2432 Stolberg (Rheinl) Hbf
+2433 Eschweiler Hbf
+2434 Langerwehe
+2435 Quadrath-Ichendorf
+2436 Bergheim (Erft)
+2437 Zieverich
+2438 Paffendorf
+2439 Glesch
+2440 Bedburg (Erft)
+2441 Frimmersdorf
+2442 Gustorf
+2443 Kapellen-Wevelinghoven
+2444 Holzheim (b Neuss)
+2445 Herzogenrath
+2446 Kohlscheid
+2447 Aachen West
+2448 Aachen Schanz
+2449 Kaldenkirchen
+2450 Breyell
+2451 Boisheim
+2452 Dülken
+2453 Mönchengladbach-Rheindahlen
+2454 Mönchengladbach-Genhausen
+2455 Wegberg
+2456 Arsbeck
+2457 Dalheim
+2458 Kleve
+2459 Bedburg-Hau
+2460 Goch
+2461 Weeze
+2462 Kevelaer
+2463 Geldern
+2464 Nieukerk
+2465 Aldekerk
+2466 Kempen (Niederrhein)
+2467 Meerbusch-Osterath
+2468 Nünchritz
+2469 Glaubitz (b Riesa)
+2470 Riesa
+2471 Oschatz
+2472 Dahlen (Sachs)
+2473 Kühren
+2474 Wurzen
+2475 Engelsdorf
+2476 Leipzig Ost
+2477 Leipzig Sellerhausen
+2478 Leipzig Anger-Crottendorf
+2479 Leipzig-Stötteritz
+2480 Leipzig-Völkerschlachtdenkmal
+2481 Leipzig Marienbrunn
+2482 Leipzig-Connewitz
+2483 Markkleeberg
+2484 Markkleeberg-Großstädteln
+2485 Gaschwitz
+2486 Großdeuben
+2487 Böhlen (b Leipzig)
+2488 Böhlen Werke
+2489 Neukieritzsch
+2490 Lobstädt
+2491 Borna (b Leipzig)
+2492 Oschatz Lichtstrasse
+2493 Oschatz Körnerstr.
+2494 Oschatz Südbf
+2495 Altoschatz-Rosenthal
+2496 Thalheim-Kreischa
+2497 Naundorf (Oschatz)
+2498 Schweta Gasthof
+2499 Schweta Bahnhof
+2500 Grauschwitz Flocke
+2501 Mügeln Bahnhof
+2502 Mügeln Stadt
+2503 Altmügeln
+2504 Nebitzschen
+2505 Kemmlitz Ort
+2506 Kemmlitz Bahnhof
+2507 Glossen
+2508 Brandis
+2509 Beucha Ost
+2510 Beucha
+2511 Borsdorf (Sachs)
+2512 Leipzig-Paunsdorf
+2513 Leipzig-Gohlis
+2514 Leipzig-Olbrichtstraße
+2515 Leipzig-Slevogtstraße
+2516 Leipzig-Wahren Hp
+2517 Lützschena
+2518 Schkeuditz
+2519 Schkeuditz West
+2520 Großkugel
+2521 Gröbers
+2522 Dieskau
+2523 Halle MESSE
+2524 Miltitz-Roitzschen
+2525 Deutschenbora
+2526 Nossen
+2527 Gleisberg-Marbach
+2528 Roßwein
+2529 Niederstriegis
+2530 Döbeln Zentrum
+2531 Döbeln Hbf
+2532 Westewitz-Hochweitzschen
+2533 Klosterbuch
+2534 Leisnig
+2535 Tanndorf
+2536 Großbothen
+2537 Grimma ob Bf
+2538 Großsteinberg
+2539 Naunhof
+2540 Weisses Ross
+2541 Lössnitzgrund
+2542 Friedewald (Kr Dresden)Hp
+2543 Friedewald (Kr Dresden) Bad
+2544 Moritzburg
+2545 Cunnertswalde
+2546 Bärnsdorf
+2547 Berbisdorf
+2548 Berbisdorf Anbau
+2549 Radeburg
+2550 Dresden-Plauen
+2551 Freital-Potschappel
+2552 Freital-Deuben
+2553 Freital-Hainsberg
+2554 Freital-Hainsberg West
+2555 Tharandt
+2556 Edle Krone
+2557 Klingenberg-Colmnitz
+2558 Niederbobritzsch
+2559 Muldenhütten
+2560 Freiberg (Sachs)
+2561 Kleinschirma
+2562 Frankenstein (Sachs)
+2563 Oederan
+2564 Falkenau (Sachs) Süd
+2565 Flöha
+2566 Niederwiesa
+2567 Chemnitz-Hilbersdorf Hp
+2568 Chemnitz Hbf
+2569 Chemnitz Süd
+2570 Chemnitz Mitte
+2571 Chemnitz-Schönau
+2572 Chemnitz-Siegmar
+2573 Grüna (Sachs)
+2574 Wüstenbrand
+2575 Hohenstein-Ernstthal
+2576 St Egidien
+2577 Glauchau (Sachs)
+2578 Glauchau-Schönbörnchen
+2579 Mosel
+2580 Oberrothenbach
+2581 Zwickau-Pölbitz
+2582 Zwickau (Sachs) Hbf
+2583 Berthelsdorf (Erzgeb)
+2584 Berthelsdorf (Erzgebirge) Ort
+2585 Lichtenberg (Erzgeb)
+2586 Mulda (Sachs)
+2587 Nassau (Erzgeb)
+2588 Clausnitz
+2589 Bienenmühle
+2590 Rechenberg
+2591 Holzhau Skilift
+2592 Holzhau
+2593 Erdmannsdorf-Augustusburg
+2594 Hennersdorf (Sachs)
+2595 Witzschdorf
+2596 Waldkirchen (Erzgeb)
+2597 Zschopau
+2598 Wilischthal
+2599 Scharfenstein
+2600 Warmbad
+2601 Wolkenstein
+2602 Thermalbad Wiesenbad
+2603 Wiesa (Erzgebirge)
+2604 Annaberg-Buchholz unt Bf
+2605 Annaberg-Buchholz Mitte
+2606 Annaberg-Buchholz Süd
+2607 Sehma
+2608 Cranzahl
+2609 Bärenstein (Annab)
+2610 Vejprty
+2611 Unterneudorf
+2612 Neudorf (Erzgeb)
+2613 Vierenstrasse
+2614 Kretscham-Rothensehma
+2615 Niederschlag
+2616 Hammerunterwiesenthal
+2617 Unterwiesenthal
+2618 Kurort Oberwiesenthal
+2619 Falkenau (Sachs) Hp
+2620 Hetzdorf (Flöhatal)
+2621 Hohenfichte
+2622 Leubsdorf (Sachs)
+2623 Grünhainichen-Borstendorf
+2624 Flossmühle
+2625 Reifland-Wünschendorf
+2626 Lengefeld-Rauenstein
+2627 Pockau-Lengefeld
+2628 Nennigmühle
+2629 Blumenau
+2630 Olbernhau
+2631 Olbernhau-Grünthal
+2632 Olbernhau Busbahnhof
+2633 Oberneuschönberg
+2634 Heidersdorf Gasthaus Flöhatal
+2635 Heidersdorf Rathaus
+2636 Seiffen (Erzgeb)
+2637 Seiffen (Erzgeb) Schauwerkstatt
+2638 Seiffen (Erzgeb) Dittersbach Ga
+2639 Neuhausen (Erzgeb)
+2640 Strobelmühle
+2641 Zöblitz-Pobershau
+2642 Marienberg (Sachs)
+2643 Chemnitz Kinderwaldstätte
+2644 Oberlichtenau
+2645 Ottendorf (b Mittweida)
+2646 Altmittweida
+2647 Mittweida
+2648 Erlau (Sachs)
+2649 Schweikershain
+2650 Waldheim
+2651 Steina
+2652 Limmritz (Sachs)
+2653 Zschaitz
+2654 Ostrau
+2655 Stauchitz
+2656 Seerhausen
+2657 Zeithain
+2658 Wülknitz
+2659 Tiefenau
+2660 Gröditz (b Riesa)
+2661 Prösen West
+2662 Prösen
+2663 Chemnitz Schillerplatz
+2664 Chemnitz Theaterplatz
+2665 Chemnitz Roter Turm
+2666 Chemnitz Zentralhaltestelle
+2667 Chemnitz Moritzhof
+2668 Chemnitz Gustav-Freytag-Strass
+2669 Chemnitz Treffurthstrasse
+2670 Chemnitz Rösslerstrasse
+2671 Chemnitz Erdmannsdorfer Strass
+2672 Chemnitz Uhlestrasse
+2673 Chemnitz Scheffel-/Annaberger
+2674 Chemnitz Schule Altchemnitz
+2675 Chemnitz Alt Chemnitz Center
+2676 Chemnitz Schneeberger Strasse
+2677 Chemnitz-Altchemnitz
+2678 Chemnitz Riemenschneiderstrass
+2679 Chemnitz-Harthau
+2680 Chemnitz Friedrichstrasse
+2681 Klaffenbach Hp
+2682 Neukirchen-Klaffenbach
+2683 Adorf (Erzgeb)
+2684 Jahnsdorf (Erzgeb)
+2685 Pfaffenhain
+2686 Niederdorf (Erzgeb)
+2687 Stollberg Schlachthofstrasse
+2688 Stollberg (Sachs)
+2689 Lichtenstein Gewerbegebiet
+2690 Lichtenstein Ernst-Schneller-S
+2691 Lichtenstein (Sachs)
+2692 Lichtenstein Hartensteiner Str
+2693 Rödlitz-Hohndorf
+2694 Hohndorf Mitte
+2695 Oelsnitz (Erzgeb)
+2696 Oelsnitz Bahnhofstraße
+2697 Mitteloelsnitz
+2698 Neuoelsnitz
+2699 Niederwürschnitz
+2700 Chemnitz-Reichenhain
+2701 Chemnitz Erfenschlag
+2702 Einsiedel Hp Gymnasium
+2703 Einsiedel
+2704 Dittersdorf
+2705 Kemtau
+2706 Burkhardtsdorf
+2707 Burkhardtsdorf Mitte
+2708 Meinersdorf (Erzgeb)
+2709 Thalheim (Erzgeb)
+2710 Dorfchemnitz
+2711 Zwönitz
+2712 Lössnitz ob Bf
+2713 Lössnitz unt Bf
+2714 Aue (Sachs) Erzgebirgsstadion
+2715 Aue (Sachs)
+2716 Engelsdorf Werkstätten
+2717 Leipzig-Mölkau
+2718 Leipzig-Holzhausen
+2719 Leipzig-Liebertwolkwitz
+2720 Großpösna
+2721 Oberholz
+2722 Belgershain
+2723 Otterwisch
+2724 Lauterbach-Steinbach
+2725 Bad Lausick
+2726 Hopfgarten (Sachs)
+2727 Tautenhain
+2728 Geithain
+2729 Narsdorf
+2730 Burgstädt
+2731 Wittgensdorf ob Bf
+2732 Wittgensdorf Mitte
+2733 Chemnitz-Borna Hp
+2734 Petergrube
+2735 Neukirchen-Wyhra
+2736 Frohburg
+2737 Deutzen
+2738 Regis-Breitingen
+2739 Treben-Lehma
+2740 Altenburg
+2741 Paditz
+2742 Lehndorf (Kr Altenburg)
+2743 Gößnitz
+2744 Ponitz
+2745 Crimmitschau
+2746 Schweinsburg-Culten
+2747 Werdau Nord
+2748 Werdau
+2749 Neumark (Sachs)
+2750 Steinpleis
+2751 Lichtentanne (Sachs)
+2752 Zwickau-Schedewitz
+2753 Cainsdorf
+2754 Wilkau-Hasslau
+2755 Silberstrasse
+2756 Wiesenburg (Sachs)
+2757 Fährbrücke
+2758 Hartenstein
+2759 Schlema unt Bf
+2760 Lauter (Sachs)
+2761 Schwarzenberg-Neuwelt
+2762 Schwarzenberg (Erzg)
+2763 Schwarzenberg Hp
+2764 Erla
+2765 Antonsthal
+2766 Breitenbrunn (Erzg)
+2767 Erlabrunn (Erzgeb)
+2768 Johanngeorgenstadt
+2769 Zwickau Zentrum
+2770 Zwickau Stadthalle
+2771 Stenn
+2772 Ebersbrunn
+2773 Voigtsgrün
+2774 Irfersgrün
+2775 Lengenfeld (Vogtl)
+2776 Rodewisch
+2777 Auerbach (Vogtl) unt Bf
+2778 Ellefeld
+2779 Falkenstein (Vogtl)
+2780 Plauen (Vogtl) ob Bf
+2781 Jößnitz
+2782 Jocketa
+2783 Ruppertsgrün
+2784 Herlasgrün
+2785 Treuen
+2786 Eich (Sachs)
+2787 Auerbach (Vogtl) ob Bf
+2788 Auerbach (Vogtl) Hp
+2789 Grünbach (Vogtl)
+2790 Muldenberg
+2791 Muldenberg Floßplatz
+2792 Schöneck (Vogtl)
+2793 Schöneck (Vogtl) Ferienpark
+2794 Zwotental
+2795 Gunzen
+2796 Siebenbrunn
+2797 Adorf (Vogtl)
+2798 Zwota-Zechenbach
+2799 Zwota
+2800 Klingenthal
+2801 Kraslice-Pod vlekem
+2802 Kraslice
+2803 Meerane
+2804 Dennheritz
+2805 Gera Hbf
+2806 Gera Süd
+2807 Gera Ost
+2808 Gera-Liebschwitz
+2809 Wünschendorf (Elster) Nord
+2810 Wünschendorf (Elster)
+2811 Berga (Elster)
+2812 Neumühle (Elster)
+2813 Greiz
+2814 Greiz-Dölau
+2815 Elsterberg
+2816 Elsterberg Kunstseidenwerk
+2817 Rentzschmühle
+2818 Barthmühle
+2819 Plauen (Vogtl)-Chrieschwitz
+2820 Plauen (Vogtl) unt Bf
+2821 Plauen (Vogtl) Zellwolle
+2822 Kürbitz
+2823 Weischlitz
+2824 Schönberg (Vogtl)
+2825 Mühltroff
+2826 Langenbuch
+2827 Lössau
+2828 Wüstendittersdorf
+2829 Schleiz
+2830 Schleiz West
+2831 Reichenbach (Vogtl) ob Bf
+2832 Netzschkau
+2833 Limbach (Vogtl)
+2834 Syrau
+2835 Mehltheuer
+2836 Reuth (b Plauen/Vogtl)
+2837 Grobau
+2838 Gutenfürst
+2839 Feilitzsch
+2840 Hof Hbf
+2841 Plauen (Vogtl) West
+2842 Plauen (Vogtl)-Straßberg
+2843 Pirk
+2844 Oelsnitz (Vogtl)
+2845 Hundsgrün
+2846 Bad Elster
+2847 Sohl
+2848 Raun
+2849 Bad Brambach
+2850 Vojtanov státní hranice
+2851 Gera-Zwötzen
+2852 Wolfsgefärth
+2853 Weida
+2854 Weida Mitte
+2855 Weida Altstadt
+2856 Loitsch-Hohenleuben
+2857 Schüptitz
+2858 Hohenleuben
+2859 Triebes
+2860 Zeulenroda unt Bf
+2861 Pöllwitz
+2862 Pausa
+2863 Bernsgrün
+2864 Leipzig-Möckern
+2865 Leipzig-Plagwitz
+2866 Leipzig-Großzschocher
+2867 Leipzig-Knauthain
+2868 Knautnaundorf
+2869 Groß Dalzig
+2870 Pegau
+2871 Profen
+2872 Reuden (Kr Zeitz)
+2873 Bornitz (b Zeitz)
+2874 Zeitz
+2875 Haynsburg
+2876 Wetterzeube
+2877 Crossen Ort
+2878 Crossen a. d. Elster
+2879 Bad Köstritz
+2880 Gera-Langenberg
+2881 Weißenfels
+2882 Weißenfels West
+2883 Langendorf
+2884 Prittitz
+2885 Teuchern
+2886 Deuben (b Zeitz)
+2887 Luckenau
+2888 Theißen
+2889 Naumburg (Saale) Hbf
+2890 Naumburg (Saale) Ost
+2891 Wethau
+2892 Mertendorf
+2893 Stößen
+2894 Krauschwitz (b Teuchern)
+2895 Saalfeld (Saale)
+2896 Unterwellenborn
+2897 Könitz (Thür)
+2898 Krölpa-Ranis
+2899 Pößneck ob Bf
+2900 Oppurg
+2901 Neunhofen
+2902 Neustadt (Orla)
+2903 Traun
+2904 Triptis
+2905 Niederpöllnitz
+2906 Breternitz
+2907 Kaulsdorf (Saale)
+2908 Hockeroda
+2909 Leutenberg
+2910 Lichtentanne (Thür)
+2911 Zschachenmühle
+2912 Wurzbach (Thür)
+2913 Unterlemnitz
+2914 Lobenstein (Thür)
+2915 Harra Nord
+2916 Harra
+2917 Blankenstein (Saale)
+2918 Jena Saalbf
+2919 Jena Paradies
+2920 Göschwitz (Saale)
+2921 Rothenstein (Saale)
+2922 Kahla (Thür)
+2923 Orlamünde
+2924 Freienorla
+2925 Langenorla West
+2926 Langenorla Ost
+2927 Pößneck unt Bf
+2928 Bad Kösen
+2929 Camburg (Saale)
+2930 Dornburg (Saale)
+2931 Porstendorf
+2932 Jena-Zwätzen
+2933 Zeutsch
+2934 Uhlstädt
+2935 Rudolstadt (Thür)
+2936 Rudolstadt-Schwarza
+2937 Erfurt-Bischleben
+2938 Neudietendorf
+2939 Sülzenbrücken
+2940 Haarhausen
+2941 Arnstadt Hbf
+2942 Marlishausen
+2943 Niederwillingen
+2944 Stadtilm
+2945 Singen (Thür)
+2946 Paulinzella
+2947 Rottenbach
+2948 Quittelsdorf
+2949 Bad Blankenburg (Thüringerw)
+2950 Neuhaus-Igelshieb
+2951 Ernstthal am Rennsteig
+2952 Oberlauscha
+2953 Lauscha (Thür)
+2954 Steinach (Thür)
+2955 Steinach Süd
+2956 Blechhammer (Thür)
+2957 Hüttengrund
+2958 Sonneberg (Thür) Nord
+2959 Sonneberg (Thür) Ost
+2960 Sonneberg (Thür) Hbf
+2961 Vieselbach
+2962 Hopfgarten (Kr Weimar)
+2963 Weimar
+2964 Oberweimar
+2965 Mellingen (Thür)
+2966 Großschwabhausen
+2967 Jena West
+2968 Neue Schenke
+2969 Stadtroda
+2970 Papiermühle (Kr Stadtroda)
+2971 Hermsdorf-Klosterlausnitz
+2972 Kraftsdorf
+2973 Töppeln
+2974 Arnstadt Süd
+2975 Plaue (Thür)
+2976 Martinroda
+2977 Geraberg
+2978 Elgersburg
+2979 Ilmenau-Roda
+2980 Ilmenau-Pörlitzer Höhe
+2981 Ilmenau
+2982 Meiningen
+2983 Untermaßfeld
+2984 Grimmenthal
+2985 Vachdorf
+2986 Themar
+2987 Reurieth
+2988 Hildburghausen
+2989 Veilsdorf
+2990 Harras (Thür)
+2991 Eisfeld
+2992 Bachfeld
+2993 Schalkau
+2994 Schalkau-Mitte
+2995 Rauenstein (Thür)
+2996 Seltendorf
+2997 Effelder (Thür)
+2998 Mengersgereuth-Hämmern
+2999 Mengersgereuth-Hämmern Ost
+3000 Sonneberg (Thür) West
+3001 Gräfenroda
+3002 Dörrberg
+3003 Gehlberg
+3004 Oberhof (Thür)
+3005 Zella-Mehlis
+3006 Suhl
+3007 Suhl-Heinrichs
+3008 Dietzhausen
+3009 Rohr (Thür)
+3010 Rentwertshausen
+3011 Mellrichstadt Bahnhof
+3012 Bad Neustadt (Saale)
+3013 Burglauer
+3014 Münnerstadt
+3015 Rottershausen
+3016 Ebenhausen (Unterfr)
+3017 Poppenhausen
+3018 Schweinfurt Hbf
+3019 Gotha
+3020 Emleben
+3021 Petriroda
+3022 Georgenthal (Thür)
+3023 Ohrdruf
+3024 Luisenthal (Thür)
+3025 Crawinkel
+3026 Frankenhain
+3027 Gräfenroda Ort
+3028 Wernshausen
+3029 Niederschmalkalden
+3030 Mittelschmalkalden
+3031 Auehütte
+3032 Schmalkalden
+3033 Schmalkalden Fachhochschule
+3034 Altersbach
+3035 Steinbach-Hallenberg
+3036 Viernau
+3037 Benshausen
+3038 Zella-Mehlis West
+3039 Eisenach
+3040 Förtha (Kr Eisenach)
+3041 Marksuhl
+3042 Ettenhausen
+3043 Oberrohn
+3044 Bad Salzungen
+3045 Immelborn
+3046 Breitungen (Werra)
+3047 Schwallungen
+3048 Wasungen
+3049 Walldorf (Werra)
+3050 Weimar West
+3051 Weimar Berkaer Bf
+3052 Nohra (b Weimar)
+3053 Obergrunstedt
+3054 Holzdorf (b Weimar)
+3055 Legefeld
+3056 Hetschburg
+3057 Bad Berka Zeughausplatz
+3058 Bad Berka
+3059 München (b Bad Berka)
+3060 Tannroda
+3061 Kranichfeld
+3062 Oßmannstedt
+3063 Apolda
+3064 Niedertrebra
+3065 Bad Sulza
+3066 Großheringen
+3067 Leißling
+3068 Großkorbetha
+3069 Leuna Werke Süd
+3070 Leuna Werke Nord
+3071 Merseburg
+3072 Schkopau
+3073 Halle-Ammendorf
+3074 Leipzig Coppiplatz
+3075 Leipzig-Leutzsch
+3076 Leipzig-Rückmarsdorf
+3077 Leipzig Miltitz
+3078 Markranstädt
+3079 Großlehna
+3080 Kötzschau
+3081 Bad Dürrenberg
+3082 Nebra
+3083 Vitzenburg
+3084 Karsdorf
+3085 Kirchscheidungen
+3086 Laucha (Unstrut)
+3087 Balgstädt
+3088 Freyburg (Unstrut)
+3089 Kleinjena
+3090 Querfurt
+3091 Nemsdorf-Göhrendorf
+3092 Langeneichstädt
+3093 Mücheln (Geiseltal)
+3094 Mücheln (Geiseltal) -Stadt
+3095 Krumpa
+3096 Braunsbedra
+3097 Braunsbedra Ost
+3098 Frankleben
+3099 Beuna (Geiseltal)
+3100 Merseburg Bergmannsring
+3101 Schafstädt
+3102 Groß Gräfendorf
+3103 Bad Lauchstädt West
+3104 Bad Lauchstädt
+3105 Milzau
+3106 Buna Werke
+3107 Merseburg Elisabethhöhe
+3108 Heringen (Helme)
+3109 Görsbach
+3110 Berga-Kelbra
+3111 Roßla
+3112 Bennungen
+3113 Wallhausen (Helme)
+3114 Riestedt
+3115 Blankenheim (Kr Sangerhausen)
+3116 Wolferode
+3117 Lutherstadt Eisleben
+3118 Erdeborn
+3119 Röblingen am See
+3120 Amsdorf
+3121 Wansleben am See
+3122 Teutschenthal
+3123 Teutschenthal Ost
+3124 Zscherben
+3125 Angersdorf
+3126 Halle-Nietleben
+3127 Halle-Neustadt
+3128 Zscherbener Straße
+3129 Südstadt
+3130 Silberhöhe
+3131 Rosengarten
+3132 Steintorbrücke
+3133 Dessauer Brücke
+3134 Zoo
+3135 Wohnstadt Nord
+3136 Uftrungen
+3137 Rottleberode
+3138 Stolberg (Harz)
+3139 Kiebitzhöhe
+3140 Kölleda
+3141 Großneuhausen
+3142 Guthmannshausen
+3143 Buttstädt
+3144 Tromsdorf
+3145 Eckartsberga (Thür)
+3146 Auerstedt
+3147 Bad Sulza Nord
+3148 Werther
+3149 Wolkramshausen
+3150 Nohra (Wipper)
+3151 Wipperdorf
+3152 Bleicherode Ost
+3153 Gebra (Hainleite)
+3154 Sollstedt
+3155 Bernterode
+3156 Niederorschel
+3157 Hausen
+3158 Leinefelde
+3159 Beuren
+3160 Wingerode
+3161 Bodenrode
+3162 Uder
+3163 Arenshausen
+3164 Eichenberg
+3165 Kleinfurra
+3166 Großfurra
+3167 Glückauf
+3168 Sondershausen
+3169 Hohenebra Ort
+3170 Niederspier
+3171 Wasserthaleben
+3172 Greußen
+3173 Gangloffsömmern
+3174 Straußfurt
+3175 Ringleben-Gebesee
+3176 Walschleben
+3177 Kühnhausen
+3178 Erfurt-Gispersleben
+3179 Erfurt Nord
+3180 Elxleben
+3181 Dachwig
+3182 Döllstädt
+3183 Gräfentonna
+3184 Bad Langensalza
+3185 Hann Münden
+3186 Hedemünden
+3187 Witzenhausen Nord
+3188 Birkungen
+3189 Silberhausen
+3190 Dachrieden
+3191 Ammern
+3192 Mühlhausen (Thür)
+3193 Seebach (Kr Mühlhausen)
+3194 Großengottern
+3195 Schönstedt
+3196 Eckardtsleben
+3197 Ballstädt (Kr Gotha)
+3198 Bufleben
+3199 Gotha Ost
+3200 Bebra
+3201 Ronshausen
+3202 Wildeck-Hönebach
+3203 Wildeck-Bosserode
+3204 Wildeck-Obersuhl
+3205 Gerstungen
+3206 Herleshausen
+3207 Hörschel
+3208 Eisenach Opelwerk
+3209 Eisenach West
+3210 Wutha
+3211 Schönau (Hörsel)
+3212 Sättelstädt
+3213 Mechterstädt
+3214 Fröttstädt
+3215 Seebergen
+3216 Wandersleben
+3217 Hörselgau
+3218 Waltershausen
+3219 Waltershausen-Schnepfenthal
+3220 Reinhardsbrunn-Friedrichroda
+3221 Friedrichroda
+3222 Kassel-Oberzwehren
+3223 Baunatal-Rengershausen
+3224 Baunatal-Guntershausen
+3225 Guxhagen
+3226 Körle
+3227 Melsungen-Röhrenfurth
+3228 Melsungen
+3229 Malsfeld
+3230 Ludwigsau-Friedlos
+3231 Bad Hersfeld
+3232 Haunetal-Neukirchen
+3233 Burghaun (Kr Hünfeld)
+3234 Hünfeld
+3235 Fulda
+3236 Vellmar-Niedervellmar
+3237 Fuldatal-Ihringshausen
+3238 Staufenberg-Speele
+3239 Gertenbach
+3240 Friedland (Han)
+3241 Bad Sooden-Allendorf
+3242 Eschwege West
+3243 Wehretal-Reichensachsen
+3244 Sontra
+3245 Neuhof (Kr Fulda)
+3246 Flieden
+3247 Schlüchtern
+3248 Steinau (Straße)
+3249 Bad Soden-Salmünster
+3250 Wächtersbach
+3251 Wirtheim
+3252 Haitz-Höchst
+3253 Gelnhausen
+3254 Hailer-Meerholz
+3255 Niedermittlau
+3256 Langenselbold
+3257 Rodenbach bei Hanau
+3258 Wolfgang (Kr Hanau)
+3259 Hanau Hbf
+3260 Offenbach (Main) Hbf
+3261 Frankfurt (Main) Süd
+3262 Eichenzell
+3263 Welkers
+3264 Rönshausen
+3265 Lütter
+3266 Ried
+3267 Schmalnau
+3268 Hettenhausen
+3269 Altenfeld (Rhön)
+3270 Gersfeld (Rhön)
+3271 Edermünde-Grifte
+3272 Felsberg-Wolfershausen
+3273 Felsberg-Altenbrunslar
+3274 Felsberg-Gensungen
+3275 Wabern (Bz Kassel)
+3276 Singlis
+3277 Borken (Hess)
+3278 Zimmersrode
+3279 Schlierbach (Kr Schwalm-Eder)
+3280 Treysa
+3281 Schwalmstadt-Wiera
+3282 Neustadt (Kr Marburg)
+3283 Stadtallendorf
+3284 Kirchhain (Bz Kassel)
+3285 Anzefahr
+3286 Bürgeln
+3287 Cölbe
+3288 Marburg (Lahn)
+3289 Marburg Süd
+3290 Niederweimar
+3291 Niederwalgern
+3292 Fronhausen (Lahn)
+3293 Friedelhausen
+3294 Lollar
+3295 Gießen Oswaldsgarten
+3296 Friedrichssegen
+3297 Nievern
+3298 Bad Ems West
+3299 Bad Ems
+3300 Dausenau
+3301 Nassau (Lahn)
+3302 Obernhof (Lahn)
+3303 Laurenburg (Lahn)
+3304 Balduinstein
+3305 Fachingen (Lahn)
+3306 Diez
+3307 Eschhofen
+3308 Kerkerbach
+3309 Runkel
+3310 Villmar
+3311 Arfurt (Lahn)
+3312 Aumenau
+3313 Fürfurt
+3314 Gräveneck
+3315 Weilburg
+3316 Löhnberg
+3317 Stockhausen (Lahn)
+3318 Leun/Braunfels
+3319 Solms
+3320 Albshausen
+3321 Lindenholzhausen
+3322 Niederbrechen
+3323 Oberbrechen
+3324 Niederselters
+3325 Bad Camberg
+3326 Wörsdorf
+3327 Idstein (Taunus)
+3328 Niedernhausen (Taunus)
+3329 Hofheim (Taunus)
+3330 Frankfurt-Höchst Farbwerke
+3331 Frankfurt-Höchst
+3332 Elz (Kr Limburg/Lahn) Süd
+3333 Niedererbach
+3334 Dreikirchen
+3335 Steinefrenz
+3336 Girod
+3337 Goldhausen
+3338 Montabaur
+3339 Dernbach (Westerw)
+3340 Wirges
+3341 Siershahn
+3342 Großen Linden
+3343 Lang Göns
+3344 Kirch Göns
+3345 Butzbach
+3346 Ostheim (b Butzbach)
+3347 Bad Nauheim
+3348 Friedberg (Hess)
+3349 Bad Vilbel
+3350 Frankfurt (Main) West
+3351 Gießen Erdkauter Weg
+3352 Watzenborn-Steinberg
+3353 Garbenteich
+3354 Lich (Oberhess)
+3355 Langsdorf (Oberhess)
+3356 Hungen
+3357 Trais-Horloff
+3358 Ober Widdersheim
+3359 Borsdorf (Hess)
+3360 Nidda
+3361 Ranstadt
+3362 Effolderbach
+3363 Glauburg-Stockheim
+3364 Bleichenbach (Oberhess)
+3365 Büches-Düdelsheim
+3366 Büdingen (Oberhess)
+3367 Mittel Gründau
+3368 Lieblos
+3369 Dorheim (Wetterau)
+3370 Beienheim
+3371 Weckesheim
+3372 Reichelsheim (Wetterau)
+3373 Gettenau-Bingenheim
+3374 Echzell
+3375 Häuserhof
+3376 Bad Salzhausen
+3377 Assenheim (Oberhess)
+3378 Nidderau
+3379 Ostheim (Kr Hanau)
+3380 Bruchköbel
+3381 Hanau Nord
+3382 Glauburg-Glauberg
+3383 Altenstadt-Lindheim
+3384 Altenstadt (Hess)
+3385 Altenstadt-Höchst
+3386 Nidderau-Eichen
+3387 Nidderau-Windecken
+3388 Schöneck-Büdesheim
+3389 Schöneck-Kilianstädten
+3390 Schöneck-Oberdorfelden
+3391 Niederdorfelden
+3392 Bad Vilbel-Gronau
+3393 Gießen Licher Straße
+3394 Großen Buseck
+3395 Reiskirchen (Kr Gießen)
+3396 Saasen
+3397 Göbelnrod
+3398 Grünberg (Oberhess)
+3399 Lehnheim
+3400 Mücke (Hessen)
+3401 Nieder Ohmen
+3402 Burg-und Nieder Gemünden
+3403 Ehringshausen (Oberhess)
+3404 Zell-Romrod
+3405 Alsfeld (Oberhess)
+3406 Renzendorf
+3407 Wallenrod
+3408 Lauterbach (Hess) Nord
+3409 Angersbach
+3410 Bad Salzschlirf
+3411 Großenlüder
+3412 Oberbimbach
+3413 Friedberg Süd
+3414 Rosbach v d Höhe
+3415 Rodheim v d Höhe
+3416 Burgholzhausen v d Höhe
+3417 Friedrichsdorf (Taunus)
+3418 Seulberg
+3419 Bad Homburg
+3420 Oberursel (Taunus)
+3421 Frankfurt-Rödelheim
+3422 Frankfurt (Main) Ost
+3423 Frankfurt-Mainkur
+3424 Maintal West
+3425 Maintal Ost
+3426 Hanau-Wilhelmsbad
+3427 Hanau West
+3428 Großauheim (Kr Hanau)
+3429 Großkrotzenburg
+3430 Kahl (Main)
+3431 Dettingen (Main)
+3432 Rückersbacher Schlucht
+3433 Klein Ostheim
+3434 Aschaffenburg Hbf
+3435 Darmstadt Hbf
+3436 Darmstadt Nord
+3437 Darmstadt Ost
+3438 Darmstadt-Lichtwiese
+3439 Mühltal
+3440 Ober Ramstadt
+3441 Reinheim (Odenw)
+3442 Otzberg-Lengfeld
+3443 Groß Umstadt-Wiebelsbach
+3444 Höchst-Hetschbach
+3445 Höchst (Odenw)
+3446 Höchst Mümling-Grumbach
+3447 Bad König
+3448 Bad König-Zell
+3449 Michelstadt
+3450 Erbach (Odenw) Nord
+3451 Erbach (Odenw)
+3452 Beerfelden-Hetzbach
+3453 Hesseneck-Schöllenbach
+3454 Hesseneck-Kailbach
+3455 Eberbach
+3456 Schöllkrippen
+3457 Blankenbach
+3458 Königshofen (Kahl)
+3459 Schimborn
+3460 Mömbris-Mensengesäß
+3461 Mömbris-Strötzbach
+3462 Niedersteinbach
+3463 Michelbach (Unterfr) Herrnmühle
+3464 Michelbach (Unterfr)
+3465 Kälberau
+3466 Alzenau Burg
+3467 Alzenau (Unterfr)
+3468 Alzenau Nord
+3469 Kahl Kopp/Heide
+3470 Frankfurt-Sossenheim
+3471 Sulzbach (Taunus)
+3472 Bad Soden (Taunus)
+3473 Wiesbaden Ost
+3474 Mainz-Kastel
+3475 Hochheim (Main)
+3476 Flörsheim (Main)
+3477 Eddersheim
+3478 Hattersheim (Main)
+3479 Frankfurt-Sindlingen
+3480 Frankfurt-Nied
+3481 Frankfurt-Griesheim
+3482 Frankfurt (Main) Taunusanlage
+3483 Frankfurt (Main) Hauptwache
+3484 Frankfurt (Main) Konstablerwache
+3485 Frankfurt (Main) Ostendstraße
+3486 Frankfurt (Main) Mühlberg
+3487 Offenbach-Kaiserlei
+3488 Offenbach Ledermuseum
+3489 Offenbach Marktplatz
+3490 Offenbach (Main) Ost
+3491 Offenbach-Bieber
+3492 Offenbach-Waldhof
+3493 Obertshausen (Kr Offenbach)
+3494 Rodgau-Weiskirchen
+3495 Rodgau-Hainhausen
+3496 Rodgau-Jügesheim
+3497 Rodgau-Dudenhofen
+3498 Rodgau-Nieder Roden
+3499 Rodgau-Rollwald
+3500 Rödermark-Ober Roden
+3501 Niederjosbach
+3502 Eppstein-Bremthal
+3503 Eppstein
+3504 Lorsbach
+3505 Kriftel
+3506 Frankfurt-Zeilsheim
+3507 Heusenstamm
+3508 Dietzenbach-Steinberg
+3509 Dietzenbach-Mitte
+3510 Dietzenbach Bahnhof
+3511 Darmstadt-Arheilgen
+3512 Darmstadt-Wixhausen
+3513 Erzhausen
+3514 Egelsbach
+3515 Langen (Hess)
+3516 Langen-Flugsicherung
+3517 Dreieich-Buchschlag
+3518 Neu Isenburg
+3519 Frankfurt-Louisa
+3520 Frankfurt (Main) Stresemannallee
+3521 Frankfurt (Main) Lokalbahnhof
+3522 Frankfurt (Main) Galluswarte
+3523 Frankfurt am Main Messe
+3524 Eschborn Süd
+3525 Eschborn
+3526 Niederhöchstadt
+3527 Sulzbach (Taunus) Nord
+3528 Schwalbach a Ts (Limes)
+3529 Steinheim/Main
+3530 Mühlheim-Dietesheim
+3531 Mühlheim (Main)
+3532 Frankfurt am Main Stadion
+3533 Kelsterbach
+3534 Raunheim
+3535 Rüsselsheim Opelwerk
+3536 Mainz-Gustavsburg
+3537 Mainz Nord
+3538 Oberursel-Stierstadt
+3539 Oberursel-Weißkirchen/Steinbach
+3540 Bruchenbrücken
+3541 Nieder Wöllstadt
+3542 Okarben
+3543 Groß Karben
+3544 Dortelweil
+3545 Bad Vilbel Süd
+3546 Frankfurt-Berkersheim
+3547 Frankfurt-Frankfurter Berg
+3548 Frankfurt-Eschersheim
+3549 Zeppelinheim
+3550 Walldorf (Hess)
+3551 Mörfelden
+3552 Groß Gerau-Dornberg
+3553 Groß Gerau-Dornheim
+3554 Riedstadt-Wolfskehlen
+3555 Riedstadt-Goddelau
+3556 Dreieich-Sprendlingen
+3557 Dreieich-Weibelfeld
+3558 Dreieich-Dreieichenhain
+3559 Dreieich-Götzenhain
+3560 Dreieich-Offenthal
+3561 Rödermark-Urberach
+3562 Eppertshausen
+3563 Münster (b Dieburg)
+3564 Dieburg
+3565 Darmstadt Süd
+3566 Darmstadt-Eberstadt
+3567 Bickenbach (Bergstr)
+3568 Hähnlein-Alsbach
+3569 Zwingenberg (Bergstr)
+3570 Bensheim-Auerbach
+3571 Bensheim
+3572 Heppenheim (Bergstr)
+3573 Laudenbach (Bergstr)
+3574 Hemsbach
+3575 Weinheim (Bergstr)
+3576 Lützelsachsen
+3577 Großsachsen-Heddesheim
+3578 Ladenburg
+3579 Mannheim-Friedrichsfeld
+3580 Heidelberg-Pfaffengrund/Wieblingen
+3581 Heidelberg Hbf
+3582 Mainaschaff
+3583 Stockstadt (Main)
+3584 Worms Hbf
+3585 Worms Brücke
+3586 Hofheim (Ried)
+3587 Bürstadt
+3588 Riedrode
+3589 Lorsch
+3590 Birkenau
+3591 Reisen (Hess)
+3592 Mörlenbach
+3593 Zotzenbach
+3594 Rimbach
+3595 Lörzenbach-Fahrenbach
+3596 Fürth (Odenw)
+3597 Stockstadt (Rhein)
+3598 Biebesheim
+3599 Gernsheim
+3600 Groß Rohrheim
+3601 Biblis
+3602 Bobstadt
+3603 Lampertheim
+3604 Mannheim-Waldhof
+3605 Mannheim-Luzenberg
+3606 Mannheim-Neckarstadt
+3607 Mannheim-Handelshafen
+3608 Mannheim Hbf
+3609 Frankenthal Hbf
+3610 Ludwigshafen (Rhein) Hbf
+3611 Schifferstadt
+3612 Speyer Hbf
+3613 Germersheim
+3614 Philippsburg (Baden)
+3615 Graben-Neudorf
+3616 Karlsruhe Hbf
+3617 Mainz-Laubenheim
+3618 Bodenheim
+3619 Nackenheim
+3620 Nierstein
+3621 Oppenheim
+3622 Guntersblum
+3623 Alsheim
+3624 Mettenheim
+3625 Osthofen
+3626 Bobenheim
+3627 Ludwigshafen-Oggersheim
+3628 Ludwigshafen (Rhein) Mitte
+3629 Waggonfabrik
+3630 Mainz-Gonsenheim
+3631 Mainz-Marienborn
+3632 Klein Winternheim-Ober Olm
+3633 Nieder Olm
+3634 Saulheim
+3635 Wörrstadt
+3636 Armsheim
+3637 Albig
+3638 Alzey
+3639 Gensingen-Horrweiler
+3640 Welgesheim-Zotzenheim
+3641 Sprendlingen (Rheinhess)
+3642 Gau Bickelheim
+3643 Wallertheim
+3644 Alzey Süd
+3645 Eppelsheim (Rheinhess)
+3646 Gundersheim (Rheinhess)
+3647 Nieder Flörsheim-Dalsheim
+3648 Monsheim
+3649 Pfeddersheim
+3650 Hochspeyer
+3651 Homburg (Saar) Hbf
+3652 Bruchmühlbach-Miesau
+3653 Hauptstuhl
+3654 Landstuhl
+3655 Kindsbach
+3656 Einsiedlerhof
+3657 Vogelweh
+3658 Kennelgarten
+3659 Kaiserslautern Hbf
+3660 Frankenstein (Pfalz)
+3661 Weidenthal
+3662 Neidenfels
+3663 Lambrecht (Pfalz)
+3664 Neustadt (Weinstr) Hbf
+3665 Neustadt (Weinstr) Böbig
+3666 Haßloch (Pfalz)
+3667 Böhl-Iggelheim
+3668 Limburgerhof
+3669 Mannheim Rbf
+3670 Mannheim-Seckenheim
+3671 Mannheim-Friedrichsfeld Süd
+3672 Heidelberg Karlstor
+3673 Heidelberg-Schlierbach-Ziegelhausen
+3674 Heidelberg-Orthopädie
+3675 Neckargemünd
+3676 Neckargemünd Altstadt
+3677 Neckarsteinach
+3678 Neckarhausen bei Neckarsteinach
+3679 Hirschhorn (Neckar)
+3680 Lindach
+3681 Zwingenberg (Baden)
+3682 Neckargerach
+3683 Binau
+3684 Neckarelz
+3685 Mosbach West
+3686 Mosbach (Baden)
+3687 Neckarburken
+3688 Dallau
+3689 Auerbach (b Mosbach)
+3690 Oberschefflenz
+3691 Eicholzheim
+3692 Seckach
+3693 Zimmern bei Seckach
+3694 Adelsheim Nord
+3695 Osterburken
+3696 Lingenfeld
+3697 Heiligenstein (Pfalz)
+3698 Berghausen (Pfalz)
+3699 Speyer Nord-West
+3700 Schifferstadt Süd
+3701 Ludwigshafen-Rheingönheim
+3702 Ludwigshafen-Mundenheim
+3703 Heidelberg-Kirchheim/Rohrbach
+3704 St. Ilgen/Sandhausen
+3705 Wiesloch-Walldorf
+3706 Rot-Malsch
+3707 Bad Schönborn Kronau
+3708 Bad Schönborn Süd
+3709 Ubstadt-Weiher
+3710 Bruchsal
+3711 Karlsruhe-Durlach
+3712 Bammental
+3713 Reilsheim
+3714 Mauer (b Heidelberg)
+3715 Meckesheim
+3716 Zuzenhausen
+3717 Hoffenheim
+3718 Sinsheim (Elsenz)
+3719 Sinsheim Museum
+3720 Steinsfurt
+3721 Reihen
+3722 Ittlingen
+3723 Richen (b Eppingen)
+3724 Eiswoog
+3725 Ramsen
+3726 Eisenberg (Pfalz)
+3727 Ebertsheim
+3728 Mertesheim
+3729 Asselheim
+3730 Grünstadt Nord
+3731 Grünstadt
+3732 Kirchheim (Weinstr)
+3733 Herxheim am Berg
+3734 Freinsheim
+3735 Weisenheim (Sand)
+3736 Lambsheim
+3737 Flomersheim
+3738 Hohensülzen
+3739 Bockenheim-Kindenheim
+3740 Albsheim (Eis)
+3741 Erpolzheim
+3742 Bad Dürkheim-Trift
+3743 Bad Dürkheim
+3744 Wachenheim (Pfalz)
+3745 Deidesheim
+3746 Mußbach
+3747 Saarbrücken Hbf
+3748 Saarbrücken Ost
+3749 Schafbrücke
+3750 Scheidt (Saar)
+3751 Rentrisch
+3752 St. Ingbert
+3753 Rohrbach (Saar)
+3754 Kirkel
+3755 Limbach (b Homburg,Saar)
+3756 Kusel
+3757 Rammelsbach
+3758 Altenglan
+3759 Theisbergstegen
+3760 Eisenbach-Matzenbach
+3761 Rehweiler
+3762 Glan-Münchweiler
+3763 Niedermohr
+3764 Obermohr
+3765 Steinwenden
+3766 Miesenbach
+3767 Ramstein
+3768 Pirmasens Hbf
+3769 Pirmasens Nord
+3770 Waldfischbach
+3771 Steinalben
+3772 Schopp
+3773 Galgenschanze
+3774 Enkenbach
+3775 Münchweiler (Alsens)
+3776 Winnweiler
+3777 Imsweiler
+3778 Rockenhausen
+3779 Alsenz
+3780 Hochstätten (Pfalz)
+3781 Altenbamberg
+3782 Bad Münster am Stein
+3783 Bad Kreuznach
+3784 Bretzenheim (Nahe)
+3785 Langenlonsheim
+3786 Laubenheim (Nahe)
+3787 Münster-Sarmsheim
+3788 Kaiserslautern Pfaffwerk
+3789 Kaiserslautern West
+3790 Lampertsmühle-Otterbach
+3791 Katzweiler
+3792 Hirschhorn (Pfalz)
+3793 Untersulzbach
+3794 Olsbrücken
+3795 Kreimbach-Kaulbach
+3796 Roßbach (Pfalz)
+3797 Wolfstein
+3798 Reckweilerhof
+3799 Heinzenhausen
+3800 Lohnweiler
+3801 Lauterecken-Grumbach
+3802 Hassel (Saar)
+3803 Würzbach (Saar)
+3804 Blieskastel-Lautzkirchen
+3805 Bierbach
+3806 Zweibrücken Hbf
+3807 Contwig
+3808 Dellfeld
+3809 Dellfeld Ort
+3810 Rieschweiler
+3811 Höhmühlbach
+3812 Thaleischweiler-Fröschen
+3813 Rodalben
+3814 Münchweiler (Rodalb)
+3815 Hinterweidenthal
+3816 Hinterweidenthal Ost
+3817 Hauenstein (Pfalz)
+3818 Wilgartswiesen
+3819 Rinnthal
+3820 Annweiler am Trifels
+3821 Albersweiler (Pfalz)
+3822 Siebeldingen-Birkweiler
+3823 Godramstein
+3824 Landau (Pfalz) West
+3825 Landau (Pfalz) Hbf
+3826 Maikammer-Kirrweiler
+3827 Edenkoben
+3828 Edesheim (Pfalz)
+3829 Knöringen-Essingen
+3830 Insheim
+3831 Rohrbach (Pfalz)
+3832 Steinweiler
+3833 Winden (Pfalz)
+3834 Kandel
+3835 Wörth (Rhein)
+3836 Karlsruhe-Knielingen
+3837 Karlsruhe-Mühlburg
+3838 Karlsruhe West
+3839 Maximiliansau im Rüsten
+3840 Hagenbach
+3841 Neuburg (Rhein)
+3842 Berg (Pfalz)
+3843 Barbelroth
+3844 Kapellen-Drusweiler
+3845 Bad Bergzabern
+3846 Schaidt (Pf)
+3847 Steinfeld (Pfalz)
+3848 Kapsweyer
+3849 Schweighofen
+3850 Jägersfreude
+3851 Dudweiler
+3852 Sulzbach (Saar)
+3853 Sulzbach (Saar) Altenwald
+3854 Friedrichsthal (Saar)
+3855 Friedrichsthal Mitte
+3856 Bildstock
+3857 Landsweiler-Reden
+3858 Neunkirchen (Saar) Hbf
+3859 Wiebelskirchen
+3860 Ottweiler (Saar)
+3861 Niederlinxweiler
+3862 Oberlinxweiler
+3863 St. Wendel
+3864 Baltersweiler
+3865 Hofeld
+3866 Namborn
+3867 Walhausen (Saar)
+3868 Türkismühle
+3869 Nohfelden
+3870 Neubrücke (Nahe)
+3871 Hoppstädten (Nahe)
+3872 Heimbach (Nahe)
+3873 Nohen
+3874 Kronweiler
+3875 Idar-Oberstein
+3876 Fischbach-Weierbach
+3877 Kirnsulzbach
+3878 Kirn
+3879 Hochstetten (Nahe)
+3880 Martinstein
+3881 Monzingen
+3882 Bad Sobernheim
+3883 Staudernheim
+3884 Norheim
+3885 Ockenheim
+3886 Fischbach-Camphausen
+3887 Quierschied
+3888 Merchweiler
+3889 Gennweiler
+3890 Illingen (Saar)
+3891 Wustweiler
+3892 Dirmingen
+3893 Eppelborn
+3894 Bubach
+3895 Lebach
+3896 Lebach-Jabach
+3897 Wemmetsweiler Rathaus
+3898 Schiffweiler
+3899 Neunkirchen (Saar)-Wellesweiler
+3900 Bexbach
+3901 Saarbrücken-Burbach
+3902 Luisenthal (Saar)
+3903 Bous (Saar)
+3904 Ensdorf (Saar)
+3905 Saarlouis Hbf
+3906 Dillingen (Saar)
+3907 Beckingen (Saar)
+3908 Fremersdorf
+3909 Merzig (Saar)
+3910 Merzig Stadtmitte
+3911 Besseringen
+3912 Mettlach
+3913 Saarhölzbach
+3914 Taben
+3915 Serrig
+3916 Saarburg (Bz Trier)
+3917 Schoden-Ockfen
+3918 Wiltingen (Saar)
+3919 Kanzem
+3920 Konz
+3921 Karthaus
+3922 Trier Süd
+3923 Niedaltdorf
+3924 Hemmersdorf (Saar)
+3925 Siersburg
+3926 Ehrang Ort
+3927 Quint
+3928 Schweich DB
+3929 Föhren
+3930 Hetzerath
+3931 Sehlem (Kr Wittlich)
+3932 Salmtal
+3933 Wittlich Hbf
+3934 Ürzig DB
+3935 Bengel
+3936 Bullay DB
+3937 Neef
+3938 Ediger-Eller
+3939 Cochem (Mosel)
+3940 Klotten
+3941 Pommern (Mosel)
+3942 Treis-Karden
+3943 Müden (Mosel)
+3944 Moselkern
+3945 Hatzenport
+3946 Löf
+3947 Kattenes
+3948 Lehmen
+3949 Kobern-Gondorf
+3950 Winningen (Mosel)
+3951 Güls (Kr Koblenz)
+3952 Koblenz-Moselweiß
+3953 Reil DB
+3954 Kövenig
+3955 Traben-Trarbach DB
+3956 Konz Mitte
+3957 Wasserliesch
+3958 Oberbillig
+3959 Temmels
+3960 Wellen (Mosel)
+3961 Nittel
+3962 Wincheringen
+3963 Nennig
+3964 Perl
+3965 Igel
+3966 Kreuz Konz
+3967 Mannheim-Neckarau
+3968 Mannheim-Rheinau
+3969 Schwetzingen
+3970 Oftersheim
+3971 Hockenheim
+3972 Neulußheim
+3973 Waghäusel
+3974 Wiesental
+3975 Friedrichstal (Baden)
+3976 Blankenloch
+3977 Karlsruhe-Hagsfeld
+3978 Rastatt
+3979 Baden-Baden
+3980 Bühl (Baden)
+3981 Achern
+3982 Renchen
+3983 Appenweier
+3984 Offenburg
+3985 Friesenheim (Baden)
+3986 Lahr (Schwarzw)
+3987 Orschweier
+3988 Ringsheim
+3989 Herbolzheim (Breisgau)
+3990 Kenzingen
+3991 Riegel
+3992 Köndringen
+3993 Teningen-Mundingen
+3994 Emmendingen
+3995 Kollmarsreute
+3996 Denzlingen
+3997 Gundelfingen
+3998 Freiburg-Zähringen
+3999 Freiburg-Herdern
+4000 Freiburg (Breisgau) Hbf
+4001 Freiburg-St Georgen
+4002 Ebringen
+4003 Schallstadt
+4004 Norsingen
+4005 Bad Krozingen
+4006 Heitersheim
+4007 Buggingen
+4008 Müllheim (Baden)
+4009 Auggen
+4010 Schliengen
+4011 Bad Bellingen
+4012 Rheinweiler
+4013 Kleinkems
+4014 Istein
+4015 Efringen-Kirchen
+4016 Eimeldingen
+4017 Haltingen
+4018 Weil am Rhein
+4019 Basel Bad Bf
+4020 Rheinsheim
+4021 Huttenheim
+4022 Graben-Neudorf Nord
+4023 Karlsdorf
+4024 Grombach
+4025 Babstadt
+4026 Bad Rappenau
+4027 Bad Wimpfen
+4028 Bad Friedrichshall-Jagstfeld
+4029 Neckarsulm
+4030 Heilbronn Hbf
+4031 Bad Wimpfen-Hohenstadt
+4032 Bad Friedrichshall-Kochendorf
+4033 Heilbronn Sülmertor
+4034 Öhringen Cappel
+4035 Öhringen
+4036 Öhringen West
+4037 Bitzfeld
+4038 Bretzfeld
+4039 Scheppach
+4040 Wieslensdorf
+4041 Eschenau (b Heilbronn)
+4042 Affaltrach
+4043 Willsbach
+4044 Sülzbach Schule
+4045 Sülzbach
+4046 Ellhofen
+4047 Weinsberg/Ellhofen Gewerbegebiet
+4048 Weinsberg
+4049 Heilbronn Trappensee
+4050 Bretten
+4051 Forchheim (b Karlsruhe)
+4052 Durmersheim Nord
+4053 Durmersheim
+4054 Bietigheim (Baden)
+4055 Ötigheim
+4056 Freudenstadt Hbf
+4057 Baden-Baden Haueneberstein
+4058 Sinzheim Nord
+4059 Sinzheim
+4060 Baden-Baden Rebland
+4061 Wilferdingen-Singen
+4062 Pforzheim Hbf
+4063 Bretten-Rechberg
+4064 Bretten-Ruit
+4065 Ölbronn-Dürrn
+4066 Maulbronn West
+4067 Ötisheim
+4068 Mühlacker
+4069 Zusenhofen
+4070 Oberkirch
+4071 Oberkirch-Koehlersiedlung
+4072 Lautenbach (Baden)
+4073 Hubacker
+4074 Ramsbach Höfle
+4075 Ramsbach Birkhof
+4076 Oppenau
+4077 Ibach
+4078 Löcherberg
+4079 Bad Peterstal
+4080 Bad Griesbach
+4081 Kehl
+4082 Kork
+4083 Legelshurst
+4084 Offenburg Kreisschulzentrum
+4085 Gengenbach
+4086 Biberach (Baden)
+4087 Steinach (Baden)
+4088 Haslach
+4089 Hausach
+4090 Hornberg
+4091 Triberg
+4092 St. Georgen (Schwarzw)
+4093 Villingen (Schwarzw)
+4094 Donaueschingen
+4095 Geisingen
+4096 Immendingen
+4097 Engen
+4098 Welschingen-Neuhausen
+4099 Mühlhausen (b Engen)
+4100 Singen-Landesgartenschau
+4101 Singen (Hohentwiel)
+4102 Singen-Industriegebiet
+4103 Böhringen-Rickelshausen
+4104 Radolfzell
+4105 Markelfingen
+4106 Allensbach
+4107 Hegne
+4108 Reichenau (Baden)
+4109 Konstanz-Wollmatingen
+4110 Konstanz Fürstenberg
+4111 Konstanz-Petershausen
+4112 Konstanz
+4113 Wolfach
+4114 Halbmeil
+4115 Schiltach
+4116 Schiltach Mitte
+4117 Schenkenzell
+4118 Alpirsbach
+4119 Loßburg-Rodt
+4120 Breisach
+4121 Gottenheim
+4122 Buchholz (Baden)
+4123 Batzenhäusle
+4124 Waldkirch
+4125 Kollnau
+4126 Gutach (Breisgau)
+4127 Bleibach
+4128 Niederwinden
+4129 Oberwinden
+4130 Elzach
+4131 Freiburg-Wiehre
+4132 Freiburg-Littenweiler
+4133 Kirchzarten
+4134 Himmelreich
+4135 Hinterzarten
+4136 Titisee
+4137 Neustadt (Schwarzw)
+4138 Rötenbach (Baden)
+4139 Löffingen
+4140 Bachheim
+4141 Unadingen
+4142 Döggingen
+4143 Hüfingen Mitte
+4144 Donaueschingen Allmendshofen
+4145 Feldberg-Bärental
+4146 Altglashütten-Falkau
+4147 Aha
+4148 Schluchsee
+4149 Seebrugg
+4150 Freiburg-Klinikum
+4151 Freiburg Messe/Universität
+4152 Freiburg West
+4153 Hugstetten
+4154 Wasenweiler
+4155 Ihringen
+4156 Grenzach
+4157 Wyhlen
+4158 Herten (Baden)
+4159 Rheinfelden (Baden)
+4160 Beuggen
+4161 Schwörstadt
+4162 Wehr-Brennet
+4163 Bad Säckingen
+4164 Murg (Baden)
+4165 Laufenburg (Baden)
+4166 Laufenburg (Baden) Ost
+4167 Albbruck
+4168 Dogern
+4169 Waldshut
+4170 Tiengen (Hochrhein)
+4171 Lauchringen West
+4172 Lauchringen
+4173 Grießen (Baden)
+4174 Erzingen (Baden)
+4175 Trasadingen
+4176 Wilchingen-Hallau
+4177 Neunkirch
+4178 Beringen Bad Bf
+4179 Neuhausen Bad Bf
+4180 Schaffhausen
+4181 Herblingen
+4182 Thayngen
+4183 Bietingen
+4184 Gottmadingen
+4185 Lindau Hbf
+4186 Lindau-Aeschach
+4187 Enzisweiler
+4188 Wasserburg (Bodensee)
+4189 Nonnenhorn
+4190 Kressbronn
+4191 Langenargen
+4192 Eriskirch
+4193 Friedrichshafen Ost
+4194 Friedrichshafen Stadt
+4195 Friedrichshafen Landratsamt
+4196 Friedrichshafen Manzell
+4197 Friedrichshafen-Fischbach
+4198 Friedrichshafen-Kluftern
+4199 Markdorf (Baden)
+4200 Bermatingen-Ahausen
+4201 Salem
+4202 Uhldingen-Mühlhofen
+4203 Überlingen-Nußdorf
+4204 Überlingen
+4205 Überlingen-Therme
+4206 Sipplingen
+4207 Ludwigshafen (Bodensee)
+4208 Stahringen
+4209 Steinen (b Lörrach)
+4210 Brombach (b Lörrach)
+4211 Haagen (Baden)
+4212 Lörrach Schwarzwaldstraße
+4213 Lörrach
+4214 Lörrach Schillerstraße
+4215 Lörrach-Stetten
+4216 Lörrach Dammstraße
+4217 Weil am Rhein Ost
+4218 Weil am Rhein-Pfädlistrasse
+4219 Weil am Rhein Gartenstadt
+4220 Basel SBB
+4221 Riehen(b Basel)
+4222 Maulburg
+4223 Schopfheim West
+4224 Schopfheim
+4225 Fahrnau
+4226 Hausen-Raitbach
+4227 Zell (Wiesental)
+4228 Stuttgart Hbf
+4229 Böblingen
+4230 Herrenberg
+4231 Gäufelden
+4232 Bondorf (b Herrenberg)
+4233 Ergenzingen
+4234 Eutingen im Gäu
+4235 Horb
+4236 Sulz (Neckar)
+4237 Oberndorf (Neckar)
+4238 Rottweil
+4239 Spaichingen
+4240 Tuttlingen
+4241 Hochdorf (b Horb)
+4242 Bittelbronn
+4243 Schopfloch (b Freudenstadt)
+4244 Dornstetten
+4245 Rottweil Saline
+4246 Deißlingen Mitte
+4247 Trossingen Bahnhof
+4248 Villingen-Schwenningen Hammerstatt
+4249 Schwenningen (Neckar)
+4250 Villingen-Schwenningen Eisstadion
+4251 Zollhaus Villingen-Schwenningen
+4252 Marbach Ost Villingen-Schwenningen
+4253 Marbach West Villingen-Schwenningen
+4254 Brigachtal Kirchdorf
+4255 Brigachtal Klengen
+4256 Donaueschingen Grüningen
+4257 Donaueschingen Aufen
+4258 Donaueschingen Mitte/Siedlung
+4259 Rottweil Göllsdorf
+4260 Spaichingen Mitte
+4261 Balgheim
+4262 Rietheim
+4263 Weilheim
+4264 Wurmlingen Nord
+4265 Wurmlingen Mitte
+4266 Tuttlingen Gänsäcker
+4267 Möhringen Bahnhof
+4268 Möhringen Rathaus
+4269 Immendingen Mitte
+4270 Immendingen Zimmern
+4271 Stuttgart-Bad Cannstatt
+4272 Esslingen (Neckar)
+4273 Plochingen
+4274 Reichenbach (Fils)
+4275 Ebersbach (Fils)
+4276 Uhingen
+4277 Faurndau
+4278 Göppingen
+4279 Eislingen (Fils)
+4280 Salach
+4281 Süßen
+4282 Gingen (Fils)
+4283 Kuchen
+4284 Geislingen West
+4285 Geislingen (Steige)
+4286 Amstetten (Württ)
+4287 Urspring
+4288 Lonsee
+4289 Westerstetten
+4290 Beimerstetten
+4291 Ulm Hbf
+4292 Ulm-Donautal
+4293 Erbach (Württ)
+4294 Laupheim West
+4295 Schemmerberg
+4296 Warthausen
+4297 Biberach (Riß)
+4298 Biberach Süd
+4299 Bad Schussenried
+4300 Aulendorf
+4301 Mochenwangen
+4302 Niederbiegen
+4303 Weingarten (Berg)
+4304 Ravensburg
+4305 Weißenau
+4306 Oberzell
+4307 Meckenbeuren
+4308 Kehlen
+4309 Friedrichshafen Flughafen
+4310 Löwental
+4311 Friedrichshafen Hafen
+4312 Bad Waldsee
+4313 Alttann
+4314 Wolfegg
+4315 Kißlegg
+4316 Wangen (Allgäu)
+4317 Hergatz
+4318 Beuron
+4319 Sigmaringen
+4320 Sigmaringendorf
+4321 Mengen
+4322 Herbertingen
+4323 Riedlingen
+4324 Munderkingen
+4325 Ehingen (Donau)
+4326 Schelklingen
+4327 Blaubeuren
+4328 Allmendingen
+4329 Schmiechen
+4330 Gerhausen
+4331 Herrlingen
+4332 Blaustein
+4333 Ulm-Söflingen
+4334 Neu-Ulm
+4335 Finningerstraße
+4336 Gerlenhofen
+4337 Senden
+4338 Vöhringen
+4339 Bellenberg
+4340 Illertissen
+4341 Altenstadt (Iller)
+4342 Kellmünz
+4343 Memmingen
+4344 Ulm Ost
+4345 Thalfingen (b Ulm)
+4346 Oberelchingen
+4347 Unterelchingen
+4348 Langenau (Württ)
+4349 Rammingen
+4350 Niederstotzingen
+4351 Sontheim-Brenz
+4352 Bergenweiler
+4353 Hermaringen
+4354 Giengen (Brenz)
+4355 Herbrechtingen
+4356 Heidenheim Voithwerk
+4357 Heidenheim
+4358 Heidenheim-Schnaitheim
+4359 Itzelberg
+4360 Königsbronn
+4361 Oberkochen
+4362 Unterkochen
+4363 Aalen
+4364 Wernau (Neckar)
+4365 Wendlingen (Neckar)
+4366 Oberboihingen
+4367 Nürtingen
+4368 Bempflingen
+4369 Metzingen
+4370 Reutlingen-Sondelfingen
+4371 Reutlingen Hbf
+4372 Reutlingen West
+4373 Reutlingen-Betzingen
+4374 Wannweil
+4375 Kirchentellinsfurt
+4376 Tübingen-Lustnau
+4377 Tübingen Hbf
+4378 Kirchheim (Teck)-Ötlingen
+4379 Kirchheim (Teck)
+4380 Kirchheim (Teck) Süd
+4381 Dettingen (Teck)
+4382 Owen (Teck)
+4383 Brucken
+4384 Unterlenningen
+4385 Oberlenningen
+4386 Tübingen-Derendingen
+4387 Dußlingen
+4388 Nehren
+4389 Mössingen
+4390 Bad Sebastiansweiler-Belsen
+4391 Bodelshausen
+4392 Hechingen
+4393 Bisingen
+4394 Engstlatt
+4395 Balingen (Württ)
+4396 Balingen Süd
+4397 Frommern
+4398 Albstadt-Laufen Ort
+4399 Albstadt-Lautlingen
+4400 Albstadt Ebingen West
+4401 Albstadt-Ebingen
+4402 Straßberg-Winterlingen
+4403 Storzingen
+4404 Herbertingen Ort
+4405 Bad Saulgau
+4406 Altshausen
+4407 Eyach
+4408 Eutingen (Baden)
+4409 Niefern
+4410 Enzberg
+4411 Mühlacker Rößlesweg
+4412 Illingen (Württ)
+4413 Vaihingen (Enz)
+4414 Sersheim
+4415 Sachsenheim
+4416 Bietigheim-Ellental
+4417 Bietigheim-Bissingen
+4418 Ludwigsburg
+4419 Unterreichenbach
+4420 Monbach-Neuhausen
+4421 Bad Liebenzell
+4422 Hirsau
+4423 Calw
+4424 Bad Teinach-Neubulach
+4425 Wildberg (Württ)
+4426 Nagold
+4427 Mühlen (b Horb)
+4428 Bieringen (b Horb)
+4429 Bad Niedernau
+4430 Rottenburg (Neckar)
+4431 Kiebingen
+4432 Würzburg Hbf
+4433 Würzburg Süd
+4434 Geroldshausen
+4435 Kirchheim (Unterfr)
+4436 Gaubüttelbrunn
+4437 Wittighausen
+4438 Zimmern
+4439 Grünsfeld
+4440 Gerlachsheim
+4441 Lauda
+4442 Königshofen (Baden)
+4443 Boxberg-Wölchingen
+4444 Eubigheim
+4445 Rosenberg (Baden)
+4446 Adelsheim Ost
+4447 Sennfeld
+4448 Roigheim
+4449 Möckmühl
+4450 Züttlingen
+4451 Siglingen
+4452 Neudenau
+4453 Herbolzheim (Jagst)
+4454 Untergriesheim
+4455 Neckarzimmern
+4456 Haßmersheim
+4457 Gundelsheim (Neckar)
+4458 Offenau
+4459 Nordheim (Württ)
+4460 Lauffen (Neckar)
+4461 Kirchheim (Neckar)
+4462 Walheim (Württ)
+4463 Besigheim
+4464 Aschaffenburg Fachhochschule
+4465 Aschaffenburg Süd
+4466 Obernau
+4467 Sulzbach (Main)
+4468 Kleinwallstadt
+4469 Obernburg-Elsenfeld
+4470 Glanzstoffwerke
+4471 Erlenbach (Main)
+4472 Wörth (Main)
+4473 Klingenberg (Main)
+4474 Laudenbach (b Kleinheubach)
+4475 Kleinheubach
+4476 Miltenberg
+4477 Freudenberg (Main)
+4478 Reistenhausen-Fechenbach
+4479 Dorfprozelten
+4480 Stadtprozelten
+4481 Faulbach (Main)
+4482 Hasloch (Main)
+4483 Wertheim Glashütte
+4484 Wertheim
+4485 Reicholzheim
+4486 Bronnbach (Tauber)
+4487 Gamburg (Tauber)
+4488 Niklashausen
+4489 Hochhausen (Tauber)
+4490 Tauberbischofsheim
+4491 Dittigheim
+4492 Distelhausen
+4493 Edelfingen
+4494 Bad Mergentheim
+4495 Igersheim
+4496 Markelsheim
+4497 Elpersheim
+4498 Weikersheim
+4499 Laudenbach (Württ)
+4500 Niederstetten
+4501 Schrozberg
+4502 Blaufelden
+4503 Rot am See
+4504 Satteldorf
+4505 Crailsheim
+4506 Neuenstein
+4507 Waldenburg (Württ)
+4508 Wackershofen-Freilandmuseum
+4509 Schwäbisch Hall
+4510 Schwäbisch Hall-Hessental
+4511 Eckartshausen-Ilshofen
+4512 Breitendiel
+4513 Weilbach (Unterfr)
+4514 Amorbach
+4515 Schneeberg (b Amorbach)
+4516 Rippberg
+4517 Walldürn
+4518 Hainstadt (Baden)
+4519 Buchen (Odenw)
+4520 Buchen Ost
+4521 Bödigheim
+4522 Waiblingen
+4523 Winnenden
+4524 Backnang
+4525 Oppenweiler (Württ)
+4526 Sulzbach (Murr)
+4527 Murrhardt
+4528 Fornsbach
+4529 Fichtenberg
+4530 Gaildorf West
+4531 Schorndorf
+4532 Urbach (b Schorndorf)
+4533 Plüderhausen
+4534 Waldhausen (b Schorndorf)
+4535 Lorch (Württ)
+4536 Schwäbisch Gmünd
+4537 Böbingen (Rems)
+4538 Mögglingen (b Gmünd)
+4539 Wasseralfingen
+4540 Hofen (b Aalen)
+4541 Goldshöfe
+4542 Schwabsberg
+4543 Schrezheim
+4544 Ellwangen
+4545 Jagstzell
+4546 Dombühl
+4547 Ansbach
+4548 Nürnberg Hbf
+4549 Kornwestheim Pbf
+4550 Stuttgart-Zazenhausen
+4551 Stuttgart-Münster
+4552 Stuttgart Ebitzweg
+4553 Stuttgart-Untertürkheim Pbf
+4554 Marbach (Neckar)
+4555 Erdmannhausen-Rielingshausen
+4556 Kirchberg (Murr)
+4557 Burgstall (Murr)
+4558 Benningen (Neckar)
+4559 Freiberg (Neckar)
+4560 Favoritepark
+4561 Stuttgart-Zuffenhausen
+4562 Stuttgart-Feuerbach
+4563 Stuttgart Nord
+4564 Stuttgart Stadtmitte
+4565 Stuttgart Feuersee
+4566 Stuttgart Schwabstraße
+4567 Weil der Stadt
+4568 Malmsheim
+4569 Renningen
+4570 Rutesheim
+4571 Leonberg
+4572 Höfingen
+4573 Ditzingen
+4574 Stuttgart-Weilimdorf
+4575 Korntal
+4576 Neuwirtshaus-Porscheplatz
+4577 Hösbach
+4578 Laufach
+4579 Heigenbrücken
+4580 Wiesthal
+4581 Partenstein
+4582 Lohr Bahnhof
+4583 Langenprozelten
+4584 Gemünden (Main)
+4585 Wernfeld
+4586 Karlstadt (Main)
+4587 Himmelstadt
+4588 Retzbach-Zellingen
+4589 Thüngersheim
+4590 Veitshöchheim
+4591 Würzburg-Zell
+4592 Elm
+4593 Sterbfritz
+4594 Jossa
+4595 Obersinn
+4596 Mittelsinn
+4597 Burgsinn
+4598 Rieneck
+4599 Wolfsmünster
+4600 Gräfendorf
+4601 Michelaubrück
+4602 Weickersgrüben
+4603 Morlesau
+4604 Diebach
+4605 Hammelburg
+4606 Hammelburg Ost
+4607 Westheim-Langendorf
+4608 Elfershausen-Trimberg
+4609 Euerdorf
+4610 Bad Kissingen
+4611 Rottendorf
+4612 Dettelbach Bahnhof
+4613 Buchbrunn-Mainstockheim
+4614 Kitzingen
+4615 Iphofen
+4616 Markt Bibart
+4617 Neustadt (Aisch) Bahnhof
+4618 Emskirchen
+4619 Siegelsdorf
+4620 Fürth (Bay) Hbf
+4621 Dietersheim
+4622 Dottenheim
+4623 Ipsheim
+4624 Bad Windsheim
+4625 Illesheim
+4626 Ottenhofen-Bergel
+4627 Burgbernheim
+4628 Steinach (b Rothenburg o.d. Tauber)
+4629 Fürth Westvorstadt
+4630 Fürth-Dambach
+4631 Alte Veste
+4632 Zirndorf
+4633 Zirndorf Kneippallee
+4634 Weiherhof
+4635 Egersdorf
+4636 Cadolzburg
+4637 Seligenstadt (b Würzburg)
+4638 Bergtheim
+4639 Eßleben
+4640 Waigolshausen
+4641 Schweinfurt-Mitte
+4642 Schweinfurt Stadt
+4643 Haßfurt
+4644 Zeil
+4645 Ebelsbach-Eltmann
+4646 Oberhaid
+4647 Bamberg
+4648 Ritschenhausen
+4649 Wölfershausen
+4650 Bibra
+4651 Oerlenbach
+4652 Neustadt (b Coburg)
+4653 Mönchröden
+4654 Rödental Mitte
+4655 Rödental
+4656 Dörfles-Esbach
+4657 Coburg Nord
+4658 Coburg
+4659 Creidlitz
+4660 Grub am Forst
+4661 Ebersdorf (b Coburg)
+4662 Schney
+4663 Lichtenfels
+4664 Bad Staffelstein
+4665 Ebensfeld
+4666 Zapfendorf
+4667 Ebing
+4668 Breitengüßbach
+4669 Hallstadt (b Bamberg)
+4670 Strullendorf
+4671 Hirschaid
+4672 Buttenheim
+4673 Eggolsheim
+4674 Forchheim (Oberfr)
+4675 Kersbach
+4676 Baiersdorf
+4677 Bubenreuth
+4678 Erlangen
+4679 Erlangen-Bruck
+4680 Eltersdorf
+4681 Vach
+4682 Fürth-Unterfarrnbach
+4683 Pinzberg
+4684 Gosberg
+4685 Wiesenthau
+4686 Kirchehrenbach
+4687 Pretzfeld
+4688 Ebermannstadt
+4689 Baunach
+4690 Reckendorf
+4691 Manndorf
+4692 Rentweinsdorf
+4693 Ebern
+4694 Coburg-Neuses
+4695 Wiesenfeld (b Coburg)
+4696 Meeder
+4697 Großwalbur
+4698 Bad Rodach (b Coburg)
+4699 Unterloquitz
+4700 Marktgölitz
+4701 Probstzella
+4702 Ludwigsstadt
+4703 Steinbach am Wald
+4704 Förtschendorf
+4705 Pressig-Rothenkirchen
+4706 Stockheim (Oberfr)
+4707 Gundelsdorf
+4708 Kronach
+4709 Neuses (b Kronach)
+4710 Küps
+4711 Redwitz (Rodach)
+4712 Hochstadt-Marktzeuln
+4713 Michelau (Oberfr)
+4714 Burgkunstadt
+4715 Mainroth
+4716 Mainleus
+4717 Kulmbach
+4718 Untersteinach (b Stadtsteinach)
+4719 Ludwigschorgast
+4720 Neuenmarkt-Wirsberg
+4721 Marktschorgast
+4722 Trebgast
+4723 Stammbach
+4724 Münchberg
+4725 Seulbitz
+4726 Förbau
+4727 Schwarzenbach (Saale)
+4728 Oberkotzau
+4729 Harsdorf
+4730 Ramsenthal
+4731 Bindlach
+4732 Bayreuth Hbf
+4733 Unfriedsdorf
+4734 Hildbrandsgrün
+4735 Wüstenselbitz
+4736 Helmbrechts
+4737 Martinlamitz
+4738 Kirchenlamitz Ost
+4739 Marktleuthen
+4740 Röslau
+4741 Wunsiedel-Holenbrunn
+4742 Marktredwitz
+4743 Pechbrunn
+4744 Wiesau (Oberpf)
+4745 Reuth (b Erbendorf)
+4746 Windischeschenbach
+4747 Altenstadt (Waldnaab)
+4748 Weiden (Oberpf)
+4749 Luhe-Wildenau
+4750 Luhe
+4751 Wernberg
+4752 Pfreimd
+4753 Nabburg
+4754 Schwarzenfeld (Oberpf)
+4755 Irrenlohe
+4756 Schwandorf
+4757 Maxhütte-Haidhof
+4758 Regenstauf
+4759 Regensburg Hbf
+4760 Hof-Neuhof
+4761 Köditz
+4762 Stegenwaldhaus
+4763 Rothenbürg
+4764 Selbitz
+4765 Naila
+4766 Oberklingensporn
+4767 Marxgrün
+4768 Höllenthal
+4769 Bad Steben
+4770 Wurlitz
+4771 Rehau
+4772 Schönwald (Oberfr)
+4773 Selb-Plößberg
+4774 Erkersreuth
+4775 Selb Nord
+4776 Selb Stadt
+4777 Hersbruck (rechts Pegnitz)
+4778 Neuhaus (Pegnitz)
+4779 Pegnitz
+4780 Kirchenlaibach
+4781 Haidenaab-Göppmannsbühl
+4782 Immenreuth
+4783 Neusorg
+4784 Waldershof
+4785 Arzberg (Oberfr)
+4786 Schirnding
+4787 Schnabelwaid
+4788 Creußen (Oberfr)
+4789 Nürnberg Nordost
+4790 Heroldsberg
+4791 Heroldsberg Nord
+4792 Kalchreuth
+4793 Großgeschaidt
+4794 Eschenau (Mittelfr)
+4795 Forth
+4796 Rüsselbach
+4797 Igensdorf
+4798 Weißenohe
+4799 Gräfenberg
+4800 Bayreuth-St Georgen
+4801 Laineck
+4802 Friedrichsthal (b Bayreuth)
+4803 Döhlau
+4804 Untersteinach (Bayr)
+4805 Görschnitz
+4806 Weidenberg
+4807 Stockau
+4808 Seybothenreuth
+4809 Kemnath-Neustadt
+4810 Trabitz
+4811 Pressath
+4812 Schwarzenbach (b Pressath)
+4813 Pommelsbrunn
+4814 Hartmannshof
+4815 Etzelwang
+4816 Neukirchen (b Sulzbach-Rosenberg)
+4817 Vilseck
+4818 Freihung
+4819 Thansüß
+4820 Röthenbach (Oberpf)
+4821 Weiherhammer
+4822 Etzenricht
+4823 Neustadt (Waldnaab)
+4824 Sulzbach-Rosenberg
+4825 Sulzbach-Rosenberg Hütte
+4826 Amberg
+4827 Freihöls
+4828 Bodenwöhr Nord
+4829 Neubäu
+4830 Roding
+4831 Pösing
+4832 Cham (Oberpf)
+4833 Kothmaißling
+4834 Weiding
+4835 Arnschwang
+4836 Furth im Wald
+4837 Willmering
+4838 Waffenbrunn
+4839 Balbersdorf
+4840 Geigant
+4841 Zillendorf
+4842 Grub (Oberpf)
+4843 Waldmünchen
+4844 Chamerau
+4845 Miltach
+4846 Blaibach (Oberpf)
+4847 Bad Kötzting
+4848 Zellerthal
+4849 Grafenwiesen
+4850 Watzelsteg
+4851 Hohenwarth Campingplatz
+4852 Hohenwarth
+4853 Arrach
+4854 Frahelsbruck
+4855 Lam
+4856 Feucht
+4857 Ochenbruck
+4858 Mimberg
+4859 Burgthann
+4860 Oberferrieden
+4861 Postbauer-Heng
+4862 Pölling
+4863 Neumarkt (Oberpf)
+4864 Deining (Oberpf)
+4865 Batzhausen
+4866 Seubersdorf
+4867 Parsberg
+4868 Mausheim
+4869 Beratzhausen
+4870 Laaber
+4871 Deuerling
+4872 Undorf
+4873 Etterzhausen
+4874 Regensburg-Prüfening
+4875 Regensburg-Burgweinting
+4876 Obertraubling
+4877 Sünching
+4878 Radldorf (Niederbay)
+4879 Straubing
+4880 Straßkirchen
+4881 Plattling
+4882 Osterhofen (Niederbay)
+4883 Vilshofen (Niederbay)
+4884 Passau Hbf
+4885 Nürnberg-Dürrenhof
+4886 Nürnberg-Ostring
+4887 Nürnberg-Mögeldorf
+4888 Nürnberg-Rehhof
+4889 Nürnberg-Laufamholz
+4890 Schwaig
+4891 Röthenbach (Pegnitz)
+4892 Röthenbach-Steinberg
+4893 Röthenbach-Seespitz
+4894 Lauf West
+4895 Lauf (links Pegnitz)
+4896 Ottensoos
+4897 Henfenfeld
+4898 Hersbruck (links Pegnitz)
+4899 Nürnberg-Gleißhammer
+4900 Nürnberg-Dutzendteich
+4901 Nürnberg-Frankenstadion
+4902 Fischbach (b Nürnberg)
+4903 Feucht-Moosbach
+4904 Winkelhaid
+4905 Ludersheim
+4906 Altdorf West (b Nürnberg)
+4907 Altdorf (b Nürnberg)
+4908 Nürnberg-Steinbühl
+4909 Nürnberg-Sandreuth
+4910 Nürnberg-Eibach
+4911 Nürnberg-Reichelsdorf
+4912 Reichelsdorfer Keller
+4913 Katzwang
+4914 Schwabach-Limbach
+4915 Schwabach
+4916 Rednitzhembach
+4917 Büchenbach
+4918 Roth
+4919 Nürnberg-Rothenburgerstraße
+4920 Fürth-Unterfürberg
+4921 Fürth-Burgfarrnbach
+4922 Raindorf
+4923 Langenzenn
+4924 Hardhof
+4925 Laubendorf
+4926 Wilhermsdorf
+4927 Wilhermsdorf-Mitte
+4928 Adelsdorf (Mittelfr)
+4929 Eschenbach (b Markt Erlbach)
+4930 Markt Erlbach
+4931 Puschendorf
+4932 Hagenbüchach
+4933 Nürnberg Ost
+4934 Nürnberg-Erlenstegen
+4935 Behringersdorf
+4936 Rückersdorf (Mittelfr)
+4937 Ludwigshöhe
+4938 Lauf (rechts Pegnitz)
+4939 Neunkirchen a Sand
+4940 Speikern
+4941 Rollhofen
+4942 Schnaittach Markt
+4943 Hedersdorf
+4944 Simmelsdorf-Hüttenbach
+4945 Reichenschwand
+4946 Hohenstadt (Mittelfr)
+4947 Vorra (Pegnitz)
+4948 Rupprechtstegen
+4949 Velden (b Hersbruck)
+4950 Nürnberg-Schweinau
+4951 Nürnberg-Stein
+4952 Unterasbach
+4953 Oberasbach
+4954 Anwanden
+4955 Roßtal
+4956 Roßtal-Wegbrücke
+4957 Raitersaich
+4958 Heilsbronn
+4959 Wicklesgreuth
+4960 Sachsen (b Ansbach)
+4961 Schnelldorf
+4962 Allersberg (Rothsee)
+4963 Kinding (Altmühltal)
+4964 Ingolstadt Nord
+4965 Ingolstadt Hbf
+4966 Pankofen
+4967 Deggendorf Hbf
+4968 Gotteszell
+4969 Triefenried
+4970 Regen
+4971 Bettmannsäge
+4972 Zwiesel (Bay)
+4973 Ludwigsthal
+4974 Bayerisch Eisenstein
+4975 Lichtenthal
+4976 Zwieselau
+4977 Frauenau
+4978 Klingenbrunn
+4979 Spiegelau
+4980 Großarmschlag
+4981 Rosenau (b Grafenau)
+4982 Grafenau
+4983 Außenried
+4984 Langdorf
+4985 Böhmhof
+4986 Bodenmais
+4987 Augsburg Hbf
+4988 Augsburg-Oberhausen
+4989 Gersthofen
+4990 Gablingen
+4991 Langweid (Lech)
+4992 Herbertshofen
+4993 Meitingen
+4994 Westendorf
+4995 Nordendorf
+4996 Mertingen Bahnhof
+4997 Bäumenheim
+4998 Donauwörth
+4999 Otting-Weilheim
+5000 Treuchtlingen
+5001 Weißenburg (Bay)
+5002 Ellingen (Bay)
+5003 Pleinfeld
+5004 Mühlstetten
+5005 Georgensgmünd
+5006 Unterheckenhofen
+5007 Lohgarten-Roth
+5008 Eckersmühlen
+5009 Hilpoltstein
+5010 Ramsberg
+5011 Langlau
+5012 Gunzenhausen
+5013 Winterhausen
+5014 Goßmannsdorf
+5015 Ochsenfurt
+5016 Marktbreit
+5017 Uffenheim
+5018 Oberdachstetten
+5019 Triesdorf
+5020 Muhr am See
+5021 Hartershofen
+5022 Schweinsdorf
+5023 Rothenburg ob der Tauber
+5024 Petersaurach
+5025 Neuendettelsau
+5026 Windsbach
+5027 München Hbf
+5028 Freising
+5029 Marzling
+5030 Langenbach (Oberbay)
+5031 Moosburg
+5032 Bruckberg
+5033 Gündlkofen
+5034 Landshut (Bay) Hbf
+5035 Ergoldsbach
+5036 Neufahrn (Niederbay)
+5037 Eggmühl
+5038 Hagelstadt
+5039 Köfering
+5040 Otzing
+5041 Wallersdorf
+5042 Landau (Isar)
+5043 Dingolfing
+5044 Wörth (Isar)
+5045 Oberlindhart
+5046 Niederlindhart
+5047 Mallersdorf
+5048 Laberweinting
+5049 Sallach
+5050 Geiselhöring
+5051 Perkam
+5052 Straubing Ost
+5053 Ittling
+5054 Sand (Niederbay)
+5055 Bogen
+5056 München Ost
+5057 Markt Schwaben
+5058 Hörlkofen
+5059 Walpertskirchen
+5060 Thann-Matzbach
+5061 Dorfen Bahnhof
+5062 Schwindegg
+5063 Weidenbach
+5064 Ampfing
+5065 Mühldorf (Oberbay)
+5066 Töging (Inn)
+5067 Neuötting
+5068 Marktl
+5069 Julbach
+5070 Simbach (Inn)
+5071 Tüßling
+5072 Heiligenstatt (Obb)
+5073 Altötting
+5074 Kastl (Oberbay)
+5075 Gendorf
+5076 Burgkirchen
+5077 Burghausen (Oberbay)
+5078 Waldkraiburg
+5079 Jettenbach
+5080 Mittergars
+5081 Gars (Inn)
+5082 Soyen
+5083 Wasserburg (Inn) Bahnhof
+5084 Ramerberg
+5085 Rott (Inn)
+5086 Schechen
+5087 Rosenheim
+5088 Landshut (Bay) Süd
+5089 Geisenhausen
+5090 Vilsbiburg
+5091 Aich (Niederbay)
+5092 Egglkofen
+5093 Neumarkt-St Veit
+5094 Rohrbach (Oberbay)
+5095 Garching
+5096 Kirchweidach
+5097 Tittmoning-Wiesmühl
+5098 Fridolfing
+5099 Kirchanschöring
+5100 Laufen (Oberbay)
+5101 Freilassing
+5102 Salzburg Hbf
+5103 Neustift (b Passau)
+5104 Neukirchen (Inn)
+5105 Fürstenzell
+5106 Bad Höhenstadt
+5107 Engertsham
+5108 Sulzbach (Inn)
+5109 Ruhstorf
+5110 Pocking
+5111 Karpfham
+5112 Bayerbach
+5113 Bad Birnbach
+5114 Anzenkirchen
+5115 Pfarrkirchen
+5116 Hebertsfelden
+5117 Eggenfelden Mitte
+5118 Eggenfelden
+5119 Massing
+5120 Trostberg
+5121 Wiesmühl (Alz)
+5122 Tacherting
+5123 Schalchen
+5124 Altenmarkt (Alz)
+5125 Stein (Traun)
+5126 Hörpolding
+5127 Matzing
+5128 Bad Empfing
+5129 Traunstein
+5130 Grafing Bahnhof
+5131 Grafing Stadt
+5132 Ebersberg (Oberbay)
+5133 Steinhöring
+5134 Tulling
+5135 Forsting
+5136 Brandstätt
+5137 Edling
+5138 Traunreut
+5139 Aßling (Oberbay)
+5140 Ostermünchen
+5141 Großkarolinenfeld
+5142 Pfraundorf (Inn)
+5143 Raubling
+5144 Brannenburg
+5145 Flintsbach
+5146 Oberaudorf
+5147 Kiefersfelden
+5148 Kufstein
+5149 Bad Endorf (Oberbay)
+5150 Prien am Chiemsee
+5151 Bernau a. Chiemsee
+5152 Übersee
+5153 Bergen (Oberbay)
+5154 Teisendorf
+5155 Urschalling
+5156 Vachendorf
+5157 Umrathshausen Bahnhof
+5158 Umrathshausen Ort
+5159 Aschau (Chiemgau)
+5160 Seiboldsdorf
+5161 Traundorf
+5162 Siegsdorf
+5163 Höpfling
+5164 Eisenärzt
+5165 Bibelöd
+5166 Ruhpolding
+5167 Ainring
+5168 Hammerau
+5169 Piding
+5170 Bad Reichenhall
+5171 Bad Reichenhall-Kirchberg
+5172 Bayerisch Gmain
+5173 Bischofswiesen
+5174 Berchtesgaden Hbf
+5175 München Donnersbergerbrücke
+5176 München Harras
+5177 München Siemenswerke
+5178 Otterfing
+5179 Holzkirchen
+5180 Darching
+5181 Miesbach
+5182 Agatharied
+5183 Hausham
+5184 Schliersee
+5185 Fischhausen-Neuhaus
+5186 Fischbachau
+5187 Geitau
+5188 Osterhofen (Oberbay)
+5189 Bayrischzell
+5190 München-Solln
+5191 Warngau
+5192 Schaftlach
+5193 Moosrain
+5194 Gmund (Tegernsee)
+5195 Tegernsee
+5196 Reichersbeuern
+5197 Bad Tölz
+5198 Gaißach
+5199 Obergries
+5200 Lenggries
+5201 Kreuzstraße
+5202 Westerham
+5203 Bruckmühl
+5204 Heufeldmühle
+5205 Heufeld
+5206 Bad Aibling
+5207 Kolbermoor
+5208 Hufschlag
+5209 Weibhausen
+5210 Kirchhalling
+5211 Unteraschau
+5212 Otting
+5213 Waging
+5214 München-Pasing
+5215 Tutzing
+5216 Weilheim (Oberbay)
+5217 Huglfing
+5218 Uffing am Staffelsee
+5219 Murnau
+5220 Ohlstadt
+5221 Eschenlohe
+5222 Oberau
+5223 Garmisch-Partenkirchen
+5224 Klais
+5225 Mittenwald
+5226 Starnberg
+5227 Bernried
+5228 Seeshaupt
+5229 Iffeldorf
+5230 Penzberg Pbf
+5231 Bichl
+5232 Benediktbeuern
+5233 Kochel
+5234 Peißenberg Nord
+5235 Peißenberg
+5236 Hohenpeißenberg
+5237 Peiting Ost
+5238 Peiting Nord
+5239 Schongau
+5240 Murnau Ort
+5241 Seeleiten-Berggeist
+5242 Grafenaschau
+5243 Jägerhaus
+5244 Bad Kohlgrub
+5245 Bad Kohlgrub Kurhaus
+5246 Saulgrub
+5247 Altenau (Bay)
+5248 Unterammergau
+5249 Oberammergau
+5250 Geltendorf
+5251 Kaufering
+5252 Buchloe
+5253 Kaufbeuren
+5254 Biessenhofen
+5255 Günzach
+5256 Kempten (Allgäu) Hbf
+5257 Martinszell (Allgäu)
+5258 Immenstadt
+5259 Oberstaufen
+5260 Röthenbach (Allgäu)
+5261 Heimenkirch
+5262 Augsburg Morellstraße
+5263 Augsburg Messe
+5264 Inningen
+5265 Bobingen
+5266 Schwabmünchen
+5267 Türkheim (Bay) Bahnhof
+5268 Mindelheim
+5269 Stetten (Schwab)
+5270 Sontheim (Schwab)
+5271 Ungerhausen
+5272 Marstetten-Aitrach
+5273 Aichstetten
+5274 Leutkirch
+5275 Füssen
+5276 Weizern-Hopferau
+5277 Seeg
+5278 Lengenwang
+5279 Leuterschach
+5280 Marktoberdorf Schule
+5281 Marktoberdorf
+5282 Ebenhofen
+5283 Bad Grönenbach
+5284 Dietmannsried
+5285 Kempten (Allgäu) Ost
+5286 Blaichach (Allgäu)
+5287 Sonthofen
+5288 Altstädten (Allgäu)
+5289 Fischen
+5290 Langenwang (Schwab)
+5291 Oberstdorf
+5292 St. Mang
+5293 Durach
+5294 Sulzberg
+5295 Jodbad Sulzbrunn
+5296 Bodelsberg
+5297 Zollhaus-Petersthal
+5298 Oy-Mittelberg
+5299 Wertach-Haslach
+5300 Maria Rain
+5301 Nesselwang
+5302 Pfronten-Weißbach
+5303 Pfronten-Ried
+5304 Pfronten-Steinach
+5305 Schönbichl
+5306 Vils
+5307 Ulrichsbrücke-Füssen [6]
+5308 Musau
+5309 Pflach
+5310 Reutte in Tirol
+5311 Reutte in Tirol Schulzentrum
+5312 Bad Kreckelmoos
+5313 Heiterwang-Plansee
+5314 Bichlbach-Almkopfbahn
+5315 Bichlbach-Berwang [5]
+5316 Lähn
+5317 Lermoos
+5318 Ehrwald Zugspitzbahn
+5319 Griesen (Oberbay)
+5320 Untergrainau
+5321 Günzburg
+5322 Wasserburg (Günz)
+5323 Kleinkötz
+5324 Hochwang
+5325 Ichenhausen
+5326 Ellzee
+5327 Neuburg (Kammel)
+5328 Hirschfelden
+5329 Billenhausen
+5330 Krumbach (Schwab)
+5331 Krumbach (Schwab) Schule
+5332 Niederraunau
+5333 Aletshausen
+5334 Haupeltshofen
+5335 Loppenhausen
+5336 Breitenbrunn (Schwab)
+5337 Weilbach
+5338 Pfaffenhausen
+5339 Hausen (Schwab)
+5340 Nassenbeuren
+5341 Mammendorf
+5342 Haspelmoor
+5343 Althegnenberg
+5344 Mering
+5345 Kissing
+5346 Augsburg-Hochzoll
+5347 Augsburg Haunstetterstraße
+5348 Neusäß
+5349 Westheim (Schwab)
+5350 Diedorf (Schwab)
+5351 Gessertshausen
+5352 Kutzenhausen
+5353 Dinkelscherben
+5354 Freihalden
+5355 Jettingen
+5356 Burgau (Schwab)
+5357 Mindelaltheim
+5358 Offingen
+5359 Leipheim
+5360 Nersingen
+5361 Friedberg (b Augsburg)
+5362 Dasing
+5363 Obergriesbach
+5364 Aichach
+5365 Radersdorf
+5366 Schrobenhausen
+5367 Merching
+5368 Schmiechen (Oberbay)
+5369 Egling
+5370 Walleshausen
+5371 St. Ottilien
+5372 Schondorf (Bay)
+5373 Utting
+5374 Riederau
+5375 St. Alban
+5376 Dießen
+5377 Raisting
+5378 Oberottmarshausen
+5379 Lagerlechfeld
+5380 Klosterlechfeld
+5381 Landsberg (Lech) Schule
+5382 Landsberg (Lech)
+5383 Bad Wörishofen
+5384 Pappenheim
+5385 Solnhofen
+5386 Dollnstein
+5387 Eichstätt Bahnhof
+5388 Adelschlag
+5389 Tauberfeld
+5390 Eitensheim
+5391 Gaimersheim
+5392 Reichertshofen (Oberbay)
+5393 Rohrbach (Ilm)
+5394 Pfaffenhofen (Ilm)
+5395 Reichertshausen (Ilm)
+5396 Paindorf
+5397 Petershausen (Oberbay)
+5398 Dachau Bahnhof
+5399 Wasserzell (b Eichstätt)
+5400 Rebdorf-Hofmühle
+5401 Eichstätt Stadt
+5402 Gundelfingen (Bay)
+5403 Lauingen
+5404 Dillingen (Donau)
+5405 Höchstädt (Donau)
+5406 Blindheim
+5407 Schwenningen (Bay)
+5408 Tapfheim
+5409 Genderkingen
+5410 Rain
+5411 Burgheim
+5412 Straß-Moos
+5413 Unterhausen (Bay)
+5414 Neuburg (Donau)
+5415 Rohrenfeld
+5416 Weichering
+5417 Ernsgaden
+5418 Vohburg
+5419 Münchsmünster
+5420 Neustadt (Donau)
+5421 Abensberg
+5422 Saal (Donau)
+5423 Bad Abbach
+5424 Poikam
+5425 Gundelshausen
+5426 Sinzing (b Regensburg)
+5427 Westhausen
+5428 Lauchheim
+5429 Bopfingen
+5430 Trochtelfingen (Bopf)
+5431 Pflaumloch
+5432 Nördlingen
+5433 Möttingen
+5434 Hoppingen
+5435 Harburg (Schwab)
+5436 Ebermergen
+5437 Wörnitzstein
+5438 Flughafen München
+5439 Flughafen München Besucherpark
+5440 Neufahrn (b Freising)
+5441 Pulling (b Freising)
+5442 Eching
+5443 Lohhof
+5444 Unterschleißheim
+5445 Oberschleißheim
+5446 München-Feldmoching
+5447 München-Fasanerie
+5448 München-Moosach
+5449 München-Laim Pbf
+5450 München-Hackerbrücke
+5451 München Hbf  (tief)
+5452 München Karlsplatz
+5453 München Marienplatz
+5454 München Isartor
+5455 München Rosenheimer Platz
+5456 Vierkirchen-Esterhofen
+5457 Röhrmoos
+5458 Hebertshausen
+5459 München-Karlsfeld
+5460 München-Allach
+5461 München-Untermenzing
+5462 München-Obermenzing
+5463 München Leuchtenbergring
+5464 München-Berg am Laim
+5465 München-Riem Pbf
+5466 Feldkirchen (b München)
+5467 Heimstetten
+5468 Grub (Oberbay)
+5469 Poing
+5470 Ottenhofen (Oberbay)
+5471 St. Koloman
+5472 Aufhausen (b Erding)
+5473 Altenerding
+5474 Erding
+5475 München Heimeranplatz
+5476 München-Mittersendling
+5477 Deisenhofen
+5478 Dachau Stadt
+5479 Bachern
+5480 Schwabhausen (b Dachau)
+5481 Niederroth
+5482 Markt Indersdorf
+5483 Arnbach
+5484 Erdweg
+5485 Kleinberghofen
+5486 Altomünster
+5487 Malching (Oberbay)
+5488 Maisach
+5489 Gernlinden
+5490 Esting
+5491 Olching
+5492 Gröbenzell
+5493 München-Lochhausen
+5494 München-Langwied
+5495 München-Trudering
+5496 Gronsdorf
+5497 Haar
+5498 Vaterstetten
+5499 Baldham
+5500 Zorneding
+5501 Eglharting
+5502 Kirchseeon
+5503 Herrsching
+5504 Seefeld-Hechendorf
+5505 Steinebach
+5506 Weßling (Oberbay)
+5507 Neugilching
+5508 Gilching-Argelsried
+5509 Geisenbrunn
+5510 Germering-Unterpfaffenhofen
+5511 Harthaus
+5512 München-Neuaubing
+5513 München-Westkreuz
+5514 München St Martin Straße
+5515 München-Giesing
+5516 München-Fasangarten
+5517 Fasanenpark
+5518 Unterhaching
+5519 Taufkirchen
+5520 Furth (b Deisenhofen)
+5521 Sauerlach
+5522 Feldafing
+5523 Possenhofen
+5524 Starnberg-Nord
+5525 Gauting
+5526 Stockdorf
+5527 Planegg (Krailling)
+5528 Gräfelfing
+5529 Lochham
+5530 München-Perlach
+5531 München-Neuperlach Süd
+5532 Neubiberg
+5533 Ottobrunn
+5534 Hohenbrunn
+5535 Wächterhof
+5536 Höhenkirchen-Siegertsbrunn
+5537 Dürrnhaar
+5538 Aying
+5539 Peiß
+5540 Großhelfendorf
+5541 Wolfratshausen
+5542 Icking
+5543 Ebenhausen-Schäftlarn
+5544 Hohenschäftlarn
+5545 Baierbrunn
+5546 Buchenhain
+5547 Höllriegelskreuth
+5548 Pullach
+5549 Großhesselohe Isartalbahnhof
+5550 Türkenfeld
+5551 Grafrath
+5552 Schöngeising
+5553 Buchenau (Oberbay)
+5554 Fürstenfeldbruck
+5555 Eichenau (Oberbay)
+5556 Puchheim
+5557 München-Aubing
+5558 München Leienfelsstraße
+5559 München-Daglfing
+5560 München-Englschalking
+5561 München-Johanneskirchen
+5562 Unterföhring
+5563 Ismaning
+5564 Hallbergmoos
+5565 Fladungen
+5566 Nordheim v Rhön
+5567 Ostheim v Rhön
+5568 Stockheim (Unterfr)
+5569 Mellrichstadt
+5570 Seligenstadt Mainschleifenbahn
+5571 Prosselsheim
+5572 Eisenheim
+5573 Escherndorf-Vogelsburg
+5574 Volkach-Astheim
+5575 Volkach (Main)
+5576 Gasseldorf
+5577 Streitberg
+5578 Muggendorf
+5579 Burggaillenreuth
+5580 Gößweinstein
+5581 Behringersmühle
+5582 Steinwiesen
+5583 Mauthaus
+5584 Dürrenwald
+5585 Nordhalben
+5586 Fischhaus
+5587 Kalteneck
+5588 Fürsteneck
+5589 Röhrnbach
+5590 Waldkirchen
+5591 Freyung
+5592 Ruhmannsfelden
+5593 Patersdorf
+5594 Teisnach
+5595 Böbrach
+5596 Gumpenried-Asbach
+5597 Nußberg-Schönau
+5598 Gstadt (Wanderbahn)
+5599 Schnitzmühle
+5600 Viechtach
+5601 Schierling
+5602 Langquaid
+5603 Wachtl
+5604 Bad Endorf - Flugplatz
+5605 Halfing
+5606 Amerang
+5607 Aindorf
+5608 Pittenhart
+5609 Obing am See
+5610 Westheim
+5611 Diedorf
+5612 Fremdingen
+5613 Wilburgstetten
+5614 Dinkelsbühl
+5615 Feuchtwangen
+5616 Oettingen (Bay)
+5617 Waßertrüdingen
+*Edges
+1 2 5
+2 3 2
+3 4 16
+4 5 5
+5 6 2
+6 7 14
+7 8 3
+8 9 7
+9 10 7
+10 11 7
+11 12 14
+12 13 8
+13 14 11
+14 15 2
+15 16 8
+16 17 4
+17 18 7
+18 19 6
+19 20 1
+20 21 1
+21 22 11
+22 23 5
+23 24 7
+24 25 11
+25 26 23
+26 27 14
+27 28 16
+29 30 3
+30 31 3
+31 32 1
+32 33 2
+33 34 2
+34 35 1
+35 36 2
+36 37 2
+37 1 2
+1 38 1
+38 39 1
+39 40 1
+40 41 1
+41 42 1
+42 3 1
+3 43 1
+43 44 2
+44 45 1
+45 46 1
+46 47 0
+47 48 2
+48 49 1
+49 50 2
+50 51 1
+51 52 2
+52 53 1
+53 54 1
+54 55 2
+1 56 3
+56 57 2
+57 2 1
+43 58 30
+58 59 2
+59 60 2
+60 61 3
+61 62 2
+62 63 2
+63 4 2
+64 65 1
+65 66 1
+66 67 2
+67 68 1
+68 56 1
+4 69 3
+69 70 2
+70 5 2
+71 72 1
+72 73 2
+73 74 3
+74 64 2
+68 1 2
+3 75 1
+75 76 3
+76 77 3
+77 78 5
+78 79 1
+79 80 1
+80 81 6
+81 82 2
+82 83 2
+83 84 3
+84 85 6
+85 86 4
+86 87 5
+87 88 4
+88 89 3
+89 90 5
+1 71 15
+71 91 3
+91 92 4
+92 93 8
+93 94 12
+94 95 4
+95 96 7
+96 97 6
+97 98 5
+3 45 4
+45 99 2
+99 100 3
+100 101 3
+101 102 9
+102 103 8
+103 104 5
+104 105 6
+105 106 8
+106 107 15
+107 108 10
+108 109 8
+109 110 2
+110 111 1
+3 78 12
+78 112 4
+112 113 3
+113 114 4
+114 115 3
+115 116 4
+116 117 7
+117 118 7
+118 119 5
+119 120 13
+120 121 10
+121 122 13
+122 123 10
+123 124 13
+124 125 11
+125 126 18
+126 127 19
+127 128 5
+128 129 6
+129 130 11
+119 131 5
+131 132 7
+132 133 5
+133 134 6
+134 135 4
+135 136 6
+136 137 4
+137 138 10
+138 139 6
+122 140 9
+140 141 5
+141 142 8
+142 143 12
+143 144 6
+144 145 4
+145 146 3
+146 147 3
+147 148 6
+148 149 5
+149 150 5
+150 151 3
+151 152 8
+152 153 4
+153 154 14
+154 155 4
+156 157 17
+157 158 12
+158 159 27
+159 160 18
+160 161 18
+161 162 12
+162 163 10
+163 122 12
+78 164 8
+164 165 6
+165 166 6
+166 167 5
+167 168 6
+168 169 14
+169 170 6
+170 171 10
+171 172 9
+172 173 8
+173 174 8
+174 175 6
+175 156 11
+176 177 14
+177 178 12
+178 179 4
+179 180 8
+180 181 6
+181 182 6
+182 183 4
+183 90 8
+90 89 5
+89 88 3
+88 87 4
+87 86 5
+86 85 4
+85 84 6
+84 83 3
+83 82 2
+82 81 2
+81 80 6
+80 79 1
+79 78 1
+78 77 5
+77 76 3
+76 75 3
+75 3 1
+85 184 75
+184 185 3
+166 186 2
+186 187 4
+187 188 2
+188 189 3
+189 190 7
+190 191 9
+191 192 4
+192 193 7
+193 194 3
+194 160 4
+160 195 11
+195 196 7
+196 197 8
+197 198 11
+198 199 4
+199 200 3
+200 201 4
+201 202 9
+202 203 5
+203 204 4
+204 129 7
+171 205 27
+205 206 7
+206 207 8
+207 208 16
+208 209 21
+209 210 16
+210 211 16
+176 212 12
+212 213 11
+213 214 6
+214 215 11
+215 185 3
+185 184 4
+184 216 5
+216 217 7
+217 218 5
+218 219 7
+219 220 7
+220 221 7
+221 222 5
+222 223 4
+223 224 4
+224 225 5
+225 156 3
+226 227 1
+227 228 2
+228 229 1
+229 223 1
+156 230 5
+230 231 4
+231 157 6
+157 232 4
+232 233 3
+233 158 6
+158 205 7
+98 234 10
+234 235 17
+235 236 10
+236 237 10
+237 238 13
+238 239 17
+239 240 6
+240 241 11
+241 242 19
+242 243 7
+243 244 14
+244 245 13
+245 246 18
+246 247 4
+247 248 4
+249 250 15
+250 251 25
+251 252 11
+252 253 13
+253 254 11
+254 255 12
+255 256 9
+256 257 5
+249 258 3
+258 259 4
+259 260 7
+260 261 9
+261 262 6
+262 263 2
+263 264 5
+264 265 4
+265 266 4
+266 267 5
+267 268 8
+268 238 6
+238 269 8
+269 270 4
+270 271 2
+271 272 2
+272 273 2
+273 274 6
+241 254 26
+254 253 11
+253 252 13
+252 251 11
+251 275 23
+275 276 17
+241 277 12
+277 278 3
+278 279 6
+279 280 5
+280 281 3
+281 282 3
+282 283 2
+283 284 3
+284 285 4
+285 286 3
+107 287 6
+287 288 10
+288 289 3
+289 290 4
+290 291 3
+291 292 4
+292 293 17
+293 294 7
+294 295 18
+295 296 18
+249 297 16
+297 298 3
+298 299 4
+299 300 3
+300 301 4
+301 302 17
+302 303 7
+303 105 18
+119 304 12
+304 305 4
+305 9 3
+9 306 4
+306 307 3
+307 308 4
+308 107 17
+287 309 10
+309 310 3
+310 311 4
+311 312 3
+312 313 4
+313 314 17
+314 315 7
+315 316 18
+316 276 8
+276 317 3
+317 318 13
+318 319 3
+319 320 4
+320 321 3
+321 322 4
+322 323 17
+323 324 7
+324 257 18
+325 326 5
+326 327 11
+327 328 3
+328 329 4
+329 330 3
+330 331 4
+331 332 17
+332 21 7
+21 20 18
+14 341 12
+341 342 3
+342 343 4
+343 344 3
+344 345 4
+345 346 17
+346 347 7
+347 340 18
+362 363 8
+363 364 8
+364 365 3
+389 390 6
+390 391 5
+391 392 6
+392 393 7
+393 394 3
+394 395 3
+395 396 0
+107 366 6
+366 367 4
+367 368 4
+368 369 8
+369 370 10
+370 371 7
+371 372 8
+372 373 6
+373 23 9
+26 374 14
+374 375 3
+375 376 12
+376 377 8
+377 378 6
+378 379 14
+379 380 11
+380 381 15
+381 382 4
+382 383 14
+383 384 7
+384 385 10
+385 386 5
+386 387 12
+387 388 9
+388 389 10
+389 397 2
+397 398 6
+398 399 9
+399 400 10
+28 401 2
+401 402 1
+402 403 1
+403 404 1
+404 405 1
+405 406 1
+406 407 1
+407 408 4
+408 409 1
+374 410 6
+410 411 5
+411 27 7
+27 412 5
+412 413 3
+413 414 3
+414 28 5
+28 415 1
+415 416 2
+416 417 2
+417 418 2
+418 419 2
+415 420 5
+420 421 3
+421 422 4
+422 423 8
+423 424 1
+424 425 1
+426 427 5
+427 428 3
+428 429 3
+429 430 2
+430 431 4
+431 432 5
+432 433 5
+433 434 4
+434 435 6
+435 436 4
+436 437 49
+28 447 9
+447 448 6
+448 449 5
+449 450 3
+450 451 3
+451 452 6
+452 453 2
+453 375 8
+375 374 3
+28 422 15
+422 454 5
+454 455 9
+455 456 4
+456 457 6
+457 458 9
+458 459 6
+459 460 9
+460 461 1
+461 462 8
+462 463 4
+463 464 3
+464 465 6
+465 466 6
+466 467 6
+467 468 5
+468 469 10
+469 470 7
+470 471 3
+471 472 2
+459 473 6
+473 460 3
+462 474 9
+474 475 5
+475 476 7
+476 477 10
+477 478 4
+478 479 8
+479 480 6
+468 481 10
+481 482 1
+482 483 1
+484 485 3
+485 486 1
+486 487 1
+487 488 2
+488 489 2
+489 490 44
+490 491 1
+491 492 2
+486 493 2
+493 494 2
+494 495 1
+495 496 2
+496 497 1
+497 498 2
+498 499 1
+499 500 1
+500 501 1
+501 502 1
+502 503 1
+503 504 2
+504 505 2
+505 506 1
+506 507 1
+507 490 1
+490 508 1
+508 509 1
+509 510 2
+510 511 1
+511 512 1
+512 513 1
+513 514 1
+514 515 2
+515 516 3
+516 517 1
+517 518 2
+518 519 2
+525 526 3
+526 527 3
+527 528 1
+528 529 1
+529 530 2
+530 531 3
+531 532 1
+532 533 2
+533 504 2
+512 534 2
+534 535 2
+535 536 2
+536 537 3
+537 538 3
+538 539 2
+539 540 2
+540 541 2
+541 542 2
+543 544 1
+544 545 1
+545 546 2
+546 547 1
+547 548 1
+548 532 1
+514 549 2
+549 550 1
+550 551 1
+551 552 2
+552 553 4
+553 554 2
+554 555 2
+556 557 2
+557 558 3
+558 559 5
+559 560 2
+560 561 2
+561 562 2
+562 563 2
+563 564 3
+564 565 2
+565 566 1
+566 567 1
+567 492 1
+492 568 1
+568 491 1
+491 569 1
+569 490 1
+490 489 1
+489 570 2
+570 571 1
+571 488 1
+488 572 1
+572 487 1
+487 573 1
+573 574 1
+574 575 1
+575 576 1
+576 577 1
+577 578 3
+578 579 1
+533 503 8
+503 580 17
+580 581 1
+581 582 2
+582 583 1
+583 584 1
+584 573 1
+573 585 1
+585 586 1
+586 587 2
+587 588 2
+588 589 1
+589 590 1
+590 511 1
+511 591 2
+591 592 1
+592 593 1
+593 594 2
+594 595 1
+595 549 1
+550 596 1
+596 597 2
+597 598 1
+598 599 1
+599 600 3
+600 533 20
+533 600 20
+600 599 3
+599 598 1
+598 597 1
+597 596 2
+596 566 1
+566 601 1
+601 595 1
+595 594 1
+594 593 2
+593 592 1
+592 591 1
+591 511 2
+511 590 1
+590 589 1
+589 588 1
+588 587 2
+587 586 2
+586 585 1
+585 573 1
+573 584 1
+584 583 1
+583 582 1
+582 581 2
+581 580 1
+580 503 17
+503 533 8
+602 603 2
+603 604 3
+604 605 3
+605 606 3
+606 607 2
+607 608 4
+608 609 2
+609 610 2
+610 611 3
+611 612 2
+612 613 3
+613 614 3
+614 615 2
+615 616 1
+616 566 1
+573 617 2
+617 493 8
+493 486 2
+486 618 5
+618 619 3
+619 620 2
+621 622 2
+622 623 1
+623 624 1
+624 625 1
+625 626 1
+626 614 2
+568 569 2
+627 628 1
+628 629 2
+629 626 4
+630 631 3
+631 632 5
+632 633 3
+633 634 2
+634 635 1
+635 636 2
+636 637 2
+637 596 2
+591 512 1
+536 549 8
+549 638 4
+638 639 1
+639 520 2
+640 641 2
+641 642 2
+642 633 3
+657 658 6
+658 659 1
+643 644 3
+644 645 3
+645 646 3
+646 647 3
+647 648 6
+648 649 7
+649 650 11
+650 651 15
+651 652 15
+652 653 3
+653 654 11
+654 655 10
+655 656 4
+656 657 11
+657 660 4
+660 487 40
+688 689 8
+689 690 5
+690 691 13
+691 692 9
+692 693 10
+693 694 9
+694 695 22
+695 696 4
+696 697 4
+697 698 5
+698 579 4
+579 488 13
+492 699 33
+699 700 32
+700 701 14
+701 702 11
+702 703 8
+703 704 4
+704 705 8
+705 706 4
+706 687 6
+717 718 2
+718 719 12
+719 716 9
+480 707 7
+707 708 9
+708 709 13
+709 710 13
+710 391 7
+391 389 10
+389 711 11
+711 712 14
+712 713 11
+713 714 5
+714 715 8
+715 716 13
+716 720 16
+720 721 5
+721 722 5
+722 542 22
+542 511 21
+511 489 5
+489 506 3
+506 533 5
+533 546 5
+546 525 26
+525 723 1
+723 724 4
+724 725 3
+725 726 3
+726 727 6
+727 728 3
+728 729 9
+729 730 4
+730 731 7
+731 732 6
+732 733 8
+733 734 9
+734 735 18
+735 736 6
+736 737 7
+737 738 7
+426 739 6
+739 740 3
+740 741 2
+741 23 5
+23 22 5
+22 21 11
+20 19 3
+19 18 4
+18 17 2
+17 742 5
+742 743 7
+743 744 5
+744 343 13
+343 745 7
+745 746 20
+746 747 17
+747 748 14
+748 749 11
+749 750 10
+750 751 16
+751 752 14
+752 753 13
+753 754 13
+754 755 14
+755 579 8
+579 587 6
+587 489 6
+546 756 5
+756 757 4
+757 758 4
+758 759 2
+759 760 25
+760 761 13
+462 762 8
+762 763 3
+763 764 3
+764 765 9
+765 766 7
+766 767 17
+767 768 6
+768 769 4
+769 770 4
+770 771 13
+771 383 15
+383 772 8
+772 773 8
+773 774 4
+774 362 15
+761 782 6
+782 783 10
+783 784 8
+784 785 13
+785 786 12
+28 374 34
+374 358 51
+358 362 36
+362 775 20
+775 776 12
+776 777 9
+777 778 12
+778 524 17
+524 511 27
+546 759 15
+759 779 6
+779 780 4
+780 781 12
+781 760 3
+761 787 6
+787 788 6
+788 789 4
+789 790 4
+790 791 4
+791 792 2
+792 793 6
+747 794 4
+794 795 7
+795 796 15
+796 797 9
+797 798 11
+798 799 4
+799 800 5
+800 801 6
+801 802 6
+802 803 10
+803 804 6
+804 805 10
+805 806 1
+806 807 11
+807 808 10
+808 809 6
+809 810 4
+810 811 2
+811 812 3
+812 813 3
+813 555 6
+555 755 22
+814 815 5
+815 816 11
+816 817 3
+817 818 9
+818 819 7
+819 820 12
+820 821 7
+821 822 5
+822 823 6
+823 824 6
+824 825 5
+825 826 4
+826 827 3
+827 484 4
+492 563 7
+563 640 11
+640 525 9
+830 831 2
+831 832 2
+832 833 2
+833 834 1
+834 835 2
+835 836 2
+836 837 2
+837 829 2
+829 838 10
+838 839 16
+839 840 11
+840 841 5
+841 842 56
+842 843 4
+843 844 5
+844 738 4
+738 845 2
+828 829 12
+838 840 9
+841 846 11
+846 847 10
+847 848 12
+848 849 13
+849 850 2
+850 851 10
+851 852 7
+852 687 13
+754 853 9
+853 854 4
+854 755 2
+755 855 2
+855 856 1
+856 579 4
+579 487 8
+615 628 7
+628 524 29
+524 857 2
+857 858 5
+858 859 6
+859 778 3
+778 860 7
+860 861 6
+861 862 4
+862 863 5
+863 864 5
+864 865 6
+865 866 1
+640 699 25
+699 867 3
+867 868 3
+868 869 10
+869 870 6
+870 871 4
+871 700 5
+700 872 5
+872 873 5
+873 701 5
+702 874 15
+874 875 10
+875 876 7
+876 850 7
+850 849 2
+849 877 13
+877 878 6
+878 879 2
+879 880 7
+524 521 8
+521 881 2
+881 555 6
+555 660 38
+660 658 4
+659 620 2
+618 620 4
+620 659 2
+659 658 1
+658 660 4
+660 882 6
+882 883 6
+883 695 5
+660 884 18
+884 885 10
+885 640 19
+659 886 3
+886 887 3
+887 888 1
+888 889 5
+889 825 6
+615 621 10
+621 890 1
+890 891 1
+891 892 3
+892 893 5
+893 894 5
+615 605 23
+605 895 3
+895 896 3
+896 897 9
+897 898 5
+898 899 3
+899 900 5
+900 901 5
+901 902 3
+902 903 8
+903 904 3
+904 905 3
+486 485 6
+485 484 3
+484 827 4
+827 826 3
+826 906 9
+906 907 4
+907 908 5
+908 909 11
+909 910 2
+910 911 11
+911 761 8
+912 913 6
+913 663 3
+669 914 2
+914 915 7
+915 916 5
+916 917 6
+917 918 4
+918 919 3
+919 920 4
+920 921 2
+921 922 6
+922 923 5
+923 924 8
+924 925 4
+925 926 4
+926 927 4
+927 928 6
+928 929 4
+929 930 1
+930 931 5
+931 699 3
+699 635 20
+687 932 5
+932 874 19
+874 933 8
+933 934 14
+934 735 10
+735 935 7
+935 936 8
+936 937 4
+937 786 4
+687 686 3
+686 938 11
+938 939 8
+654 940 4
+940 941 3
+941 942 7
+942 943 2
+943 944 5
+944 945 3
+945 946 1
+946 947 5
+947 692 4
+722 721 5
+721 951 14
+951 952 6
+952 953 2
+953 954 3
+628 542 17
+542 948 6
+948 949 5
+949 950 2
+950 722 10
+722 955 10
+955 956 3
+956 957 6
+957 958 4
+958 959 7
+959 960 9
+960 961 9
+961 902 9
+902 962 4
+962 963 11
+963 669 14
+964 965 7
+965 966 4
+966 967 5
+967 968 5
+968 716 19
+669 670 9
+670 671 1
+671 672 3
+672 673 4
+673 674 6
+674 675 6
+675 676 6
+676 677 6
+677 678 7
+678 679 9
+679 680 7
+680 681 3
+681 682 4
+682 683 5
+683 684 18
+684 685 13
+685 686 2
+686 687 3
+969 970 6
+970 971 2
+971 972 2
+972 973 4
+973 974 2
+974 975 9
+975 976 2
+976 977 6
+977 978 6
+978 979 13
+979 980 6
+980 786 13
+786 735 23
+735 934 10
+934 874 22
+874 687 24
+815 981 2
+981 982 9
+982 983 6
+983 984 4
+984 985 4
+985 986 2
+986 987 2
+987 793 2
+793 988 7
+988 989 6
+989 990 10
+990 991 9
+991 992 13
+992 786 9
+975 993 8
+993 994 6
+994 995 2
+995 996 6
+996 997 6
+997 998 3
+998 999 4
+999 1000 2
+1000 1001 5
+1001 1002 7
+1003 1004 7
+1004 1005 8
+1005 1006 8
+1006 1007 8
+1007 1008 3
+1008 1009 16
+1009 1010 5
+1010 1011 3
+1011 1012 5
+1012 1013 6
+1013 1014 16
+1014 1015 8
+1015 1016 10
+1016 1017 10
+1017 1018 4
+1018 1019 5
+1019 687 5
+848 877 10
+828 1020 3
+1020 1021 4
+1021 1022 4
+1022 1023 1
+1023 1024 2
+1024 1025 2
+1025 1026 1
+1026 1027 1
+1027 1028 7
+1028 1029 2
+1021 1030 4
+1030 1031 6
+1031 1032 5
+1032 1033 2
+1033 1034 2
+1034 1035 3
+1035 1036 6
+1036 1037 6
+880 879 7
+879 878 2
+878 877 6
+877 848 10
+848 1038 10
+1038 1039 9
+1039 845 7
+845 1040 10
+1040 786 14
+786 1041 7
+1041 980 6
+980 979 5
+979 978 13
+978 977 6
+977 976 6
+976 975 2
+975 972 15
+972 969 10
+1009 1042 31
+1042 1043 6
+1043 1044 4
+1044 1045 9
+1045 1046 6
+1046 1047 9
+1047 1048 10
+1048 880 4
+830 1049 2
+1049 828 2
+1032 1050 8
+1050 1051 4
+1051 1052 3
+1052 1053 5
+1053 1054 6
+1054 1055 8
+1055 1056 7
+1056 1057 5
+1057 1058 4
+1058 1059 6
+1059 1060 6
+1060 1061 4
+1061 1062 4
+1062 1063 6
+1063 1008 4
+830 1064 1
+1064 1049 1
+1052 1065 4
+1065 1066 2
+1066 1067 4
+1067 1068 4
+1068 1069 5
+1069 1070 3
+1070 1071 3
+1071 1072 4
+1072 1073 3
+1073 1074 6
+1074 1075 4
+1075 1076 3
+1076 1077 4
+1077 1078 3
+1078 1079 2
+1079 1080 4
+1080 1003 6
+1003 1080 6
+1080 1081 4
+1081 1082 4
+1082 1083 8
+1083 1084 4
+1084 1076 4
+1090 1091 2
+1091 1092 2
+1003 1085 1
+1085 1086 1
+1086 1087 2
+1087 1088 1
+1088 1089 2
+1089 1090 2
+1090 1093 1
+1093 1094 1
+1094 1095 2
+845 738 2
+738 844 4
+844 843 5
+843 842 4
+842 841 6
+841 840 5
+840 839 11
+839 838 4
+838 829 2
+829 837 2
+837 836 2
+836 835 2
+835 834 2
+834 833 1
+833 832 2
+832 831 2
+831 830 2
+1096 1097 2
+1097 1098 6
+1098 829 4
+829 1099 2
+1099 1100 2
+1100 1101 2
+1101 1102 2
+1102 1103 2
+1103 1104 2
+1104 828 2
+828 1049 2
+1049 1064 1
+1064 830 1
+830 1105 2
+1105 1106 3
+1106 1107 1
+1107 1108 2
+1108 1109 1
+1109 1110 2
+1110 1111 1
+1111 1112 2
+1112 1113 3
+1113 1114 5
+1114 1115 4
+1115 1116 4
+1116 1117 6
+1117 1118 4
+1118 1119 1
+1119 1120 6
+1120 1121 1
+1113 1112 3
+1112 1111 2
+1111 1110 1
+1110 1109 2
+1109 1108 1
+1108 1107 2
+1107 1106 1
+1106 1105 3
+1105 830 2
+1021 1122 3
+1122 1123 1
+1110 1124 3
+1124 1125 2
+1125 1126 1
+1126 1127 2
+1127 1128 3
+1128 1129 3
+1129 1130 2
+1130 1131 3
+1131 1132 3
+1132 1133 4
+1133 1134 2
+1134 1135 2
+1135 1136 2
+1136 1137 5
+1138 1139 5
+1139 1140 2
+1140 1141 3
+1141 1142 3
+1142 1143 3
+1143 1144 6
+1144 1145 4
+1145 1146 2
+1146 1113 1
+1118 1147 2
+1147 1148 2
+1148 1149 2
+1149 1150 3
+1150 1151 2
+1151 1152 4
+1152 1153 2
+1153 1154 6
+1154 1138 4
+969 1155 6
+1155 1156 5
+1156 1157 5
+1157 1158 5
+1158 1159 6
+1159 1160 6
+814 1161 4
+1161 1162 7
+1162 1163 4
+1163 1164 4
+1164 1165 2
+1165 1166 2
+1166 1160 3
+1160 1167 7
+1167 1168 4
+1168 1169 4
+1169 1170 6
+1170 1002 9
+646 1171 4
+1171 1172 4
+1172 1173 5
+1173 1174 6
+1174 1175 2
+1175 1176 4
+1176 1177 8
+1177 1178 4
+1178 1179 7
+1179 815 2
+815 814 5
+646 1180 4
+1180 1181 4
+1181 1182 2
+1182 1183 2
+1183 1184 4
+1184 1185 6
+1185 1186 5
+657 488 33
+688 1187 1
+1187 1188 2
+1188 1189 4
+1189 1190 2
+1190 1191 1
+130 1192 16
+1192 1193 9
+1193 1194 7
+1194 1195 4
+1195 1196 6
+1196 1197 8
+1197 151 8
+151 1198 6
+1198 1199 6
+1199 1200 5
+155 1201 7
+1201 1199 20
+1200 1202 13
+1202 1203 10
+1203 1204 6
+1204 1205 6
+1205 1206 8
+1206 1207 6
+1207 1208 7
+1208 1209 6
+1209 1210 6
+1210 688 7
+644 1211 2
+1211 1212 9
+1212 1213 5
+1213 1214 9
+1214 1215 6
+1215 1216 5
+1216 1217 10
+1217 1218 9
+1218 688 5
+688 1219 8
+1219 1220 5
+1220 1221 11
+1221 1222 11
+1222 1223 8
+1223 1224 6
+1224 747 24
+1202 1225 6
+1225 1226 4
+1226 1227 6
+1227 1228 6
+1228 1229 13
+1229 1230 7
+1230 1231 3
+1231 1232 4
+1232 1233 4
+1233 1211 6
+1211 644 2
+644 643 3
+1234 1214 1
+1214 1213 5
+1213 1235 4
+1235 1212 3
+1212 1211 12
+643 1236 1
+1236 1237 2
+1237 1238 1
+1238 1239 1
+1239 1240 1
+1240 1241 3
+1241 1242 2
+1242 1243 2
+1243 1244 1
+1192 1245 10
+1245 1246 4
+1246 1247 5
+1247 1248 12
+1248 155 14
+1201 1249 4
+1249 1250 9
+1250 1251 8
+1251 1252 8
+1252 1253 9
+1253 1254 4
+1254 1255 5
+1255 1256 4
+1256 1257 5
+1257 1258 3
+1258 1259 4
+1259 1260 5
+1260 1261 6
+1261 643 3
+155 1262 12
+1262 1263 10
+1263 1264 8
+1265 1266 17
+1266 1267 7
+1267 1268 3
+1268 155 16
+643 1237 3
+1238 1269 4
+1269 1270 2
+1270 1271 2
+1271 1272 3
+1272 1273 6
+1273 1274 10
+1274 1275 7
+1275 1276 4
+1276 1277 3
+1277 1278 3
+1278 1279 5
+1279 1280 5
+1280 1281 7
+1281 1282 5
+1282 1283 6
+1283 1284 6
+1284 1285 2
+1285 1286 2
+1265 1287 2
+1287 1288 8
+1288 1289 8
+1289 1290 7
+1290 1291 9
+1291 1292 19
+1292 1293 4
+1293 1294 7
+1295 1296 1
+1296 1297 2
+1297 1298 2
+1298 1299 1
+1299 1300 9
+1300 1301 5
+1301 1302 14
+1303 1304 1
+1304 1305 1
+1305 1306 1
+1306 1307 1
+1307 1308 1
+1308 1309 1
+1309 1310 1
+1310 1311 2
+1311 1312 1
+1312 1313 1
+1313 1314 1
+1314 1315 1
+1315 1316 1
+1316 1317 3
+1317 1318 3
+1318 1319 1
+1319 1320 9
+1320 1321 3
+1321 1322 9
+1322 1300 4
+1280 1323 3
+1323 1324 1
+1324 1325 6
+1325 1326 5
+1326 1327 4
+1292 1294 11
+1294 1328 8
+1328 1329 12
+1329 1330 4
+1330 1331 5
+1331 1332 3
+1332 1295 1
+1295 1333 10
+1333 1280 14
+1281 1334 7
+1334 1335 4
+1335 1336 4
+1336 1337 3
+1337 1338 7
+1338 1339 6
+1339 1340 3
+1340 1341 3
+1341 1342 6
+1342 1343 11
+1343 1344 6
+1344 1345 6
+1345 1346 5
+1346 1347 4
+1347 1348 4
+1348 1002 7
+1356 1357 3
+1364 1365 4
+1283 1349 4
+1349 1350 3
+1350 1351 1
+1351 1352 6
+1352 1353 1
+1353 1354 3
+1354 1355 2
+1355 1356 3
+1356 1358 3
+1358 1359 4
+1338 1367 4
+1367 1368 4
+1368 1369 4
+1369 1370 4
+1370 1371 8
+1371 1372 3
+1372 1373 2
+1373 1374 5
+1374 1375 4
+1375 1376 7
+1376 1377 6
+1377 1378 2
+1378 1379 6
+1379 1380 3
+1380 814 4
+1237 1242 14
+1242 1244 3
+1244 1381 3
+1381 1382 3
+1382 1383 6
+1383 1384 1
+1384 1385 4
+1385 1369 3
+1369 1341 15
+1341 1386 8
+1386 1387 9
+1387 1388 22
+1388 1389 4
+1389 1390 6
+1390 1391 3
+1391 1392 3
+1392 1393 3
+1393 1394 6
+1394 1395 6
+1395 1396 5
+1396 1397 3
+1397 1398 5
+1398 1399 8
+1399 1400 6
+1400 1401 5
+1401 1402 10
+1387 1403 2
+1403 1404 4
+1404 1405 2
+1405 1406 1
+1406 1407 1
+1407 1408 2
+1408 1409 4
+1409 1410 2
+1410 1411 2
+1242 1412 3
+1412 1413 2
+1413 1414 7
+1414 1415 7
+1415 1416 7
+1416 1376 9
+1376 1417 6
+1417 1418 5
+1418 1419 6
+1419 1420 7
+1420 1421 7
+1421 1002 5
+1002 1422 18
+1422 969 20
+130 1423 3
+1423 1424 5
+1424 1425 4
+1425 1426 6
+1426 1427 5
+1427 1428 4
+1428 1429 6
+1429 1430 6
+1430 1431 11
+1431 1432 9
+1432 1433 10
+1433 1434 8
+1434 1435 11
+1435 1436 10
+1436 1437 10
+1438 1439 5
+1439 1440 4
+1440 1441 4
+1441 155 9
+1262 1442 12
+1442 1443 4
+1443 1328 11
+1328 1294 8
+1294 1293 7
+1293 1292 4
+1292 1444 7
+1444 1445 16
+1445 1446 14
+1446 1433 6
+1433 1447 30
+1447 1448 14
+1449 1450 6
+1450 1451 6
+1451 1452 5
+1452 1453 10
+1453 1454 4
+1454 1455 8
+1455 1456 7
+1456 1457 3
+1457 1458 6
+1458 1437 9
+1453 1459 9
+1459 1460 6
+1460 1461 7
+1461 1435 15
+1437 1436 10
+1436 1435 10
+1435 1462 9
+1462 1463 6
+1463 1464 5
+1464 1465 7
+1465 1466 6
+1466 1467 14
+1467 1468 3
+1468 1469 4
+1469 1470 5
+1470 1471 4
+1471 1472 4
+1472 1473 3
+155 1474 27
+1474 1291 4
+1291 1445 21
+1445 1475 6
+1475 1476 6
+1476 1477 7
+1477 1478 2
+1478 1479 9
+1479 1465 1
+211 1480 9
+1480 1481 7
+1481 1482 5
+1482 1483 7
+1483 1484 8
+1484 1485 7
+1485 1486 5
+1486 1487 5
+1487 1488 5
+1488 1489 3
+1489 1490 3
+1490 130 3
+1423 1491 5
+1491 1492 1
+1492 1493 1
+1493 1494 4
+1494 1495 4
+1495 1496 2
+1496 1497 3
+1497 1498 4
+1498 1499 2
+1499 1500 3
+1500 1501 3
+1501 1502 1
+1502 1503 3
+1503 1484 4
+208 1504 9
+1504 1505 6
+1505 1506 4
+1506 1507 5
+1507 1508 4
+1508 1485 6
+130 1509 4
+1509 1510 1
+1510 1511 4
+1511 1512 3
+1512 1192 4
+1192 1513 6
+1513 1514 8
+1514 1515 5
+1515 1265 6
+204 1516 3
+1516 1517 6
+1517 1518 3
+1518 129 6
+129 1519 3
+1519 1520 2
+1520 1490 9
+1427 1521 7
+1521 1265 6
+1522 1518 12
+1491 1495 10
+1495 1523 4
+1523 1524 5
+1524 1525 5
+1525 1526 4
+1526 1527 8
+1527 1528 11
+1528 1529 7
+1529 1530 12
+1530 1531 2
+1531 1532 9
+1532 1533 8
+1533 1534 20
+1534 1535 17
+130 1510 5
+1510 1536 14
+1536 1537 6
+1537 1538 4
+1538 1539 4
+1539 126 11
+1540 1541 7
+1541 1542 7
+1542 1543 10
+1543 1544 6
+1544 1545 10
+1545 211 5
+1546 1547 5
+1547 1543 5
+1543 1548 6
+1548 1549 6
+1549 1550 17
+1550 1551 12
+1551 1528 12
+1528 1552 12
+1552 1553 4
+1553 1554 4
+1554 1429 9
+1429 1428 6
+1428 1521 3
+1288 1555 3
+1555 1556 2
+1556 1557 1
+1557 1558 3
+1559 1560 4
+1560 1561 9
+1561 1562 8
+1562 1563 12
+1563 1564 5
+1564 1565 5
+1565 1566 4
+1566 1567 21
+1567 1568 1
+1568 1569 10
+1569 1570 6
+1570 1571 5
+1571 1572 7
+1572 1546 9
+205 207 15
+156 1573 7
+1573 1574 4
+1574 1575 5
+1575 1576 4
+1576 1577 4
+1577 1578 5
+1578 1579 4
+1579 1580 9
+1580 1581 14
+1581 1582 14
+1582 1583 16
+1583 1584 12
+1584 1568 25
+1568 1585 8
+1585 1586 5
+1586 1587 5
+1587 1588 8
+1588 1589 6
+1589 1590 6
+1590 1591 12
+1592 1593 7
+1593 1594 7
+1594 1595 5
+1595 1596 1
+1596 1597 6
+1597 1546 7
+1547 1598 4
+1598 1542 5
+1542 1541 7
+1541 1540 7
+130 1485 22
+1485 1507 10
+1507 1505 9
+1505 1504 6
+1504 208 9
+208 207 16
+207 206 8
+206 205 7
+205 158 7
+158 157 12
+157 156 15
+156 1599 14
+1599 1600 14
+1600 1601 17
+1601 1602 15
+1602 1603 8
+1603 1604 9
+1604 1605 23
+1605 1606 26
+1606 1607 21
+1607 1608 8
+1608 1609 6
+1609 1610 0
+1610 1609 1
+1609 1608 5
+1608 1607 8
+1607 1606 21
+1606 1605 26
+1605 1604 23
+1604 1603 9
+1603 1602 8
+1602 1601 15
+1601 1600 17
+1600 1611 5
+1611 1612 4
+1612 1613 2
+1613 1599 3
+1599 1614 4
+1614 1615 7
+1615 156 3
+1616 1617 5
+1617 1618 5
+1618 1619 8
+1619 1620 11
+1620 1621 6
+1621 1600 9
+1600 1599 14
+1599 156 14
+1622 1623 7
+1623 1624 15
+1624 1625 18
+1625 1601 12
+1601 1626 11
+1626 1627 7
+1627 1628 5
+1628 1629 6
+1629 1630 12
+1630 1631 16
+1631 1632 6
+1632 1633 26
+1633 1634 4
+1634 1635 3
+1635 1636 6
+1636 1567 10
+1623 1637 4
+1637 1638 7
+1638 1639 5
+1639 1640 7
+1640 1641 5
+1641 1642 6
+156 1615 3
+1615 1614 7
+1614 1599 4
+1599 1643 6
+1643 1644 10
+1644 1645 8
+1645 1646 8
+1646 1647 4
+1647 1648 6
+1648 1649 6
+1649 1650 6
+1650 1651 7
+1651 1652 3
+1652 1653 5
+1653 1654 9
+1654 1655 4
+1655 1656 6
+1656 1634 4
+1605 1657 17
+1657 1658 6
+1658 1659 9
+1659 1660 13
+1660 1661 8
+1661 1662 10
+1662 1663 12
+1663 1664 9
+1664 1665 14
+1665 1561 9
+1605 1666 16
+1667 1668 4
+1668 1669 7
+1669 1670 10
+1670 1671 9
+1671 1672 11
+1672 1673 9
+1673 1674 5
+1674 1675 8
+1675 1540 4
+1540 1675 4
+1675 1676 2
+1676 1677 1
+1677 1678 3
+1678 1679 1
+1679 1680 3
+1680 1681 3
+1681 1682 1
+1682 1683 2
+1683 1684 4
+1684 1685 3
+1685 1686 3
+1686 1568 24
+1675 1687 3
+1687 1688 3
+1688 1689 3
+1689 1690 4
+1690 1691 6
+1691 1692 5
+1692 1693 7
+1693 1694 6
+1694 1695 2
+1695 1535 1
+1540 1701 2
+1701 1702 3
+1702 1703 4
+1703 1704 2
+1704 1705 4
+1705 1706 2
+1706 1707 5
+1707 1708 5
+1542 1709 8
+1709 1710 1
+1710 1711 5
+1711 1707 5
+1707 1712 9
+1712 1713 9
+1713 1714 4
+1714 1715 4
+1715 1534 12
+1591 1716 11
+1716 1717 6
+1717 1718 9
+1718 1719 9
+1719 1720 7
+1720 1721 3
+1721 1672 5
+1540 1704 11
+1704 1707 11
+1713 1534 20
+1591 1722 4
+1722 1723 6
+1723 1724 7
+1724 1725 3
+1725 1726 7
+1726 1727 2
+1727 1728 4
+1728 1729 5
+1729 1730 7
+1730 1731 11
+1722 1591 4
+1591 1732 20
+1732 1733 9
+1733 1734 6
+1734 1735 7
+1591 1736 9
+1736 1737 7
+1737 1738 4
+1738 1739 5
+1739 1740 8
+1740 1741 9
+1741 1742 3
+1742 1743 3
+1743 1744 2
+1744 1745 5
+1745 1744 5
+1744 1743 2
+1743 1742 3
+1742 1741 3
+1741 1746 8
+1746 1747 3
+1747 1748 1
+1748 1749 6
+1749 1750 12
+1750 1751 11
+1751 1735 6
+1735 1752 7
+1752 1753 5
+1753 1754 8
+1754 1755 11
+1755 1731 4
+1756 1757 1
+1757 1758 4
+1758 1759 8
+1759 1760 17
+1760 1761 10
+1761 1762 7
+1762 1763 17
+1763 1764 10
+1764 1765 9
+1765 1766 5
+1766 1767 4
+1767 1768 7
+1768 1745 18
+1745 1769 6
+1769 1770 4
+1770 1771 2
+1771 1772 4
+1772 1773 7
+1773 1667 8
+1763 1774 8
+1774 1775 9
+1775 1776 7
+1776 1777 5
+1777 1778 4
+1778 1779 7
+1779 1780 5
+1780 1745 9
+1781 1782 6
+1782 1783 4
+1783 1784 1
+1784 1785 4
+1785 1786 6
+1786 1787 10
+1787 1788 3
+1788 1789 4
+1789 1790 4
+1790 1791 5
+1791 1792 6
+1792 1793 4
+1793 1774 4
+1774 1763 8
+1788 1794 5
+1794 1795 4
+1795 1796 4
+1796 1797 7
+1798 1799 6
+1799 1800 7
+1800 1801 4
+1801 1802 5
+1802 1803 2
+1803 1804 5
+1804 1805 3
+1805 1806 2
+1806 1807 4
+1807 1808 4
+1808 1809 6
+1809 1765 6
+1803 1802 2
+1802 1810 5
+1810 1811 4
+1811 1812 6
+1812 1813 6
+1813 1735 12
+1814 1815 9
+1815 1816 6
+1816 1817 4
+1817 1818 5
+1818 1819 3
+1819 1820 2
+1820 1821 2
+1821 1822 2
+1822 1823 5
+1823 1824 1
+1824 1825 2
+1825 1763 4
+1774 1776 18
+1777 1826 4
+1826 1827 6
+1827 1828 6
+1828 1829 9
+1829 1830 5
+1830 1750 8
+1750 1831 7
+1831 1832 5
+1832 1833 4
+1833 1834 3
+1834 1591 10
+1805 1835 2
+1835 1836 5
+1836 1837 5
+1837 1777 6
+1778 1838 7
+1838 1839 3
+1839 1840 3
+1840 1841 1
+1841 1842 2
+1842 1843 3
+1843 1844 2
+1844 1845 2
+1845 1745 4
+1745 1846 5
+1846 1847 3
+1847 1848 3
+1848 1849 5
+1849 1850 8
+1850 1851 4
+1851 1852 4
+1777 1853 4
+1853 1854 4
+1854 1855 1
+1855 1768 2
+1667 1856 14
+1856 1857 6
+1857 1858 6
+1858 1859 4
+1859 1860 16
+1860 1861 3
+1861 1862 4
+1862 1863 5
+1863 1864 7
+1864 1865 6
+1865 1535 7
+1535 1534 17
+1534 1866 19
+1866 1867 18
+1867 1868 9
+1868 1869 12
+1869 1870 5
+1870 1871 6
+1871 1872 5
+1872 1873 4
+1873 1874 4
+1874 1875 4
+1875 1876 4
+1876 1877 4
+1745 1878 5
+1878 1879 3
+1879 1880 4
+1880 1881 2
+1881 1882 3
+1882 1883 6
+1883 1884 5
+1884 1885 3
+1885 1886 8
+1886 1887 4
+1887 1858 10
+1879 1888 4
+1888 1889 6
+1889 1890 5
+1890 1891 5
+1891 1892 2
+1892 1893 3
+1893 1894 5
+1878 1895 2
+1895 1896 2
+1896 1897 1
+1897 1898 5
+1898 1899 2
+1899 1852 7
+1852 1900 4
+1900 1901 8
+1901 1902 4
+1902 1903 3
+1903 1904 1
+1904 1905 6
+1905 1906 7
+1852 1889 13
+1889 1907 15
+1907 1908 8
+1908 1909 12
+1909 1910 8
+1910 1911 6
+1911 1912 5
+1912 1913 9
+1913 1914 9
+1914 1915 6
+1915 1916 8
+1916 1917 6
+1917 1918 4
+1918 1919 6
+1919 1920 2
+1920 1921 8
+1921 1922 6
+1922 1923 10
+1923 1867 10
+1883 1924 7
+1924 1925 2
+1925 1907 4
+1907 1926 1
+1926 1927 3
+1927 1928 1
+1928 1929 3
+1929 1930 5
+1930 1931 2
+1931 1932 1
+1932 1933 2
+1933 1934 2
+1934 1935 4
+1935 1936 2
+1745 1879 8
+1879 1907 25
+1768 1849 14
+1852 1940 17
+1940 1941 4
+1941 1942 2
+1942 1894 4
+1943 1944 2
+1944 1945 6
+1945 1946 4
+1946 1947 2
+1947 1948 4
+1948 1949 2
+1949 1950 4
+1951 1952 3
+1952 1953 3
+1953 1954 5
+1954 1955 2
+1955 1956 3
+1956 1957 1
+1957 1958 1
+1958 1959 2
+1959 1960 2
+1960 1961 4
+1961 1962 4
+1962 1963 4
+1963 1964 6
+1964 1965 4
+1965 1966 5
+1966 1967 5
+1967 1968 2
+1968 1969 4
+1951 1970 12
+1970 1971 6
+1971 1972 3
+1972 1973 4
+1973 1974 3
+1974 1975 4
+1975 1976 2
+1976 1977 2
+1977 1978 2
+1978 1979 4
+1979 1980 2
+1980 1981 2
+1981 1982 4
+1982 1983 3
+1983 1984 3
+1984 1985 4
+1985 1986 7
+1986 1987 6
+1774 1988 2
+1988 1989 1
+1989 1990 2
+1990 1991 3
+1763 1992 4
+1992 1993 1
+1993 1994 2
+1995 1996 2
+1996 1997 4
+1997 1998 1
+1998 1999 6
+1999 2000 1
+2000 2001 2
+2001 2002 2
+2002 1761 1
+1761 2003 1
+2003 2004 1
+2004 2005 1
+2005 2006 3
+2006 1762 1
+1762 2007 5
+2007 2008 2
+2008 2009 2
+2009 2010 3
+2010 2011 1
+2011 1763 3
+1763 2012 6
+2012 1764 3
+1764 2013 7
+2013 2014 1
+2014 1765 2
+1765 2015 5
+2015 2016 1
+2016 2017 2
+2017 2018 4
+2018 2019 4
+2019 1768 1
+1768 2020 6
+2020 2021 1
+2021 2022 3
+2022 2023 1
+2023 2024 3
+2024 2025 1
+2025 2026 2
+2026 1745 3
+1762 2006 3
+2006 2005 4
+2005 2004 1
+2004 2003 1
+2003 1761 1
+1761 2027 1
+2027 2028 1
+2028 2029 2
+2029 2030 2
+2030 2031 2
+2031 2032 2
+2032 2033 1
+2033 2034 2
+2034 2035 4
+2035 2036 3
+2036 2037 3
+2037 2038 4
+2038 2039 3
+2039 2040 3
+2040 2041 2
+2041 2042 2
+2042 2043 1
+2043 2044 1
+2044 2045 2
+2045 2046 4
+2046 2047 2
+2047 2048 1
+2048 1756 1
+1757 2049 3
+2049 1758 1
+1758 2050 3
+2050 2051 2
+2051 2052 2
+2052 2053 2
+2054 2055 4
+2055 2056 5
+2056 2057 8
+2057 2058 4
+2058 2059 5
+2059 2060 3
+2060 2061 1
+2061 2062 4
+2062 2063 1
+2063 2048 3
+1757 2064 2
+2064 2065 4
+2065 2066 2
+2066 2067 2
+2067 2068 3
+2068 2069 4
+2069 2070 3
+2070 2071 4
+2071 2072 7
+2072 2073 4
+2073 2074 3
+2074 2075 5
+2075 2076 7
+2076 2077 5
+2077 2078 3
+2078 2079 2
+2079 2080 5
+2064 2081 4
+2081 2082 8
+2082 2068 5
+1774 2083 5
+2083 2084 4
+2084 1775 2
+1775 2085 3
+2085 1776 4
+1780 2086 1
+2086 2087 2
+2087 2088 2
+2088 2089 2
+2089 2026 1
+2033 2032 2
+2032 2031 2
+2031 2030 1
+2030 2029 1
+2029 2028 1
+2028 2027 1
+2027 1761 1
+1761 2090 2
+2090 2091 4
+1774 2012 4
+2012 2092 2
+2092 1764 1
+2016 2093 2
+2093 2094 3
+2094 2095 4
+2095 2096 1
+2097 2098 1
+2098 2099 1
+2099 2100 2
+2100 2026 3
+2026 2101 1
+2101 2102 1
+2102 2103 1
+2103 2104 2
+2104 2105 1
+2105 2106 3
+2106 2107 1
+2107 2108 2
+2108 2109 1
+2109 2110 2
+2110 2111 2
+2111 2112 3
+2112 2113 3
+2113 1883 1
+1758 2114 3
+2114 2115 3
+2115 1759 2
+1759 2116 2
+2116 2117 2
+2117 2118 4
+2118 2119 2
+2119 2120 2
+2120 2121 2
+2121 1760 2
+1760 2122 3
+2122 2123 3
+2123 2001 2
+2005 2124 3
+2124 2125 1
+2125 2126 5
+2126 2127 6
+2127 2128 3
+2128 2129 2
+2129 2130 4
+2130 2131 3
+2131 2132 2
+2132 2133 2
+2133 1765 1
+1852 2134 1
+2134 2135 2
+2135 2136 1
+2136 2137 3
+2137 2138 3
+2138 2139 1
+2139 2140 1
+2140 2141 4
+2141 2142 1
+2142 2143 2
+2143 2144 2
+2144 2145 2
+2145 2146 2
+2146 2147 2
+2147 2148 1
+2148 2149 2
+2149 2150 1
+2150 2151 2
+2151 2152 5
+2152 2153 3
+2153 2154 2
+2154 2155 3
+2155 2091 2
+2091 2090 3
+2090 1761 3
+2033 2156 6
+2156 2157 3
+2157 2158 3
+2158 2159 3
+2159 1814 2
+1829 2160 7
+2160 2161 5
+2161 2162 4
+2162 2163 4
+2163 1806 5
+1808 2164 3
+2164 2165 1
+2165 1809 2
+1809 2166 3
+2166 2014 1
+2015 2167 2
+2167 2168 1
+2168 2169 3
+2169 2170 6
+2170 2171 2
+2171 2172 6
+2172 2173 3
+2173 2174 4
+2174 2151 5
+2151 2150 2
+2150 2149 1
+2149 2148 3
+2148 2147 1
+1758 2175 9
+2175 2176 4
+2176 2177 4
+2177 1995 6
+1995 2178 3
+2178 2152 4
+2152 2151 5
+2151 2147 6
+2147 2145 4
+2145 2144 2
+2144 2141 5
+2141 2179 4
+2179 1852 12
+1889 1882 9
+1883 2180 9
+2180 1667 10
+1667 2181 5
+2181 2182 7
+2182 2183 4
+2183 2184 6
+2184 2185 8
+2185 1591 6
+2147 2146 1
+2146 2145 2
+2144 2186 7
+2186 2187 3
+2187 2188 3
+2188 2189 5
+2189 2190 4
+2190 2191 3
+2191 2192 3
+2192 2193 1
+2193 1995 7
+2081 2194 9
+2194 2195 2
+2195 2196 2
+2196 2197 4
+2197 2198 4
+2198 2199 12
+2199 2200 5
+2200 2201 8
+2201 2202 5
+2202 2203 8
+1757 2067 10
+2067 2070 10
+2080 2204 2
+2204 2205 4
+2205 2206 4
+2206 2207 5
+2207 2208 3
+2208 2209 3
+2209 2210 2
+2210 2211 3
+2211 2212 1
+2212 2213 2
+2213 2214 1
+2214 2215 1
+2215 1951 4
+2080 2216 1
+2216 2217 1
+2217 2218 3
+2218 2219 1
+2219 2220 3
+2220 2221 4
+2221 2222 7
+2222 2223 4
+2223 2224 3
+2224 2225 6
+2225 2226 3
+2226 2227 1
+2227 2228 2
+2228 2229 2
+2229 2230 3
+2230 2231 6
+2231 2232 3
+2232 2233 1
+2233 2234 3
+2234 2235 3
+2235 2236 5
+2236 2237 2
+2237 2238 2
+2238 2239 2
+2239 2240 2
+2240 2241 3
+2241 2242 2
+2208 2243 2
+2243 2244 1
+2244 2245 1
+2245 2246 1
+2246 2247 2
+2247 2248 1
+2248 2249 2
+2249 2250 1
+2250 2251 5
+2251 2252 2
+2252 2253 4
+2253 2254 1
+2254 2255 3
+2255 2256 2
+2256 2257 5
+2257 2258 1
+2258 1973 2
+1814 2259 3
+2259 2260 4
+2260 2261 5
+2261 2262 2
+2262 2263 8
+2263 2264 11
+2264 2265 5
+2265 2266 4
+2266 2063 11
+2063 1756 3
+2070 2267 2
+2267 2268 2
+2268 2269 5
+2269 2270 4
+2270 2271 2
+2271 2272 2
+2272 2273 3
+2273 2274 2
+2274 2275 4
+2275 2276 3
+2276 2277 3
+2277 2278 3
+2278 2279 4
+2279 2280 3
+2280 2281 6
+2281 2282 7
+2282 2283 5
+2283 2284 8
+2284 2285 2
+2285 2286 5
+2286 2287 2
+2287 2288 4
+2288 2289 6
+2289 2290 3
+2290 2291 3
+2291 2292 5
+2292 2293 7
+2293 2294 11
+2294 2295 3
+2295 2296 3
+2296 2297 8
+2297 2298 4
+2298 2299 4
+2299 2300 4
+2300 2301 3
+2301 2302 3
+2302 2303 2
+2303 2304 3
+2304 2305 4
+2305 2306 3
+2306 2307 4
+1757 1756 1
+1756 2308 3
+2308 2309 2
+2309 2310 6
+2310 2311 5
+2311 2312 5
+2312 2313 6
+2313 2314 7
+2314 2315 7
+2315 2316 2
+2316 2317 5
+2317 2318 2
+2318 2319 4
+2319 2320 4
+2320 2321 6
+2321 2322 3
+2322 2323 4
+2323 2324 4
+2324 2325 4
+2325 2326 4
+2326 2284 8
+2285 2327 8
+2327 2328 4
+2328 2329 7
+2329 2330 5
+2330 2331 4
+2331 2332 6
+2332 2333 7
+2333 2334 6
+2334 2335 4
+2335 2336 4
+2336 2337 6
+2337 2338 1
+2338 2339 3
+2339 2340 5
+2340 2341 3
+2341 2342 5
+2342 2343 3
+2343 2344 3
+2344 2345 4
+2345 2346 3
+2346 2347 2
+2347 2348 8
+2348 2349 3
+2349 2350 16
+2350 2351 7
+2351 2352 4
+2310 2353 5
+2353 2354 6
+2354 2355 7
+2355 2356 5
+2356 2357 2
+2357 2358 4
+2358 2359 8
+2359 2360 7
+2360 2361 5
+2361 2362 5
+2362 2363 3
+2363 2364 5
+2364 2365 7
+2365 2366 4
+2366 2367 4
+2367 2368 5
+2368 2369 4
+2369 2370 5
+2370 2371 10
+2371 2372 7
+2372 2373 4
+2373 2374 3
+2374 2375 2
+2375 2376 4
+2376 2377 4
+2377 2378 6
+2378 2379 4
+2379 2380 4
+2380 2381 3
+2381 2382 3
+2382 2383 7
+2383 2384 5
+2384 2385 6
+2385 2386 3
+2386 2387 4
+2388 2389 3
+2389 2390 2
+2390 2391 2
+2391 2392 3
+2392 2393 2
+2393 2358 2
+2358 2394 3
+2394 2395 3
+2395 2396 6
+2396 2397 5
+2397 2398 2
+2398 2399 2
+2399 2400 3
+2400 2401 5
+2401 2314 5
+2402 2403 2
+2403 2404 2
+2404 2405 3
+2405 2406 1
+2406 2407 2
+2407 2408 2
+2408 2409 2
+2409 2410 1
+2410 2411 3
+2411 2412 2
+2412 2413 3
+2413 2319 5
+2319 2318 4
+2318 2316 7
+2316 2315 2
+2315 2314 7
+2414 2415 3
+2415 2416 6
+2416 2417 8
+2417 2418 2
+2418 2419 4
+2419 2420 5
+2420 2421 5
+2421 2422 4
+2422 2423 2
+2423 2324 4
+2424 2329 1
+2329 2425 6
+2425 2426 3
+2426 2427 3
+2427 2428 3
+2429 2430 2
+2430 2431 3
+2431 2432 5
+2432 2433 3
+2433 2434 8
+2434 2054 10
+2054 2058 21
+2058 2063 15
+1756 2063 3
+2063 2435 18
+2435 2436 4
+2436 2437 1
+2437 2438 2
+2438 2439 2
+2439 2440 2
+2440 2441 8
+2441 2442 2
+2442 2263 3
+2263 2443 5
+2443 2444 5
+2444 2033 5
+2033 1761 11
+2445 2446 4
+2446 2447 7
+2447 2448 2
+2448 2429 1
+2432 2434 13
+2449 2450 5
+2450 2451 3
+2451 2452 5
+2452 1815 5
+1815 1814 9
+1814 2033 17
+1761 2151 21
+2151 2145 6
+2145 2145 4
+2259 2453 8
+2453 2454 2
+2454 2455 3
+2455 2456 5
+2456 2457 2
+2458 2459 4
+2459 2460 9
+2460 2461 7
+2461 2462 6
+2462 2463 9
+2463 2464 7
+2464 2465 4
+2465 2466 7
+2466 1818 12
+1819 2467 7
+2467 1761 10
+2467 2033 9
+2033 2038 16
+2038 1756 20
+828 1102 6
+1102 829 8
+840 2468 7
+2468 2469 6
+2469 2470 6
+2470 2471 13
+2471 2472 10
+2472 2473 10
+2473 2474 7
+2474 2475 16
+2475 969 8
+969 2476 2
+2476 2477 1
+2477 2478 1
+2478 2479 1
+2479 2480 1
+2480 2481 1
+2481 2482 1
+2482 2483 3
+2483 2484 2
+2484 2485 1
+2485 2486 2
+2486 2487 3
+2487 2488 2
+2488 2489 4
+2489 2490 4
+2490 2491 3
+2471 2492 1
+2492 2493 0
+2493 2494 1
+2494 2495 1
+2495 2496 1
+2496 2497 2
+2497 2498 3
+2498 2499 1
+2499 2500 1
+2500 2501 1
+2501 2502 1
+2502 2503 1
+2503 2504 5
+2504 2505 8
+2505 2506 1
+2502 2504 6
+2504 2507 4
+2508 2509 2
+2509 2510 1
+2510 2511 4
+2511 2475 3
+2475 2512 3
+2512 2477 2
+2477 969 3
+1155 1422 14
+1422 1002 56
+969 2513 2
+2513 2514 0
+2514 2515 1
+2515 2516 7
+2516 2517 2
+2517 2518 6
+2518 2519 2
+2519 2520 3
+2520 2521 4
+2521 2522 5
+2522 2523 3
+2523 1002 3
+1097 1096 2
+1096 2524 7
+2524 2525 8
+2525 2526 4
+2526 2527 4
+2527 2528 4
+2528 2529 4
+2529 2530 5
+2530 2531 2
+2531 2532 5
+2532 2533 3
+2533 2534 5
+2534 2535 7
+2535 2536 8
+2536 2537 7
+2537 2538 6
+2538 2539 5
+2539 2510 5
+1102 2540 2
+2540 2541 2
+2541 2542 1
+2542 2543 1
+2543 2544 2
+2544 2545 2
+2545 2546 1
+2546 2547 2
+2547 2548 2
+2548 2549 1
+830 2550 3
+2550 2551 4
+2551 2552 2
+2552 2553 1
+2553 2554 2
+2554 2555 2
+2555 2556 5
+2556 2557 7
+2557 2558 5
+2558 2559 5
+2559 2560 4
+2560 2561 5
+2561 2562 4
+2562 2563 7
+2563 2564 7
+2564 2565 3
+2565 2566 4
+2566 2567 5
+2567 2568 4
+2568 2569 2
+2569 2570 1
+2570 2571 3
+2571 2572 2
+2572 2573 3
+2573 2574 3
+2574 2575 4
+2575 2576 7
+2576 2577 7
+2577 2578 4
+2578 2579 4
+2579 2580 2
+2580 2581 3
+2581 2582 3
+2560 2583 5
+2583 2584 1
+2584 2585 4
+2585 2586 4
+2586 2587 7
+2587 2588 2
+2588 2589 3
+2589 2590 3
+2590 2591 1
+2591 2592 1
+2568 2567 4
+2567 2566 5
+2566 2565 4
+2565 2593 4
+2593 2594 5
+2594 2595 3
+2595 2596 2
+2596 2597 4
+2597 2598 3
+2598 2599 3
+2599 2600 4
+2600 2601 3
+2601 2602 5
+2602 2603 4
+2603 2604 4
+2604 2605 1
+2605 2606 1
+2606 2607 2
+2607 2608 3
+2608 2609 10
+2609 2610 1
+2608 2611 3
+2611 2612 2
+2612 2613 1
+2613 2614 2
+2614 2615 2
+2615 2616 3
+2616 2617 2
+2617 2618 2
+2632 2631 5
+2631 2633 3
+2633 2634 2
+2634 2635 1
+2635 2636 1
+2636 2637 1
+2637 2638 1
+2638 2639 2
+2627 2640 4
+2640 2641 3
+2641 2642 5
+2568 2643 6
+2643 2644 3
+2644 2645 3
+2645 2646 4
+2646 2647 2
+2647 2648 2
+2648 2649 4
+2649 2650 7
+2650 2651 3
+2651 2652 3
+2652 2531 4
+2531 2653 6
+2653 2654 4
+2654 2655 6
+2655 2656 4
+2656 2470 6
+2470 2657 5
+2657 2658 5
+2658 2659 3
+2659 2660 3
+2660 2661 2
+2661 2662 2
+2662 738 4
+2568 2663 0
+2663 2664 0
+2664 2665 0
+2665 2666 1
+2666 2667 0
+2667 2668 1
+2668 2669 0
+2669 2670 1
+2670 2671 0
+2671 2672 1
+2672 2673 0
+2673 2674 1
+2674 2675 0
+2675 2676 1
+2676 2677 0
+2677 2678 1
+2678 2679 1
+2679 2680 1
+2680 2681 1
+2681 2682 0
+2682 2683 2
+2683 2684 2
+2684 2685 2
+2685 2686 4
+2686 2687 2
+2687 2688 0
+2577 2576 13
+2576 2689 2
+2689 2690 2
+2690 2691 1
+2691 2692 1
+2692 2693 2
+2693 2694 1
+2694 2695 2
+2695 2696 1
+2696 2697 2
+2697 2698 1
+2698 2699 2
+2699 2687 3
+2569 2700 4
+2700 2701 1
+2701 2702 1
+2702 2703 1
+2703 2704 4
+2704 2705 5
+2705 2706 1
+2706 2707 1
+2707 2708 3
+2708 2709 6
+2709 2710 2
+2710 2711 5
+2711 2712 6
+2712 2713 5
+2713 2714 3
+2714 2715 1
+969 2512 4
+2512 2716 1
+2716 2717 2
+2717 2718 2
+2718 2719 3
+2719 2720 2
+2720 2721 2
+2721 2722 4
+2722 2723 6
+2723 2724 3
+2724 2725 4
+2725 2726 5
+2726 2727 2
+2727 2728 4
+2728 2729 6
+2729 2730 16
+2730 2731 4
+2731 2732 3
+2732 2733 3
+2733 2568 5
+969 2479 5
+2479 2482 3
+2483 2487 8
+2487 2491 13
+2491 2734 3
+2734 2735 2
+2735 2736 3
+2736 2728 8
+2748 2749 72
+2476 2479 4
+2489 2737 4
+2737 2738 3
+2738 2739 5
+2739 2740 5
+2740 2741 7
+2741 2742 4
+2742 2743 5
+2743 2744 4
+2744 2745 5
+2745 2746 4
+2746 2747 5
+2747 2748 2
+2748 2750 3
+2750 2751 2
+2751 2582 4
+2582 2581 3
+2581 2580 3
+2580 2579 2
+2579 2578 4
+2578 2577 4
+2576 2575 7
+2575 2574 4
+2574 2573 3
+2573 2572 3
+2572 2571 2
+2571 2570 3
+2570 2569 1
+2569 2568 2
+2582 2752 2
+2752 2753 2
+2753 2754 1
+2754 2755 4
+2755 2756 1
+2756 2757 4
+2757 2758 4
+2758 2759 5
+2759 2715 4
+2715 2760 6
+2760 2761 2
+2761 2762 2
+2762 2763 2
+2763 2764 2
+2764 2765 4
+2765 2766 4
+2766 2767 3
+2767 2768 4
+2780 2781 4
+2781 2782 4
+2782 2783 3
+2783 2784 4
+2784 2785 8
+2785 2786 4
+2786 2787 6
+2787 2788 1
+2788 2779 4
+2779 2789 7
+2789 2790 3
+2790 2791 1
+2791 2792 6
+2792 2793 2
+2793 2794 3
+2794 2795 3
+2795 2796 6
+2796 2797 4
+2769 2770 2
+2770 2582 2
+2582 2771 8
+2771 2772 4
+2772 2773 2
+2773 2774 3
+2774 2775 6
+2775 2776 5
+2776 2777 2
+2777 2778 3
+2778 2779 2
+2794 2798 3
+2798 2799 2
+2799 2800 3
+2800 2801 3
+2801 2802 1
+2743 2803 6
+2803 2804 4
+2804 2578 2
+2805 2806 2
+2806 2807 2
+2807 2808 2
+2808 2809 2
+2809 2810 3
+2810 2811 9
+2811 2812 6
+2812 2813 6
+2813 2814 3
+2814 2815 3
+2815 2816 1
+2816 2817 3
+2817 2818 3
+2818 2819 7
+2819 2820 2
+2820 2821 2
+2821 2822 4
+2822 2823 2
+2824 2825 3
+2825 2826 4
+2826 2827 3
+2827 2828 2
+2828 2829 3
+2829 2830 1
+2582 2751 4
+2751 2750 2
+2750 2749 8
+2749 2831 9
+2831 2832 5
+2832 2833 3
+2833 2784 2
+2784 2783 4
+2783 2782 3
+2782 2781 4
+2781 2780 4
+2841 2842 3
+2842 2822 2
+2823 2843 4
+2843 2844 6
+2844 2845 7
+2845 2797 7
+2797 2846 3
+2846 2847 3
+2847 2848 2
+2848 2849 8
+2849 2850 2
+2780 2834 6
+2834 2835 5
+2835 2824 6
+2824 2836 8
+2836 2837 6
+2837 2838 2
+2838 2839 8
+2839 2840 7
+2780 2841 2
+2806 2851 2
+2851 2852 4
+2852 2853 4
+2853 2854 1
+2854 2855 2
+2855 2856 4
+2856 2857 2
+2857 2858 2
+2858 2859 3
+2859 2860 3
+2860 2861 4
+2861 2862 7
+2862 2863 4
+2863 2835 3
+969 2864 3
+2864 2865 7
+2865 2866 3
+2866 2867 2
+2867 2868 5
+2868 2869 4
+2869 2870 5
+2870 2871 5
+2871 2872 3
+2872 2873 2
+2873 2874 5
+2874 2875 6
+2875 2876 5
+2876 2877 4
+2877 2878 2
+2878 2879 5
+2879 2880 2
+2880 2805 4
+2889 2890 3
+2890 2891 3
+2891 2892 2
+2892 2893 7
+2893 2894 3
+2894 2885 4
+2885 2886 5
+2886 2887 2
+2887 2888 2
+2888 2874 7
+2895 2896 6
+2896 2897 3
+2897 2898 5
+2898 2899 4
+2899 2900 4
+2900 2901 6
+2901 2902 3
+2902 2903 5
+2903 2904 4
+2904 2905 6
+2905 2853 9
+2853 2852 4
+2852 2851 4
+2851 2806 2
+2806 2805 2
+2895 2906 6
+2906 2907 4
+2907 2908 2
+2908 2909 4
+2909 2910 6
+2910 2911 5
+2911 2912 5
+2912 2913 8
+2913 2914 3
+2914 2915 4
+2915 2916 2
+2916 2917 2
+2918 2919 0
+2919 2920 5
+2920 2921 4
+2921 2922 5
+2922 2923 5
+2923 2924 1
+2924 2925 5
+2925 2926 1
+2926 2927 5
+2889 2928 7
+2928 2929 12
+2929 2930 7
+2930 2931 4
+2931 2932 3
+2932 2918 4
+2923 2933 4
+2933 2934 4
+2934 2935 9
+2935 2936 4
+2936 2895 6
+1402 2937 5
+2937 2938 6
+2938 2939 3
+2939 2940 2
+2940 2941 6
+2941 2942 5
+2942 2943 7
+2943 2944 3
+2944 2945 6
+2945 2946 4
+2946 2947 6
+2947 2948 3
+2948 2949 5
+2949 2895 8
+2950 2951 2
+2951 2952 2
+2952 2953 5
+2953 2954 5
+2954 2955 1
+2955 2956 4
+2956 2957 3
+2957 2958 2
+2958 2959 1
+2959 2960 3
+1402 2961 8
+2961 2962 6
+2962 2963 8
+2963 2964 3
+2964 2965 5
+2965 2966 7
+2966 2967 8
+2967 2920 5
+2920 2968 3
+2968 2969 7
+2969 2970 5
+2970 2971 6
+2971 2972 7
+2972 2973 6
+2973 2805 6
+2941 2974 1
+2974 2975 7
+2975 2976 7
+2976 2977 3
+2977 2978 2
+2978 2979 3
+2979 2980 1
+2980 2981 3
+2982 2983 3
+2983 2984 3
+2984 2985 7
+2985 2986 6
+2986 2987 7
+2987 2988 6
+2988 2989 7
+2989 2990 3
+2990 2991 4
+2991 2992 10
+2992 2993 1
+2993 2994 1
+2994 2995 5
+2995 2996 4
+2996 2997 1
+2997 2998 4
+2998 2999 1
+2999 3000 4
+3000 2960 2
+2984 3010 15
+3010 3011 11
+3011 3012 14
+3012 3013 7
+3013 3014 3
+3014 3015 9
+3015 3016 6
+3016 3017 3
+3017 3018 11
+2975 3001 6
+3001 3002 4
+3002 3003 7
+3003 3004 5
+3004 3005 5
+3005 3006 6
+3006 3007 4
+3007 3008 3
+3008 3009 7
+3009 2984 6
+2984 2983 3
+2983 2982 3
+3019 3020 5
+3020 3021 3
+3021 3022 4
+3022 3023 4
+3023 3024 3
+3024 3025 4
+3025 3026 6
+3026 3027 5
+3027 3001 3
+3028 3029 2
+3029 3030 2
+3030 3031 1
+3031 3032 2
+3032 3033 2
+3033 3034 7
+3034 3035 1
+3035 3036 3
+3036 3037 5
+3037 3038 3
+3038 3005 2
+3039 3040 8
+3040 3041 5
+3041 3042 4
+3042 3043 3
+3043 3044 7
+3044 3045 4
+3045 3046 6
+3046 3028 4
+3028 3047 4
+3047 3048 3
+3048 3049 7
+3049 2982 6
+2963 3050 1
+3050 3051 1
+3051 3052 4
+3052 3053 2
+3053 3054 2
+3054 3055 2
+3055 3056 2
+3056 3057 2
+3057 3058 1
+3058 3059 4
+3059 3060 1
+3060 3061 3
+2963 3062 8
+3062 3063 7
+3063 3064 6
+3064 3065 5
+3065 3066 2
+3066 2928 6
+2928 2889 7
+2889 3067 8
+3067 2881 6
+2881 3068 8
+3068 3069 4
+3069 3070 2
+3070 3071 4
+3071 3072 4
+3072 3073 4
+3073 1002 6
+2513 3074 1
+3074 2864 0
+2864 3075 3
+3075 3076 2
+3076 3077 3
+3077 3078 3
+3078 3079 4
+3079 3080 3
+3080 3081 4
+3081 3068 6
+3068 2881 8
+3082 3083 4
+3083 3084 5
+3084 3085 4
+3085 3086 3
+3086 3087 4
+3087 3088 3
+3088 3089 4
+3089 2889 3
+3090 3091 6
+3091 3092 7
+3092 3093 6
+3093 3094 1
+3094 3095 3
+3095 3096 2
+3096 3097 1
+3097 3098 4
+3098 3099 2
+3099 3100 3
+3100 3071 2
+3101 3102 4
+3102 3103 2
+3103 3104 2
+3104 3105 2
+3105 3106 4
+3106 3107 1
+3107 3071 4
+1473 3108 8
+3108 3109 5
+3109 3110 5
+3110 3111 4
+3111 3112 4
+3112 3113 6
+3113 1388 6
+1388 3114 7
+3114 3115 4
+3115 3116 7
+3116 3117 4
+3117 3118 9
+3118 3119 2
+3119 3120 4
+3120 3121 2
+3121 3122 2
+3122 3123 2
+3123 3124 4
+3124 3125 3
+3125 1002 10
+3126 3127 1
+3127 3128 1
+3128 3129 2
+3129 3130 1
+3130 3131 1
+3131 1002 2
+1002 3132 1
+3132 3133 1
+3133 3134 1
+3134 3135 1
+3135 1348 1
+3110 3136 6
+3136 3137 4
+3137 3138 5
+1398 3139 6
+3139 3140 2
+3140 3141 3
+3141 3142 7
+3142 3143 3
+3143 3144 5
+3144 3145 5
+3145 3146 3
+3146 3147 2
+3147 3066 3
+1473 3148 5
+3148 3149 3
+3149 3150 3
+3150 3151 3
+3151 3152 4
+3152 3153 4
+3153 3154 5
+3154 3155 4
+3155 3156 4
+3156 3157 3
+3157 3158 4
+3158 3159 4
+3159 3160 3
+3160 3161 2
+3161 3162 12
+3162 3163 7
+3163 3164 3
+3149 3165 4
+3165 3166 3
+3166 3167 2
+3167 3168 3
+3168 3169 10
+3169 3170 3
+3170 3171 5
+3171 3172 6
+3172 3173 5
+3173 3174 4
+3174 3175 8
+3175 3176 4
+3176 3177 4
+3177 3178 2
+3178 3179 3
+3179 1402 6
+1402 3179 6
+3179 3178 3
+3178 3177 2
+3177 3180 3
+3180 3181 8
+3181 3182 3
+3182 3183 6
+3183 3184 7
+1877 3185 28
+3185 3186 8
+3186 3187 10
+3187 3164 5
+3164 3163 3
+3163 3162 7
+3162 3161 12
+3161 3160 2
+3160 3159 3
+3159 3158 4
+3158 3188 3
+3188 3189 6
+3189 3190 10
+3190 3191 5
+3191 3192 3
+3192 3193 7
+3193 3194 4
+3194 3195 3
+3195 3184 5
+3184 3196 5
+3196 3197 4
+3197 3198 5
+3198 3199 4
+3199 3019 3
+3200 3201 5
+3201 3202 6
+3202 3203 4
+3203 3204 3
+3204 3205 4
+3205 3206 11
+3206 3207 4
+3207 3208 4
+3208 3209 3
+3209 3039 2
+3039 3210 5
+3210 3211 3
+3211 3212 4
+3212 3213 3
+3213 3214 3
+3214 3019 11
+3019 3215 5
+3215 3216 5
+3216 2938 5
+2938 2937 7
+2937 1402 6
+3214 3217 1
+3217 3218 3
+3218 3219 2
+3219 3220 3
+3220 3221 1
+1877 3222 4
+3222 3223 3
+3223 3224 3
+3224 3225 3
+3225 3226 5
+3226 3227 3
+3227 3228 5
+3228 3229 3
+3229 3200 25
+3200 3230 10
+3230 3231 4
+3231 3232 13
+3232 3233 8
+3233 3234 5
+3234 3235 16
+1876 3236 5
+3236 3237 3
+3237 3238 7
+3238 3185 9
+3186 3239 4
+3239 3187 6
+3164 3240 6
+3240 1437 14
+1876 1875 4
+1875 1874 4
+1437 3240 14
+3240 3164 6
+3164 3241 15
+3241 3242 11
+3242 3243 3
+3243 3244 12
+3244 3200 20
+3235 3245 14
+3245 3246 5
+3246 3247 10
+3247 3248 7
+3248 3249 7
+3249 3250 6
+3250 3251 5
+3251 3252 2
+3252 3253 4
+3253 3254 3
+3254 3255 3
+3255 3256 4
+3256 3257 4
+3257 3258 5
+3258 3259 2
+3259 3260 13
+3260 3261 6
+3261 2352 4
+3235 3262 8
+3262 3263 3
+3263 3264 1
+3264 3265 2
+3265 3266 2
+3266 3267 2
+3267 3268 2
+3268 3269 3
+3269 3270 4
+3224 3271 3
+3271 3272 3
+3272 3273 4
+3273 3274 4
+3274 3275 6
+3275 3276 6
+3276 3277 3
+3277 3278 6
+3278 3279 6
+3279 3280 7
+3280 3281 5
+3281 3282 4
+3282 3283 11
+3283 3284 7
+3284 3285 5
+3285 3286 4
+3286 3287 3
+3287 3288 3
+3288 3289 4
+3289 3290 4
+3290 3291 4
+3291 3292 3
+3292 3293 4
+3293 3294 3
+3294 3295 5
+3295 1987 2
+3288 3287 3
+3287 1964 59
+2286 3296 5
+3296 3297 4
+3297 3298 2
+3298 3299 2
+3299 3300 3
+3300 3301 5
+3301 3302 4
+3302 3303 7
+3303 3304 6
+3304 3305 3
+3305 3306 3
+3306 2242 3
+2242 3307 3
+3307 3308 3
+3308 3309 2
+3309 3310 3
+3310 3311 3
+3311 3312 3
+3312 3313 4
+3313 3314 3
+3314 3315 5
+3315 3316 3
+3316 3317 6
+3317 3318 4
+3318 3319 3
+3319 3320 2
+3320 1985 5
+1985 1987 13
+3307 3321 4
+3321 3322 3
+3322 3323 2
+3323 3324 4
+3324 3325 5
+3325 3326 6
+3326 3327 3
+3327 3328 8
+3328 3329 15
+3329 3330 7
+3330 3331 1
+3331 2352 8
+2242 2241 2
+2241 2240 3
+2240 3332 2
+3332 3333 4
+3333 3334 5
+3334 3335 1
+3335 3336 3
+3336 3337 2
+3337 3338 5
+3338 3339 4
+3339 3340 1
+3340 3341 3
+1987 3342 6
+3342 3343 4
+3343 3344 2
+3344 3345 6
+3345 3346 3
+3346 3347 7
+3347 3348 4
+3348 3349 18
+3349 3350 13
+3350 2352 3
+1987 3351 2
+3351 3352 4
+3352 3353 2
+3353 3354 7
+3354 3355 3
+3355 3356 4
+3356 3357 3
+3357 3358 3
+3358 3359 3
+3359 3360 4
+3360 3361 7
+3361 3362 3
+3362 3363 1
+3363 3364 3
+3364 3365 3
+3365 3366 3
+3366 3367 7
+3367 3368 4
+3368 3253 4
+3348 3369 4
+3369 3370 2
+3370 3371 2
+3371 3372 2
+3372 3373 3
+3373 3374 1
+3374 3375 5
+3375 3376 3
+3376 3360 3
+3348 3377 5
+3377 3378 11
+3378 3379 2
+3379 3380 4
+3380 3381 5
+3381 3259 5
+3363 3382 1
+3382 3383 3
+3383 3384 3
+3384 3385 2
+3385 3386 2
+3386 3378 4
+3378 3387 1
+3387 3388 3
+3388 3389 2
+3389 3390 2
+3390 3391 1
+3391 3392 2
+3392 3349 4
+1987 3393 3
+3393 3394 7
+3394 3395 4
+3395 3396 3
+3396 3397 3
+3397 3398 3
+3398 3399 3
+3399 3400 3
+3400 3401 3
+3401 3402 6
+3402 3403 5
+3403 3404 10
+3404 3405 7
+3405 3406 7
+3406 3407 5
+3407 3408 7
+3408 3409 4
+3409 3410 3
+3410 3411 6
+3411 3412 3
+3412 3235 11
+3348 3413 2
+3413 3414 5
+3414 3415 4
+3415 3416 2
+3416 3417 3
+3417 3418 2
+3418 3419 3
+3419 3420 4
+3420 3421 9
+3421 2352 6
+2352 3261 4
+3261 3422 4
+3422 3423 3
+3423 3424 3
+3424 3425 2
+3425 3426 4
+3426 3427 2
+3427 3259 2
+3259 3428 1
+3428 3429 4
+3429 3430 2
+3430 3431 4
+3431 3432 3
+3432 3433 2
+3433 3434 6
+3435 3436 4
+3436 3437 4
+3437 3438 2
+3438 3439 3
+3439 3440 3
+3440 3441 8
+3441 3442 5
+3442 3443 3
+3443 3444 4
+3444 3445 2
+3445 3446 2
+3446 3447 4
+3447 3448 1
+3448 3449 5
+3449 3450 2
+3450 3451 1
+3451 3452 8
+3452 3453 7
+3453 3454 3
+3454 3455 13
+3456 3457 2
+3457 3458 2
+3458 3459 2
+3459 3460 2
+3460 3461 1
+3461 3462 2
+3462 3463 3
+3463 3464 1
+3464 3465 1
+3465 3466 1
+3466 3467 1
+3467 3468 2
+3468 3469 2
+3469 3430 1
+3430 3429 2
+3429 3428 4
+3428 3259 1
+3331 3470 2
+3470 3471 3
+3471 3472 2
+2307 3473 3
+3473 3474 4
+3474 3475 5
+3475 3476 6
+3476 3477 2
+3477 3478 4
+3478 3479 4
+3479 3330 2
+3331 3480 2
+3480 3481 2
+3481 2352 4
+2352 3482 1
+3482 3483 1
+3483 3484 1
+3484 3485 1
+3485 3486 1
+3486 3487 3
+3487 3488 1
+3488 3489 1
+3489 3490 2
+3490 3491 2
+3491 3492 1
+3492 3493 3
+3493 3494 3
+3494 3495 1
+3495 3496 2
+3496 3497 2
+3497 3498 2
+3498 3499 2
+3499 3500 2
+3328 3501 3
+3501 3502 2
+3502 3503 2
+3503 3504 4
+3504 3329 4
+3329 3505 2
+3505 3506 3
+3506 3330 2
+3491 3507 3
+3507 3508 2
+3508 3509 1
+3509 3510 1
+3435 3511 5
+3511 3512 2
+3512 3513 2
+3513 3514 2
+3514 3515 3
+3515 3516 1
+3516 3517 2
+3517 3518 4
+3518 3519 3
+3519 3520 2
+3520 3261 1
+3261 3521 1
+3521 3485 1
+3485 3484 1
+3484 3483 1
+3483 3482 1
+3482 2352 1
+2352 3522 1
+3522 3523 1
+3523 3350 1
+3350 3421 3
+3421 3524 2
+3524 3525 2
+3525 3526 1
+3526 3527 1
+3527 3528 1
+3528 3527 2
+3527 3472 2
+3259 3529 2
+3529 3530 4
+3530 3531 1
+3531 3490 4
+3490 3489 2
+3489 3488 1
+3488 3487 1
+3487 3486 3
+3486 3485 1
+2352 2351 4
+2351 3532 2
+3532 2350 5
+2350 3533 5
+3533 3534 8
+3534 2349 4
+2349 3535 1
+3535 2348 3
+2348 3536 3
+3536 2347 3
+2347 2346 2
+2346 3537 2
+3537 3473 4
+3473 2307 4
+3420 3538 1
+3538 3539 2
+3539 3421 6
+3421 3350 3
+3350 3523 1
+3523 3522 1
+3522 2352 1
+3485 3521 1
+3521 3261 1
+3348 3540 4
+3540 3541 3
+3541 3542 4
+3542 3543 0
+3543 3544 5
+3544 3349 2
+3349 3545 1
+3545 3546 3
+3546 3547 2
+3547 3548 2
+3548 3350 10
+3532 3549 4
+3549 3550 5
+3550 3551 2
+3551 3552 9
+3552 3553 4
+3553 3554 3
+3554 3555 2
+3517 3556 2
+3556 3557 2
+3557 3558 1
+3558 3559 2
+3559 3560 2
+3560 3561 3
+3561 3500 3
+3500 3562 3
+3562 3563 3
+3563 3564 3
+2352 3515 14
+3515 3435 14
+3435 3565 2
+3565 3566 4
+3566 3567 7
+3567 3568 2
+3568 3569 2
+3569 3570 2
+3570 3571 3
+3571 3572 4
+3572 3573 4
+3573 3574 2
+3574 3575 4
+3575 3576 4
+3576 3577 2
+3577 3578 4
+3578 3579 4
+3579 3580 7
+3580 3581 2
+3434 3582 4
+3582 3583 2
+3584 3585 2
+3585 3586 4
+3586 3587 4
+3587 3588 3
+3588 3589 5
+3589 3571 6
+3575 3590 4
+3590 3591 3
+3591 3592 2
+3592 3593 2
+3593 3594 3
+3594 3595 1
+3595 3596 2
+2351 3550 11
+3552 3555 9
+3555 3597 3
+3597 3598 3
+3598 3599 4
+3599 3600 4
+3600 3601 4
+3601 3602 3
+3602 3587 2
+3587 3603 5
+3603 3604 9
+3604 3605 1
+3605 3606 2
+3606 3607 2
+3607 3608 2
+2346 3584 46
+3584 3609 11
+3609 3610 10
+3610 3611 11
+3611 3612 9
+3612 3613 14
+3613 3614 8
+3614 3615 9
+3615 3616 21
+2347 3617 5
+3617 3618 4
+3618 3619 3
+3619 3620 5
+3620 3621 2
+3621 3622 7
+3622 3623 3
+3623 3624 3
+3624 3625 4
+3625 3584 8
+3584 3626 5
+3626 3609 6
+3609 3627 6
+3627 3610 4
+3610 3628 3
+3628 3608 2
+2346 3629 3
+3629 3630 3
+3630 3631 4
+3631 3632 4
+3632 3633 4
+3633 3634 5
+3634 3635 4
+3635 3636 6
+3636 3637 6
+3637 3638 2
+2338 3639 12
+3639 3640 3
+3640 3641 3
+3641 3642 4
+3642 3643 2
+3643 3636 3
+3638 3644 2
+3644 3645 6
+3645 3646 2
+3646 3647 5
+3647 3648 4
+3648 3649 5
+3649 3584 6
+3648 3650 42
+3651 3652 10
+3652 3653 4
+3653 3654 6
+3654 3655 3
+3655 3656 4
+3656 3657 4
+3657 3658 1
+3658 3659 4
+3659 3650 10
+3650 3660 5
+3660 3661 4
+3661 3662 4
+3662 3663 3
+3663 3664 7
+3664 3665 2
+3665 3666 5
+3666 3667 3
+3667 3611 5
+3611 3668 4
+3668 3610 7
+3608 3669 4
+3669 3670 2
+3670 3671 3
+3671 3580 6
+3581 3672 4
+3672 3673 3
+3673 3674 1
+3674 3675 4
+3675 3676 1
+3676 3677 4
+3677 3678 4
+3678 3679 3
+3679 3455 9
+3455 3680 6
+3680 3681 3
+3681 3682 4
+3682 3683 3
+3683 3684 3
+3684 3685 2
+3685 3686 1
+3686 3687 4
+3687 3688 2
+3688 3689 3
+3689 3690 5
+3690 3691 2
+3691 3692 5
+3692 3693 3
+3693 3694 2
+3694 3695 2
+3613 3696 4
+3696 3697 5
+3697 3698 1
+3698 3612 4
+3612 3699 1
+3699 3700 6
+3700 3611 2
+3668 3701 3
+3701 3702 2
+3702 3610 2
+3581 3703 3
+3703 3704 5
+3704 3705 5
+3705 3706 6
+3706 3707 2
+3707 3708 2
+3708 3709 4
+3709 3710 6
+3710 3711 19
+3711 3616 7
+3675 3712 4
+3712 3713 1
+3713 3714 2
+3714 3715 3
+3715 3716 2
+3716 3717 4
+3717 3718 4
+3718 3719 2
+3719 3720 1
+3720 3721 3
+3721 3722 3
+3722 3723 2
+3724 3725 4
+3725 3726 4
+3726 3727 3
+3727 3728 2
+3728 3729 2
+3729 3730 1
+3730 3731 1
+3731 3731 3
+3731 3732 0
+3732 3733 4
+3733 3734 1
+3734 3735 4
+3735 3736 3
+3736 3737 3
+3737 3609 3
+3648 3738 2
+3738 3739 2
+3739 3740 3
+3740 3731 3
+3734 3741 1
+3741 3742 4
+3742 3743 1
+3743 3744 3
+3744 3745 4
+3745 3746 4
+3746 3665 2
+3665 3664 2
+3747 3748 3
+3748 3749 2
+3749 3750 2
+3750 3751 2
+3751 3752 3
+3752 3753 4
+3753 3754 6
+3754 3755 4
+3755 3651 5
+3756 3757 3
+3757 3758 2
+3758 3759 3
+3759 3760 3
+3760 3761 2
+3761 3762 2
+3762 3763 3
+3763 3764 2
+3764 3765 2
+3765 3766 1
+3766 3767 1
+3767 3654 5
+3768 3769 7
+3769 3770 5
+3770 3771 5
+3771 3772 6
+3772 3773 11
+3773 3659 2
+3650 3774 6
+3774 3775 7
+3775 3776 4
+3776 3777 5
+3777 3778 4
+3778 3779 12
+3779 3780 5
+3780 3781 3
+3781 3782 3
+3782 3783 4
+3783 3784 5
+3784 3785 3
+3785 3786 2
+3786 3787 4
+3787 2337 2
+3659 3788 1
+3788 3789 3
+3789 3790 3
+3790 3791 3
+3791 3792 3
+3792 3793 2
+3793 3794 2
+3794 3795 3
+3795 3796 2
+3796 3797 2
+3797 3798 3
+3798 3799 3
+3799 3800 2
+3800 3801 2
+3753 3802 2
+3802 3803 3
+3803 3804 5
+3804 3805 3
+3805 3806 7
+3806 3807 7
+3807 3808 4
+3808 3809 2
+3809 3810 2
+3810 3811 2
+3811 3812 4
+3812 3769 3
+3769 3768 7
+3769 3813 3
+3813 3814 7
+3814 3815 4
+3815 3816 1
+3816 3817 6
+3817 3818 4
+3818 3819 4
+3819 3820 4
+3820 3821 5
+3821 3822 2
+3822 3823 2
+3823 3824 3
+3824 3825 4
+3664 3826 6
+3826 3827 2
+3827 3828 2
+3828 3829 3
+3829 3825 5
+3825 3830 5
+3830 3831 3
+3831 3832 2
+3832 3833 3
+3833 3834 7
+3834 3835 6
+3835 3836 6
+3836 3837 2
+3837 3838 1
+3838 3616 5
+3608 3628 2
+3628 3610 3
+3610 3702 2
+3702 3701 2
+3701 3668 3
+3668 3611 4
+3611 3700 2
+3700 3699 5
+3699 3612 2
+3612 3698 4
+3698 3697 1
+3697 3696 5
+3696 3613 4
+3835 3839 4
+3839 3840 3
+3840 3841 2
+3841 3842 3
+3833 3843 5
+3843 3844 3
+3844 3845 2
+3825 3833 13
+3833 3846 6
+3846 3847 2
+3847 3848 2
+3848 3849 1
+3747 3850 3
+3850 3851 2
+3851 3852 3
+3852 3853 1
+3853 3854 3
+3854 3855 1
+3855 3856 1
+3856 3857 2
+3857 3858 5
+3858 3859 2
+3859 3860 3
+3860 3861 4
+3861 3862 3
+3862 3863 2
+3863 3864 3
+3864 3865 2
+3865 3866 3
+3866 3867 4
+3867 3868 3
+3868 3869 2
+3869 3870 4
+3870 3871 2
+3871 3872 3
+3872 3873 2
+3873 3874 3
+3874 3875 8
+3875 3876 7
+3876 3877 4
+3877 3878 3
+3878 3879 4
+3879 3880 2
+3880 3881 4
+3881 3882 5
+3882 3883 3
+3883 3884 2
+3884 3782 13
+3783 3639 8
+3639 3885 8
+3885 2340 4
+3747 3886 9
+3886 3887 4
+3887 3888 3
+3888 3889 4
+3889 3890 1
+3890 3891 3
+3891 3892 3
+3892 3893 4
+3893 3894 2
+3894 3895 3
+3895 3896 2
+3890 3897 3
+3897 3898 4
+3898 3858 4
+3858 3899 4
+3899 3900 2
+3900 3651 8
+3747 3901 3
+3901 3902 3
+3902 3903 10
+3903 3904 3
+3904 3905 4
+3905 3906 4
+3906 3907 5
+3907 3908 4
+3908 3909 3
+3909 3910 1
+3910 3911 4
+3911 3912 2
+3912 3913 4
+3913 3914 5
+3914 3915 6
+3915 3916 4
+3916 3917 4
+3917 3918 3
+3918 3919 3
+3919 3920 4
+3920 3921 3
+3921 3922 5
+3922 2387 1
+3923 3924 2
+3924 3925 5
+3925 3906 5
+2387 2386 4
+2386 2385 3
+2385 3926 1
+3926 3927 2
+3927 3928 2
+3928 3929 5
+3929 3930 3
+3930 3931 4
+3931 3932 4
+3932 3933 8
+3933 3934 5
+3934 3935 4
+3935 3936 8
+3936 3937 4
+3937 3938 2
+3938 3939 5
+3939 3940 4
+3940 3941 5
+3941 3942 2
+3942 3943 2
+3943 3944 4
+3944 3945 4
+3945 3946 3
+3946 3947 3
+3947 3948 4
+3948 3949 2
+3949 3950 7
+3950 3951 4
+3951 3952 1
+3952 2285 3
+3936 3953 5
+3953 3954 5
+3954 3955 3
+2387 3922 1
+3922 3921 5
+3921 3956 2
+3956 3957 4
+3957 3958 1
+3958 3959 5
+3959 3960 2
+3960 3961 3
+3961 3962 6
+3962 3963 11
+3963 3964 7
+3965 3966 2
+3966 3921 2
+3608 3967 3
+3967 3968 5
+3968 3969 6
+3969 3970 1
+3970 3971 7
+3971 3972 2
+3972 3973 7
+3973 3974 2
+3974 3615 7
+3615 3975 6
+3975 3976 4
+3976 3977 5
+3977 3616 6
+3616 3978 22
+3978 3979 6
+3979 3980 10
+3980 3981 9
+3981 3982 6
+3982 3983 6
+3983 3984 8
+3984 3985 13
+3985 3986 5
+3986 3987 8
+3987 3988 3
+3988 3989 3
+3989 3990 3
+3990 3991 5
+3991 3992 3
+3992 3993 1
+3993 3994 3
+3994 3995 4
+3995 3996 3
+3996 3997 3
+3997 3998 2
+3998 3999 2
+3999 4000 1
+4000 4001 5
+4001 4002 3
+4002 4003 1
+4003 4004 3
+4004 4005 3
+4005 4006 6
+4006 4007 3
+4007 4008 5
+4008 4009 3
+4009 4010 3
+4010 4011 4
+4011 4012 3
+4012 4013 3
+4013 4014 3
+4014 4015 2
+4015 4016 4
+4016 4017 2
+4017 4018 3
+4018 4019 3
+3613 4020 5
+4020 3614 3
+3614 4021 4
+4021 4022 1
+4022 3615 4
+3615 4023 5
+4023 3710 5
+3669 3581 13
+3581 3679 24
+3455 3684 19
+3684 4028 18
+4028 4029 6
+4029 4030 5
+3608 3581 17
+3672 3715 18
+3715 3718 10
+3718 3720 3
+3720 4024 7
+4024 4025 4
+4025 4026 3
+4026 4027 6
+4027 4028 3
+4026 4031 3
+4031 4027 3
+4028 4032 2
+4032 4029 4
+4029 4033 4
+4033 4030 1
+4034 4035 2
+4035 4036 1
+4036 4037 3
+4037 4038 2
+4038 4039 2
+4039 4040 2
+4040 4041 1
+4041 4042 2
+4042 4043 1
+4043 4044 1
+4044 4045 1
+4045 4046 2
+4046 4047 1
+4047 4048 1
+4048 4049 5
+4049 4050 51
+4050 3711 19
+4051 4052 6
+4052 4053 1
+4053 4054 2
+4054 4055 3
+4055 3978 5
+3978 4056 59
+3978 4057 6
+4057 3979 2
+3979 4058 3
+4058 4059 1
+4059 4060 3
+4060 3980 5
+3835 3711 15
+3711 4061 11
+4061 4062 14
+3710 4050 15
+4050 4063 1
+4063 4064 3
+4064 4065 4
+4065 4066 3
+4066 4067 4
+4067 4068 3
+3984 3983 8
+3983 4069 4
+4069 4070 5
+4070 4071 2
+4071 4072 1
+4072 4073 2
+4073 4074 1
+4074 4075 1
+4075 4076 2
+4076 4077 3
+4077 4078 2
+4078 4079 3
+4079 4080 3
+4081 4082 5
+4082 4083 3
+4083 3983 5
+3984 4084 2
+4084 4085 8
+4085 4086 8
+4086 4087 5
+4087 4088 3
+4088 4089 7
+4089 4090 10
+4090 4091 13
+4091 4092 15
+4092 4093 15
+4093 4094 14
+4094 4095 13
+4095 4096 6
+4096 4097 16
+4097 4098 2
+4098 4099 4
+4099 4100 6
+4100 4101 2
+4101 4102 1
+4102 4103 6
+4103 4104 3
+4104 4105 3
+4105 4106 6
+4106 4107 3
+4107 4108 2
+4108 4109 2
+4109 4110 1
+4110 4111 1
+4111 4112 2
+4089 4113 4
+4113 4114 5
+4114 4115 5
+4115 4116 1
+4116 4117 3
+4117 4118 5
+4118 4119 10
+4119 4056 6
+4000 3999 1
+3999 3998 2
+3998 3997 2
+3997 3996 3
+3996 4122 3
+4122 4123 2
+4123 4124 2
+4124 4125 1
+4125 4126 2
+4126 4127 2
+4127 4128 2
+4128 4129 2
+4129 4130 3
+4000 4131 4
+4131 4132 3
+4132 4133 5
+4133 4134 3
+4134 4135 12
+4135 4136 4
+4136 4137 5
+4137 4138 11
+4138 4139 5
+4139 4140 6
+4140 4141 3
+4141 4142 5
+4142 4143 8
+4143 4144 1
+4144 4094 1
+4136 4145 8
+4145 4146 2
+4146 4147 3
+4147 4148 4
+4148 4149 2
+4000 4150 1
+4150 4151 1
+4151 4152 2
+4152 4153 3
+4153 4121 5
+4121 4154 3
+4154 4155 3
+4155 4120 5
+4019 4156 5
+4156 4157 2
+4157 4158 4
+4158 4159 4
+4159 4160 3
+4160 4161 5
+4161 4162 4
+4162 4163 5
+4163 4164 5
+4164 4165 4
+4165 4166 1
+4166 4167 5
+4167 4168 4
+4168 4169 4
+4169 4170 5
+4170 4171 3
+4171 4172 1
+4172 4173 6
+4173 4174 5
+4174 4175 1
+4175 4176 2
+4176 4177 3
+4177 4178 6
+4178 4179 4
+4179 4180 3
+4180 4181 4
+4181 4182 4
+4182 4183 3
+4183 4184 3
+4184 4101 5
+4185 4186 2
+4186 4187 1
+4187 4188 3
+4188 4189 2
+4189 4190 2
+4190 4191 4
+4191 4192 4
+4192 4193 3
+4193 4194 3
+4194 4195 2
+4195 4196 2
+4196 4197 2
+4197 4198 2
+4198 4199 3
+4199 4200 3
+4200 4201 6
+4201 4202 5
+4202 4203 4
+4203 4204 4
+4204 4205 1
+4205 4206 5
+4206 4207 4
+4207 4208 23
+4208 4104 7
+4104 4101 10
+4104 4208 7
+4209 4210 3
+4210 4211 1
+4211 4212 2
+4212 4213 1
+4213 4214 1
+4214 4215 1
+4215 4216 1
+4216 4217 1
+4217 4218 1
+4218 4219 14
+4219 4018 2
+4220 4019 5
+4019 4221 5
+4221 4215 2
+4215 4214 1
+4214 4213 1
+4213 4212 1
+4212 4211 2
+4211 4210 1
+4210 4209 8
+4209 4222 2
+4222 4223 2
+4223 4224 2
+4224 4225 3
+4225 4226 3
+4226 4227 6
+4228 4229 21
+4229 4230 16
+4230 4231 4
+4231 4232 5
+4232 4233 4
+4233 4234 2
+4234 4235 10
+4235 4236 14
+4236 4237 11
+4237 4238 18
+4238 4239 15
+4239 4240 13
+4240 4097 19
+4097 4101 14
+4234 4241 5
+4241 4242 11
+4242 4243 4
+4243 4244 4
+4244 4056 6
+4238 4245 3
+4245 4246 6
+4246 4247 3
+4247 4248 5
+4248 4249 1
+4249 4250 1
+4250 4251 2
+4251 4252 3
+4252 4093 3
+4093 4253 3
+4253 4254 1
+4254 4255 1
+4255 4256 3
+4256 4257 3
+4257 4258 2
+4258 4094 1
+4094 4144 1
+4144 4143 1
+4238 4259 1
+4259 4245 2
+4245 4260 10
+4260 4239 2
+4239 4261 1
+4261 4262 2
+4262 4263 2
+4263 4264 3
+4264 4265 1
+4265 4240 4
+4240 4266 2
+4266 4267 1
+4267 4268 1
+4268 4269 4
+4269 4096 2
+4096 4270 1
+4270 4171 65
+4171 4170 3
+4170 4169 5
+4228 4271 3
+4271 4272 10
+4272 4273 9
+4273 4274 5
+4274 4275 4
+4275 4276 5
+4276 4277 3
+4277 4278 3
+4278 4279 4
+4279 4280 2
+4280 4281 2
+4281 4282 3
+4282 4283 3
+4283 4284 2
+4284 4285 3
+4285 4286 6
+4286 4287 4
+4287 4288 2
+4288 4289 3
+4289 4290 6
+4290 4291 12
+4291 4292 5
+4292 4293 6
+4293 4294 11
+4294 4295 5
+4295 4296 7
+4296 4297 3
+4297 4298 2
+4298 4299 18
+4299 4300 5
+4300 4301 12
+4301 4302 5
+4302 4303 2
+4303 4304 3
+4304 4305 3
+4305 4306 2
+4306 4307 6
+4307 4308 2
+4308 4309 2
+4309 4310 2
+4310 4194 2
+4194 4311 1
+4300 4312 10
+4312 4313 10
+4313 4314 3
+4314 4315 7
+4315 4316 13
+4316 4317 6
+4139 4142 14
+4143 4094 2
+4096 4240 10
+4240 4318 18
+4318 4319 24
+4319 4320 5
+4320 4321 6
+4321 4322 6
+4322 4323 11
+4323 4324 20
+4324 4325 11
+4325 4326 11
+4326 4327 7
+4327 4291 16
+4325 4328 6
+4328 4329 4
+4329 4326 1
+4327 4330 1
+4330 4331 8
+4331 4332 1
+4332 4333 4
+4333 4291 2
+4291 4334 2
+4334 4335 2
+4335 4336 5
+4336 4337 3
+4337 4338 6
+4338 4339 2
+4339 4340 4
+4340 4341 7
+4341 4342 5
+4342 4343 6
+4291 4344 1
+4344 4345 6
+4345 4346 3
+4346 4347 1
+4347 4348 5
+4348 4349 6
+4349 4350 4
+4350 4351 5
+4351 4352 2
+4352 4353 2
+4353 4354 4
+4354 4355 5
+4355 4356 5
+4356 4357 1
+4357 4358 4
+4358 4359 3
+4359 4360 2
+4360 4361 5
+4361 4362 5
+4362 4363 4
+4273 4364 15
+4364 4365 4
+4365 4366 3
+4366 4367 3
+4367 4368 10
+4368 4369 4
+4369 4370 5
+4370 4371 3
+4371 4372 1
+4372 4373 2
+4373 4374 2
+4374 4375 3
+4375 4376 3
+4376 4377 3
+4365 4378 3
+4378 4379 3
+4379 4380 1
+4380 4381 3
+4381 4382 3
+4382 4383 2
+4383 4384 1
+4384 4385 1
+4377 4376 3
+4376 4375 3
+4375 4374 3
+4374 4373 2
+4373 4372 2
+4372 4371 1
+4371 4370 3
+4370 4369 5
+4377 4230 22
+4377 4386 2
+4386 4387 6
+4387 4388 5
+4388 4389 3
+4389 4390 2
+4390 4391 3
+4391 4392 4
+4392 4393 9
+4393 4394 5
+4394 4395 3
+4395 4396 1
+4396 4397 4
+4397 4398 4
+4398 4399 3
+4399 4400 3
+4400 4401 3
+4401 4402 6
+4402 4403 7
+4403 4319 14
+4322 4404 2
+4404 4405 7
+4405 4406 11
+4406 4300 8
+4392 4319 50
+3616 3711 5
+4062 4408 3
+4408 4409 3
+4409 4410 2
+4410 4068 5
+4068 4411 1
+4411 4412 4
+4412 4413 3
+4413 4414 5
+4414 4415 4
+4415 4416 2
+4416 4417 5
+4417 4418 9
+4418 4228 14
+3581 3705 13
+3705 3707 8
+3707 3710 12
+4050 4068 18
+4062 4419 12
+4419 4420 4
+4420 4421 3
+4421 4422 5
+4422 4423 2
+4423 4424 4
+4424 4425 7
+4425 4426 9
+4426 4241 10
+4241 4235 15
+4235 4427 4
+4427 4407 4
+4407 4428 7
+4428 4429 3
+4429 4430 3
+4430 4431 3
+4431 4377 8
+3684 4455 5
+4455 4456 2
+4456 4457 3
+4457 4458 4
+4458 4028 4
+4432 4433 3
+4433 4434 13
+4434 4435 6
+4435 4436 4
+4436 4437 2
+4437 4438 5
+4438 4439 3
+4439 4440 5
+4440 4441 2
+4441 4442 3
+4442 4443 9
+4443 4444 11
+4444 4445 7
+4445 3695 5
+3695 4446 4
+4446 4447 3
+4447 4448 4
+4448 4449 5
+4449 4450 5
+4450 4451 2
+4451 4452 4
+4452 4453 1
+4453 4454 5
+4454 4028 5
+4030 4459 7
+4459 4460 6
+4460 4461 5
+4461 4462 3
+4462 4463 2
+4463 4417 7
+3434 4464 2
+4464 4465 1
+4465 4466 3
+4466 4467 4
+4467 4468 5
+4468 4469 4
+4469 4470 1
+4470 4471 3
+4471 4472 1
+4472 4473 2
+4473 4474 5
+4474 4475 3
+4475 4476 4
+4476 4477 7
+4477 4478 4
+4478 4479 5
+4479 4480 2
+4480 4481 3
+4481 4482 5
+4482 4483 2
+4483 4484 3
+4484 4485 5
+4485 4486 3
+4486 4487 4
+4487 4488 2
+4488 4489 5
+4489 4490 5
+4490 4491 2
+4491 4492 1
+4492 4441 4
+4442 4493 4
+4493 4494 3
+4494 4495 3
+4495 4496 3
+4496 4497 2
+4497 4498 3
+4498 4499 3
+4499 4500 7
+4500 4501 9
+4501 4502 7
+4502 4503 8
+4503 4504 9
+4504 4505 5
+4030 4048 7
+4048 4035 20
+4035 4506 7
+4506 4507 5
+4507 4508 10
+4508 4509 5
+4509 4510 41
+4510 4511 17
+4511 4505 10
+4476 4512 3
+4512 4513 3
+4513 4514 3
+4514 4515 2
+4515 4516 4
+4516 4517 9
+4517 4518 5
+4518 4519 2
+4519 4520 1
+4520 4521 7
+4521 3692 4
+4271 4522 9
+4522 4523 10
+4523 4524 9
+4524 4525 6
+4525 4526 4
+4526 4527 6
+4527 4528 4
+4528 4529 5
+4529 4530 5
+4530 4510 12
+4522 4531 18
+4531 4532 4
+4532 4533 1
+4533 4534 4
+4534 4535 4
+4535 4536 8
+4536 4537 10
+4537 4538 3
+4538 4363 12
+4363 4539 2
+4539 4540 2
+4540 4541 3
+4541 4542 3
+4542 4543 4
+4543 4544 2
+4544 4545 8
+4545 4505 13
+4505 4546 23
+4546 4547 23
+4547 4548 44
+4549 4550 4
+4550 4551 2
+4551 4552 3
+4552 4553 3
+4554 4555 3
+4555 4556 2
+4556 4557 4
+4557 4524 5
+4554 4558 2
+4558 4559 4
+4559 4560 2
+4560 4418 3
+4418 4549 3
+4549 4561 4
+4561 4562 2
+4562 4563 2
+4563 4228 3
+4228 4564 1
+4564 4565 1
+4565 4566 1
+4567 4568 3
+4568 4569 2
+4569 4570 3
+4570 4571 3
+4571 4572 3
+4572 4573 4
+4573 4574 3
+4574 4575 1
+4575 4576 2
+4576 4561 1
+3434 4577 7
+4577 4578 4
+4578 4579 7
+4579 4580 6
+4580 4581 8
+4581 4582 6
+4582 4583 1
+4583 4584 13
+4584 4585 3
+4585 4586 10
+4586 4587 6
+4587 4588 2
+4588 4589 4
+4589 4590 6
+4590 4591 3
+4591 4432 4
+3246 4592 10
+3247 4592 8
+4592 4593 11
+4593 4594 12
+4594 4595 3
+4595 4596 2
+4596 4597 5
+4597 4598 7
+4598 4584 6
+4584 4599 9
+4599 4600 4
+4600 4601 3
+4601 4602 2
+4602 4603 2
+4603 4604 5
+4604 4605 3
+4605 4606 2
+4606 4607 2
+4607 4608 4
+4608 4609 4
+4609 4610 7
+4432 4611 8
+4611 4612 6
+4612 4613 4
+4613 4614 4
+4614 4615 8
+4615 4616 13
+4616 4617 18
+4617 4618 9
+4618 4619 14
+4619 4620 10
+4620 4548 8
+4617 4621 4
+4621 4622 2
+4622 4623 4
+4623 4624 6
+4624 4625 4
+4625 4626 3
+4626 4627 3
+4627 4628 4
+4620 4629 2
+4629 4630 1
+4630 4631 1
+4631 4632 1
+4632 4633 1
+4633 4634 2
+4634 4635 3
+4635 4636 2
+4611 4637 9
+4637 4638 6
+4638 4639 5
+4639 4640 4
+4640 3018 11
+3018 4641 2
+4641 4642 1
+4642 4643 22
+4643 4644 7
+4644 4645 5
+4645 4646 13
+4646 4647 7
+2984 4648 3
+4610 4651 8
+4651 3016 2
+2982 4648 7
+4648 4649 3
+4649 4650 3
+4650 3010 2
+2960 4652 4
+4652 4653 7
+4653 4654 1
+4654 4655 1
+4655 4656 3
+4656 4657 3
+4657 4658 1
+4658 4659 4
+4659 4660 4
+4660 4661 3
+4661 4662 7
+4662 4663 3
+4663 4664 6
+4664 4665 6
+4665 4666 6
+4666 4667 2
+4667 4668 4
+4668 4669 4
+4669 4647 4
+4647 4670 7
+4670 4671 4
+4671 4672 2
+4672 4673 3
+4673 4674 7
+4674 4675 4
+4675 4676 4
+4676 4677 3
+4677 4678 10
+4678 4679 17
+4679 4680 2
+4680 4681 4
+4681 4682 4
+4682 4620 3
+4674 4683 4
+4683 4684 1
+4684 4685 1
+4685 4686 3
+4686 4687 4
+4687 4688 2
+4647 4669 4
+4669 4668 4
+4668 4689 4
+4689 4690 4
+4690 4691 2
+4691 4692 3
+4692 4693 5
+4658 4694 2
+4694 4695 4
+4695 4696 2
+4696 4697 4
+4697 4698 6
+2908 4699 4
+4699 4700 5
+4700 4701 4
+4701 4702 7
+4702 4703 6
+4703 4704 6
+4704 4705 6
+4705 4706 6
+4706 4707 3
+4707 4708 5
+4708 4709 3
+4709 4710 3
+4710 4711 6
+4711 4712 3
+4712 4713 4
+4713 4663 4
+4720 4721 8
+4723 4724 10
+4724 4725 7
+4725 4726 4
+4726 4727 2
+4727 4728 5
+4728 2840 6
+2840 2839 8
+4663 4713 4
+4713 4712 4
+4712 4714 6
+4714 4715 6
+4715 4716 5
+4716 4717 5
+4717 4718 6
+4718 4719 2
+4719 4720 4
+4720 4722 58
+4722 4721 13
+4722 4729 5
+4729 4730 3
+4730 4731 3
+4731 4732 4
+4724 4733 3
+4733 4734 2
+4734 4735 2
+4735 4736 2
+2840 4728 6
+4728 4737 6
+4737 4738 6
+4738 4739 5
+4739 4740 7
+4740 4741 4
+4741 4742 8
+4742 4743 9
+4743 4744 8
+4744 4745 11
+4745 4746 7
+4746 4747 11
+4747 4748 5
+4748 4749 8
+4749 4750 3
+4750 4751 6
+4751 4752 6
+4752 4753 5
+4753 4754 7
+4754 4755 4
+4755 4756 5
+4756 4757 15
+4757 4758 12
+4758 4759 15
+2840 4760 2
+4760 4761 5
+4761 4762 4
+4762 4763 2
+4763 4764 2
+4764 4765 4
+4765 4766 2
+4766 4767 2
+4767 4768 1
+4768 4769 3
+4728 4770 4
+4770 4771 4
+4771 4772 9
+4772 4773 2
+4773 4774 2
+4774 4775 1
+4775 4776 1
+4548 4777 27
+4777 4778 16
+4778 4779 15
+4779 4780 21
+4780 4781 4
+4781 4782 5
+4782 4783 10
+4783 4784 9
+4784 4742 3
+4742 4785 11
+4785 4786 3
+4779 4787 8
+4787 4788 6
+4788 4732 13
+4789 4790 9
+4790 4791 2
+4791 4792 2
+4792 4793 3
+4793 4794 2
+4794 4795 3
+4795 4796 2
+4796 4797 2
+4797 4798 1
+4798 4799 2
+4732 4800 2
+4800 4801 2
+4801 4802 1
+4802 4803 2
+4803 4804 3
+4804 4805 2
+4805 4806 2
+4732 4807 9
+4807 4808 4
+4808 4780 6
+4780 4809 7
+4809 4810 6
+4810 4811 6
+4811 4812 6
+4812 4748 15
+4777 4813 5
+4813 4814 4
+4814 4815 6
+4815 4816 2
+4816 4817 17
+4817 4818 8
+4818 4819 9
+4819 4820 5
+4820 4821 5
+4821 4822 2
+4822 4748 2
+4748 4747 5
+4747 4823 1
+4813 4816 12
+4816 4824 11
+4824 4825 3
+4825 4826 9
+4826 4827 14
+4827 4756 12
+4756 4828 20
+4828 4829 10
+4829 4830 6
+4830 4831 3
+4831 4832 9
+4832 4833 7
+4833 4834 4
+4834 4835 3
+4835 4836 5
+4832 4837 3
+4837 4838 2
+4838 4839 4
+4839 4840 4
+4840 4841 3
+4841 4842 2
+4842 4843 3
+4832 4844 9
+4844 4845 6
+4845 4846 3
+4846 4847 4
+4847 4848 2
+4848 4849 3
+4849 4850 2
+4850 4851 2
+4851 4852 1
+4852 4853 5
+4853 4854 2
+4854 4855 1
+4548 4856 12
+4856 4857 4
+4857 4858 2
+4858 4859 3
+4859 4860 2
+4860 4861 4
+4861 4862 5
+4862 4863 4
+4863 4864 10
+4864 4865 6
+4865 4866 4
+4866 4867 7
+4867 4868 6
+4868 4869 4
+4869 4870 7
+4870 4871 5
+4871 4872 2
+4872 4873 3
+4873 4874 6
+4874 4759 4
+4759 4875 5
+4875 4876 2
+4876 4877 17
+4877 4878 7
+4878 4879 9
+4879 4880 12
+4880 4881 13
+4881 4882 15
+4882 4883 16
+4883 4884 21
+4895 4896 3
+4896 4897 4
+4897 4898 3
+4898 4813 5
+4548 4885 1
+4885 4899 1
+4899 4900 1
+4900 4901 1
+4901 4902 4
+4902 4856 4
+4856 4903 5
+4903 4904 2
+4904 4905 3
+4905 4906 1
+4906 4907 1
+4548 4908 1
+4908 4909 2
+4909 4910 2
+4910 4911 3
+4911 4912 2
+4912 4913 2
+4913 4914 2
+4914 4915 2
+4915 4916 3
+4916 4917 4
+4917 4918 3
+4620 4920 3
+4920 4921 3
+4921 4619 4
+4619 4922 2
+4922 4923 4
+4923 4924 1
+4924 4925 2
+4925 4926 3
+4926 4927 1
+4927 4928 1
+4928 4929 2
+4929 4930 2
+4548 4919 2
+4919 4620 6
+4619 4931 3
+4931 4932 6
+4932 4618 5
+4618 4617 9
+4617 4616 18
+4616 4615 13
+4615 4614 8
+4620 4682 3
+4682 4681 4
+4681 4680 4
+4680 4679 2
+4679 4678 17
+4678 4677 10
+4677 4676 3
+4676 4675 4
+4675 4674 4
+4939 4940 1
+4940 4941 1
+4941 4942 2
+4942 4943 2
+4943 4944 3
+4548 4933 4
+4933 4934 2
+4934 4935 4
+4935 4936 3
+4936 4937 2
+4937 4938 2
+4938 4939 4
+4939 4945 3
+4945 4777 4
+4777 4946 6
+4946 4947 6
+4947 4948 5
+4948 4949 3
+4949 4778 3
+4548 4950 3
+4950 4951 3
+4951 4952 2
+4952 4953 2
+4953 4954 3
+4954 4955 2
+4955 4956 1
+4956 4957 5
+4957 4958 5
+4958 4959 7
+4959 4960 4
+4960 4547 7
+4547 4546 23
+4546 4961 12
+4961 4505 11
+4548 4962 20
+4962 4963 11
+4963 4964 9
+4964 4965 3
+4881 4966 4
+4966 4967 5
+4967 4968 24
+4968 4969 7
+4969 4970 8
+4970 4971 6
+4971 4972 4
+4972 4973 6
+4973 4974 8
+4972 4975 4
+4975 4976 3
+4976 4977 2
+4977 4978 7
+4978 4979 4
+4979 4980 5
+4980 4981 3
+4981 4982 4
+4972 4983 5
+4983 4984 1
+4984 4985 6
+4985 4986 3
+4987 4988 2
+4988 4989 5
+4989 4990 4
+4990 4991 3
+4991 4992 4
+4992 4993 2
+4993 4994 3
+4994 4995 3
+4995 4996 7
+4996 4997 3
+4997 4998 5
+4998 4999 22
+4999 5000 12
+5000 5001 9
+5001 5002 4
+5002 5003 4
+5003 5004 6
+5004 5005 4
+5005 5006 5
+5006 4918 4
+4918 4915 10
+4915 4548 16
+4918 5007 2
+5007 5008 5
+5008 5009 4
+5003 5010 10
+5010 5011 4
+5011 5012 3
+4433 5013 10
+5013 5014 3
+5014 5015 4
+5015 5016 5
+5016 5017 14
+5017 4628 11
+4628 5018 12
+5018 4547 18
+4547 5019 13
+5019 5020 6
+5020 5012 5
+5012 5000 21
+4628 5021 6
+5021 5022 2
+5022 5023 4
+4959 5024 3
+5024 5025 4
+5025 5026 5
+5027 5028 40
+5028 5029 3
+5029 5030 5
+5030 5031 7
+5031 5032 8
+5032 5033 3
+5033 5034 8
+5034 5035 19
+5035 5036 4
+5036 5037 14
+5037 5038 8
+5038 5039 4
+5039 4876 5
+4876 4875 2
+4875 4759 5
+4884 4883 21
+4883 4882 16
+4882 4881 15
+4881 5040 5
+5040 5041 5
+5041 5042 8
+5042 5043 16
+5043 5044 12
+5044 5034 17
+5034 5031 19
+5031 5028 15
+5028 5027 42
+5036 5045 4
+5045 5046 1
+5046 5047 2
+5047 5048 5
+5048 5049 4
+5049 5050 3
+5050 5051 5
+5051 4878 2
+4879 5052 1
+5052 5053 4
+5053 5054 3
+5054 5055 2
+5027 5056 5
+5056 5057 21
+5057 5058 8
+5058 5059 3
+5059 5060 6
+5060 5061 8
+5061 5062 7
+5062 5063 8
+5063 5064 5
+5064 5065 8
+5065 5066 6
+5066 5067 7
+5067 5068 12
+5068 5069 6
+5069 5070 7
+5065 5071 7
+5071 5072 2
+5072 5073 4
+5073 5074 4
+5074 5075 2
+5075 5076 1
+5076 5077 8
+5065 5078 9
+5078 5079 5
+5079 5080 4
+5080 5081 3
+5081 5082 8
+5082 5083 6
+5083 5084 6
+5084 5085 4
+5085 5086 7
+5086 5087 9
+5034 5088 3
+5088 5089 10
+5089 5090 9
+5090 5091 6
+5091 5092 5
+5092 5093 6
+5093 5094 9
+5094 5065 7
+5071 5095 9
+5095 5096 8
+5096 5097 11
+5097 5098 6
+5098 5099 5
+5099 5100 7
+5100 5101 12
+5101 5102 6
+4884 5103 5
+5103 5104 8
+5104 5105 4
+5105 5106 3
+5106 5107 3
+5107 5108 4
+5108 5109 4
+5109 5110 4
+5110 5111 9
+5111 5112 4
+5112 5113 5
+5113 5114 4
+5114 5115 7
+5115 5116 9
+5116 5117 5
+5117 5118 1
+5118 5119 10
+5119 5093 9
+5071 5120 6
+5120 5095 3
+5095 5121 3
+5121 5122 3
+5122 5123 2
+5123 5120 5
+5120 5124 3
+5124 5125 2
+5125 5126 3
+5126 5127 4
+5127 5128 7
+5128 5129 2
+5130 5131 2
+5131 5132 3
+5132 5133 5
+5133 5134 2
+5134 5135 3
+5135 5136 3
+5136 5137 3
+5137 5083 2
+5129 5128 2
+5128 5127 7
+5127 5126 4
+5126 5138 2
+5056 5130 28
+5130 5139 7
+5139 5140 7
+5140 5141 7
+5141 5087 6
+5087 5142 6
+5142 5143 2
+5143 5144 5
+5144 5145 5
+5145 5146 7
+5146 5147 5
+5147 5148 4
+5087 5149 17
+5149 5150 8
+5150 5151 5
+5151 5152 8
+5152 5153 8
+5153 5129 7
+5129 5154 17
+5154 5101 12
+5150 5155 3
+5155 5156 1
+5156 5157 1
+5157 5158 2
+5158 5159 3
+5129 5160 2
+5160 5161 2
+5161 5162 2
+5162 5163 1
+5163 5164 2
+5164 5165 2
+5165 5166 2
+5101 5167 3
+5167 5168 3
+5168 5169 4
+5169 5170 5
+5170 5171 1
+5171 5172 2
+5172 5173 10
+5173 5174 5
+5027 5175 2
+5175 5176 3
+5176 5177 3
+5177 5178 29
+5178 5179 3
+5179 5180 6
+5180 5181 10
+5181 5182 3
+5182 5183 2
+5183 5184 3
+5184 5185 3
+5185 5186 5
+5186 5187 3
+5187 5188 2
+5188 5189 2
+5176 5190 5
+5190 5179 28
+5179 5191 6
+5191 5192 5
+5192 5193 4
+5193 5194 2
+5194 5195 4
+5177 5179 26
+5192 5196 5
+5196 5197 5
+5197 5198 3
+5198 5199 3
+5199 5200 3
+5179 5201 6
+5201 5202 6
+5202 5203 7
+5203 5204 1
+5204 5205 3
+5205 5206 3
+5206 5207 4
+5207 5087 4
+5129 5208 2
+5208 5209 3
+5209 5210 2
+5210 5211 2
+5211 5212 1
+5212 5213 2
+5027 5214 7
+5214 5215 30
+5215 5216 14
+5216 5217 8
+5217 5218 7
+5218 5219 6
+5219 5220 6
+5220 5221 5
+5221 5222 6
+5222 5223 9
+5223 5224 11
+5224 5225 6
+5214 5226 19
+5226 5215 11
+5215 5227 5
+5227 5228 4
+5228 5229 6
+5229 5230 5
+5230 5231 4
+5231 5232 2
+5232 5233 6
+5216 5234 6
+5234 5235 3
+5235 5236 5
+5236 5237 5
+5237 5238 1
+5238 5239 2
+5219 5240 1
+5240 5241 2
+5241 5242 2
+5242 5243 4
+5243 5244 2
+5244 5245 2
+5245 5246 1
+5246 5247 2
+5247 5248 4
+5248 5249 3
+5214 5250 32
+5250 5251 14
+5251 5252 12
+5252 5253 19
+5253 5254 5
+5254 5255 18
+5255 5256 19
+5256 5257 10
+5257 5258 11
+5258 5259 16
+5259 5260 13
+5260 5261 10
+5261 4317 6
+4317 4185 23
+4987 5262 1
+5262 5263 3
+5263 5264 3
+5264 5265 5
+5265 5266 11
+5266 5252 17
+5252 5267 8
+5267 5268 11
+5268 5269 6
+5269 5270 7
+5270 5271 6
+5271 4343 8
+4343 5272 15
+5272 5273 7
+5273 5274 10
+5274 4315 11
+4315 4317 19
+5275 5276 8
+5276 5277 5
+5277 5278 5
+5278 5279 6
+5279 5280 5
+5280 5281 1
+5281 5282 4
+5282 5254 3
+5254 5253 5
+5253 5252 19
+4343 5283 13
+5283 5284 9
+5284 5285 10
+5285 5256 3
+5258 5286 4
+5286 5287 4
+5287 5288 3
+5288 5289 4
+5289 5290 2
+5290 5291 4
+5256 5292 2
+5292 5293 2
+5293 5294 3
+5294 5295 1
+5295 5296 4
+5296 5297 2
+5297 5298 4
+5298 5299 2
+5299 5300 2
+5300 5301 2
+5301 5302 5
+5302 5303 2
+5303 5304 2
+5304 5305 2
+5305 5306 4
+5306 5307 2
+5307 5308 2
+5308 5309 4
+5309 5310 2
+5310 5311 1
+5311 5312 3
+5312 5313 5
+5313 5314 2
+5314 5315 2
+5315 5316 3
+5316 5317 4
+5317 5318 3
+5318 5319 9
+5319 5320 8
+5320 5223 5
+4334 5321 22
+5321 5322 3
+5322 5323 3
+5323 5324 3
+5324 5325 2
+5325 5326 4
+5326 5327 5
+5327 5328 2
+5328 5329 2
+5329 5330 3
+5330 5331 2
+5331 5332 2
+5332 5333 2
+5333 5334 3
+5334 5335 2
+5335 5336 3
+5336 5337 2
+5337 5338 2
+5338 5339 3
+5339 5340 3
+5340 5268 4
+5270 4343 14
+5214 5341 24
+5341 5342 6
+5342 5343 3
+5343 5344 6
+5344 5345 6
+5345 5346 5
+5346 5347 3
+5347 4987 2
+4988 5348 4
+5348 5349 2
+5349 5350 4
+5350 5351 5
+5351 5352 2
+5352 5353 9
+5353 5354 10
+5354 5355 5
+5355 5356 3
+5356 5357 3
+5357 5358 4
+5358 5321 9
+5321 5359 5
+5359 5360 7
+5360 4334 10
+4334 4291 2
+4987 5347 2
+5347 5346 3
+5346 5361 3
+5361 5362 8
+5362 5363 4
+5363 5364 6
+5364 5365 6
+5365 5366 10
+5366 4965 25
+4987 5346 5
+5346 5345 5
+5345 5344 6
+5344 5367 2
+5367 5368 4
+5368 5369 3
+5369 5370 5
+5370 5250 7
+5250 5371 2
+5371 5372 7
+5372 5373 3
+5373 5374 4
+5374 5375 2
+5375 5376 2
+5376 5377 5
+5377 5216 8
+5265 5378 4
+5378 5379 6
+5379 5380 3
+5380 5251 10
+5251 5381 4
+5381 5382 1
+5267 5383 5
+5000 5384 7
+5384 5385 5
+5385 5386 7
+5386 5387 10
+5387 5388 5
+5388 5389 5
+5389 5390 4
+5390 5391 4
+5391 4964 6
+4965 5392 9
+5392 5393 12
+5393 5394 10
+5394 5395 6
+5395 5396 4
+5396 5397 4
+5397 5398 18
+5398 5027 18
+5387 5399 1
+5399 5400 2
+5400 5401 2
+4334 5360 10
+5360 5359 7
+5359 5321 5
+5321 5402 14
+5402 5403 5
+5403 5404 5
+5404 5405 7
+5405 5406 5
+5406 5407 2
+5407 5408 5
+5408 4998 7
+4998 5409 9
+5409 5410 4
+5410 5411 7
+5411 5412 2
+5412 5413 4
+5413 5414 6
+5414 5415 6
+5415 5416 6
+5416 4965 9
+4965 5417 11
+5417 5418 3
+5418 5419 6
+5419 5420 8
+5420 5421 6
+5421 5422 15
+5422 5423 6
+5423 5424 2
+5424 5425 2
+5425 5426 9
+5426 4874 2
+4539 4541 5
+4541 5427 5
+5427 5428 4
+5428 5429 11
+5429 5430 4
+5430 5431 3
+5431 5432 5
+5432 5433 9
+5433 5434 4
+5434 5435 5
+5435 5436 3
+5436 5437 3
+5437 4998 5
+5028 5441 4
+5441 5440 6
+5438 5439 2
+5439 5440 8
+5440 5442 4
+5442 5443 3
+5443 5444 2
+5444 5445 2
+5445 5446 5
+5446 5447 2
+5447 5448 3
+5448 5449 4
+5449 5175 3
+5175 5450 1
+5450 5451 1
+5451 5452 1
+5452 5453 1
+5453 5454 1
+5454 5455 1
+5455 5056 1
+5397 5456 6
+5456 5457 3
+5457 5458 5
+5458 5398 4
+5398 5459 5
+5459 5460 2
+5460 5461 2
+5461 5462 1
+5462 5449 3
+5056 5463 1
+5463 5464 1
+5464 5465 4
+5465 5466 4
+5466 5467 2
+5467 5468 2
+5468 5469 2
+5469 5057 5
+5057 5470 3
+5470 5471 3
+5471 5472 4
+5472 5473 2
+5473 5474 2
+5175 5475 1
+5475 5176 2
+5176 5476 1
+5476 5177 2
+5177 5190 2
+5190 5477 29
+5398 5478 1
+5478 5479 5
+5479 5480 3
+5480 5481 3
+5481 5482 4
+5482 5483 3
+5483 5484 4
+5484 5485 3
+5485 5486 4
+5341 5487 3
+5487 5488 3
+5488 5489 3
+5489 5490 1
+5490 5491 1
+5491 5492 3
+5492 5493 4
+5493 5494 3
+5494 5214 3
+5214 5449 3
+5464 5495 3
+5495 5496 3
+5496 5497 3
+5497 5498 3
+5498 5499 2
+5499 5500 4
+5500 5501 2
+5501 5502 2
+5502 5130 5
+5503 5504 5
+5504 5505 2
+5505 5506 4
+5506 5507 4
+5507 5508 1
+5508 5509 2
+5509 5510 4
+5510 5511 2
+5511 5512 3
+5512 5513 2
+5513 5214 1
+5056 5514 1
+5514 5515 1
+5515 5516 2
+5516 5517 2
+5517 5518 2
+5518 5519 2
+5519 5520 2
+5520 5477 2
+5477 5521 8
+5521 5178 7
+5215 5522 5
+5522 5523 2
+5523 5226 5
+5226 5524 1
+5524 5525 8
+5525 5526 3
+5526 5527 2
+5527 5528 2
+5528 5529 1
+5529 5513 2
+5515 5530 3
+5530 5531 1
+5531 5532 2
+5532 5533 2
+5533 5534 2
+5534 5535 2
+5535 5536 2
+5536 5537 3
+5537 5538 4
+5538 5539 1
+5539 5540 2
+5540 5201 4
+5541 5542 4
+5542 5543 3
+5543 5544 2
+5544 5545 4
+5545 5546 2
+5546 5547 2
+5547 5548 2
+5548 5549 2
+5549 5190 1
+5190 5177 2
+5177 5476 2
+5476 5176 1
+5176 5475 2
+5475 5175 1
+5250 5550 3
+5550 5551 7
+5551 5552 4
+5552 5553 3
+5553 5554 3
+5554 5555 5
+5555 5556 2
+5556 5557 5
+5557 5558 1
+5558 5214 3
+5463 5559 3
+5559 5560 1
+5560 5561 1
+5561 5562 2
+5562 5563 5
+5563 5564 10
+5564 5439 6
+5439 5438 2
+1565 1692 93
+2371 2371 0
+2371 2414 51
+5565 5566 5
+5566 5567 5
+5567 5568 3
+5568 5569 2
+5569 3011 1
+5570 5571 2
+5571 5572 3
+5572 5573 1
+5573 5574 4
+5574 5575 1
+4688 5576 3
+5576 5577 2
+5577 5578 3
+5578 5579 4
+5579 5580 2
+5580 5581 2
+5582 5583 5
+5583 5584 4
+5584 5585 2
+4884 5586 15
+5586 5587 5
+5587 5588 4
+5588 5589 6
+5589 5590 8
+5590 5591 11
+4968 5592 8
+5592 5593 7
+5593 5594 5
+5594 5595 6
+5595 5596 3
+5596 5597 6
+5597 5598 4
+5598 5599 6
+5599 5600 5
+5037 5601 4
+5601 5602 7
+5147 5603 5
+5149 5604 3
+5604 5605 3
+5605 5606 4
+5606 5607 4
+5607 5608 2
+5608 5609 2
+5348 5610 2
+5610 5611 4
+5611 5351 5
+5432 5612 15
+5612 5613 8
+5613 5614 7
+5614 5615 12
+5615 4546 12
+5432 5616 13
+5616 5617 12
+5617 5012 14

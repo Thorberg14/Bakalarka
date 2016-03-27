@@ -1,0 +1,2961 @@
+1 Kolín žst
+2 Kolín dílny z
+3 býv. Nadjezd
+4 Starý Kolín z
+5 Záboří nad Labem žst
+6 Týnec nad Labem z
+7 Kojice z
+8 Chvaletice z
+9 Řečany nad Labem žst
+10 Lhota pod Přeloučí z
+11 Přelouč žst
+12 Valy u Přelouče z
+13 Pardubice-Opočínek z
+14 Pardubice-Svítkov z
+15 Pardubice hlavní nádraží žst
+16 Pardubice-Pardubičky z
+17 Pardubice-Černá za Bory z
+18 Kostěnice žst
+19 Moravany žst
+20 Uhersko žst
+21 Sedlíšťka z
+22 Zámrsk žst
+23 Dobříkov u Chocně z
+24 Sruby z
+25 Choceň žst
+26 Brandýs nad Orlicí z
+27 Bezpráví z
+28 Ústí nad Orlicí žst
+29 Ústí nad Orlicí město z
+30 Dlouhá Třebová žst
+31 Odb. Parník odbočka
+32 Česká Třebová žst
+33 Praha Masarykovo nádraží žst
+34 Praha Masarykovo nádraží-Sluncová
+35 Praha hlavní nádraží žst
+36 Praha-Libeň Vítkov
+37 Praha-Libeň žst
+38 Praha-Kyje z
+39 Praha-Dolní Počernice z
+40 Praha-Běchovice žst
+41 Praha-Běchovice střed z
+42 Praha-Běchovice Blatov
+43 Praha-Klánovice z
+44 Úvaly žst
+45 Tuklaty z
+46 Rostoklaty z
+47 Český Brod žst
+48 Klučov z
+49 Poříčany žst
+50 Tatce z
+51 Pečky žst
+52 Cerhenice z
+53 Velim žst
+54 Nová Ves u Kolína z
+55 Odb. Lučební
+56 Kolín zastávka z
+57 Radim z
+58 Chotutice z
+59 Chroustov z
+60 Vrbčany z
+61 Plaňany žst
+62 Plaňany zastávka z
+63 Žabonosy z
+64 Zalešany z
+65 Bošice
+66 Kouřim
+67 Bošice zastávka z
+68 Toušice z
+69 Zásmuky
+70 Bečváry žst
+71 Kolín místní nádraží
+72 Hluboký Důl z
+73 AHr. Červené Pečky nz
+74 Ratboř žst
+75 Kořenice z
+76 Chotouchov z
+77 Pučery z
+78 Drahobudice z
+79 Hatě z
+80 Chmeliště nz
+81 Uhlířské Janovice žst
+82 Mitrov z
+83 Mirošovice u Rataj nad Sázavou z
+84 Rataje nad Sázavou předměstí z
+85 Rataje nad Sázavou z
+86 Ledečko žst
+87 Valy u Přelouče zastávka z
+88 Veselí u Přelouče z
+89 Choltice žst
+90 Jeníkovice z
+91 Heřmanův Městec žst
+92 Kostelec u Heřmanova Městce-Písník z
+93 Kostelec u Heřmanova Městce žst
+94 Prachovice žst
+95 Chrudim žst
+96 Chrudim město
+97 Klešice z
+98 Rozhovice z
+99 Bylany z
+100 Topol z
+101 Tuněchody z
+102 Úhřetice nz
+103 Vejvanovice z
+104 Hrochův Týnec
+105 Bořice z
+106 Platěnice z
+107 Roveň z
+108 Holice
+109 Holice zastávka z
+110 Borohrádek žst
+111 Třebovice v Čechách žst
+112 Anenská Studánka z
+113 Trpík z
+114 Mladějov na Moravě
+115 Kunčina z
+116 Moravská Třebová
+117 Linhartice z
+118 Radkov u Moravské Třebové z
+119 Rozstání z
+120 Městečko Trnávka
+121 Mezihoří z
+122 Chornice žst
+123 Dvořisko z
+124 Slatina u Vysokého Mýta z
+125 Vysoké Mýto
+126 Vysoké Mýto město
+127 Džbánov z
+128 Hrušová z
+129 Cerekvice nad Loučnou
+130 Cerekvice nad Loučnou zastávka z
+131 Řídký z
+132 Tržek z
+133 Litomyšl-Nedošín z
+134 Litomyšl zastávka z
+135 Litomyšl
+136 Rudoltice v Čechách žst
+137 Lanškroun
+138 Velký Osek žst
+139 Velký Osek-Kanín
+140 Sány z
+141 Dobšice nad Cidlinou žst
+142 Choťovice žst
+143 Převýšov žst
+144 Chlumec nad Cidlinou žst
+145 Nové Město nad Cidlinou žst
+146 Káranice žst
+147 AHr. Kratonohy z
+148 Dobřenice žst
+149 Lhota pod Libčany z
+150 Praskačka žst
+151 Odb. Plačice odbočka
+152 Opatovice nad Labem-Pohřebačka žst
+153 Hradec Králové-Kukleny z
+154 Hradec Králové hlavní nádraží žst
+155 Hradec Králové zastávka z
+156 Hradec Králové-Slezské Předměstí žst
+157 Hl. Blešno z
+158 Třebechovice pod Orebem žst
+159 Hl. Petrovice nad Orlicí z
+160 Týniště nad Orlicí žst
+161 Žďár nad Orlicí z
+162 Čermná nad Orlicí žst
+163 Plchůvky z
+164 Újezd u Chocně žst
+165 Lípa nad Orlicí z
+166 Čestice z
+167 Častolovice žst
+168 Kostelec nad Orlicí město z
+169 Kostelec nad Orlicí žst
+170 Doudleby nad Orlicí žst
+171 Záměl z
+172 Potštejn žst
+173 Sopotnice z
+174 Litice nad Orlicí žst
+175 Bohousová z
+176 Žamberk žst
+177 Lukavice v Čechách z
+178 Letohrad žst
+179 Častolovice zastávka z
+180 Synkov z
+181 Slemeno z
+182 Rychnov nad Kněžnou žst
+183 Rychnov nad Kněžnou zastávka z
+184 Solnice zastávka z
+185 Solnice žst
+186 Vamberk žst
+187 Peklo nad Zdobnicí z
+188 Rybná nad Zdobnicí z
+189 Slatina nad Zdobnicí
+190 Pěčín z
+191 Rokytnice v Orlických horách
+192 Dolní Libchavy z
+193 Černovír z
+194 Lanšperk žst
+195 Hnátnice z
+196 Dolní Dobrouč z
+197 AHr. Verměřovice z
+198 Jablonné nad Orlicí žst
+199 Jamné nad Orlicí z
+200 Těchonín žst
+201 Mladkov z
+202 Lichkov žst
+203 Lichkov státní hranice
+204 Dolní Lipka žst
+205 Králíky zastávka z
+206 Králíky
+207 Dolní Orlice z
+208 Červená Voda
+209 Červená Voda-Pod rozhlednou z
+210 Moravský Karlov nz
+211 Bílá Voda z
+212 Mlýnický Dvůr z
+213 Heroltice z
+214 Štíty
+215 Prostřední Lipka z
+216 Červený Potok žst
+217 Podlesí nz
+218 Vlaské z
+219 Hanušovice žst
+220 Bolehošť žst
+221 Očelice z
+222 Opočno pod Orlickými horami žst
+223 Pohoří z
+224 Bohuslavice nad Metují zastávka z
+225 Bohuslavice nad Metují žst
+226 Černčice z
+227 Nové Město nad Metují žst
+228 Vrchoviny z
+229 Václavice žst
+230 Starkoč žst
+231 Náchod zastávka z
+232 Náchod žst
+233 Náchod-Běloves z
+234 Náchod-Malé Poříčí z
+235 Velké Poříčí z
+236 Hronov žst
+237 Hronov zastávka z
+238 Police nad Metují žst
+239 Žďár nad Metují z
+240 Česká Metuje nz
+241 Dědov z
+242 Teplice nad Metují žst
+243 Bohdašín z
+244 Březová u Broumova z
+245 Meziměstí žst
+246 Meziměstí státní hranice
+247 Ruprechtice z
+248 Hynčice z
+249 Broumov-Olivětín z
+250 Broumov žst
+251 Otovice z
+252 Otovice zastávka z
+253 býv. Otovice státní hranice
+254 Dobruška-Pulice z
+255 Dobruška nz
+256 Jaroměř žst
+257 Jaroměř zastávka z
+258 Kuks z
+259 Žireč z
+260 Dvůr Králové nad Labem žst
+261 Bílá Třemešná žst
+262 Mostek žst
+263 Borovnička z
+264 Borovnice z
+265 Horka u Staré Paky žst
+266 Levínská Olešnice z
+267 Stará Paka žst
+268 Bělá u Staré Paky z
+269 Libštát z
+270 Košťálov žst
+271 Nedvězí z
+272 Semily žst
+273 Železný Brod žst
+274 Líšný z
+275 Malá Skála žst
+276 Dolánky z
+277 Turnov žst
+278 AHr. Doubí u Turnova z
+279 Sychrov žst
+280 Sedlejovice z
+281 Hodkovice nad Mohelkou žst
+282 Rychnov u Jablonce nad Nisou žst
+283 Rádlo z
+284 Jeřmanice žst
+285 AHr. Pilínkov z
+286 Liberec žst
+287 Pardubice-Rosice nad Labem žst
+288 Pardubice-Semtín z
+289 Stéblová žst
+290 Čeperka z
+291 Odb. ELNA Opatovice
+292 Opatovice nad Labem z
+293 Předměřice nad Labem žst
+294 Lochenice z
+295 Smiřice žst
+296 Černožice z
+297 Semonice z
+298 AHr. Rychnovek z
+299 Velká Jesenice z
+300 Česká Skalice žst
+301 Řešetova Lhota z
+302 Olešnice z
+303 Červený Kostelec žst
+304 Rtyně v Podkrkonoší zastávka z
+305 Rtyně v Podkrkonoší z
+306 Malé Svatoňovice žst
+307 Velké Svatoňovice z
+308 Suchovršice z
+309 Bohuslavice nad Úpou z
+310 Trutnov-Poříčí
+311 Trutnov střed žst
+312 Trutnov hlavní nádraží žst
+313 Smržovka žst
+314 Jiřetín pod Bukovou nz
+315 Tanvaldský Špičák z
+316 Antonínov z
+317 Josefův Důl nz
+318 Tanvald žst
+319 Velké Hamry město z
+320 Velké Hamry žst
+321 Plavy z
+322 Návarov z
+323 Jesenný z
+324 Spálov z
+325 Liberec-Rochlice z
+326 Vesec u Liberce žst
+327 Vratislavice nad Nisou z
+328 Proseč nad Nisou z
+329 Jablonec nad Nisou dolní nádraží žst
+330 Jablonec nad Nisou žst
+331 Jablonec nad Nisou centrum z
+332 Jablonec nad Nisou zastávka z
+333 Nová Ves nad Nisou nz
+334 Jablonecké Paseky z
+335 Lučany nad Nisou z
+336 Smržovka-Luční z
+337 Smržovka střed z
+338 býv. Smržovka-Zvonková z
+339 Smržovka dolní nádraží z
+340 Tanvald zastávka z
+341 Desná
+342 Desná-Riedlova Vila z
+343 Dolní Polubný
+344 Desná-Pustinská z
+345 Kořenov zastávka z
+346 Kořenov
+347 Harrachov
+348 Harrachov státní hranice
+349 Szklarska Poręba Jakuszyce
+350 Szklarska Poręba Huta
+351 Szklarska Poręba Górna
+352 Stráž nad Nisou z
+353 Krásná Studánka z
+354 Mníšek u Liberce žst
+355 Oldřichov v Hájích z
+356 Raspenava žst
+357 Frýdlant v Čechách žst
+358 Minkovice z
+359 Višňová žst
+360 Filipovka z
+361 Černousy nz
+362 Frýdlant v Čechách státní hranice
+363 Luh pod Smrkem z
+364 Lužec pod Smrkem z
+365 Hejnice nz
+366 Bílý Potok pod Smrkem nz
+367 Frýdlant v Čechách předměstí nz
+368 Krásný Les bažantnice z
+369 Krásný Les z
+370 Řasnice
+371 Řasnice zastávka z
+372 Hajniště z
+373 Nové Město pod Smrkem žst
+374 Horní Řasnice nz
+375 Srbská z
+376 Jindřichovice pod Smrkem
+377 Luková z
+378 Zachrašťany z
+379 Nový Bydžov žst
+380 Skřivany z
+381 Smidary žst
+382 Ohnišťany z
+383 Ostroměř žst
+384 Šárovcova Lhota nz
+385 Lázně Bělohrad žst
+386 Horní Nová Ves z
+387 Nová Paka žst
+388 Nová Paka město z
+389 Bělá u Staré Paky zastávka z
+390 Tample z
+391 Roztoky u Jilemnice žst
+392 Martinice v Krkonoších žst
+393 Horní Branná z
+394 Kunčice nad Labem žst
+395 Klášterská Lhota z
+396 Prosečné z
+397 Hostinné město z
+398 Hostinné žst
+399 Chotěvice z
+400 Pilníkov žst
+401 Vlčice z
+402 Trutnov-Volanov z
+403 Plotiště nad Labem z
+404 Všestary žst
+405 Dlouhé Dvory z
+406 Dohalice z
+407 Sadová nz
+408 Hněvčeves žst
+409 Cerekvice nad Bystřicí z
+410 Třebovětice z
+411 Jeřice z
+412 Hořice v Podkrkonoší žst
+413 Dobrá Voda u Hořic z
+414 Sobčice z
+415 Vojice z
+416 Kovač z
+417 Butoves žst
+418 Vitiněves z
+419 Jičín žst
+420 Jičín zastávka z
+421 Železnice z
+422 Jinolice z
+423 Libuň žst
+424 Libuň zastávka z
+425 Jivany z
+426 Semínova Lhota z
+427 Rovensko pod Troskami žst
+428 Ktová z
+429 Borek pod Troskami z
+430 Hrubá Skála žst
+431 Karlovice-Sedmihorky nz
+432 Turnov město z
+433 Jilemnice žst
+434 Hrabačov
+435 Víchová nad Jizerou z
+436 Horní Sytová z
+437 Poniklá
+438 Poniklá zastávka z
+439 Jablonec nad Jizerou-Hradsko z
+440 Jablonec nad Jizerou
+441 Rokytnice nad Jizerou
+442 Libeč z
+443 Křenov z
+444 Bernartice u Trutnova z
+445 Královec
+446 Královec státní hranice
+447 Lampertice
+448 Žacléř
+449 Podhůří z
+450 Vrchlabí žst
+451 Trutnov-Zelená Louka z
+452 Trutnov-Staré město z
+453 Kalná Voda nz
+454 Mladé Buky z
+455 Svoboda nad Úpou nz
+456 Hořiněves z
+457 Račice nad Trotinou z
+458 Račice nad Trotinou nákladiště n
+459 Havranec z
+460 Sendražice z
+461 Smiřice zastávka z
+462 Trutnov zastávka z
+463 Lhota u Trutnova z
+464 Petříkovice z
+465 Chvaleč
+466 Radvanice
+467 Janovice u Trutnova
+468 Hodkovice u Trutnova z
+469 Horní Adršpach z
+470 Adršpach
+471 Teplice nad Metují skály z
+472 Teplice nad Metují město nz
+473 AHr. Třebestovice nz
+474 Sadská žst
+475 AHr. Hořátev nz
+476 Nymburk město žst
+477 Nymburk hlavní nádraží žst
+478 Veleliby žst
+479 Jíkev z
+480 Oskořínek z
+481 Křinec žst
+482 Odb. Obora odbočka
+483 Ledečky z
+484 Rožďalovice žst
+485 Mlýnec z
+486 Odb. Kamensko odbočka
+487 Kopidlno žst
+488 Pševes z
+489 Bartoušov zastávka z
+490 Hl. Bartoušov nz
+491 Jičíněves z
+492 Nemyčeves z
+493 Staré Místo u Jičína z
+494 Lovčice obec z
+495 Slibovice z
+496 Běrunice z
+497 Městec Králové žst
+498 Činěves z
+499 Dymokury nz
+500 Svídnice z
+501 Bakov nad Jizerou žst
+502 Bakov nad Jizerou město z
+503 Odb. Zálučí odbočka
+504 Buda z
+505 Kněžmost nz
+506 Lítkovice z
+507 Obrubce z
+508 Dolní Bousov žst
+509 Řítonice z
+510 Domousnice z
+511 Rabakov z
+512 Rokytňany z
+513 Osenice z
+514 Dětenice nz
+515 Libáň z
+516 Ledkov z
+517 Mladá Boleslav hlavní nádraží žst
+518 Mladá Boleslav město žst
+519 Řepov z
+520 Kolomuty nz
+521 Březno u Mladé Boleslavi z
+522 Dlouhá Lhota z
+523 Bechov z
+524 Rohatsko z
+525 Sobotka
+526 Libošovice z
+527 Malechovice z
+528 Mladějov v Čechách
+529 Hrdoňovice z
+530 Kněžnice z
+531 Cidlina z
+532 Kyje u Jičína z
+533 Ploužnice z
+534 Lomnice nad Popelkou žst
+535 Nová Ves nad Popelkou z
+536 Syřenov z
+537 Ústí u Staré Paky z
+538 Odb. Rokytka výhybka č.1 odbočka
+539 Praha-Vysočany žst
+540 Odb. Balabenka odbočka
+541 Odb. Skály odbočka
+542 Praha-Satalice žst
+543 Praha-Kbely z
+544 Praha-Čakovice žst
+545 AHr. Hovorčovice z
+546 Měšice u Prahy žst
+547 Zlonín z
+548 AHr. Kojetice u Prahy z
+549 Neratovice žst
+550 Tišice z
+551 Všetaty žst
+552 Byšice žst
+553 Kojovice z
+554 Košátky z
+555 Kropáčova Vrutice žst
+556 Zdětín u Chotětova z
+557 Chotětov žst
+558 Krnsko z
+559 Mladá Boleslav-Debř žst
+560 Mnichovo Hradiště žst
+561 Březina nad Jizerou z
+562 Loukov u Mnichova Hradiště žst
+563 Příšovice žst
+564 Straky z
+565 Všejany z
+566 Čachovice žst
+567 Luštěnice žst
+568 Voděrady z
+569 Dobrovice žst
+570 Nepřevázka z
+571 Výh. Bezděčín
+572 Lysá nad Labem žst
+573 Lysá nad Labem-Dvorce z
+574 Otradovice z
+575 Stará Boleslav žst
+576 Dřísy žst
+577 Ovčáry z
+578 Malý Újezd z
+579 Mělník žst
+580 Mělník-Mlazice z
+581 Liběchov žst
+582 Štětí žst
+583 Hoštka žst
+584 Polepy žst
+585 Křešice u Litoměřic z
+586 Litoměřice dolní nádraží žst
+587 Litoměřice město z
+588 Velké Žernoseky žst
+589 Libochovany z
+590 býv. Výh. Kamenolom
+591 Sebuzín žst
+592 Ústí nad Labem-Střekov žst
+593 Ústí nad Labem západ žst
+594 Hr. Svádov z
+595 Valtířov z
+596 Velké Březno žst
+597 Malé Březno nad Labem z
+598 Hr. Těchlovice z
+599 Boletice nad Labem žst
+600 býv. Křešice u Děčína přívoz z
+601 Křešice u Děčína z
+602 Děčín-Staré Město z
+603 Děčín východ žst
+604 Děčín hlavní nádraží žst
+605 Čelákovice žst
+606 Čelákovice zastávka z
+607 Lázně Toušeň nz
+608 Brandýs nad Labem zastávka z
+609 Brandýs nad Labem-Zápská z
+610 Brandýs nad Labem žst
+611 Polerady nad Labem z
+612 Kostelec nad Labem nz
+613 Jiřice z
+614 Lobkovice z
+615 Neratovice město z
+616 Bukovno z
+617 Líny z
+618 Katusice
+619 Skalsko
+620 Sudoměř u Mladé Boleslavi nz
+621 Trnová z
+622 Vrátno nz
+623 Skramouš z
+624 Mšeno
+625 Kanina nz
+626 Živonín nz
+627 Nebužely nz
+628 Lhotka u Mělníka
+629 Lhotka u Mělníka zastávka z
+630 Hleďsebe z
+631 Mělnická Vrutice z
+632 Velký Borek z
+633 Malá Bělá z
+634 býv. Hr. Papírny
+635 Bělá pod Bezdězem zastávka z
+636 Bělá pod Bezdězem žst
+637 Bělá pod Bezdězem město z
+638 Bezděz žst
+639 Okna žst
+640 Doksy žst
+641 Staré Splavy z
+642 Jestřebí žst
+643 Srní u České Lípy žst
+644 Česká Lípa hlavní nádraží žst
+645 Česká Lípa střelnice nz
+646 Skalice u České Lípy žst
+647 Nový Bor žst
+648 Svor žst
+649 Nová Huť v Lužických horách z
+650 Jedlová žst
+651 Březiny u Děčína z
+652 AHr. AHr Soutěska
+653 Malá Veleň z
+654 Hr. Dolina hradlo
+655 Benešov nad Ploučnicí žst
+656 Dolní Habartice z
+657 Hl. Markvartice nz
+658 Veselé pod Rabštejnem z
+659 Česká Kamenice žst
+660 Horní Kamenice z
+661 Mlýny žst
+662 Kytlice z
+663 Chřibská žst
+664 Rybniště žst
+665 Krásná Lípa město z
+666 Krásná Lípa žst
+667 Rumburk žst
+668 Františkov nad Ploučnicí žst
+669 Starý Šachov z
+670 Žandov z
+671 Horní Police žst
+672 Stružnice žst
+673 Česká Lípa-Holý vrch z
+674 Valdek z
+675 Šluknov údolí z
+676 Šluknov žst
+677 Šluknov zastávka z
+678 Velký Šenov zastávka z
+679 Velký Šenov
+680 Lipová u Šluknova z
+681 Mikulášovice dolní nádraží žst
+682 Vilémov u Šluknova z
+683 Horní Poustevna z
+684 Dolní Poustevna
+685 Dolní Poustevna státní hranice
+686 Dolní Křečany z
+687 Staré Křečany z
+688 Panský
+689 Zahrady u Rumburka z
+690 Brtníky z
+691 Mikulášovice horní nádraží z
+692 Mikulášovice střed z
+693 Výh. Žizníkov výhybna
+694 Vlčí Důl-Dobranov z
+695 Zákupy žst
+696 Božíkov z
+697 Mimoň žst
+698 Pertoltice pod Ralskem z
+699 Velký Grunov z
+700 Brniště žst
+701 Velký Valtinov z
+702 Jablonné v Podještědí žst
+703 Lvová z
+704 Rynoltice žst
+705 Zdislava z
+706 Křižany žst
+707 Novina z
+708 Kryštofovo Údolí z
+709 Karlov pod Ještědem žst
+710 Ostašov z
+711 Liberec-Horní Růžodol žst
+712 Lovosice žst
+713 Lovosice závod z
+714 Žalhostice žst
+715 Litoměřice Cihelna z
+716 Litoměřice horní nádraží žst
+717 Litoměřice nemocnice z
+718 Trnovany u Litoměřic z
+719 Ploskovice z
+720 Horní Řepčice z
+721 Liběšice žst
+722 Úštěk žst
+723 Dubičná z
+724 Blíževedly žst
+725 Kravaře v Čechách z
+726 Stvolínky z
+727 Zahrádky u České Lípy z
+728 Rumburk zastávka z
+729 Jiříkov-Filipov z
+730 Jiříkov žst
+731 Rumburk státní hranice
+732 Horní Podluží z
+733 Hl. Jiřetín pod Jedlovou z
+734 Dolní Podluží nz
+735 Varnsdorf žst
+736 Varnsdorf staré nádraží nz
+737 Varnsdorf-pivovar Kocour z
+738 Varnsdorf staré nádraží státní hranice
+739 Varnsdorf státní hranice
+740 Zittau
+741 Hrádek nad Nisou státní hranice
+742 Hrádek nad Nisou žst
+743 Chotyně z
+744 Bílý Kostel nad Nisou z
+745 Chrastava žst
+746 Chrastava-Andělská Hora z
+747 Machnín hrad z
+748 Machnín z
+749 Kralupy nad Vltavou žst
+750 Nelahozeves zámek z
+751 Nelahozeves žst
+752 Nové Ouholice z
+753 Mlčechvosty z
+754 Vraňany žst
+755 Cítov z
+756 Dolní Beřkovice žst
+757 Horní Počaply z
+758 Hněvice žst
+759 Záluží z
+760 Dobříň z
+761 Roudnice nad Labem žst
+762 Hrobce žst
+763 Oleško z
+764 Hrdly z
+765 Bohušovice nad Ohří žst
+766 Nové Kopisty z
+767 Lukavec z
+768 Lovosice město z
+769 Malé Žernoseky z
+770 Litochovice nad Labem z
+771 Prackovice nad Labem žst
+772 Dolní Zálezly z
+773 Ústí nad Labem hlavní nádraží jih
+774 Ústí nad Labem hlavní nádraží žst
+775 Ústí nad Labem sever
+776 Neštěmice z
+777 Mojžíř z
+778 Neštědice z
+779 Povrly žst
+780 Povrly-Roztoky z
+781 Dobkovice z
+782 Choratice z
+783 Vilsnice z
+784 Praha-Holešovice zastávka z
+785 Výh. Praha-Bubeneč výhybna
+786 Praha-Holešovice Rokytka
+787 Praha-Holešovice žst
+788 Praha-Podbaba z
+789 Praha-Sedlec z
+790 Roztoky u Prahy žst
+791 Roztoky-Žalov z
+792 Úholičky z
+793 Řež z
+794 Libčice nad Vltavou-Letky z
+795 Libčice nad Vltavou žst
+796 Dolany z
+797 Chlumín nz
+798 Netřeba z
+799 Úžice žst
+800 Chvatěruby žst
+801 AHr. Kralupy nad Vltavou-Minice z
+802 Otvovice žst
+803 Zákolany z
+804 Dřetovice z
+805 Brandýsek žst
+806 Kladno-Vrapice z
+807 Kladno-Dubí žst
+808 Kladno-Švermov z
+809 Kladno-Ostrovec žst
+810 Kladno město z
+811 Kladno žst
+812 Lužec nad Vltavou nz
+813 Horní Beřkovice z
+814 Kostomlaty pod Řípem z
+815 Ctiněves z
+816 Mnetěš z
+817 Straškov žst
+818 Bříza z
+819 Loucká z
+820 Černuc z
+821 Kmetiněves nz
+822 Tmáň z
+823 Zlonice zastávka z
+824 Zlonice žst
+825 Roudnice nad Labem-Bezděkov z
+826 Roudnice nad Labem město z
+827 Roudnice nad Labem-Hracholusky z
+828 Kleneč z
+829 Vražkov z
+830 Račiněves z
+831 Charvatce z
+832 Mšené Lázně z
+833 Martiněves u Libochovic z
+834 Vrbka z
+835 Budyně nad Ohří z
+836 Břežany nad Ohří z
+837 Žabovřesky nad Ohří z
+838 Libochovice
+839 Lovosice zastávka z
+840 Oparno z
+841 Chotiměř žst
+842 Dobkovičky z
+843 Radejčín z
+844 Žim nz
+845 Bořislav z
+846 Žalany zastávka z
+847 Hr. Žalany nz
+848 Hradiště v Čechách z
+849 Úpořiny žst
+850 Bystřany v Čechách nz
+851 Prosetice z
+852 Teplice zámecká zahrada nz
+853 Řetenice žst
+854 Teplice v Čechách žst
+855 Děčín-Přípeř z
+856 Děčín-Prostřední Žleb žst
+857 Děčín-Čertova Voda z
+858 Dolní Žleb zastávka z
+859 Dolní Žleb žst
+860 Děčín státní hranice
+861 Kralupy nad Vltavou předměstí žst
+862 Zeměchy z
+863 Olovnice žst
+864 Neuměřice z
+865 Kamenný Most u Kralup nad Vltavou z
+866 Zvoleněves žst
+867 Podlešín žst
+868 Hl. Strojírna hláska
+869 Slaný předměstí nz
+870 Slaný žst
+871 Královice u Zlonic z
+872 Páleček z
+873 Klobuky v Čechách žst
+874 Vrbičany z
+875 Telce z
+876 Peruc žst
+877 Vrbno nad Lesy žst
+878 Cítoliby z
+879 Chlumčany u Loun žst
+880 Louny žst
+881 Olovnice zastávka z
+882 Velká Bučina z
+883 Velvary
+884 Sulejovice z
+885 Čížkovice žst
+886 Třebenice z
+887 Třebenice město z
+888 Dlažkovice z
+889 Podsedice z
+890 Třebívlice nz
+891 Semeč z
+892 Hnojnice z
+893 Libčeves z
+894 Sinutec z
+895 Bělušice z
+896 Skršín z
+897 Sedlec u Obrnic z
+898 Obrnice žst
+899 Most žst
+900 Úpohlavy z
+901 Chotěšov pod Hazmburkem
+902 Slatina pod Hazmburkem z
+903 Libochovice město z
+904 Dubany z
+905 Křesín z
+906 Koštice nad Ohří
+907 Pátek z
+908 Radonice nad Ohří z
+909 Slavětín nad Ohří z
+910 Veltěže z
+911 Louny střed z
+912 Louny město nz
+913 Louny předměstí žst
+914 Březno u Postoloprt žst
+915 Odb. Bažantnice odbočka
+916 Odb. Vrbka odbočka
+917 Postoloprty žst
+918 Praha-Bubny žst
+919 Praha-Dejvice žst
+920 býv. Praha-Gymnasijní
+921 Praha-Veleslavín žst
+922 Praha-Ruzyně žst
+923 Hostivice žst
+924 Odb. Jeneček odbočka
+925 Jeneč žst
+926 Hl. Pavlov z
+927 Unhošť žst
+928 Kladno-Rozdělov z
+929 Kamenné Žehrovice žst
+930 Hl. Kačice z
+931 Stochov žst
+932 Rynholec z
+933 Nové Strašecí žst
+934 Řevničov žst
+935 Hl. Merkovka hláska
+936 Lužná u Rakovníka žst
+937 Rakovník zastávka z
+938 Rakovník žst
+939 Jeneč zastávka z
+940 Hostouň u Prahy z
+941 Dobrovíz z
+942 Středokluky žst
+943 Tuchoměřice z
+944 Noutonice žst
+945 Kováry z
+946 Zákolany zastávka z
+947 Koleč z
+948 Želenice u Slaného z
+949 Praha-Smíchov Na Knížecí
+950 Praha-Žvahov žst
+951 Výh. Praha-Vyšehrad výhybna
+952 býv. Praha-Smíchov severní nástupiště
+953 Praha-Jinonice žst
+954 Praha-Cibulka z
+955 Praha-Stodůlky žst
+956 Praha-Zličín žst
+957 Hostivice-Sadová z
+958 Hostivice-U hřbitova z
+959 Hostivice-Litovice nz
+960 Chýně z
+961 Chýně jih z
+962 Rudná u Prahy žst
+963 býv. Hl. Stránce
+964 Volevčice z
+965 Počerady žst
+966 Výškov v Čechách z
+967 Lišany u Žatce žst
+968 Dolejší Hůrky z
+969 Tvršice z
+970 Žatec žst
+971 Žatec západ žst
+972 Krupá žst
+973 Mutějovice zastávka z
+974 Milostín z
+975 Deštnice z
+976 Sádek u Žatce z
+977 Želeč z
+978 Měcholupy žst
+979 Holedeček z
+980 Veletice z
+981 Dobříčany z
+982 Trnovany nz
+983 Odb. Velichov odbočka
+984 Žiželice z
+985 Hořetice žst
+986 Denětice z
+987 Holetice z
+988 Březno u Chomutova žst
+989 Droužkovice žst
+990 býv. Výh. Spořice
+991 Odb. Dubina odbočka
+992 Chomutov žst
+993 Olešná u Rakovníka z
+994 Chrášťany zastávka z
+995 Kněževes nz
+996 Přílepy z
+997 Kolešovice nz
+998 Chrášťany žst
+999 Hořesedly nz
+1000 Svojetín žst
+1001 Janov u Rakovníka z
+1002 Kounov z
+1003 Mutějovice žst
+1004 Domoušice žst
+1005 Solopysky z
+1006 Konětopy z
+1007 Hřivice žst
+1008 Touchovice u Loun z
+1009 Opočno u Loun z
+1010 Jimlín z
+1011 Dobroměřice z
+1012 Lenešice žst
+1013 Břvany žst
+1014 Bečov u Mostu žst
+1015 Ústí nad Labem západ vhb.č. 852
+1016 Chabařovice žst
+1017 Bohosudov žst
+1018 Proboštov z
+1019 Oldřichov u Duchcova žst
+1020 Duchcov z
+1021 Želénky z
+1022 Chotějovice z
+1023 Bílina žst
+1024 Bílina kyselka z
+1025 Želenice nad Bílinou z
+1026 Odb. České Zlatníky odbočka
+1027 Třebušice žst
+1028 Kyjice žst
+1029 Jirkov zastávka z
+1030 Odb. Dolní Rybník odbočka
+1031 Odb. Chomutov město z
+1032 Odb. Chomutov město odbočka
+1033 Trmice
+1034 Koštov z
+1035 Stadice z
+1036 Řehlovice žst
+1037 Brozánky z
+1038 Rtyně nad Bílinou z
+1039 Velvěty z
+1040 Lbín z
+1041 Ohníč žst
+1042 Hostomice nad Bílinou z
+1043 Světec žst
+1044 Bílina-Chudeřice z
+1045 Děčín zastávka z
+1046 Děčín-Oldřichov z
+1047 Děčín-Bynov z
+1048 Martiněves u Děčína z
+1049 Jílové u Děčína
+1050 Modrá u Děčína z
+1051 Kamenec z
+1052 Libouchec
+1053 Malé Chvojno
+1054 Telnice
+1055 Chlumec u Chabařovic
+1056 Unčín z
+1057 Bohosudov zastávka z
+1058 Krupka město z
+1059 Krupka
+1060 Novosedlice z
+1061 Teplice lesní brána
+1062 Jirkov nz
+1063 Háj u Duchcova z
+1064 Osek žst
+1065 býv. Hrdlovka
+1066 Lom u Mostu z
+1067 Louka u Litvínova žst
+1068 Litvínov žst
+1069 Most-Kopisty z
+1070 Most-Minerva z
+1071 Litvínov město z
+1072 Lom u Mostu zastávka z
+1073 Osek město
+1074 Horní Háj z
+1075 Hrob
+1076 Střelná v Krušných horách z
+1077 Dubí
+1078 Mikulov v Krušných horách z
+1079 Mikulov-Nové Město z
+1080 Moldava v Krušných horách
+1081 Černovice u Chomutova
+1082 Domina
+1083 Křimov-Suchdol z
+1084 Křimov zastávka z
+1085 Křimov
+1086 Nová Ves u Křimova z
+1087 Výsluní z
+1088 Rusová
+1089 Měděnec z
+1090 Měděnec zastávka z
+1091 Kovářská městys z
+1092 Kovářská
+1093 České Hamry z
+1094 Vejprty zastávka z
+1095 Vejprty koupaliště z
+1096 Vejprty
+1097 Vejprty státní hranice
+1098 Málkov z
+1099 Kadaň-Prunéřov žst
+1100 býv. Vernéřov
+1101 Klášterec nad Ohří žst
+1102 Kotvina z
+1103 Perštejn žst
+1104 Boč z
+1105 Stráž nad Ohří žst
+1106 Vojkovice nad Ohří žst
+1107 Ostrov nad Ohří žst
+1108 Hájek žst
+1109 Dalovice žst
+1110 Karlovy Vary žst
+1111 býv. Odb. Sedlec
+1112 Odb. Karlovy Vary-Dvory nz
+1113 Chodov žst
+1114 Nové Sedlo u Lokte žst
+1115 Královské Poříčí z
+1116 Sokolov žst
+1117 Citice žst
+1118 Hlavno z
+1119 Šabina z
+1120 Dasnice žst
+1121 Kynšperk nad Ohří žst
+1122 Nebanice nz
+1123 Tršnice žst
+1124 Cheb žst
+1125 Karlovy Vary dolní nádraží žst
+1126 Sadov
+1127 Sadov-Podlesí z
+1128 Velký Rybník z
+1129 Hroznětín
+1130 Hroznětín zastávka z
+1131 Merklín
+1132 Stará Role žst
+1133 Nová Role žst
+1134 Nová Role zastávka z
+1135 Nejdek-Suchá z
+1136 Nejdek žst
+1137 Nejdek zastávka z
+1138 Vysoká Pec z
+1139 Nové Hamry
+1140 Nejdek-Tisová z
+1141 Nejdek-Sejfy z
+1142 Nejdek-Oldřichov z
+1143 Pernink
+1144 Horní Blatná
+1145 Potůčky zastávka z
+1146 Potůčky
+1147 Potůčky státní hranice
+1148 Božičany z
+1149 Mírová z
+1150 Loučky nz
+1151 Loket nz
+1152 Loket předměstí nz
+1153 Údolí z
+1154 Horní Slavkov zastávka z
+1155 Horní Slavkov
+1156 Horní Slavkov-Kounice z
+1157 Krásný Jez
+1158 Svatava
+1159 Svatava zastávka z
+1160 Luh nad Svatavou z
+1161 Hřebeny z
+1162 Oloví
+1163 Rotava
+1164 Kraslice předměstí nz
+1165 Kraslice
+1166 Kraslice-Pod vlekem z
+1167 Kraslice státní hranice
+1168 Třebeň z
+1169 Nový Drahov nz
+1170 Vonšov nz
+1171 Skalná
+1172 Velký Luh
+1173 Nový Kostel nz
+1174 Dolní Luby z
+1175 Luby u Chebu
+1176 Františkovy Lázně žst
+1177 Žírovice-Seníky z
+1178 Vojtanov žst
+1179 Plesná z
+1180 Vojtanov státní hranice
+1181 Františkovy Lázně-Aquaforum z
+1182 Vojtanov obec z
+1183 Hazlov žst
+1184 Aš žst
+1185 Aš město
+1186 Aš předměstí z
+1187 Štítary z
+1188 Podhradí z
+1189 Studánka nz
+1190 Hranice v Čechách
+1191 Doubí u Karlových Varů z
+1192 Karlovy Vary-Březová
+1193 Cihelny z
+1194 Kfely z
+1195 Teplička u Karlových Varů
+1196 Krásný Jez zastávka z
+1197 Vodná z
+1198 Bečov nad Teplou žst
+1199 Louka u Mariánských Lázní z
+1200 Poutnov
+1201 Hoštěc z
+1202 Teplá
+1203 Mrázov z
+1204 Ovesné Kladruby
+1205 Milhostov u Mariánských Lázní z
+1206 Vlkovice
+1207 Mariánské Lázně město z
+1208 Mariánské Lázně žst
+1209 Plzeň hlavní nádraží žst
+1210 Plzeň-Bílá Hora z
+1211 AHr. Plzeň-Bolevec z
+1212 Plzeň-Orlík z
+1213 Třemošná u Plzně žst
+1214 Horní Bříza zastávka z
+1215 Horní Bříza žst
+1216 Obora u Kaznějova z
+1217 Kaznějov žst
+1218 Plasy žst
+1219 Horní Hradiště z
+1220 Mladotice zastávka z
+1221 Mladotice žst
+1222 Potvorov z
+1223 Žihle žst
+1224 Pastuchovice z
+1225 Blatno u Jesenice žst
+1226 Stebno z
+1227 Petrohrad žst
+1228 Kryry žst
+1229 Vroutek žst
+1230 Podbořany žst
+1231 Kaštice žst
+1232 Kněžice z
+1233 Čejkovice z
+1234 Žabokliky žst
+1235 Libočany z
+1236 Rakovník-Rakona odbočka
+1237 Rakovník západ z
+1238 Senomaty
+1239 Šanov z
+1240 Pšovlky
+1241 Švihov u Jesenice z
+1242 Oráčov nz
+1243 Kosobody z
+1244 Jesenice žst
+1245 Krty z
+1246 Malměřice z
+1247 Ležky z
+1248 Lubenec
+1249 Lubenec zastávka z
+1250 Libkovice z
+1251 Chyše
+1252 Protivec
+1253 Záhořice z
+1254 Žlutice
+1255 Borek u Žlutic z
+1256 Štědrá
+1257 Smilov z
+1258 Luhov z
+1259 Toužim
+1260 Poseč z
+1261 Otročín
+1262 Lubná
+1263 Příčina z
+1264 Zavidov
+1265 Všesulov z
+1266 Čistá
+1267 Strachovice z
+1268 Kožlany z
+1269 Kralovice u Rakovníka
+1270 Trojany n
+1271 Budov z
+1272 Vahaneč z
+1273 Těšetice z
+1274 Bochov
+1275 Kadaň žst
+1276 Kadaň předměstí nz
+1277 Želina
+1278 Hradec u Kadaně z
+1279 Poláky
+1280 Pětipsy z
+1281 Vilémov u Kadaně
+1282 Vilémov u Kadaně město z
+1283 Radonice u Kadaně
+1284 Ždov z
+1285 Kadaňský Rohozec
+1286 Vitčice z
+1287 Chotěbudice z
+1288 Krásný Dvůr
+1289 Vysoké Třebušice z
+1290 Beroun žst
+1291 Králův Dvůr z
+1292 Králův Dvůr-Popovice z
+1293 Zdice žst
+1294 Stašov z
+1295 Praskolesy z
+1296 Hořovice žst
+1297 Cerhovice z
+1298 Odb. Zbiroh
+1299 Kařez z
+1300 Kařízek žst
+1301 Mýto z
+1302 Holoubkov žst
+1303 Svojkovice z
+1304 Rokycany žst
+1305 Klabava z
+1306 Ejpovice žst
+1307 Dýšina z
+1308 Chrást u Plzně žst
+1309 Plzeň-Doubravka z
+1310 Plzeň-Jižní Předměstí
+1311 Plzeň-Zadní Skvrňany z
+1312 Plzeň-Křimice žst
+1313 Vochov z
+1314 Kozolupy žst
+1315 Plešnice z
+1316 Pňovany zastávka z
+1317 Pňovany žst
+1318 Sulislav z
+1319 Vranov u Stříbra žst
+1320 Stříbro žst
+1321 Milíkov žst
+1322 Svojšín žst
+1323 Ošelín žst
+1324 Pavlovice žst
+1325 Brod nad Tichou žst
+1326 Planá u Mariánských Lázní žst
+1327 Chodová Planá žst
+1328 Valy u Mariánských Lázní žst
+1329 Lázně Kynžvart žst
+1330 Dolní Žandov žst
+1331 Salajna z
+1332 Lipová u Chebu žst
+1333 Stebnice z
+1334 Cheb-Všeboř z
+1335 Praha-Smíchov žst
+1336 Hr. Barrandov hradlo
+1337 Praha-Velká Chuchle z
+1338 Hr. Závodiště hradlo
+1339 Praha-Radotín žst
+1340 Praha-Žižkov n
+1341 Praha-Malešice žst
+1342 Praha-Krč žst
+1343 Odb. Tunel odbočka
+1344 Hr. Kosoř hradlo
+1345 Černošice z
+1346 Hr. Kazín hradlo
+1347 Černošice-Mokropsy z
+1348 Hr. Horní Mokropsy hradlo
+1349 Všenory z
+1350 Dobřichovice žst
+1351 Řevnice žst
+1352 Zadní Třebaň žst
+1353 Karlštejn žst
+1354 Hr. Korno hradlo
+1355 Srbsko z
+1356 Hr. Tetín hradlo
+1357 Běleč z
+1358 Liteň
+1359 Skuhrov pod Brdy nz
+1360 Nesvačily z
+1361 Všeradice nz
+1362 Vižina z
+1363 Osov z
+1364 Hostomice pod Brdy
+1365 Radouš z
+1366 Neumětely nz
+1367 Lochovice žst
+1368 Praha-Hlubočepy z
+1369 Praha-Holyně z
+1370 Praha-Řeporyje žst
+1371 Zbuzany z
+1372 Jinočany z
+1373 Rudná zastávka z
+1374 Nučice žst
+1375 Nučice zastávka z
+1376 Loděnice žst
+1377 Vráž u Berouna žst
+1378 Beroun-Závodí žst
+1379 Hýskov žst
+1380 Nižbor žst
+1381 Žloukovice z
+1382 Račice nad Berounkou z
+1383 Zbečno žst
+1384 Újezd nad Zbečnem z
+1385 Roztoky u Křivoklátu žst
+1386 Křivoklát z
+1387 Městečko u Křivoklátu z
+1388 Pustověty z
+1389 Lašovice žst
+1390 Chlum u Rakovníka z
+1391 Rokycany předměstí z
+1392 Kamenný Újezd u Rokycan z
+1393 Nová Huť z
+1394 Hrádek u Rokycan z
+1395 Mirošov žst
+1396 Mirošov město z
+1397 Příkosice zastávka z
+1398 Příkosice
+1399 Mešno z
+1400 Lipnice nz
+1401 Kornatice z
+1402 Kornatice rybník z
+1403 Šťáhlavice z
+1404 Nezvěstice žst
+1405 Chrást u Plzně obec z
+1406 Chrást u Plzně zastávka z
+1407 Sedlecko z
+1408 Střapole z
+1409 Všenice z
+1410 Dolní Stupno z
+1411 Stupno
+1412 Bezděkov u Radnic z
+1413 Břasy z
+1414 Radnice
+1415 Blahousty z
+1416 Trpísty
+1417 Lomnička z
+1418 Cebiv
+1419 Strahov z
+1420 Břetislav z
+1421 Kokašice nz
+1422 Konstantinovy Lázně z
+1423 Bezdružice
+1424 Lom u Stříbra z
+1425 Holostřevy nz
+1426 Skviřín z
+1427 Bor žst
+1428 Cheb-Skalka z
+1429 Pomezí nad Ohří z
+1430 Cheb státní hranice
+1431 býv. Schirnding
+1432 Plzeň-Skvrňany z
+1433 Vejprnice žst
+1434 Tlučná z
+1435 Nýřany žst
+1436 Zbůch z
+1437 Výh. Chotěšov výhybna
+1438 Chotěšov u Stoda z
+1439 Stod žst
+1440 Hradec u Stoda z
+1441 Holýšov žst
+1442 Dolní Kamenice z
+1443 Staňkov žst
+1444 Osvračín z
+1445 Blížejov žst
+1446 Milavče z
+1447 Výh. Radonice výhybna
+1448 Domažlice žst
+1449 Domažlice město z
+1450 býv. Odb. Pasečnice
+1451 Babylon z
+1452 Česká Kubice žst
+1453 Česká Kubice státní hranice
+1454 býv. Furth im Wald
+1455 Kamenný Újezd u Nýřan z
+1456 Blatnice u Nýřan z
+1457 Rochlov z
+1458 Přehýšov z
+1459 Heřmanova Huť
+1460 Křenovy nz
+1461 Semošice-Peřina z
+1462 Semošice z
+1463 Horšovský Týn žst
+1464 Mašovice z
+1465 Meclov nz
+1466 Ohnišťovice z
+1467 Zámělíč z
+1468 Poběžovice žst
+1469 Plzeň zastávka z
+1470 Plzeň-Doudlevce z
+1471 Plzeň-Valcha žst
+1472 Dobřany zastávka z
+1473 Dobřany žst
+1474 Chlumčany u Dobřan žst
+1475 Přeštice-Zastávka z
+1476 Přeštice žst
+1477 Lužany z
+1478 AHr. Borovy z
+1479 Červené Poříčí z
+1480 Švihov u Klatov žst
+1481 Dehtín z
+1482 AHr. Točník nz
+1483 Klatovy žst
+1484 Bezděkov u Klatov z
+1485 Janovice nad Úhlavou žst
+1486 Petrovice nad Úhlavou z
+1487 Nýrsko žst
+1488 Dešenice z
+1489 Hl. Zelená Lhota nz
+1490 Hamry-Hojsova Stráž žst
+1491 Hojsova Stráž-Brčálník z
+1492 Špičák
+1493 Železná Ruda město
+1494 Železná Ruda centrum z
+1495 Železná Ruda-Alžbětín žst
+1496 Železná Ruda státní hranice
+1497 Havlovice
+1498 Pila z
+1499 Trhanov nz
+1500 Klenčí pod Čerchovem
+1501 Postřekov nz
+1502 Nový Kramolín nz
+1503 Vlkanov z
+1504 Mutěnín nz
+1505 Hostouň
+1506 Svržno z
+1507 Újezd Svatého Kříže nz
+1508 Bělá nad Radbuzou žst
+1509 Bělá nad Radbuzou zastávka z
+1510 Třemešné pod Přimdou
+1511 Dubec z
+1512 Borek u Tachova z
+1513 Stráž u Tachova
+1514 Bor zastávka z
+1515 Doly z
+1516 Staré Sedliště
+1517 Pernolec z
+1518 Malý Rapotín z
+1519 Tachov zastávka z
+1520 Tachov žst
+1521 Tachov-Bíletín z
+1522 Lom u Tachova z
+1523 Horažďovice předměstí žst
+1524 Horažďovice žst
+1525 Velké Hydčice žst
+1526 Žichovice žst
+1527 Sušice žst
+1528 Hrádek u Sušice žst
+1529 Mokrosuky z
+1530 Kolinec žst
+1531 Malonice nz
+1532 Nemilkov žst
+1533 Běšiny Eurocamp z
+1534 Běšiny žst
+1535 Neznašovy z
+1536 Vrhaveč z
+1537 Hl. Luby u Klatov z
+1538 Klatovy město z
+1539 Dubová Lhota z
+1540 Úborsko z
+1541 Pocinovice žst
+1542 Loučim z
+1543 Dobříkov na Šumavě nz
+1544 Chodská Lhota z
+1545 Kdyně žst
+1546 Starec z
+1547 Kout na Šumavě nz
+1548 Spáňov z
+1549 Plzeň-Koterov žst
+1550 Starý Plzenec žst
+1551 Šťáhlavy z
+1552 Zdemyslice z
+1553 Blovice žst
+1554 Blovice-Vlčice z
+1555 Ždírec u Plzně žst
+1556 býv. Hr. Srby
+1557 Srby z
+1558 Nepomuk žst
+1559 Mileč z
+1560 Nekvasovy z
+1561 Kovčín z
+1562 Pačejov žst
+1563 Jetenovice z
+1564 Velký Bor z
+1565 Střelské Hoštice žst
+1566 Dolní Poříčí z
+1567 Katovice žst
+1568 Pracejovice z
+1569 Strakonice žst
+1570 Modlešovice z
+1571 Čejetice žst
+1572 Sudoměř u Písku z
+1573 Ražice žst
+1574 Heřmaň obec z
+1575 AHr. Skály z
+1576 Protivín žst
+1577 Protivín zastávka z
+1578 Milenovice z
+1579 Číčenice žst
+1580 AHr. Záblatíčko z
+1581 Dívčice žst
+1582 AHr. Zbudov z
+1583 Zliv žst
+1584 Hluboká nad Vltavou žst
+1585 České Budějovice severní zastávka z
+1586 České Budějovice žst
+1587 Třebčice z
+1588 Želvice z
+1589 Kotouň nz
+1590 Životice z
+1591 Kasejovice zastávka z
+1592 Kasejovice
+1593 Hradiště u Blatné z
+1594 Lnáře
+1595 Tchořovice z
+1596 Blatná žst
+1597 Újezdec u Číčenic z
+1598 Záboří u Číčenic žst
+1599 Chvalešovice z
+1600 Lhota pod Horami z
+1601 Temelín žst
+1602 Bohunice z
+1603 Týn nad Vltavou
+1604 Libějovice z
+1605 Malovičky z
+1606 Malovice u Netolic z
+1607 Holečkov z
+1608 Netolice zastávka z
+1609 Netolice
+1610 České Budějovice jižní zastávka z
+1611 Boršov nad Vltavou žst
+1612 Černý Dub z
+1613 Hradce z
+1614 Vrábče z
+1615 Křemže žst
+1616 Holubov z
+1617 Třísov z
+1618 Plešovice z
+1619 Zlatá Koruna žst
+1620 Přísečná z
+1621 Domoradice z
+1622 Český Krumlov žst
+1623 Kájov žst
+1624 Mezipotočí z
+1625 Hořice na Šumavě
+1626 Polná na Šumavě
+1627 Polečnice
+1628 Hodňov z
+1629 Žlábek z
+1630 Černá v Pošumaví
+1631 Horní Planá zastávka z
+1632 Horní Planá
+1633 Pernek na Šumavě z
+1634 Nová Pec
+1635 Ovesná z
+1636 Pěkná z
+1637 Černý Kříž žst
+1638 Rybník žst
+1639 Jenín z
+1640 Rožmberk nad Vltavou
+1641 Herbertov z
+1642 Těchoraz z
+1643 Vyšší Brod klášter
+1644 Čertova Stěna z
+1645 Loučovice
+1646 Loučovice zastávka z
+1647 Lipno nad Vltavou
+1648 Včelná žst
+1649 Kamenný Újezd u Českých Budějovic zastávka z
+1650 Kamenný Újezd u Českých Budějovic žst
+1651 AHr. Chlumec u Českých Budějovic z
+1652 Holkov žst
+1653 Velešín město z
+1654 Velešín žst
+1655 Výheň z
+1656 Kaplice žst
+1657 Omlenice žst
+1658 Bujanov z
+1659 AHr. Pšenice z
+1660 Horní Dvořiště žst
+1661 Horní Dvořiště státní hranice
+1662 býv. Summerau
+1663 Vodňany
+1664 Pražák z
+1665 Svinětice z
+1666 Bavorov
+1667 Blanice z
+1668 Strunkovice nad Blanicí
+1669 Husinec
+1670 Prachatice žst
+1671 Prachatice lázně
+1672 Rohanov z
+1673 Chroboly
+1674 Ovesné u Prachatic z
+1675 Skříněřov z
+1676 Zbytiny
+1677 Spálenec z
+1678 Volary žst
+1679 Dobrá na Šumavě z
+1680 Stožec
+1681 Nové Údolí
+1682 Radošovice z
+1683 Přední Zborovice z
+1684 Strunkovice nad Volyňkou obec z
+1685 Strunkovice nad Volyňkou
+1686 Hoštice u Volyně z
+1687 Volyně
+1688 Nišovice z
+1689 Malenice nad Volyňkou z
+1690 Lčovice z
+1691 Čkyně
+1692 Bohumilice v Čechách zastávka z
+1693 Bohumilice v Čechách
+1694 Vimperk žst
+1695 Vimperk zastávka z
+1696 Lipka
+1697 Kubova Huť
+1698 Horní Vltavice z
+1699 Zátoň zastávka z
+1700 Zátoň z
+1701 Lenora
+1702 Lenora zastávka z
+1703 Soumarský Most z
+1704 Nové Hodějovice z
+1705 Nová Ves u Českých Budějovic žst
+1706 Trocnov z
+1707 Radostice u Trocnova z
+1708 Borovany žst
+1709 Hluboká u Borovan z
+1710 Jílovice žst
+1711 Petříkov z
+1712 Nové Hrady žst
+1713 Vyšné z
+1714 České Velenice žst
+1715 České Velenice státní hranice
+1716 Gmünd NÖ
+1717 Libomyšl z
+1718 Rejkovice z
+1719 Jince žst
+1720 Hl. Čenkov hláska
+1721 Bratkovice žst
+1722 Hl. Trhové Dušníky hláska
+1723 Příbram žst
+1724 Milín žst
+1725 Ostrov u Tochovic z
+1726 Tochovice žst
+1727 Březnice odb.vhb. 101
+1728 Březnice žst
+1729 Dobrá Voda u Březnice z
+1730 Myslín z
+1731 Mirovice žst
+1732 Horní Nerestce z
+1733 Čimelice žst
+1734 Smetanova Lhota z
+1735 Dolní Ostrovec z
+1736 Vráž u Písku žst
+1737 Čížová žst
+1738 býv. Písek-Dobešice z
+1739 Písek zastávka z
+1740 Písek žst
+1741 Putim žst
+1742 Heřmaň z
+1743 Tábor žst
+1744 Nasavrky z
+1745 Balkova Lhota žst
+1746 Meziříčí z
+1747 Padařov z
+1748 Božejovice žst
+1749 Sepekov nz
+1750 Milevsko žst
+1751 Líšnice z
+1752 Branice žst
+1753 Stehlovice z
+1754 Jetětice z
+1755 Červená nad Vltavou žst
+1756 Vlastec žst
+1757 Záhoří žst
+1758 Vrcovice z
+1759 Písek město žst
+1760 Horky u Tábora z
+1761 Slapy
+1762 Libějice z
+1763 Malšice
+1764 Čenkov u Malšic z
+1765 Třebelice z
+1766 Všechlapy z
+1767 Bechyňská Smoleč z
+1768 Sudoměřice u Bechyně
+1769 Bežerovice z
+1770 Bechyně zastávka z
+1771 Bechyně žst
+1772 Hudčice z
+1773 Slavětín u Březnice z
+1774 Bělčice
+1775 Závišín z
+1776 Bezdědovice z
+1777 Mačkov z
+1778 Sedlice
+1779 Sedlice město z
+1780 Rojice z
+1781 Velká Turná z
+1782 Radomyšl
+1783 Radomyšl zastávka z
+1784 Domanice z
+1785 Řepice z
+1786 Zadní Poříčí z
+1787 Oslí z
+1788 Skuhrov pod Třemšínem z
+1789 Rožmitál pod Třemšínem
+1790 Praha-Vršovice žst
+1791 Praha-Vršovice depo z
+1792 Praha-Kačerov z
+1793 Praha-Braník žst
+1794 Praha-Modřany zastávka
+1795 Praha-Modřany žst
+1796 Praha-Komořany z
+1797 Praha-Zbraslav žst
+1798 Dolní Břežany-Jarov z
+1799 Vrané nad Vltavou žst
+1800 Skochovice z
+1801 Odb. Skochovice odbočka
+1802 Měchenice žst
+1803 Klínec z
+1804 Bojov z
+1805 Bojanovice z
+1806 Čisovice žst
+1807 Rymaně z
+1808 Mníšek pod Brdy žst
+1809 Nová Ves pod Pleší z
+1810 Malá Hraštice žst
+1811 Mokrovraty z
+1812 Stará Huť z
+1813 Dobříš žst
+1814 Davle žst
+1815 Petrov-Chlomek z
+1816 Petrov u Prahy z
+1817 Luka pod Medníkem z
+1818 Jílové u Prahy žst
+1819 Kamenný Přívoz nz
+1820 Prosečnice z
+1821 Krhanice nz
+1822 Chrást nad Sázavou z
+1823 Týnec nad Sázavou žst
+1824 Pecerady nz
+1825 Poříčí nad Sázavou-Svárov z
+1826 Poříčí nad Sázavou z
+1827 Čerčany žst
+1828 Lštění z
+1829 Zlenice z
+1830 Hvězdonice žst
+1831 Chocerady z
+1832 Vlkovec nz
+1833 Samechov žst
+1834 Stříbrná Skalice nz
+1835 Plužiny z
+1836 Sázava zastávka z
+1837 Sázava-Černé Budy žst
+1838 Samopše z
+1839 Rataje nad Sázavou zastávka z
+1840 Rataje nad Sázavou-Ivaň z
+1841 Malovidy z
+1842 Český Šternberk nz
+1843 Český Šternberk zastávka z
+1844 Soběšín nz
+1845 Vranice z
+1846 Kácov žst
+1847 Kácov zastávka z
+1848 Střechov nad Sázavou z
+1849 Čížov z
+1850 Chabeřice z
+1851 Zruč nad Sázavou zastávka z
+1852 Zruč nad Sázavou žst
+1853 Horka nad Sázavou z
+1854 Laziště z
+1855 Vlastějovice žst
+1856 Budčice z
+1857 Chřenovice z
+1858 Chřenovice-Podhradí z
+1859 Ledeč nad Sázavou žst
+1860 Horní Ledeč z
+1861 Vilémovice z
+1862 Stvořidla z
+1863 Smrčná z
+1864 Mrzkovice z
+1865 Dolní Březinka z
+1866 Světlá nad Sázavou město z
+1867 Světlá nad Sázavou žst
+1868 Benešov u Prahy žst
+1869 Bystřice u Benešova z
+1870 Tomice z
+1871 Olbramovice žst
+1872 Votice
+1873 Heřmaničky žst
+1874 Ješetice žst
+1875 Červený Újezd u Votic z
+1876 Střezimíř žst
+1877 Hr. Mezno z
+1878 Sudoměřice u Tábora žst
+1879 Chotoviny žst
+1880 Hr. Stoklasná Lhota hradlo
+1881 Výh. Čekanice výhybna
+1882 Tábor-Čápův Dvůr z
+1883 Sezimovo Ústí z
+1884 Planá nad Lužnicí žst
+1885 Odb. Doubí u Tábora odbočka
+1886 Doubí u Tábora z
+1887 Roudná žst
+1888 Soběslav žst
+1889 AHr. Řípec-Dráchov z
+1890 Veselí nad Lužnicí žst
+1891 Veselí nad Lužnicí zastávka z
+1892 Horusice žst
+1893 Dynín žst
+1894 AHr. Neplachov z
+1895 Ševětín žst
+1896 Chotýčany žst
+1897 Odb. Dobřejovice odbočka
+1898 Hluboká nad Vltavou-Zámostí žst
+1899 AHr. Hosín z
+1900 Hrdějovice z
+1901 Výh. Nemanice výhybna
+1902 Hr. Železný most
+1903 Praha-Strašnice zastávka z
+1904 Odb. Záběhlice odbočka
+1905 Praha-Hostivař žst
+1906 Praha-Horní Měcholupy z
+1907 Praha-Uhříněves žst
+1908 býv. Hr. Praha-Kolovraty rybník
+1909 Praha-Kolovraty z
+1910 Říčany žst
+1911 býv. Hr. Říčany les
+1912 Světice z
+1913 býv. Hr. Svojšovice
+1914 Strančice žst
+1915 Mnichovice z
+1916 Mirošovice u Prahy z
+1917 Senohraby žst
+1918 Čtyřkoly z
+1919 Pyšely z
+1920 Mrač z
+1921 AHr. Bedrč hradlo
+1922 AHr. Tužinka hradlo
+1923 Benešov-Černý les z
+1924 Myslíč z
+1925 Struhařov nz
+1926 Dobříčkov z
+1927 Postupice žst
+1928 Městečko u Benešova z
+1929 Lhota Veselka z
+1930 Domašín nz
+1931 Znosim z
+1932 Vlašim žst
+1933 Vlašim zastávka z
+1934 Bolina z
+1935 Zdislavice nz
+1936 Trhový Štěpánov žst
+1937 Vrchotovy Janovice z
+1938 Voračice z
+1939 Minartice z
+1940 Štětkovice
+1941 Kosova Hora nz
+1942 Sedlčany
+1943 Smyslov z
+1944 Dobronice u Chýnova z
+1945 Chýnov žst
+1946 Pořín z
+1947 Obrataň žst
+1948 Šimpach z
+1949 Pacov žst
+1950 Leskovice z
+1951 Nová Cerekev žst
+1952 Vlásenice z
+1953 Pelhřimov žst
+1954 Rynárec z
+1955 Zajíčkov z
+1956 Dobrá Voda u Pelhřimova žst
+1957 Nová Buková z
+1958 Hříběcí z
+1959 Horní Cerekev žst
+1960 Havlíčkův Brod žst
+1961 Mírovka z
+1962 Šlapanov žst
+1963 Kamenná z
+1964 Dobronín žst
+1965 Střítež u Jihlavy z
+1966 Jihlava-Bosch Diesel z
+1967 Jihlava žst
+1968 Jihlava město žst
+1969 Jihlava-Staré Hory z
+1970 Rantířov žst
+1971 Dvorce z
+1972 Kostelec u Jihlavy žst
+1973 Dolní Cerekev z
+1974 Výh. Spělov výhybna
+1975 Batelov žst
+1976 Švábov z
+1977 Horní Ves z
+1978 Jihlávka žst
+1979 Horní Vilímeč z
+1980 Počátky-Žirovnice žst
+1981 Popelín žst
+1982 Bednáreček z
+1983 Výh. Kamenný Malíkov výhybna
+1984 Bednárec z
+1985 Jarošov nad Nežárkou žst
+1986 Rodvínov z
+1987 Jindřichův Hradec žst
+1988 Děbolín nz
+1989 Výh. Velký Ratmírov výhybna
+1990 Mnich z
+1991 Kardašova Řečice žst
+1992 Doňov žst
+1993 Řípec z
+1994 Vlkov nad Lužnicí z
+1995 Frahelž z
+1996 Lomnice nad Lužnicí žst
+1997 Lužnice z
+1998 Třeboň žst
+1999 Třeboň lázně z
+2000 Hr. Holičky hradlo
+2001 Majdalena zastávka z
+2002 Majdalena žst
+2003 Suchdol nad Lužnicí žst
+2004 Suchdol nad Lužnicí zastávka z
+2005 Hrdlořezy z
+2006 Dvory nad Lužnicí z
+2007 Nová Ves nad Lužnicí žst
+2008 Kostelec u Jihlavy masna z
+2009 Salavice z
+2010 Jezdovice z
+2011 Třešť žst
+2012 Třešť město z
+2013 Hodice nz
+2014 Sedlejov žst
+2015 Mysliboř z
+2016 Telč žst
+2017 Telč-Staré Město z
+2018 Radkov z
+2019 Slaviboř z
+2020 Velký Pěčín z
+2021 Malý Pěčín z
+2022 Dačice žst
+2023 Dačice město z
+2024 Urbaneč z
+2025 Peč z
+2026 Dolní Bolíkov z
+2027 Mutišov z
+2028 Slavonice žst
+2029 Horní Skrýchov nz
+2030 Dolní Radouň z
+2031 Lovětín
+2032 Lovětín obec z
+2033 Nekrasín z
+2034 Nová Včelnice
+2035 Žďár u Kamenice nad Lipou z
+2036 Rodinov z
+2037 Kamenice nad Lipou
+2038 Včelnička nz
+2039 Benešov nad Lipou z
+2040 Chválkov
+2041 Dobešov z
+2042 Černovice u Tábora
+2043 býv. Střítež u Černovic z
+2044 Křeč
+2045 Sudkův Důl z
+2046 Obrataň zastávka z
+2047 Jindřiš
+2048 Jindřiš zastávka z
+2049 Blažejov
+2050 Malý Ratmírov z
+2051 Střížovice
+2052 Kunžak-Lomy
+2053 Kaproun z
+2054 Senotín nz
+2055 Hůrky
+2056 Albeř nz
+2057 Nová Bystřice
+2058 Hlízov z
+2059 Kutná Hora hlavní nádraží žst
+2060 Církvice z
+2061 Třebešice z
+2062 Čáslav žst
+2063 Horky u Čáslavi z
+2064 Bratčice z
+2065 Golčův Jeníkov žst
+2066 Golčův Jeníkov město z
+2067 Vlkaneč žst
+2068 Nová Ves u Leštiny z
+2069 Leština u Světlé žst
+2070 Sázavka z
+2071 Světlá nad Sázavou-Josefodol z
+2072 Pohleď z
+2073 Okrouhlice žst
+2074 Havlíčkův Brod-Perknov z
+2075 Praha-Horní Počernice žst
+2076 Zeleneč z
+2077 Mstětice žst
+2078 Čelákovice-Jiřina z
+2079 Ostrá z
+2080 Stratov z
+2081 Kostomlaty nad Labem žst
+2082 Kamenné Zboží z
+2083 Odb. Babín odbočka
+2084 Velké Zboží z
+2085 Poděbrady žst
+2086 Libice nad Cidlinou žst
+2087 Veltruby z
+2088 Kolín-Hradišťko odbočka
+2089 Kolín-Zálabí z
+2090 Milovice žst
+2091 Mochov zastávka z
+2092 Mochov nz
+2093 Kutná Hora-Sedlec z
+2094 Kutná Hora město žst
+2095 Kutná Hora předměstí z
+2096 Poličany z
+2097 Malešov žst
+2098 Bykáň z
+2099 Týniště z
+2100 Krasoňovice z
+2101 Bahno z
+2102 Předbořice z
+2103 Červené Janovice n
+2104 Černíny z
+2105 Štipoklasy z
+2106 Zbraslavice žst
+2107 Hodkov z
+2108 Hodkov zastávka z
+2109 Želivec z
+2110 Vrdy-Koudelov z
+2111 Skovice
+2112 Žleby
+2113 Žleby zastávka z
+2114 Ronov nad Doubravou
+2115 Ronov nad Doubravou zastávka z
+2116 Žlebské Chvalovice z
+2117 Závratec z
+2118 Třemošnice
+2119 Dolík z
+2120 Petrkov z
+2121 Lípa
+2122 Radňov z
+2123 Herálec
+2124 Slavníč z
+2125 Kamenice u Humpolce z
+2126 Plačkov z
+2127 Humpolec
+2128 Pardubice závodiště z
+2129 Staré Jesenčany z
+2130 Medlešice žst
+2131 Chrudim zastávka z
+2132 Slatiňany žst
+2133 Zaječice z
+2134 Chrast u Chrudimi žst
+2135 Horka u Chrudimi z
+2136 Vrbatův Kostelec z
+2137 AHr. Cejřov výhybna
+2138 Prosetín z
+2139 Žďárec u Skutče žst
+2140 Pokřikov z
+2141 Vojtěchov z
+2142 Hr. Raná hradlo
+2143 Holetín z
+2144 Hlinsko v Čechách žst
+2145 Hlinsko-Kouty z
+2146 Vítanov z
+2147 Stružinec z
+2148 Ždírec nad Doubravou žst
+2149 Sobíňov z
+2150 Bílek z
+2151 Chotěboř žst
+2152 Rozsochatec žst
+2153 Břevnice z
+2154 Brno hlavní nádraží žst
+2155 Brno-Horní Heršpice žst
+2156 AHr. Troubsko z
+2157 Střelice dolní z
+2158 Střelice žst
+2159 Omice z
+2160 Tetčice žst
+2161 Rosice u Brna z
+2162 Zastávka u Brna žst
+2163 Vysoké Popovice z
+2164 Rapotice žst
+2165 Kralice nad Oslavou žst
+2166 Náměšť nad Oslavou žst
+2167 Studenec žst
+2168 Vladislav zastávka z
+2169 Vladislav žst
+2170 Třebíč žst
+2171 Třebíč-Borovina z
+2172 Krahulov žst
+2173 Okříšky žst
+2174 Číchov z
+2175 Bransouze žst
+2176 Dolní Smrčné z
+2177 Přímělkov z
+2178 Bítovčice z
+2179 Luka nad Jihlavou žst
+2180 Malý Beranov z
+2181 Znojmo žst
+2182 Znojmo nemocnice z
+2183 Citonice z
+2184 Olbramkostel žst
+2185 Šumná žst
+2186 Grešlové Mýto žst
+2187 Blížkovice z
+2188 býv. hr.VUSC 0630/0640 04
+2189 Vesce z
+2190 Moravské Budějovice žst
+2191 Bohušice z
+2192 Jaroměřice nad Rokytnou žst
+2193 Šebkovice z
+2194 Kojetice na Moravě žst
+2195 Stařeč žst
+2196 Hvězdoňovice z
+2197 Dobronín zastávka z
+2198 Polná n
+2199 Jackov z
+2200 Dědice z
+2201 Rácovice z
+2202 Třebelovice
+2203 Lhotice u Jemnice z
+2204 Jemnice
+2205 Radostice z
+2206 Silůvky žst
+2207 Moravské Bránice žst
+2208 Ivančice letovisko z
+2209 Ivančice město z
+2210 Ivančice žst
+2211 Oslavany
+2212 Budkovice z
+2213 Moravský Krumlov žst
+2214 Rakšice žst
+2215 Bohutice z
+2216 Našiměřice z
+2217 Miroslav žst
+2218 Dolenice z
+2219 Břežany z
+2220 Pravice z
+2221 Hrušovany nad Jevišovkou žst
+2222 Hrabětice z
+2223 Hevlín
+2224 Břeclav žst
+2225 Boří les žst
+2226 Valtice město z
+2227 Valtice žst
+2228 Sedlec u Mikulova z
+2229 Mikulov na Moravě žst
+2230 Březí z
+2231 Dobré Pole z
+2232 Novosedly žst
+2233 Jevišovka z
+2234 Božice u Znojma žst
+2235 Hodonice žst
+2236 Dyje z
+2237 Poštorná
+2238 Charvátská Nová Ves z
+2239 Lednice rybníky z
+2240 Lednice
+2241 Znojmo-Nový Šaldorf z
+2242 Šatov žst
+2243 Znojmo státní hranice
+2244 Unterretzbach
+2245 Retz
+2246 Pohledští Dvořáci z
+2247 Pohled žst
+2248 Stříbrné Hory z
+2249 Přibyslav zastávka z
+2250 Přibyslav žst
+2251 Ronov nad Sázavou z
+2252 Nížkov z
+2253 Sázava u Žďáru žst
+2254 Hamry nad Sázavou z
+2255 Žďár nad Sázavou žst
+2256 Ostrov nad Oslavou žst
+2257 Laštovičky z
+2258 Sklené nad Oslavou žst
+2259 Křižanov žst
+2260 Ořechov z
+2261 Osová Bítýška z
+2262 Vlkov u Tišnova žst
+2263 Níhov z
+2264 Řikonín žst
+2265 Dolní Loučky z
+2266 Tišnov žst
+2267 Hradčany z
+2268 Čebín z
+2269 Kuřim žst
+2270 Česká z
+2271 Brno-Řečkovice z
+2272 Brno-Královo Pole žst
+2273 Brno-Lesná z
+2274 Brno-Maloměřice žst
+2275 Odb. Brno-Židenice z
+2276 Modřice žst
+2277 Popovice u Rajhradu z
+2278 Rajhrad z
+2279 Vojkovice nad Svratkou z
+2280 Hrušovany u Brna žst
+2281 Židlochovice
+2282 Žabčice z
+2283 Vranovice žst
+2284 Pouzdřany z
+2285 Popice z
+2286 Šakvice žst
+2287 Zaječí žst
+2288 Rakvice z
+2289 Podivín žst
+2290 Ladná z
+2291 býv. Břeclav přednádraží
+2292 Břeclav státní hranice
+2293 Lanžhot žst
+2294 Lanžhot státní hranice
+2295 Veselíčko žst
+2296 Radňovice z
+2297 Nové Město na Moravě zastávka z
+2298 Nové Město na Moravě žst
+2299 Olešná na Moravě z
+2300 Rovné-Divišov z
+2301 Rozsochy z
+2302 Bystřice nad Pernštejnem žst
+2303 Rožná žst
+2304 Věžná z
+2305 Nedvědice žst
+2306 Doubravník z
+2307 Prudká zastávka z
+2308 Prudká n
+2309 Borač z
+2310 Štěpánovice z
+2311 Martinice u Velkého Meziříčí z
+2312 Velké Meziříčí žst
+2313 Velké Meziříčí zastávka z
+2314 Oslavice nz
+2315 Oslavička z
+2316 Vlčatín z
+2317 Rudíkov
+2318 Budišov u Třebíče
+2319 Kojatín z
+2320 Pozďatín z
+2321 Přibice z
+2322 Velký Dvůr z
+2323 Pohořelice
+2324 Hustopeče u Brna
+2325 Hodonín žst
+2326 Mutěnice žst
+2327 Mutěnice zastávka z
+2328 Čejč žst
+2329 Brumovice z
+2330 Kobylí na Moravě žst
+2331 Bořetice z
+2332 Velké Pavlovice zastávka z
+2333 Velké Pavlovice žst
+2334 Terezín u Čejče z
+2335 Krumvíř z
+2336 Klobouky u Brna
+2337 Dambořice z
+2338 Uhřice u Kyjova
+2339 býv. Želetice z
+2340 býv. Dražůvky z
+2341 Ždánice
+2342 Kyjov žst
+2343 Svatobořice
+2344 Dubňany nz
+2345 Semanín z
+2346 Opatov žst
+2347 Svitavy-Lačnov z
+2348 Svitavy žst
+2349 Svitavy-Lány z
+2350 Hradec nad Svitavou z
+2351 Březová nad Svitavou-Dlouhá z
+2352 Březová nad Svitavou žst
+2353 Moravská Chrastová z
+2354 Rozhraní z
+2355 Letovice žst
+2356 Letovice zastávka z
+2357 Zboněk z
+2358 Svitávka z
+2359 Skalice nad Svitavou žst
+2360 Doubravice nad Svitavou z
+2361 Rájec-Jestřebí žst
+2362 Dolní Lhota z
+2363 Blansko město z
+2364 Blansko žst
+2365 Adamov zastávka z
+2366 Adamov žst
+2367 Babice nad Svitavou z
+2368 Bílovice nad Svitavou z
+2369 Svitavy zastávka z
+2370 Vendolí z
+2371 Vendolí zastávka z
+2372 Květná žst
+2373 Květná zastávka z
+2374 Pomezí z
+2375 Pomezí zastávka z
+2376 Polička žst
+2377 Sádek u Poličky z
+2378 Oldřiš z
+2379 Borová u Poličky zastávka z
+2380 Borová u Poličky žst
+2381 Pustá Kamenice zastávka z
+2382 Pustá Kamenice z
+2383 Čachnov žst
+2384 Krouna z
+2385 Krouna zastávka z
+2386 Předhradí z
+2387 Skuteč žst
+2388 Boskovice žst
+2389 Knínice u Boskovic nz
+2390 Šebetov žst
+2391 Světlá u Boskovic z
+2392 Cetkovice z
+2393 Velké Opatovice žst
+2394 Jevíčko nz
+2395 Biskupice u Jevíčka z
+2396 Luková u Rudoltic v Čechách z
+2397 Žichlínek z
+2398 Krasíkov z
+2399 Tatenice z
+2400 Hoštejn z
+2401 Lupěné z
+2402 Zábřeh na Moravě žst
+2403 Lukavice na Moravě žst
+2404 Mohelnice žst
+2405 Moravičany žst
+2406 býv. Odb. Benkov
+2407 Červenka žst
+2408 Střeň z
+2409 Štěpánov žst
+2410 Olomouc hlavní nádraží žst
+2411 Grygov žst
+2412 Brodek u Přerova žst
+2413 Rokytnice u Přerova z
+2414 Výh. Dluhonice výhybna
+2415 Prosenice žst
+2416 Přerov žst
+2417 Osek nad Bečvou z
+2418 Lipník nad Bečvou žst
+2419 Drahotuše žst
+2420 Hranice na Moravě žst
+2421 Bělotín z
+2422 Polom žst
+2423 Jeseník nad Odrou z
+2424 Suchdol nad Odrou žst
+2425 Hladké Životice z
+2426 Studénka žst
+2427 Mošnov, Ostrava Airport žst
+2428 Sedlnice z
+2429 Jistebník žst
+2430 Polanka nad Odrou z
+2431 Výh. Polanka nad Odrou výhybna
+2432 Odb. Odra odbočka
+2433 Ostrava-Vítkovice žst
+2434 Ostrava-Svinov žst
+2435 Odb. Ostrava-Mariánské Hory z
+2436 Ostrava hlavní nádraží žst
+2437 Ostrava-Hrušov
+2438 Bohumín žst
+2439 Prostějov hlavní nádraží žst
+2440 Prostějov místní nádraží žst
+2441 Kostelec na Hané žst
+2442 Lutotín z
+2443 Zdětín u Prostějova z
+2444 Ptení
+2445 Stražisko z
+2446 Čunín z
+2447 Křemenec z
+2448 Konice
+2449 Jesenec z
+2450 Dzbel
+2451 Šubířov z
+2452 Nectava z
+2453 Litovel
+2454 Litovel město z
+2455 Litovel předměstí žst
+2456 Myslechovice z
+2457 Cholina z
+2458 Odrlice z
+2459 Senice na Hané zastávka z
+2460 Senice na Hané žst
+2461 Náměšť na Hané z
+2462 Drahanovice
+2463 Slatinice z
+2464 Třebčín
+2465 Kaple z
+2466 Čelechovice na Hané nz
+2467 Chudobín nz
+2468 Mladeč jeskyně z
+2469 Mladeč
+2470 Olomouc-Smetanovy sady z
+2471 Olomouc-Nová Ulice žst
+2472 Olomouc město žst
+2473 Olomouc-Hejčín z
+2474 Olomouc-Řepčín žst
+2475 Horka nad Moravou nz
+2476 Skrbeň z
+2477 Příkazy žst
+2478 Mankovice z
+2479 Odry
+2480 Odry-Loučky z
+2481 Jakubčovice nad Odrou z
+2482 Heřmánky
+2483 Klokočov z
+2484 Vítkov
+2485 Čermná ve Slezsku nz
+2486 Svatoňovice
+2487 Budišov nad Budišovkou
+2488 Hladké Životice místní nádraží z
+2489 Stachovice z
+2490 Fulnek
+2491 Kunín z
+2492 Šenov u Nového Jičína z
+2493 Nový Jičín město
+2494 Studénka město z
+2495 Velké Albrechtice z
+2496 Bílovec
+2497 Odb. Skalka odbočka
+2498 Hranice na Moravě město žst
+2499 Teplice nad Bečvou z
+2500 AHr. Černotín z
+2501 AHr. Špičky z
+2502 Milotice nad Bečvou z
+2503 Hustopeče nad Bečvou žst
+2504 Lhotka nad Bečvou žst
+2505 Valašské Meziříčí žst
+2506 Brňov z
+2507 Bystřička nz
+2508 Jablůnka žst
+2509 Vsetín žst
+2510 býv. Ústí u Vsetína z
+2511 Leskovec z
+2512 Valašská Polanka žst
+2513 Lužná u Vsetína z
+2514 Lidečko z
+2515 Lidečko ves z
+2516 Horní Lideč žst
+2517 Střelná z
+2518 Horní Lideč státní hranice
+2519 Krhová z
+2520 Hrachovec nz
+2521 Zašová nz
+2522 Střítež nad Bečvou
+2523 Zubří z
+2524 Rožnov pod Radhoštěm žst
+2525 Ústí u Vsetína zastávka z
+2526 Janová z
+2527 Hovězí
+2528 Huslenky z
+2529 Huslenky zastávka z
+2530 Halenkov zastávka z
+2531 Halenkov žst
+2532 Nový Hrozenkov zastávka z
+2533 Nový Hrozenkov nz
+2534 Karolinka zastávka z
+2535 Karolinka
+2536 Velké Karlovice zastávka z
+2537 Velké Karlovice
+2538 Valašské Příkazy z
+2539 Poteč z
+2540 Valašské Klobouky
+2541 Návojná z
+2542 Brumov
+2543 Brumov střed z
+2544 Bylnice žst
+2545 Hlušovice z
+2546 Bohuňovice žst
+2547 Štarnov z
+2548 Šternberk žst
+2549 Babice u Šternberka z
+2550 Mladějovice z
+2551 Újezd u Uničova žst
+2552 Uničov zastávka z
+2553 Uničov žst
+2554 Troubelice žst
+2555 Troubelice zastávka z
+2556 Nová Hradečná z
+2557 Libina žst
+2558 Hrabišín z
+2559 Nový Malín nz
+2560 Šumperk žst
+2561 Zábřeh na Moravě zastávka z
+2562 Postřelmov žst
+2563 Bludov lázně z
+2564 Bludov žst
+2565 Šumperk zastávka z
+2566 AHr. Bohutín z
+2567 Bartoňov z
+2568 Ruda nad Moravou žst
+2569 Komňátka z
+2570 Bohdíkov žst
+2571 Raškov z
+2572 Hanušovice Holba z
+2573 Potůčník z
+2574 Jindřichov na Moravě žst
+2575 Nové Losiny z
+2576 Branná žst
+2577 Ostružná žst
+2578 Ramzová z
+2579 Horní Lipová žst
+2580 Lipová Lázně žst
+2581 Lipová Lázně zastávka z
+2582 Jeseník žst
+2583 Česká Ves z
+2584 Česká Ves bazén z
+2585 Písečná žst
+2586 Hradec-Nová Ves z
+2587 Mikulovice žst
+2588 Mikulovice státní hranice
+2589 Głuchołazy
+2590 Jindřichov ve Slezsku státní hranice
+2591 Jindřichov ve Slezsku žst
+2592 Třemešná ve Slezsku žst
+2593 Město Albrechtice žst
+2594 Linhartovy z
+2595 Krásné Loučky nz
+2596 Krnov žst
+2597 Vikýřovice u penzionu z
+2598 Vikýřovice z
+2599 Vikýřovice-Lesní z
+2600 Petrov nad Desnou žst
+2601 Petrov nad Desnou zastávka z
+2602 Sobotín
+2603 Rapotín zastávka z
+2604 Rapotín nz
+2605 Velké Losiny
+2606 Velké Losiny zastávka z
+2607 Loučná nad Desnou-Filipová z
+2608 Loučná nad Desnou z
+2609 Loučná nad Desnou-Rejhotice nz
+2610 Kouty nad Desnou
+2611 Hanušovice zastávka z
+2612 Vysoké Žibřidovice z
+2613 Chrastice z
+2614 Staré Město pod Sněžníkem
+2615 Lipová Lázně jeskyně z
+2616 Vápenná žst
+2617 Žulová žst
+2618 Tomíkovice z
+2619 Kobylá nad Vidnavkou z
+2620 Velká Kraš žst
+2621 Horní Heřmanice z
+2622 Bernartice u Javorníka nz
+2623 Javorník ve Slezsku
+2624 Velká Kraš zastávka z
+2625 Vidnava
+2626 Ondřejovice z
+2627 Ondřejovice zastávka z
+2628 Zlaté Hory
+2629 Liptaň
+2630 Dívčí Hrad z
+2631 Horní Povelice z
+2632 Amalín z
+2633 Slezské Rudoltice
+2634 Koberno z
+2635 Bohušov
+2636 Osoblaha
+2637 Brno-Chrlice žst
+2638 Sokolnice-Telnice žst
+2639 Újezd u Brna z
+2640 Hostěrádky-Rešov z
+2641 Zbýšov z
+2642 Křenovice horní nádraží žst
+2643 Holubice žst
+2644 Blažovice žst
+2645 Velešovice z
+2646 Rousínov žst
+2647 Komořany u Vyškova žst
+2648 Luleč žst
+2649 Vyškov na Moravě žst
+2650 Hoštice-Heroltice z
+2651 Ivanovice na Hané žst
+2652 Chvalkovice na Hané z
+2653 Nezamyslice žst
+2654 Němčice nad Hanou žst
+2655 Měrovice nad Hanou z
+2656 Kojetín žst
+2657 Chropyně žst
+2658 Věžky žst
+2659 Doloplazy z
+2660 Pivín žst
+2661 Čelčice z
+2662 Bedihošť žst
+2663 Vrahovice z
+2664 Kraličky z
+2665 Vrbátky žst
+2666 Blatec žst
+2667 Kožušany z
+2668 AHr. Nemilany z
+2669 Olomouc-Nové Sady z
+2670 býv. Těšice z
+2671 býv. Tištín z
+2672 býv. Kovalovice-Osíčany z
+2673 býv. Prasklice z
+2674 býv. Uhřice u Kroměříže z
+2675 býv. Morkovice
+2676 Bezměrov z
+2677 Postoupky z
+2678 Kroměříž žst
+2679 Hulín žst
+2680 Třebětice žst
+2681 Všetuly nz
+2682 Holešov žst
+2683 Dobrotice z
+2684 Jankovice z
+2685 Hlinsko pod Hostýnem nz
+2686 Bystřice pod Hostýnem žst
+2687 Loukov z
+2688 Osíčko žst
+2689 Rajnochovice nz
+2690 Kunovice-Loučka žst
+2691 Police u Valašského Meziříčí z
+2692 Branky na Moravě žst
+2693 Kroměříž-Oskol z
+2694 Kotojedy z
+2695 Jarohněvice z
+2696 Šelešovice z
+2697 býv. Skržice z
+2698 Zdounky
+2699 Zborovice zastávka z
+2700 Zborovice
+2701 Bystrovany z
+2702 Velká Bystřice žst
+2703 Velká Bystřice zastávka z
+2704 Hlubočky-Mariánské Údolí žst
+2705 Hlubočky zastávka z
+2706 Hlubočky žst
+2707 Hrubá Voda zastávka z
+2708 Hrubá Voda žst
+2709 Hrubá Voda-Smilov z
+2710 Hl. Jívová z
+2711 Domašov nad Bystřicí žst
+2712 Moravský Beroun žst
+2713 Dětřichov nad Bystřicí žst
+2714 Lomnice u Rýmařova z
+2715 Valšov žst
+2716 Bruntál žst
+2717 Milotice nad Opavou žst
+2718 Zátor z
+2719 Brantice žst
+2720 Krnov-Cvilín z
+2721 Úvalno z
+2722 Skrochovice žst
+2723 Hl. Holasovice z
+2724 Vávrovice z
+2725 Palhanec n
+2726 Opava západ žst
+2727 Opava východ žst
+2728 Břidličná lesy z
+2729 Břidličná
+2730 Břidličná zastávka z
+2731 Velká Štáhle z
+2732 Jamartice z
+2733 Rýmařov
+2734 Rudná pod Pradědem z
+2735 Světlá Hora
+2736 Rudná pod Pradědem zastávka z
+2737 Malá Morávka
+2738 Nové Heřminovy z
+2739 Kunov
+2740 Skrbovice z
+2741 Široká Niva
+2742 Pocheň z
+2743 Karlovice
+2744 Karlovice zastávka z
+2745 Vrbno pod Pradědem zastávka z
+2746 Vrbno pod Pradědem
+2747 Kylešovice z
+2748 Odb. Moravice odbočka
+2749 Otice z
+2750 Slavkov u Opavy z
+2751 Štáblovice z
+2752 Dolní Životice
+2753 Litultovice z
+2754 Mladecko
+2755 Jakartovice
+2756 Svobodné Heřmanice
+2757 Branka u Opavy z
+2758 Hradec nad Moravicí
+2759 Opava zastávka z
+2760 Malé Hoštice z
+2761 Velké Hoštice z
+2762 Kravaře ve Slezsku žst
+2763 Kravaře-Kouty z
+2764 Dolní Benešov-Zábřeh z
+2765 býv. Dolní Benešov-U kaple z
+2766 Dolní Benešov
+2767 Kozmice z
+2768 Hlučín
+2769 Štěpánkovice z
+2770 Bolatice z
+2771 Chuchelná
+2772 Bohumín státní hranice
+2773 Dolní Lutyně z
+2774 Dětmarovice žst
+2775 Odb. Koukolná odbočka
+2776 Karviná hlavní nádraží žst
+2777 Karviná-Darkov z
+2778 Louky nad Olší žst
+2779 Odb. Chotěbuz z
+2780 Český Těšín žst
+2781 Český Těšín státní hranice
+2782 Ropice zastávka (Ropica przystanek) z
+2783 Třinec-Konská (Trzyniec-Końska) z
+2784 Třinec (Trzyniec) žst
+2785 Třinec centrum (Trzyniec Centrum) z
+2786 Vendryně (Wędrynia) z
+2787 Bystřice (Bystrzyca) žst
+2788 Hrádek (Gródek) z
+2789 Návsí (Nawsie) žst
+2790 Bocanovice (Boconowice) z
+2791 Mosty u Jablunkova (Mosty koło Jabłonkowa) žst
+2792 Mosty u Jablunkova zastávka (Mosty koło Jabłonkowa przystanek) z
+2793 Šance odbočka
+2794 Mosty u Jablunkova státní hranice
+2795 Čadca štátna hranica
+2796 Svrčinovec zastávka
+2797 Čadca
+2798 Opava-Komárov žst
+2799 Štítina žst
+2800 Mokré Lazce z
+2801 AHr. Lhota u Opavy z
+2802 Háj ve Slezsku žst
+2803 Jilešovice z
+2804 Děhylov žst
+2805 Ostrava-Třebovice žst
+2806 Ostrava-Kunčice žst
+2807 Ostrava-Bartovice žst
+2808 Šenov z
+2809 Havířov žst
+2810 Havířov-Suchá z
+2811 Horní Suchá z
+2812 Albrechtice u Českého Těšína žst
+2813 Ropice z
+2814 Ropice zálesí z
+2815 Střítež u Českého Těšína z
+2816 Hnojník žst
+2817 Horní Tošanovice z
+2818 Dobratice pod Prašivou z
+2819 Dobrá u Frýdku-Místku žst
+2820 Frýdek-Místek žst
+2821 Ostrava-Stodolní z
+2822 Ostrava střed
+2823 Ostrava-Kunčičky z
+2824 Vratimov žst
+2825 Paskov žst
+2826 Lískovec u Frýdku žst
+2827 Baška žst
+2828 Pržno žst
+2829 Frýdlant nad Ostravicí žst
+2830 AHr. Čeladná z
+2831 Kunčice pod Ondřejníkem žst
+2832 Frenštát pod Radhoštěm žst
+2833 Frenštát pod Radhoštěm město z
+2834 Veřovice žst
+2835 Mořkov hlavní trať nz
+2836 Hostašovice žst
+2837 Mořkov nz
+2838 Hodslavice z
+2839 Bludovice z
+2840 Nový Jičín horní nádraží
+2841 Frýdlant nad Ostravicí zastávka z
+2842 Frýdlant nad Ostravicí-Nová Dědina z
+2843 Ostravice zastávka z
+2844 Ostravice
+2845 Sedlnice kolej 1-6 žst
+2846 Skotnice z
+2847 Příbor žst
+2848 Kopřivnice zastávka z
+2849 Kopřivnice žst
+2850 Štramberk žst
+2851 Ženklava z
+2852 Odb. Závada odbočka
+2853 Závada z
+2854 Petrovice u Karviné žst
+2855 Petrovice u Karviné státní hranice
+2856 Horní Moštěnice z
+2857 Říkovice žst
+2858 Břest z
+2859 Záhlinice z
+2860 Tlumačov žst
+2861 Otrokovice žst
+2862 Napajedla žst
+2863 Spytihněv z
+2864 Huštěnovice žst
+2865 Staré Město u Uherského Hradiště žst
+2866 Kostelany nad Moravou z
+2867 Nedakonice žst
+2868 Moravský Písek zastávka z
+2869 Moravský Písek žst
+2870 Bzenec přívoz žst
+2871 Rohatec žst
+2872 Rohatec zastávka z
+2873 Lužice žst
+2874 Moravská Nová Ves žst
+2875 Hrušky zastávka z
+2876 Výh. Hrušky výhybna
+2877 Otrokovice-Trávníky z
+2878 Zlín-Malenovice zastávka z
+2879 Zlín-U mlýna z
+2880 Zlín-Malenovice žst
+2881 Zlín-Louky obchodní centrum z
+2882 Zlín-Louky z
+2883 Zlín-Prštné z
+2884 Zlín střed žst
+2885 Zlín-Dlouhá z
+2886 Zlín-Podvesná z
+2887 Zlín-Příluky z
+2888 Želechovice nad Dřevnicí z
+2889 Lípa nad Dřevnicí žst
+2890 Zádveřice z
+2891 Vizovice
+2892 Hodonín zastávka z
+2893 Hodonín státní hranice
+2894 Uhřičice obec z
+2895 Lobodice n
+2896 Oplocany z
+2897 Tovačov nz
+2898 Brno-Černovice z
+2899 Brno-Slatina žst
+2900 Šlapanice žst
+2901 Ponětovice z
+2902 Křenovice dolní nádraží z
+2903 Slavkov u Brna žst
+2904 Křižanovice z
+2905 Marefy z
+2906 Bučovice žst
+2907 Nevojice z
+2908 Nesovice žst
+2909 Brankovice z
+2910 Nemotice žst
+2911 Jestřabice z
+2912 Bohuslavice u Kyjova z
+2913 Kyjov zastávka z
+2914 Vlkoš žst
+2915 Vracov z
+2916 Bzenec žst
+2917 Veselí nad Moravou žst
+2918 Uherský Ostroh žst
+2919 Ostrožská Nová Ves žst
+2920 Ostrožská Nová Ves lázně z
+2921 Kunovice zastávka z
+2922 Kunovice žst
+2923 Uherské Hradiště žst
+2924 Vésky z
+2925 Popovice u Uherského Hradiště z
+2926 Hradčovice žst
+2927 Havřice z
+2928 Uherský Brod žst
+2929 Újezdec u Luhačovic žst
+2930 Polichno z
+2931 Biskupice u Luhačovic z
+2932 Luhačovice žst
+2933 Šumice z
+2934 Nezdenice žst
+2935 Záhorovice z
+2936 Bojkovice žst
+2937 Bojkovice město
+2938 Pitín zastávka z
+2939 býv. Pitín žst
+2940 Hostětín z
+2941 Slavičín žst
+2942 Divnice z
+2943 Bohuslavice nad Vláří žst
+2944 Popov z
+2945 Svatý Štěpán z
+2946 Vlárský průsmyk žst
+2947 Vlárský průsmyk státní hranice
+2948 Bzenec-Olšovec z
+2949 Rohatec kolonie z
+2950 Sudoměřice nad Moravou žst
+2951 Sudoměřice nad Moravou státní hranice
+2952 Petrov u Strážnice z
+2953 Strážnice žst
+2954 Vnorovy z
+2955 Veselí nad Moravou-Zarazice z
+2956 Blatnice pod svatým Antonínkem nz
+2957 Lipov žst
+2958 Louka u Ostrohu z
+2959 Velká nad Veličkou žst
+2960 Javorník nad Veličkou zastávka z
+2961 Velká nad Veličkou státní hranice

@@ -1,0 +1,1652 @@
+1 St. Pölten Hbf
+2 Prinzersdorf
+3 Markersdorf a. d. Pielach
+4 Groß Sierning
+5 Loosdorf
+6 Melk
+7 Pöchlarn
+8 Krummnußbaum
+9 Säusenstein
+10 Ybbs a. d. Donau [3]
+11 Neumarkt a. d. Ybbs-Karlsb.
+12 Hubertendorf
+13 Blindenmarkt
+14 Amstetten
+15 Mauer-Öhling
+16 Aschbach
+17 Krenstetten-Biberbach [3]
+18 St. Peter [2]-Seitenstetten [3]
+19 St. Johann-Weistrach [4]
+20 Haag [2]
+21 Stadt Haag
+22 St. Valentin
+23 Ennsdorf
+24 Enns [2]
+25 Asten-Fisching Hst
+26 Linz Ebelsberg
+27 Linz Kleinmünchen
+28 Linz Hbf
+29 Leonding
+30 Pasching
+31 Hörsching [4]
+32 Oftering
+33 Marchtrenk [2]
+34 Wels Hbf
+35 Gunskirchen
+36 Lambach
+37 Lambach Markt
+38 Neukirchen bei Lambach
+39 Breitenschützing
+40 Schwanenstadt
+41 Attnang-Puchheim
+42 Vöcklabruck
+43 Timelkam
+44 Neukirchen [4]-Gampern [4]
+45 Redl-Zipf [2]
+46 Vöcklamarkt
+47 Frankenmarkt
+48 Pöndorf
+49 Ederbauer
+50 Oberhofen-Zell am Moos [7]
+51 Straßwalchen [2]
+52 Steindorf bei Straßwalchen
+53 Neumarkt-Köstendorf [2]
+54 Weng
+55 Wallersee
+56 Seekirchen am Wallersee
+57 Eugendorf
+58 Hallwang-Elixhausen [3]
+59 Salzburg Kasern
+60 Salzburg Hbf
+61 Wien Westbahnhof
+62 Wien Penzing
+63 Wien Hütteldorf
+64 Wien Hadersdorf
+65 Wien Weidlingau
+66 Purkersdorf Sanatorium
+67 Unter Purkersdorf [2]
+68 Purkersdorf-Gablitz [4]
+69 Unter Tullnerbach
+70 Tullnerbach-Pressbaum
+71 Pressbaum
+72 Dürrwien
+73 Rekawinkel
+74 Eichgraben-Altlengbach [7]
+75 Unter Oberndorf
+76 Maria Anzbach
+77 Hofstatt
+78 Neulengbach Stadt
+79 Neulengbach
+80 Ollersbach
+81 Kirchstetten
+82 Böheimkirchen
+83 Schildberg
+84 Pottenbrunn [2]
+85 St. Pölten-Traisenpark
+86 Viehofen
+87 Ober Radlberg
+88 Unter Radlberg
+89 Herzogenburg
+90 Herzogenburg-Wielandsthal
+91 Statzendorf
+92 Meidling im Tal
+93 Paudorf
+94 Klein Wien
+95 Furth-Göttweig
+96 Furth-Palt
+97 Krems a.d. Donau
+98 Herzogenburg Stadt
+99 Getzersdorf
+100 Traismauer
+101 Gemeinlebarn
+102 Sitzenberg-Reidling
+103 Trasdorf
+104 Moosbierbaum-Heiligeneich
+105 Atzenbrugg
+106 Michelhausen
+107 Pixendorf
+108 Judenau-Sieghartskirchen [3]
+109 Tulln Stadt
+110 Tulln
+111 St. Pölten Alpenbf
+112 St. Pölten-Porschestraße
+113 Spratzern Haltestelle
+114 Spratzern
+115 Hart-Wörth
+116 St. Georgen am Steinfeld
+117 Wilhelmsburg a. d. Traisen
+118 Kreisbach
+119 Göblasbruck
+120 Rotheau-Eschenau [3]
+121 Traisen
+122 Traisen Markt
+123 Marktl [A]
+124 Lilienfeld
+125 Lilienfeld Krankenhaus
+126 Schrambach
+127 Freiland
+128 Innerfahrafeld
+129 Furthof
+130 Hohenberg
+131 In der Bruck
+132 Amt Mitterbach
+133 St. Aegyd Eisenwerk
+134 St. Aegyd am Neuwalde
+135 Markt St. Aegyd a. N.
+136 Wiesenfeld-Schwarzenbach [2]
+137 St. Veit a. d. Gölsen
+138 Rainfeld-Klein Zell [11]
+139 Rohrbach a. d. Gölsen
+140 Hainfeld
+141 St. Pölten Alpenbf MAZ
+142 Schwadorf
+143 Ober Grafendorf
+144 St. Margarethen-Rammersdorf
+145 Bischofstetten
+146 Teufelsdorf
+147 Kilb
+148 Heinrichsberg
+149 Mank
+150 Klangen
+151 Weinburg
+152 Kammerhof
+153 Hofstetten-Grünau
+154 Mainburg
+155 Rabenstein NÖ
+156 Steinklamm
+157 Steinschal-Tradigist [2]
+158 Kirchberg a. d. Pielach
+159 Schwerbach
+160 Loich [2]
+161 Schwarzenbach a. d. Pielach [6]
+162 Frankenfels
+163 Boding
+164 Laubenbachmühle
+165 Unter Buchberg
+166 Winterbach
+167 Puchenstuben
+168 Gösing
+169 Annaberg [6]
+170 Wienerbruck-Josefsberg [3]
+171 Erlaufklause
+172 Mitterbach
+173 Mariazell
+174 Erlauf
+175 Petzenkirchen
+176 Wieselburg a. d. Erlauf
+177 Mühling
+178 Mühling-Plaika
+179 Schauboden
+180 Purgstall
+181 Sölling
+182 Saffen
+183 Scheibbs
+184 Neustift
+185 Neubruck
+186 Peutenburg
+187 Kienberg-Gaming [3]
+188 Greinsfurth
+189 Ulmerfeld-Hausmening
+190 Kröllendorf
+191 Hilm-Kematen
+192 Rosenau
+193 Sonntagberg Hst [4]
+194 Böhlerwerk a. d. Ybbs
+195 Waidhofen a. d. Ybbs
+196 Stadt Waidhofen a. d. Ybbs
+197 Oberland
+198 Gaflenz
+199 Weyer
+200 Kastenreith Hst
+201 Kleinreifling
+202 Schönau a. d. Enns
+203 Weißenbach-St. Gallen [3]
+204 Großreifling
+205 Landl
+206 Hieflau
+207 Gstatterboden i. Nationalpark
+208 Johnsbach i. Nationalpark [6]
+209 Admont
+210 Frauenberg a. d. Enns [2]
+211 Selzthal
+212 Herzograd
+213 Ernsthofen
+214 Dorf a. d. Enns
+215 Ramingdorf-Haidershofen
+216 Steyr-Münichholz
+217 Steyr
+218 Garsten
+219 Sand
+220 Lahrndorf
+221 Dürnbach
+222 Ternberg
+223 Trattenbach
+224 Losenstein
+225 Reichraming
+226 Großraming Kraftwerk
+227 Großraming
+228 Küpfern
+229 Kummerbrücke
+230 Gesäuse Eingang
+231 Waidhofen a. d. Ybbs-Schillerpark
+232 Waidhofen a. d. Ybbs Lokalbahn
+233 Vogelsang
+234 Kreilhof
+235 Gstadt
+236 Schütt
+237 Steinmühl
+238 Ederlehen
+239 Gurhof
+240 Ybbsitz
+241 Gaissulz
+242 Mirenau
+243 Opponitz
+244 Seeburg
+245 Hohenlehen
+246 Kleinhollenstein
+247 Saimannslehen
+248 Großhollenstein
+249 Blamau
+250 Königsberg
+251 Obereinöd
+252 St. Georgen am Reith
+253 Kogelsbach
+254 Göstling a. d. Ybbs
+255 Stiegengraben-Ybbstalerhütte
+256 Kasten
+257 St. Pantaleon [4]
+258 Mauthausen
+259 Schwertberg
+260 Aisthofen
+261 Perg
+262 Perg Schulzentrum
+263 Arbing
+264 Baumgartenberg
+265 Saxen
+266 Dornach
+267 Grein-Bad Kreuzen [7]
+268 Grein Stadt
+269 St. Nikola-Struden
+270 Sarmingstein
+271 Linz Oed
+272 Linz Wegscheid
+273 St. Martin bei Traun
+274 Traun
+275 Ansfelden
+276 Nettingsdorf
+277 Nöstlbach-St. Marien [3]
+278 Neuhofen a. d. Krems
+279 Kematen a. d. Krems
+280 Rohr-Bad Hall [4]
+281 Kremsmünster
+282 Wartberg a. d. Krems
+283 Nußbach [4]
+284 Schlierbach
+285 Kirchdorf a. d. Krems
+286 Micheldorf
+287 Klaus
+288 Steyrling [3]
+289 Hinterstoder [13]
+290 Roßleithen [6]
+291 Windischgarsten
+292 Spital am Pyhrn
+293 Ardning
+294 Linz Franckstraße
+295 Steyregg
+296 Pulgarn
+297 St. Georgen a. d. Gusen
+298 St. Georgen a. d. Gusen Hst
+299 Lungitz
+300 Katsdorf
+301 Gaisbach-Wartberg [3]
+302 Schloß Haus
+303 Pregarten
+304 Selker
+305 Kefermarkt
+306 Lasberg - St. Oswald
+307 Freistadt [3]
+308 Summerau
+309 Linz Urfahr
+310 Puchenau
+311 Puchenau West
+312 Achleitnersiedlung
+313 Dürnberg
+314 Ottensheim
+315 Walding
+316 Rottenegg
+317 Lacken
+318 Gerling OÖ
+319 Neuhaus [6]-Niederwaldkirchen [2]
+320 Kleinzell [2]
+321 Neufelden
+322 Pürnstein
+323 Iglmühle
+324 Haslach [3]
+325 Rohrbach-Berg
+326 Oepping
+327 Schlägl
+328 Aigen-Schlägl [2]
+329 Untergaumberg
+330 Gaumberg
+331 Leonding Lokalbahn
+332 Straßfeld
+333 Bergham
+334 Am Dürrweg
+335 Rufling
+336 Rufling West
+337 Dörnbach-Hitzing
+338 Thurnharting
+339 Kirchberg-Thürnau
+340 Straßham-Schönering
+341 Wehrgasse
+342 Alkoven
+343 Alkoven Schule
+344 Straß-Emling
+345 Fraham
+346 Unterhillinglah
+347 Eferding Haltestelle
+348 Eferding
+349 Sperneck
+350 Wackersbach
+351 Kirnberg
+352 Gstocket
+353 Gschnarret
+354 Prattsdorf-Dachsberg
+355 Prambachkirchen-Bad Wein.
+356 Manzing-Prambach
+357 Schurrer-Prambach
+358 Hochscharten
+359 Waizenkirchen
+360 Willersdorf a. d. Aschach
+361 Niederspaching
+362 Peuerbach
+363 Itzling
+364 Stefansdorf
+365 Prambeckenhof
+366 Pötting
+367 Oberaschach
+368 Straßhof a. d. Aschach
+369 Neumarkt-Kallham
+370 Haiding
+371 Bad Schallerbach-Wallern
+372 Schlüßlberg
+373 Grieskirchen-Gallspach [6]
+374 Obertrattnach-Markt Hofkirchen [4]
+375 Kimpling
+376 Kumpfmühl
+377 Riedau
+378 Zell a. d. Pram
+379 Andorf
+380 Taufkirchen a. d. Pram
+381 Gopperding
+382 Schärding
+383 Wernstein
+384 Passau Hbf
+385 Wendling [2]
+386 Pram-Haag [9]
+387 Peterskirchen
+388 Ried im Innkreis
+389 Neuratting
+390 Gurten
+391 Geinberg
+392 Obernberg [9]-Altheim [2]
+393 Mühlheim
+394 Mining
+395 Hagenau im Innkreis
+396 Braunau am Inn
+397 Simbach (Inn)
+398 Breitwiesen
+399 Finklham
+400 Breitenaich
+401 Kalköfen-Daxberg [6]
+402 Lahöfen
+403 Leumühle
+404 Pupping
+405 Karling
+406 Aschach a. d. Donau
+407 Wels Lokalbahn
+408 Wels Messe
+409 Schauersberg
+410 Steinhaus bei Wels
+411 Oberhart
+412 Unterhart
+413 Sattledt
+414 Maidorf
+415 Großendorf
+416 Wiesmühle
+417 Voitsdorf
+418 Wilfling
+419 Diensthubersiedlung
+420 Pettenbach
+421 Steinbachbrücke
+422 Viechtwang
+423 Scharnstein-Mühldorf
+424 Kothmühle
+425 Traxenbichl
+426 Grünau im Almtal
+427 Stadl-Paura
+428 Bad Wimsbach Styria Siedlung
+429 Bad Wimsbach-Neydharting
+430 Steinfeld
+431 Au
+432 Mittlere Au
+433 Blankenberg
+434 Waldl
+435 Kößlwang
+436 Feldham
+437 Vorchdorf-Schule
+438 Vorchdorf-Eggenberg
+439 Schloss Eggenberg
+440 Weidach
+441 Falkenohren
+442 Kirchham
+443 Kirchham Ort
+444 Laizing
+445 Eisengattern
+446 Karl z’Neuhub
+447 Neuhub
+448 Gschwandt-Schule
+449 Gschwandt-Rabersberg
+450 Unterm Wald
+451 Baumgarten-Waldbach
+452 Engelhof Lokalbahn
+453 Lembergweg
+454 Gmunden-Traundorf
+455 Gmunden Seebf
+456 Stroham
+457 Aichkirchen
+458 Bachmanning
+459 Getzing
+460 Hörbach
+461 Eggerding
+462 Gaspoltshofen
+463 Altenhof am Hausruck
+464 Weinberg-Geboltskirchen [4]
+465 Weibern-Aistersheim [4]
+466 Meggenbach
+467 Haag am Hausruck
+468 Wankham
+469 Aurachkirchen
+470 Pinsdorf
+471 Gmunden [2]
+472 Altmünster am Traunsee
+473 Traunkirchen
+474 Traunkirchen Ort
+475 Ebensee Landungsplatz
+476 Ebensee
+477 Steinkogel
+478 Lahnstein
+479 Langwies [A]
+480 Mitterweißenbach
+481 Bad Ischl
+482 Lauffen
+483 Goisern Jodschwefelbad
+484 Bad Goisern
+485 Steeg-Gosau [15]
+486 Obersee
+487 Hallstatt
+488 Obertraun-Dachsteinhöhlen
+489 Obertraun-Koppenbrüllerhöhle
+490 Bad Aussee [2]
+491 Kainisch
+492 Bad Mitterndorf-Heilbrunn
+493 Bad Mitterndorf
+494 Schiflugschanze Kulm
+495 Tauplitz
+496 Pürgg
+497 Stainach-Irdning [5]
+498 Lehen-Altensam
+499 Wolfshütte
+500 Ottnang-Wolfsegg
+501 Bergern
+502 Holzleithen
+503 Hausruck
+504 Eberschwang [2]
+505 Oberbrunn
+506 Bad Ried
+507 Aurolzmünster Hst
+508 St. Martin im Innkreis
+509 Hart im Innkreis
+510 Antiesenhofen
+511 Dietrichshofen
+512 Suben
+513 Oberthalheim-Timelkam
+514 Lenzing
+515 Lenzing Ort
+516 Siebenmühlen-Rosenau
+517 Kammer-Schörfling
+518 St. Wolfgang Schafbergbf
+519 Schafbergalpe
+520 Schafbergspitze
+521 Haid
+522 Walchen (Kinderweltmuseum)
+523 Schmidham
+524 Walsberg
+525 Hipping
+526 Kogl
+527 St. Georgen im Attergau
+528 Seniorenheim
+529 Thern
+530 Stöttham
+531 Palmsdorf
+532 Attersee
+533 Friedburg [3]
+534 Lengau
+535 Teichstätt
+536 Achenlohe
+537 Munderfing Dampfsäge
+538 Munderfing
+539 Mattighofen
+540 Furth
+541 Uttendorf-Helpfau
+542 Mauerkirchen
+543 St. Georgen a. d. Mattig
+544 Salzburg Sam
+545 Salzburg Gnigl
+546 Salzburg Parsch
+547 Salzburg Aigen
+548 Salzburg Süd
+549 Elsbethen
+550 Puch Urstein
+551 Puch-Oberalm
+552 Hallein
+553 Hallein Burgfried
+554 Bad Vigaun
+555 Kuchl Garnei
+556 Kuchl
+557 Golling-Abtenau [19]
+558 Tenneck
+559 Werfen
+560 Pfarrwerfen
+561 Bischofshofen
+562 Mitterberghütten
+563 St. Johann im Pongau
+564 Schwarzach-St. Veit
+565 Lend
+566 Eschenau
+567 Taxenbach-Rauris [10]
+568 Gries im Pinzgau
+569 Bruck-Fusch [7]
+570 Zell am See
+571 Maishofen-Saalbach [15]
+572 Gerling im Pinzgau
+573 Saalfelden
+574 Leogang-Steinberge
+575 Leogang [2]
+576 Hütten
+577 Hochfilzen
+578 Pfaffenschwendt
+579 Fieberbrunn [2]
+580 Grieswirt
+581 St. Johann in Tirol
+582 Wiesenschwang-Oberndorf
+583 Kitzbühel
+584 Kitzbühel Hahnenkamm
+585 Schwarzsee
+586 Kirchberg in Tirol
+587 Brixen im Thale
+588 Westendorf (Tirol)
+589 Windau
+590 Hopfgarten Berglift
+591 Hopfgarten
+592 Bruckhäusl
+593 Wörgl
+594 Jenbach
+595 Innsbruck Hbf
+596 Salzburg Lokalbahn
+597 Salzburg Itzling
+598 Maria Plain-Plainbrücke
+599 Hagenau
+600 Bergheim
+601 Schlachthof
+602 Muntigl
+603 Siggerwiesen
+604 Anthering
+605 Acharting
+606 Pabing am Haunsberg
+607 Weitwörth-Nußdorf [5]
+608 Oichtensiedlung
+609 Oberndorf Stadt
+610 Oberndorf bei Salzburg
+611 Ziegelhaiden
+612 Arnsdorf
+613 Bürmoos
+614 Eching
+615 Irlach
+616 St. Georgen bei Salzburg
+617 St. Pantaleon-Reith
+618 Wildshut
+619 Eiferding
+620 Riedersbach
+621 Trimmelkam
+622 Zehmemoos
+623 Lamprechtshausen
+624 Loifarn
+625 Dorfgastein
+626 Bad Hofgastein [3]
+627 Bad Hofgastein Haltestelle
+628 Angertal
+629 Bad Gastein
+630 Böckstein
+631 Mallnitz-Obervellach [8]
+632 Oberfalkenstein
+633 Penk
+634 Kolbnitz
+635 Mühldorf-Möllbrücke [3]
+636 Pusarnitz
+637 Spittal-Millstättersee
+638 Rothenthurn
+639 Ferndorf
+640 Markt Paternion
+641 Paternion [4]-Feistritz
+642 Weißenstein-Kellerberg
+643 Puch
+644 Gummern
+645 Villach Hbf
+646 Velden am Wörthersee
+647 Pörtschach am Wörthersee
+648 Krumpendorf
+649 Klagenfurt Hbf
+650 Villach Westbf
+651 Villach Warmbad
+652 Gödersdorf
+653 Finkenstein
+654 Faak am See
+655 Ledenitzen
+656 Winkl im Rosental
+657 Rosenbach
+658 Jesenice
+659 Lendorf
+660 Möllbrücke-Sachsenburg
+661 Markt Sachsenburg
+662 Kleblach-Lind
+663 Steinfeld im Drautal [2]
+664 Greifenburg [2]-Weißensee [11]
+665 Berg im Drautal
+666 Dellach im Drautal
+667 Irschen [3]
+668 Oberdrauburg
+669 Nikolsdorf [2]
+670 Dölsach [2]
+671 Lienz
+672 Thal [2]
+673 Mittewald a. d. Drau
+674 Abfaltersbach [2]
+675 Tassenbach
+676 Sillian
+677 Weitlanbrunn
+678 San Candido/Innichen
+679 Tischlerhäusl
+680 Kitzsteinhornstraße
+681 Bruckberg
+682 Zellermoos
+683 Bruckberg Golfplatz
+684 Fürth-Kaprun [2]
+685 Piesendorf
+686 Piesendorf Bad
+687 Walchen im Pinzgau
+688 Jesdorf-Bergfried
+689 Niedernsill
+690 Lengdorf
+691 Uttendorf-Stubachtal
+692 Pirtendorf
+693 Stuhlfelden
+694 Heilbad Burgwies
+695 Burk
+696 Mittersill
+697 Rettenbach
+698 Hollersbach
+699 Dorf Paßthurn
+700 Mühlbach im Pinzgau
+701 Wenns
+702 Bramberg
+703 Bramberg-Steinach
+704 Habachtal
+705 Neukirchen Vorstadl
+706 Neukirchen am Großvenediger
+707 Sulzbachtäler
+708 Rosental Großvenediger
+709 Wald im Pinzgau
+710 Kreidlsiedlung
+711 Lahnsiedlung
+712 Krimml
+713 Pöham
+714 Hüttau
+715 Niedernfritz-St. Martin [5]
+716 Eben im Pongau
+717 Altenmarkt im Pongau
+718 Radstadt
+719 Mandling
+720 Pichl
+721 Schladming
+722 Haus [3]
+723 Aich-Assach
+724 Pruggern
+725 Gröbming [4]
+726 Stein a. d. Enns
+727 Oeblarn
+728 Niederöblarn
+729 St. Martin am Grimming [2]
+730 Trautenfels
+731 Wörschach Schwefelbad Hst
+732 Liezen
+733 Stadt Rottenmann
+734 Trieben
+735 Gaishorn
+736 Treglwang
+737 Wald am Schoberpaß
+738 Kalwang
+739 Mautern
+740 Kammern
+741 Seiz
+742 Traboch-Timmersdorf
+743 St. Michael
+744 Kufstein
+745 Schaftenau
+746 Langkampfen
+747 Kirchbichl
+748 Kundl
+749 Rattenberg-Kramsach
+750 Brixlegg
+751 Münster [2]-Wiesing [2]
+752 Stans bei Schwaz
+753 Schwaz
+754 Pill-Vomperbach
+755 Terfens-Weer [2]
+756 Fritzens-Wattens
+757 Volders-Baumkirchen
+758 Hall in Tirol
+759 Rum
+760 Unterberg-Stefansbrücke
+761 Patsch [2]
+762 Matrei
+763 Steinach in Tirol
+764 St. Jodok
+765 Gries
+766 Brennersee
+767 Brennero/Brenner
+768 Rotholz
+769 Straß im Zillertal
+770 Schlitters
+771 Gagering
+772 Fügen-Hart [2]
+773 Kapfing
+774 Uderns
+775 Ried im Zillertal
+776 Kaltenbach-Stumm
+777 Aschau im Zillertal
+778 Erlach im Zillertal
+779 Zell am Ziller
+780 Ramsau-Hippach
+781 Bühel
+782 Mayrhofen
+783 Burgeck
+784 Eben
+785 Maurach
+786 Achensee Schiffstation
+787 Innsbruck Stubaitalbf
+788 Sonnenburgerhof
+789 Gärberbach
+790 Hölltal
+791 Natters
+792 Burgstall
+793 Mutters
+794 Birchfeld
+795 Nockhofweg-Muttereralmb.
+796 Raitis
+797 Feldeler
+798 Außerkreith
+799 Kreith
+800 Brandeck
+801 Telfer-Wiesen
+802 Luimes
+803 Telfes im Stubai
+804 Telfes im Stubai Tenniscamp
+805 Fulpmes
+806 Innsbruck Westbf
+807 Völs
+808 Kematen in Tirol
+809 Zirl
+810 Inzing
+811 Hatting
+812 Flaurling
+813 Oberhofen im Inntal
+814 Telfs-Pfaffenhofen
+815 Rietz
+816 Stams
+817 Mötz
+818 Silz
+819 Haiming
+820 Ötztal
+821 Roppen
+822 Imst [4]-Pitztal
+823 Imsterberg
+824 Schönwies
+825 Landeck-Zams
+826 St. Anton am Arlberg
+827 Langen am Arlberg
+828 Bludenz
+829 Nüziders
+830 Ludesch
+831 Nenzing
+832 Schlins
+833 Frastanz
+834 Feldkirch
+835 Altenstadt
+836 Gisingen
+837 Tisis
+838 Schaanwald
+839 Nendeln
+840 Forst Hilti
+841 Schaan-Vaduz [2]
+842 Buchs SG
+843 Feldkirch Amberg
+844 Rankweil
+845 Sulz [2]-Röthis [2]
+846 Klaus in Vorarlberg [2]
+847 Götzis
+848 Altach
+849 Hohenems
+850 Hatlerdorf
+851 Dornbirn-Schoren
+852 Dornbirn
+853 Haselstauden
+854 Schwarzach in Vorarlberg
+855 Wolfurt
+856 Lauterach
+857 Riedenburg
+858 St. Margrethen
+859 Lustenau Markt
+860 Lustenau
+861 Hard-Fussach
+862 Bregenz
+863 Bregenz Hafen
+864 Lochau-Hörbranz [2]
+865 Lindau Hbf
+866 Bezau
+867 Schwarzenberg
+868 Innsbruck Hötting
+869 Allerheiligenhöfe
+870 Kranebitten
+871 Hochzirl
+872 Leithen
+873 Reith
+874 Seefeld in Tirol
+875 Gießenbach
+876 Scharnitz
+877 Mittenwald
+878 Klais
+879 Garmisch-Partenkirchen
+880 Untergrainau
+881 Griesen (Oberbay)
+882 Ehrwald Zugspitzbahn
+883 Lermoos
+884 Lähn
+885 Bichlbach-Berwang [5]
+886 Bichlbach-Almkopfbahn
+887 Heiterwang-Plansee
+888 Bad Kreckelmoos
+889 Reutte in Tirol Schulzentrum
+890 Reutte in Tirol
+891 Pflach
+892 Musau
+893 Ulrichsbrücke-Füssen [6]
+894 Vils
+895 Schönbichl
+896 Pfronten-Steinach
+897 Bludenz-Moos
+898 Brunnenfeld
+899 Lorüns
+900 St. Anton im Montafon
+901 Vandans
+902 Kaltenbrunnen
+903 Tschagguns
+904 Schruns
+905 Wien Südbahnhof
+906 Wien Meidling
+907 Mödling
+908 Baden
+909 Leobersdorf
+910 Wiener Neustadt Hbf
+911 St. Egyden [4]
+912 Neunkirchen NÖ
+913 Ternitz
+914 Pottschach
+915 Gloggnitz
+916 Schlöglmühl
+917 Payerbach-Reichenau
+918 Küb
+919 Eichberg
+920 Klamm-Schottwien [2]
+921 Breitenstein
+922 Wolfsbergkogel
+923 Semmering
+924 Steinhaus
+925 Spital am Semmering
+926 Mürzzuschlag
+927 Hönigsberg
+928 Langenwang
+929 Krieglach
+930 Mitterdorf-Veitsch [8]
+931 Wartberg im Mürztal
+932 Kindberg
+933 Allerheiligen-Mürzhofen
+934 Marein-St. Lorenzen
+935 Kapfenberg Fachhochschule
+936 Kapfenberg
+937 Bruck/Mur
+938 Pernegg
+939 Mixnitz-Bärenschützklamm [3]
+940 Frohnleiten
+941 Peggau-Deutschfeistritz
+942 Stübing
+943 Gratwein-Gratkorn
+944 Judendorf-Straßengel
+945 Graz Hbf
+946 Graz Don Bosco
+947 Puntigam
+948 Feldkirchen-Seiersberg
+949 Flughafen Graz-Feldkirchen
+950 Kalsdorf
+951 Werndorf
+952 Wildon
+953 Lebring Hst
+954 Kaindorf a. d. Sulm [2]
+955 Leibnitz
+956 Ehrenhausen
+957 Spielfeld-Straß
+958 Lichendorf
+959 Weitersfeld a. d. Mur
+960 Mureck
+961 Gosdorf
+962 Purkla
+963 Halbenrain
+964 Bad Radkersburg [2]
+965 Magnesitwerk Veitsch-Radex
+966 Wien Hetzendorf
+967 Wien Atzgersdorf
+968 Wien Liesing
+969 Perchtoldsdorf
+970 Brunn-Maria Enzersdorf
+971 Guntramsdorf Südbahn
+972 Gumpoldskirchen
+973 Pfaffstätten
+974 Bad Vöslau
+975 Kottingbrunn
+976 Sollenau
+977 Felixdorf
+978 Theresienfeld
+979 Wiener Neustadt Nord
+980 Wien Inzersdorf
+981 Wien Blumental
+982 Hennersdorf
+983 Achau
+984 Münchendorf
+985 Ebreichsdorf
+986 Weigelsdorf
+987 Wampersdorf [2]
+988 Pottendorf-Landegg
+989 Ebenfurth
+990 Untereggendorf
+991 Obereggendorf
+992 Wiener Neustadt Civitas Nova
+993 Neufeld a. d. Leitha
+994 Müllendorf
+995 Wulkaprodersdorf
+996 Draßburg
+997 Baumgarten [2]
+998 Sopron
+999 Wittmannsdorf
+1000 Enzesfeld-Lindabrunn [3]
+1001 Hirtenberg
+1002 St. Veit a. d. Triesting
+1003 Berndorf Fabrik
+1004 Berndorf Stadt
+1005 Pottenstein a. d. Triesting
+1006 Fahrafeld
+1007 Weissenbach-Neuhaus
+1008 Wien Oper
+1009 Johann-Strauß-Gasse
+1010 Kliebergasse
+1011 Wien Matzleinsdorfer Platz
+1012 Eichenstraße
+1013 Wien Wolfganggasse
+1014 Wien Dörfelstraße
+1015 Wien Philadelphiabrücke
+1016 Schedifkaplatz
+1017 Schöpfwerk
+1018 Gutheil-Schoder-Gasse
+1019 Inzersdorf Personenbahnhof
+1020 Neu Erlaa
+1021 Schönbrunner Allee
+1022 Vösendorf-Siebenhirten
+1023 Vösendorf-Shopping City Süd
+1024 Maria Enzersdorf-Südstadt
+1025 Wiener Neudorf
+1026 Griesfeld
+1027 Neu Guntramsdorf
+1028 Guntramsdorf Lokalbahn
+1029 Eigenheimsiedlung
+1030 Möllersdorf
+1031 Traiskirchen Lokalbahn
+1032 Tribuswinkel-Josefsthal
+1033 Pfaffstätten Rennplatz
+1034 Leesdorf
+1035 Baden Viadukt
+1036 Baden Josefsplatz
+1037 Klein Wolkersdorf
+1038 Erlach
+1039 Brunn a. d. Pitten
+1040 Pitten
+1041 Sautern-Schiltern
+1042 Seebenstein
+1043 Gleißenfeld
+1044 Scheiblingkirchen-Warth
+1045 Petersbaumgarten
+1046 Edlitz [3]-Grimmenstein
+1047 Aspang
+1048 Ausschlag [3]-Zöbern [5]
+1049 Tauchen-Schaueregg [2]
+1050 Pinggau Markt
+1051 Friedberg
+1052 Pinggau Freizeitzentrum
+1053 Sinnersdorf
+1054 Pinkafeld
+1055 Pinkafeld Schule
+1056 Altpinkafeld
+1057 Riedlingsdorf
+1058 Oberwart
+1059 Oberwart Einkaufszentrum
+1060 Großpetersdorf
+1061 Burg-Eisenberg
+1062 Rechnitz
+1063 Szombathely
+1064 Dechantskirchen
+1065 Rohrbach-Vorau [12]
+1066 Grafendorf
+1067 St. Johann i. d. Haide
+1068 Hartberg
+1069 Wiener Neustadt Anemonensee
+1070 Bad Fischau-Brunn
+1071 Bad Fischau
+1072 Feuerwerksanstalt
+1073 Wöllersdorf
+1074 Wöllersdorf-Marchgraben
+1075 Piesting Harzwerk
+1076 Piesting
+1077 Dreistetten
+1078 Ober Piesting
+1079 Wopfing
+1080 Waldegg
+1081 Waldegg-Dürnbach
+1082 Oed
+1083 Miesenbach-Waidmannsfeld [4]
+1084 Ortmann
+1085 Pernitz Wipfelhofstraße
+1086 Pernitz-Muggendorf [3]
+1087 Pernitz Raimundviertel
+1088 Gutenstein
+1089 Brunn a. d. Schneebergbahn
+1090 Winzendorf
+1091 Urschendorf
+1092 Willendorf
+1093 Rothengrub
+1094 Unter Höflein
+1095 Grünbach am Schneeberg
+1096 Grünbach Schule
+1097 Grünbach Kohlenwerk
+1098 Pfennigbach
+1099 Puchberg am Schneeberg
+1100 Schneebergdörfl
+1101 Hauslitzsattel
+1102 Hengsthütte
+1103 Ternitzerhütte
+1104 Baumgartner
+1105 Hochschneeberg
+1106 Katzelsdorf
+1107 Neudörfl
+1108 Bad Sauerbrunn
+1109 Wiesen [3]-Sigleß [4]
+1110 Mattersburg Nord
+1111 Mattersburg
+1112 Marz-Rohrbach
+1113 Loipersbach-Schattendorf [3]
+1114 Harka
+1115 Deutschkreutz
+1116 Neckenmarkt-Horitschon
+1117 Oberpullendorf
+1118 Oberloisdorf
+1119 Kőszeg
+1120 Graz Ostbf
+1121 Raaba
+1122 Autal
+1123 Laßnitzhöhe
+1124 Laßnitzthal
+1125 Gleisdorf
+1126 Takern-St. Margarethen
+1127 Kroisbach [4]-Zöbing
+1128 Studenzen-Fladnitz
+1129 Rohr Haltestelle
+1130 Gniebing
+1131 Feldbach
+1132 Lödersdorf
+1133 Fehring
+1134 Hatzendorf
+1135 Söchau
+1136 Übersbach
+1137 Fürstenfeld
+1138 Bierbaum
+1139 Bad Blumau
+1140 Bad Waltersdorf
+1141 Sebersdorf
+1142 Hohenbrugg a. d. Raab
+1143 Jennersdorf
+1144 Weichselbaum a. d. Raab
+1145 Mogersdorf
+1146 Szentgotthárd
+1147 Gleisdorf West
+1148 Albersdorf
+1149 Wollsdorf
+1150 St. Ruprecht a. d. Raab
+1151 Fladnitz-Neudorf
+1152 Preding
+1153 Weiz
+1154 Weiz Stadt
+1155 Feldbach Landesbahn
+1156 Oedt Siedlung
+1157 Oedt
+1158 Prädiberg
+1159 Fischa
+1160 Burgfried
+1161 Gnas
+1162 Katzendorf
+1163 Maierdorf
+1164 Hofstätten
+1165 Trautmannsdorf in Steiermark
+1166 Bad Gleichenberg
+1167 Birkfeld
+1168 Deutschfeistritz
+1169 Zitoll
+1170 Prenning Viertler
+1171 Prenning
+1172 Waldstein
+1173 Himberg Haltestelle
+1174 Guggenbach Pulverwerksiedlung
+1175 Guggenbach
+1176 Guggenbach Warthkogelsiedlung
+1177 Übelbach Vormarkt
+1178 Übelbach
+1179 Graz Köflacherbf
+1180 Graz Wetzelsdorf
+1181 Graz Webling
+1182 Straßgang
+1183 Premstätten [2]-Tobelbad [3]
+1184 Lieboch
+1185 Lannach
+1186 Oisnitz-St. Josef [2]
+1187 Alling-Tobisegg
+1188 Preding [3]-Wieselsdorf
+1189 Wettmannstätten
+1190 Gussendorf
+1191 Groß St. Florian
+1192 Frauental-Bad Gams [5]
+1193 Deutschlandsberg
+1194 Hollenegg
+1195 Schwanberg [4]
+1196 St. Peter im Sulmtal
+1197 St. Martin i.S. [2]-Bergla
+1198 Dietmannsdorf
+1199 Pölfing-Brunn
+1200 Wies Markt
+1201 Wies-Eibiswald [5]
+1202 Lieboch Schadendorf
+1203 Söding-Mooskirchen
+1204 Köppling
+1205 Krottendorf-Ligist [2]
+1206 Gaisfeld
+1207 Krems in Steiermark
+1208 Voitsberg
+1209 Bärnbach
+1210 Köflach
+1211 Oberaich
+1212 Niklasdorf
+1213 Leoben Hbf
+1214 Leoben Göss
+1215 Leoben Hinterberg
+1216 Kraubath
+1217 Preg
+1218 Fentsch-St. Lorenzen
+1219 Knittelfeld
+1220 Spielberg
+1221 Zeltweg
+1222 Judenburg [2]
+1223 Thalheim-Pöls [4]
+1224 St. Georgen ob Judenburg
+1225 Unzmarkt
+1226 Scheifling
+1227 Mariahof [3]-St. Lambrecht [8]
+1228 Neumarkt in Steiermark
+1229 Friesach
+1230 Micheldorf-Hirt
+1231 Treibach-Althofen
+1232 Kappel am Krappfeld
+1233 Passering
+1234 Launsdorf-Hochosterwitz
+1235 St. Georgen am Längsee [3]
+1236 St. Veit a. d. Glan
+1237 Glandorf
+1238 Maria Saal
+1239 Klagenfurt Annabichl
+1240 Klagenfurt Ostbf
+1241 Klagenfurt Lend
+1242 Pritschitz
+1243 Töschling
+1244 Lind-Rosegg [3]
+1245 Föderlach
+1246 Villach Seebach
+1247 Fürnitz
+1248 Neuhaus a. d. Gail
+1249 Pöckau
+1250 Arnoldstein
+1251 Thörl-Maglern
+1252 Tarvisio Boscoverde
+1253 Vordernberg Markt
+1254 Eisenerz
+1255 Weißkirchen
+1256 Eppenstein
+1257 Kathal
+1258 Obdach
+1259 Taxwirt
+1260 Reichenfels-St. Peter
+1261 Bad St. Leonhard
+1262 Wiesenau
+1263 Preblau-Sauerbrunn
+1264 Twimberg
+1265 Frantschach-St. Gertraud
+1266 Wolfsberg
+1267 Priel
+1268 St. Stefan im Lavanttal
+1269 St. Andrä im Lavanttal
+1270 Mühldorf im Lavanttal
+1271 St. Paul
+1272 St. Paul Bad
+1273 Granitztal
+1274 Eis-Ruden [5]
+1275 Aich im Jauntal
+1276 Bleiburg Stadt
+1277 Bleiburg [2]
+1278 St. Michael ob Bleiburg
+1279 Mittlern
+1280 Völkermarkt [7]-Kühnsdorf
+1281 Tainach [3]-Stein
+1282 Grafenstein
+1283 Klagenfurt Ebenthal
+1284 Wallersbach
+1285 Lind-Scheifling
+1286 Niederwölz-Oberwölz [9]
+1287 Teufenbach
+1288 Frojach-Puxerboden
+1289 Frojach-Katschtal
+1290 Saurau
+1291 Triebendorf
+1292 Gestüthof
+1293 St. Egidi
+1294 Murau-Stolzalpe
+1295 Murau-St. Leonhard
+1296 Murau West
+1297 Kaindorf im Murtal
+1298 Marbach
+1299 St. Lorenzen ob Murau
+1300 Kreischberg Talstation
+1301 Lutzmannsdorf
+1302 Cäciliabrücke
+1303 Wandritsch
+1304 St. Ruprecht ob Murau
+1305 Falkendorf
+1306 Hagendorf
+1307 Stadl a. d. Mur
+1308 Einach
+1309 Predlitz-Ladin
+1310 Predlitz-Pichl
+1311 Predlitz-Turrach [12]
+1312 Kendlbruck
+1313 Hintering
+1314 Ramingstein
+1315 Ramingstein-Thomatal
+1316 Madling
+1317 Tamsweg-St. Leonhard
+1318 Tamsweg
+1319 St.Andrä-Andlwirt
+1320 Mauterndorf
+1321 St. Veit a. d. Glan Westbf
+1322 Liebenfels
+1323 Tauchendorf-Haidensee
+1324 Glanegg
+1325 Mautbrücken
+1326 St. Martin-Sittich [4]
+1327 Feldkirchen in Kärnten
+1328 Tiffen
+1329 Steindorf am Ossiachersee
+1330 Ossiach-Bodensdorf
+1331 St. Urban am Ossiachersee
+1332 Sattendorf
+1333 Annenheim
+1334 Villach St. Ruprecht
+1335 Viktring [3]
+1336 Maria Rain in Kärnten
+1337 Weizelsdorf
+1338 Weizelsdorf Ort
+1339 St. Johann im Rosental
+1340 Feistritz im Rosental
+1341 Feistritz im Rosental West
+1342 Suetschach
+1343 Ladinach
+1344 Maria Elend im Rosental
+1345 Nötsch
+1346 Emmersdorf im Gailtal
+1347 St. Stefan [2]-Vorderberg
+1348 Görtschach-Förolach
+1349 Pressegger See
+1350 Vellach-Khünburg
+1351 Hermagor
+1352 Postran
+1353 Watschig
+1354 Tröpolach
+1355 Rattendorf-Jenig
+1356 Waidegg
+1357 Kirchbach im Gailtal
+1358 Reisach
+1359 Gundersheim
+1360 Dellach im Gailtal
+1361 St. Daniel
+1362 Kötschach-Mauthen
+1363 Wien Grillgasse
+1364 Kledering
+1365 Lanzendorf-Rannersdorf
+1366 Himberg
+1367 Gramatneusiedl
+1368 Götzendorf
+1369 Trautmannsdorf a. d. Leitha
+1370 Sarasdorf
+1371 Wilfleinsdorf
+1372 Bruck a. d. Leitha
+1373 Parndorf Ort
+1374 Neusiedl am See
+1375 Parndorf
+1376 Zurndorf
+1377 Nickelsdorf
+1378 Hegyeshalom
+1379 Neudorf
+1380 Gattendorf
+1381 Pama
+1382 Kittsee
+1383 Bratislava-Petržalka
+1384 Maria Lanzendorf
+1385 Laxenburg-Biedermannsdorf
+1386 Guntramsdorf-Kaiserau
+1387 Möllersdorf Aspangbahn
+1388 Traiskirchen Aspangbahn
+1389 Trumau
+1390 Ober Waltersdorf
+1391 Tattendorf
+1392 Teesdorf
+1393 Jois
+1394 Winden
+1395 Breitenbrunn
+1396 Purbach am Neusiedlersee
+1397 Donnerskirchen
+1398 Schützen Haltestelle
+1399 Schützen am Gebirge
+1400 Eisenstadt Schule
+1401 Eisenstadt
+1402 Wulkaprodersdorf Haltestelle
+1403 Bad Neusiedl am See
+1404 Weiden am See
+1405 Gols
+1406 Mönchhof Haltestelle
+1407 Mönchhof-Halbturn [3]
+1408 Frauenkirchen
+1409 St. Andrä am Zicksee
+1410 Wallern im Burgenland
+1411 Pamhagen
+1412 Fertőszéplak-Fertőd
+1413 Fertőszentmiklós
+1414 Absdorf-Hippersdorf [3]
+1415 Absberg
+1416 Großwiesendorf-Tiefenthal
+1417 Groß Weikersdorf
+1418 Heldenberg
+1419 Glaubendorf-Wetzdorf
+1420 Ziersdorf
+1421 Ravelsbach [3]
+1422 Limberg-Maissau [4]
+1423 Straning
+1424 Eggenburg
+1425 Kl. Meiseldorf-Maria Dreieichen
+1426 Sigmundsherberg
+1427 Hötzelsdorf-Geras [8]
+1428 Irnfritz
+1429 Göpfritz
+1430 Allentsteig [3]
+1431 Schwarzenau
+1432 Vitis
+1433 Hirschbach
+1434 Pürbach-Schrems [4]
+1435 Gmünd NÖ
+1436 Dietmanns
+1437 Alt Weitra
+1438 Weitra
+1439 St. Martin bei Weitra
+1440 Steinbach-Groß Pertholz [2]
+1441 Abschlag Fassldorf Hst
+1442 Langschlag
+1443 Groß Gerungs
+1444 Neu Nagelberg
+1445 Alt Nagelberg
+1446 Langegg
+1447 Aalfang
+1448 Heidenreichstein
+1449 Schönau Dorfwirtshaus Böhm
+1450 Litschau
+1451 Wien Franz-Josefs-Bahnhof
+1452 Wien Spittelau
+1453 Wien Heiligenstadt
+1454 Wien Nußdorf
+1455 Klosterneuburg-Weidling
+1456 Klosterneuburg-Kierling
+1457 Unter Kritzendorf
+1458 Kritzendorf
+1459 Höflein a.d. Donau
+1460 Greifenstein-Altenberg
+1461 St. Andrä [2]-Wördern
+1462 Zeiselmauer-Königstetten [4]
+1463 Muckendorf-Wipfing
+1464 Langenlebarn
+1465 Königsbrunn-Unterstockstall
+1466 Kirchberg am Wagram
+1467 Fels
+1468 Wagram-Grafenegg [4]
+1469 Etsdorf-Straß
+1470 Hadersdorf am Kamp
+1471 Gedersdorf
+1472 Rohrendorf
+1473 Campus Krems-Kunstmeile Krems
+1474 Stein-Mautern
+1475 Unterloiben
+1476 Dürnstein-Oberloiben
+1477 Weißenkirchen in der Wachau
+1478 Wösendorf-Joching
+1479 Spitz a. d. Donau
+1480 Schwallenbach
+1481 Willendorf in der Wachau
+1482 Aggsbach Markt
+1483 Grimsing
+1484 Emmersdorf a. d. Donau
+1485 Weitenegg
+1486 Klein Pöchlarn
+1487 Marbach-Maria Taferl [4]
+1488 Persenbeug
+1489 Weins-Isperdorf
+1490 Gobelsburg
+1491 Langenlois
+1492 Zöbing
+1493 Schönberg am Kamp
+1494 Stiefern
+1495 Altenhof
+1496 Plank am Kamp
+1497 Buchberg
+1498 Gars-Thunau
+1499 Kamegg
+1500 Stallegg
+1501 Rosenburg
+1502 Horn
+1503 Breiteneich bei Horn
+1504 Ganz
+1505 Bernschlag
+1506 Hörmanns
+1507 Groß Globnitz
+1508 Groß Haslau
+1509 Gerotten
+1510 Zwettl
+1511 Zwettl Stadt
+1512 Windigsteig
+1513 Kottschallings
+1514 Waidhofen a. d. Thaya
+1515 Wien Speising
+1516 Wien Südtiroler Platz
+1517 Wien Rennweg
+1518 Wien Mitte Landstraße
+1519 Wien Praterstern
+1520 Wien Traisengasse
+1521 Wien Handelskai
+1522 Wien Floridsdorf
+1523 Wien Brünner Straße
+1524 Wien Jedlersdorf
+1525 Wien Strebersdorf
+1526 Wien Siemensstraße
+1527 Wien Leopoldau
+1528 Wien Süßenbrunn
+1529 Gerasdorf
+1530 Deutsch Wagram
+1531 Helmahof
+1532 Strasshof
+1533 Silberwald
+1534 Gänserndorf
+1535 Weikendorf
+1536 Oberweiden
+1537 Marchegg [4]
+1538 Weikendorf-Dörfles
+1539 Tallesbrunn
+1540 Angern
+1541 Stillfried
+1542 Dürnkrut
+1543 Jedenspeigen
+1544 Sierndorf a. d. March
+1545 Drösing
+1546 Hohenau
+1547 Rabensburg
+1548 Bernhardsthal
+1549 Břeclav
+1550 Kapellerfeld
+1551 Seyring
+1552 Obersdorf
+1553 Wolkersdorf
+1554 Ulrichskirchen
+1555 Schleinbach [2]
+1556 Hautzendorf
+1557 Niederkreuzstetten
+1558 Neubau-Kreuzstetten
+1559 Ladendorf [2]
+1560 Paasdorf
+1561 Mistelbach
+1562 Siebenhirten
+1563 Hörersdorf
+1564 Frättingsdorf
+1565 Enzersdorf bei Staatz
+1566 Staatz [3]
+1567 Kottingneusiedl
+1568 Laa a. d. Thaya [2]
+1569 Laa a. d. Thaya Stadt
+1570 Langenzersdorf
+1571 Bisamberg
+1572 Korneuburg
+1573 Leobendorf-Burg Kreuzenstein [2]
+1574 Spillern
+1575 Stockerau
+1576 Hausleiten
+1577 Gaisruck
+1578 Ober Olberndorf
+1579 Sierndorf
+1580 Höbersdorf
+1581 Schönborn-Mallebern
+1582 Göllersdorf
+1583 Breitenwaida
+1584 Hollabrunn
+1585 Hetzmannsdorf-Wullersdorf
+1586 Guntersdorf
+1587 Platt
+1588 Zellerndorf
+1589 Retz
+1590 Šatov
+1591 Znojmo
+1592 Wien St. Marx (Vienna Bio Center)
+1593 Wien Geiselbergstraße
+1594 Wien Zentralfriedhof
+1595 Wien Kaiserebersdorf
+1596 Schwechat
+1597 Mannswörth
+1598 Flughafen Wien
+1599 Fischamend
+1600 Maria Ellend a.d. Donau
+1601 Haslau
+1602 Regelsbrunn
+1603 Wildungsmauer
+1604 Petronell-Carnuntum
+1605 Bad Deutsch Altenburg
+1606 Hainburg a.d. D. Frachtenbf
+1607 Hainburg a.d. D. Personenbf
+1608 Hainburg a.d. D. Ungartor
+1609 Wolfsthal
+1610 Wien Simmering
+1611 Wien Haidestraße
+1612 Wien Praterkai
+1613 Wien Lobau
+1614 Wien Stadlau
+1615 Wien Erzherzog-Karl-Straße
+1616 Wien Hirschstetten
+1617 Wien Hausfeldstraße
+1618 Wien Breitenleer Straße [2]
+1619 Raasdorf
+1620 Glinzendorf [3]
+1621 Siebenbrunn-Leopoldsdorf
+1622 Untersiebenbrunn
+1623 Schönfeld [2]-Lassee [3]
+1624 Breitensee NÖ
+1625 Pillichsdorf
+1626 Groß Engersdorf
+1627 Bockfließ
+1628 Auersthal
+1629 Raggendorf Markt
+1630 Groß Schweinbarth
+1631 Prottes
+1632 Matzen
+1633 Raggendorf
+1634 Bad Pirawarth
+1635 Klein Harras
+1636 Hohenruppersdorf
+1637 Sulz Museumsdorf
+1638 Hofern
+1639 Nieder Fladnitz
+1640 Pleißing-Waschbach
+1641 Weitersfeld NÖ
+1642 Ober Höflein
+1643 Anglerparadies Hessendorf
+1644 Langau
+1645 Geras-Kottaun [3]
+1646 Drosendorf
+1647 Wien Oberdöbling
+1648 Wien Krottenbachstraße
+1649 Wien Gersthof
+1650 Wien Hernals
+1651 Wien Ottakring
+1652 Wien Breitensee

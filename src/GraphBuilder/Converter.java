@@ -12,7 +12,8 @@ import util.Time;
 
 public class Converter {
 	
-	protected List<DataModul> memory = new ArrayList<DataModul>();
+	protected List<Edge> edges = new ArrayList<Edge>();
+	protected List<Boolean> breaks = new ArrayList<Boolean>(); 
 	
 	protected DataModul last = null; 
 	protected Node lastNode = null;
@@ -42,6 +43,10 @@ public class Converter {
 			e.lineType = dm.lineType;
 			e.target = n;
 			e.from = lastNode;
+			
+			edges.add(e);
+			breaks.add(this.subRoutePossibility);
+			/*
 			if (e.dist < 0){
 				if (this.subRoutePossibility){
 					Logger.logDebug(this, "subroute discovered in "+dm.lineType+" ("+dm.stanica+")");
@@ -52,7 +57,8 @@ public class Converter {
 				}
 			}
 			else
-			gm.addEdge(e);
+			gm.addEdge(e); */
+			
 		}
 		
 		last = dm;	
@@ -77,6 +83,31 @@ public class Converter {
 	}
 	
 	public void endRoute(){
+		if (edges.size() <= 0) { Logger.logDebug(this, "empty rotue"); return; }
+		boolean rev = true;
+		for (Edge e : edges) 
+			if (e.dist > 0) 
+				rev = false;
+		if (rev){
+			Logger.logDebug(this,"reversed distance route ("+edges.size()+") discovered in "+edges.get(0).lineType);
+			for (Edge e : edges) 
+				e.dist *= -1;
+		}
+		
+		for (int i = 0; i< edges.size(); i++){
+			Edge e = edges.get(i);
+			if (e.dist < 0){
+				if (breaks.get(i)){
+					Logger.logDebug(this, "subroute discovered in "+e.lineType+" ("+e.from.name+")");
+				}
+				else {
+					Logger.logProblem(this, "negative distance in "+e.lineType+" ("+e.from.name+")");
+					return;
+				}
+			}
+			else 
+				gm.addEdge(e);
+		}
 		last = null;
 		lastNode = null;
 	}

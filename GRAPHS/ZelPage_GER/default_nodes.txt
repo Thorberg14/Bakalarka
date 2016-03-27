@@ -1,0 +1,5617 @@
+1 Hamburg-Altona
+2 Hamburg Dammtor
+3 Hamburg Hbf
+4 Hamburg-Bergedorf
+5 Aumühle
+6 Friedrichsruh
+7 Schwarzenbek
+8 Müssen
+9 Büchen
+10 Schwanheide
+11 Boizenburg (Elbe)
+12 Brahlstorf
+13 Pritzier
+14 Hagenow Land
+15 Kirch Jesar
+16 Zachun
+17 Holthusen
+18 Schwerin Süd
+19 Schwerin Görries
+20 Schwerin Mitte
+21 Schwerin Hbf
+22 Lübstorf
+23 Bad Kleinen
+24 Ventschow
+25 Blankenberg (Meckl)
+26 Bützow
+27 Schwaan
+28 Rostock Hbf
+29 Wedel (Holst) (S-Bahn)
+30 Rissen (S-Bahn)
+31 Sülldorf (S-Bahn)
+32 Iserbrook (S-Bahn)
+33 Blankenese (S-Bahn)
+34 Hochkamp (S-Bahn)
+35 Klein Flottbek (S-Bahn)
+36 Othmarschen (S-Bahn)
+37 Bahrenfeld (S-Bahn)
+38 Königstraße (S-Bahn)
+39 Reeperbahn (S-Bahn)
+40 Landungsbrücken (S-Bahn)
+41 Stadthausbrücke (S-Bahn)
+42 Jungfernstieg (S-Bahn)
+43 Berliner Tor (S-Bahn)
+44 Landwehr (S-Bahn)
+45 Hasselbrook (S-Bahn)
+46 Wandsbeker Chaussee (S-Bahn)
+47 Friedrichsberg (S-Bahn)
+48 Barmbek (S-Bahn)
+49 Alte Wöhr (S-Bahn)
+50 Rübenkamp (S-Bahn)
+51 Ohlsdorf (S-Bahn)
+52 Kornweg (Klein Borstel) (S-Bahn)
+53 Hoheneichen (S-Bahn)
+54 Wellingsbüttel (S-Bahn)
+55 Poppenbüttel (S-Bahn)
+56 Holstenstraße (S-Bahn)
+57 Sternschanze (S-Bahn)
+58 Rothenburgsort (S-Bahn)
+59 Tiefstack (S-Bahn)
+60 Billwerder-Moorfleet (S-Bahn)
+61 Mittlerer Landweg (S-Bahn)
+62 Allermöhe (S-Bahn)
+63 Nettelnburg (S-Bahn)
+64 Elbgaustraße (S-Bahn)
+65 Eidelstedt (S-Bahn)
+66 Stellingen (S-Bahn)
+67 Langenfelde (S-Bahn)
+68 Diebsteich (S-Bahn)
+69 Reinbek (S-Bahn)
+70 Wohltorf (S-Bahn)
+71 Pinneberg
+72 Thesdorf (S-Bahn)
+73 Halstenbek (S-Bahn)
+74 Krupunder (S-Bahn)
+75 Hammerbrook (S-Bahn)
+76 Veddel (S-Bahn)
+77 Wilhelmsburg (S-Bahn)
+78 Hamburg-Harburg
+79 Harburg Rathaus (S-Bahn)
+80 Heimfeld (S-Bahn)
+81 Neuwiedenthal (S-Bahn)
+82 Hamburg-Neugraben
+83 Fischbek
+84 Neu Wulmstorf
+85 Buxtehude
+86 Neukloster (Kr Stade)
+87 Horneburg
+88 Dollern
+89 Agathenburg
+90 Stade
+91 Prisdorf
+92 Tornesch
+93 Elmshorn
+94 Herzhorn
+95 Glückstadt
+96 Krempe
+97 Kremperheide
+98 Itzehoe
+99 Hamburg-Wandsbek
+100 Tonndorf
+101 Hamburg-Rahlstedt
+102 Ahrensburg
+103 Bargteheide
+104 Kupfermühle
+105 Bad Oldesloe
+106 Reinfeld (Holst)
+107 Lübeck Hbf
+108 Lübeck Kücknitz
+109 Lübeck Travemünde Skandinavienkai
+110 Lübeck Travemünde Hafen
+111 Lübeck Travemünde Strand
+112 Meckelfeld
+113 Maschen
+114 Stelle
+115 Ashausen
+116 Winsen (Luhe)
+117 Radbruch
+118 Bardowick
+119 Lüneburg
+120 Bienenbüttel
+121 Bad Bevensen
+122 Uelzen
+123 Suderburg
+124 Unterlüß
+125 Eschede
+126 Celle Pbf
+127 Großburgwedel
+128 Isernhagen
+129 Langenhagen-Mitte
+130 Hannover Hbf
+131 Wendisch Evern
+132 Vastorf
+133 Bavendorf
+134 Dahlenburg
+135 Neetzendorf
+136 Göhrde
+137 Leitstade
+138 Hitzacker
+139 Dannenberg Ost
+140 Stederdorf (Kr Uelzen)
+141 Wieren
+142 Bad Bodenteich
+143 Wittingen
+144 Knesebeck
+145 Vorhop
+146 Schönewörde
+147 Wahrenholz
+148 Neudorf-Platendorf
+149 Triangel
+150 Gifhorn-Stadt
+151 Gifhorn
+152 Rötgesbüttel
+153 Meine
+154 Braunschweig-Gliesmarode
+155 Braunschweig Hbf
+156 Bremen Hbf
+157 Achim
+158 Langwedel
+159 Visselhövede
+160 Soltau (Han)
+161 Munster (Örtze)
+162 Brockhöfe
+163 Ebstorf (Kr Uelzen)
+164 Hittfeld
+165 Klecken
+166 Buchholz (Nordheide)
+167 Sprötze
+168 Tostedt
+169 Lauenbrück
+170 Scheeßel
+171 Rotenburg (Wümme)
+172 Sottrum
+173 Ottersberg (Han)
+174 Sagehorn
+175 Bremen-Oberneuland
+176 Cuxhaven
+177 Otterndorf
+178 Cadenberge
+179 Wingst
+180 Hemmoor
+181 Hechthausen
+182 Himmelpforten
+183 Hammah
+184 Bremerhaven-Wulsdorf
+185 Bremerhaven Hbf
+186 Suerhop
+187 Holm-Seppensen
+188 Büsenbachtal
+189 Handeloh
+190 Wintermoor
+191 Schneverdingen
+192 Hemsen (b Soltau)
+193 Wolterdingen (Han)
+194 Soltau (Han) Nord
+195 Dorfmark
+196 Bad Fallingbostel
+197 Walsrode
+198 Hodenhagen
+199 Eickeloh
+200 Hademstorf
+201 Schwarmstedt
+202 Lindwedel
+203 Bennemühlen
+204 Mellendorf
+205 Verden (Aller)
+206 Dörverden
+207 Eystrup
+208 Nienburg (Weser)
+209 Leese-Stolzenau
+210 Petershagen-Lahde
+211 Minden (Westf)
+212 Nordholz
+213 Dorum (Kr Cuxhaven)
+214 Wremen
+215 Bremerhaven-Lehe Pbf
+216 Loxstedt
+217 Lunestedt
+218 Stubben
+219 Lübberstedt
+220 Oldenbüttel
+221 Osterholz-Scharmbeck
+222 Ritterhude
+223 Bremen-Burg
+224 Bremen-Oslebshausen
+225 Bremen-Walle
+226 Bremen-Vegesack
+227 Bremen-Schönebeck
+228 Bremen-St Magnus
+229 Bremen-Lesum
+230 Bremen-Sebaldsbrück
+231 Bremen-Mahndorf
+232 Baden (Kr Verden)
+233 Etelsen
+234 Wilster
+235 Burg (Dithm)
+236 St. Michaelisdonn
+237 Meldorf
+238 Heide (Holst)
+239 Lunden
+240 Friedrichstadt
+241 Husum
+242 Bredstedt
+243 Langenhorn (Schlesw)
+244 Niebüll
+245 Klanxbüll
+246 Morsum (Sylt)
+247 Keitum
+248 Westerland (Sylt)
+249 Neumünster
+250 Nortorf
+251 Rendsburg
+252 Owschlag
+253 Schleswig
+254 Jübek
+255 Tarp
+256 Flensburg Weiche
+257 Flensburg
+258 Neumünster Stadtwald
+259 Wasbek
+260 Aukrug
+261 Hohenwestedt
+262 Osterstedt
+263 Beringstedt
+264 Gokels
+265 Hademarschen
+266 Beldorf
+267 Albersdorf
+268 Nordhastedt
+269 Tiebensee
+270 Jarrenwisch
+271 Wesselburen
+272 Süderdeich
+273 Reinsbüttel
+274 Büsum
+275 Felde
+276 Kiel Hbf
+277 Witzwort
+278 Harblek
+279 Tönning
+280 Kating
+281 Katharinenheerd
+282 Garding
+283 Sandwehle
+284 Tating
+285 Bad St Peter Süd
+286 Bad St Peter-Ording
+287 Bad Schwartau
+288 Timmendorferstrand
+289 Scharbeutz
+290 Haffkrug
+291 Sierksdorf
+292 Neustadt (Holst)
+293 Lensahn
+294 Oldenburg (Holst)
+295 Großenbrode
+296 Puttgarden
+297 Rickling
+298 Wahlstedt
+299 Fahrenkrug
+300 Bad Segeberg
+301 Altengörs
+302 Wakendorf
+303 Fresenburg
+304 Echem
+305 Lauenburg (Elbe)
+306 Mölln (Lauenburg)
+307 Ratzeburg
+308 Lübeck-Flughafen
+309 Pansdorf
+310 Pönitz (Holst)
+311 Eutin
+312 Bad Malente Gremsmühlen
+313 Plön
+314 Ascheberg (Holst)
+315 Preetz
+316 Raisdorf
+317 Kiel-Hassee CITTIPARK
+318 Suchsdorf
+319 Gettorf
+320 Eckernförde
+321 Rieseby
+322 Süderbrarup
+323 Sörup
+324 Husby
+325 Rehna
+326 Holdorf (Meckl)
+327 Gadebusch
+328 Lützow
+329 Groß Brütz
+330 Schwerin-Warnitz
+331 Schwerin-Margaretenhof
+332 Schwerin-Lankow
+333 Wüstmark
+334 Plate (Meckl)
+335 Sukow (b Schwerin)
+336 Crivitz
+337 Ruthenbeck
+338 Friedrichsruhe (Meckl)
+339 Domsühl
+340 Parchim
+341 Strohkirchen
+342 Jasnitz
+343 Ludwigslust
+344 Groß Laasch
+345 Neustadt-Glewe
+346 Dütschow
+347 Spornitz
+348 Lübz
+349 Passow (Meckl)
+350 Gallin
+351 Karow (Meckl)
+352 Alt Schwerin
+353 Malchow (Meckl)
+354 Nossentin
+355 Jabel (Meckl)
+356 Schwenzin
+357 Warenshof
+358 Waren (Müritz)
+359 Kargow
+360 Klockow (b Waren/Müritz)
+361 Kratzeburg
+362 Neustrelitz Hbf
+363 Groß Quassow
+364 Wesenberg
+365 Mirow
+366 Lübeck-St.Jürgen
+367 Herrnburg
+368 Lüdersdorf (Meckl)
+369 Schönberg (Meckl)
+370 Grieben (Meckl)
+371 Grevesmühlen
+372 Plüschow
+373 Bobitz
+374 Güstrow
+375 Priemerburg
+376 Lalendorf
+377 Neu Wokern
+378 Teterow
+379 Malchin
+380 Reuterstadt Stavenhagen
+381 Kleeth
+382 Mölln (Meckl)
+383 Neubrandenburg
+384 Sponholz
+385 Neetzka
+386 Oertzenhof
+387 Strasburg (Uckerm)
+388 Blumenhagen
+389 Pasewalk
+390 Sandförde
+391 Jatznick
+392 Torgelow
+393 Eggesin
+394 Hoppenwalde
+395 Ueckermünde
+396 Ueckermünde Stadthafen
+397 Pasewalk Ost
+398 Zerrenthin
+399 Löcknitz
+400 Grambow
+401 Rostock Parkstraße
+402 Rostock Holbeinplatz
+403 Rostock-Bramow
+404 Rostock-Marienehe
+405 Rostock Evershagen
+406 Rostock Lütten Klein
+407 Rostock Lichtenhagen
+408 Warnemünde Werft
+409 Warnemünde
+410 Lüssow (Meckl)
+411 Mistorf
+412 Huckstorf
+413 Pölchow
+414 Papendorf
+415 Kassebohm
+416 Rostock-Dierkow
+417 Rostock Hinrichsdorfer Straße
+418 Rostock-Toitenwinkel
+419 Rostock Seehafen Nord
+420 Bentwisch
+421 Mönchhagen
+422 Rövershagen
+423 Rostock Torfbrücke
+424 Graal-Müritz-Koppelweg
+425 Graal-Müritz
+426 Wismar
+427 Hornstorf
+428 Kalsow
+429 Steinhausen-Neuburg
+430 Hagebök
+431 Teschow
+432 Neubukow
+433 Sandhagen (b Bad Doberan)
+434 Kröpelin
+435 Reddelich
+436 Bad Doberan
+437 Althof
+438 Parkentin
+439 Groß Schwaß
+440 Rostock Thierfelder Straße
+441 Roggentin
+442 Broderstorf
+443 Groß Lüsewitz
+444 Sanitz (b Rostock)
+445 Tessin West
+446 Tessin
+447 Kavelstorf
+448 Scharstorf
+449 Kronskamp
+450 Laage (Meckl)
+451 Subzin-Liessow
+452 Plaaz
+453 Mierendorf
+454 Gelbensande
+455 Ribnitz-Damgarten West
+456 Ribnitz-Damgarten Ost
+457 Altenwillershagen
+458 Buchenhorst
+459 Velgast
+460 Martensdorf
+461 Stralsund-Grünhufe
+462 Stralsund
+463 Stralsund Rügendamm
+464 Altefähr
+465 Rambin (Rügen)
+466 Samtens
+467 Teschenhagen
+468 Bergen auf Rügen
+469 Lietzow (Rügen)
+470 Sagard
+471 Lancken
+472 Sassnitz
+473 Kummerow (b Stralsund)
+474 Wüstenfelde
+475 Miltzow
+476 Jeeser
+477 Greifswald
+478 Greifswald Süd
+479 Groß Kiesow
+480 Züssow
+481 Putbus
+482 Lauterbach (Rügen)
+483 Lauterbach (Mole)
+484 Potsdam-Rehbrücke
+485 Potsdam Medienstadt Babelsberg
+486 Berlin-Wannsee
+487 Berlin-Charlottenburg
+488 Berlin Zoologischer Garten
+489 Berlin Hauptbahnhof-Lehrter Bahnhof
+490 Berlin-Friedrichstraße
+491 Alexanderplatz
+492 Berlin Ostbahnhof
+493 Nikolassee
+494 Berlin-Schlachtensee
+495 Mexikoplatz
+496 Berlin-Zehlendorf
+497 Sundgauer Straße
+498 Berlin-Lichterfelde West
+499 Botanischer Garten
+500 Rathaus Steglitz
+501 Feuerbachstraße
+502 Friedenau
+503 Schöneberg
+504 Yorckstraße
+505 Berlin Anhalter Bahnhof
+506 Potsdamer Platz
+507 Brandenburger Tor
+508 Oranienburger Straße
+509 Berlin-Nordbahnhof
+510 Humboldthain
+511 Berlin-Gesundbrunnen
+512 Bornholmer Straße
+513 Wollankstraße
+514 Berlin-Schönholz
+515 Berlin-Wilhelmsruh
+516 Wittenau (Wilhelmsruher Damm)
+517 Waidmannslust
+518 Berlin-Hermsdorf
+519 Berlin-Frohnau
+520 Hohen Neuendorf (b Berlin)
+521 Birkenwerder (b Berlin)
+522 Borgsdorf
+523 Lehnitz
+524 Oranienburg
+525 Blankenfelde (Kr Teltow-Fläming)
+526 Mahlow
+527 Lichtenrade
+528 Schichauweg
+529 Buckower Chaussee
+530 Berlin-Marienfelde
+531 Attilastraße
+532 Priesterweg
+533 Berlin Südkreuz
+534 Berlin-Pankow
+535 Pankow-Heinersdorf
+536 Berlin-Blankenburg
+537 Berlin-Karow
+538 Berlin-Buch
+539 Röntgental
+540 Zepernick (b Bernau)
+541 Bernau-Friedenstal
+542 Bernau (b Berlin)
+543 Teltow Stadt
+544 Lichterfelde Süd
+545 Osdorferstraße
+546 Berlin-Lichterfelde Ost
+547 Lankwitz
+548 Südende
+549 Mühlenbeck-Mönchmühle
+550 Karl-Bonhoeffer-Nervenklinik
+551 Eichborndamm
+552 Berlin-Tegel
+553 Schulzendorf (b Tegel)
+554 Heiligensee
+555 Hennigsdorf (b Berlin)
+556 Erkner
+557 Wilhelmshagen
+558 Rahnsdorf
+559 Berlin-Friedrichshagen
+560 Hirschgarten
+561 Berlin-Köpenick
+562 Wuhlheide
+563 Berlin-Karlshorst
+564 Betriebsbahnhof Berlin-Rummelsburg
+565 Berlin-Rummelsburg
+566 Ostkreuz
+567 Warschauer Straße
+568 Jannowitzbrücke
+569 Hackescher Markt
+570 Bellevue
+571 Tiergarten
+572 Savignyplatz
+573 Berlin-Westkreuz
+574 Messe Süd (Eichkamp)
+575 Heerstraße
+576 Olympiastadion
+577 Pichelsberg
+578 Stresow
+579 Berlin-Spandau
+580 Innsbrucker Platz
+581 Bundesplatz
+582 Heidelberger Platz
+583 Hohenzollerndamm
+584 Berlin-Halensee
+585 Messe Nord / ICC (Witzleben)
+586 Westend
+587 Jungfernheide
+588 Beusselstraße
+589 Westhafen
+590 Wedding
+591 Schönhauser Allee
+592 Prenzlauer Allee
+593 Greifswalder Straße
+594 Landsberger Allee
+595 Storkower Straße
+596 Treptower Park
+597 Sonnenallee
+598 Berlin-Neukölln
+599 Hermannstraße
+600 Berlin-Tempelhof
+601 Berlin Frankfurter Allee
+602 Strausberg Nord
+603 Strausberg Stadt
+604 Hegermühle
+605 Strausberg
+606 Petershagen Nord
+607 Fredersdorf (b Berlin)
+608 Neuenhagen (b Berlin)
+609 Hoppegarten (Mark)
+610 Birkenstein
+611 Berlin-Mahlsdorf
+612 Berlin-Kaulsdorf
+613 Biesdorf
+614 Friedrichsfelde Ost
+615 Berlin-Lichtenberg
+616 Nöldnerplatz
+617 Berlin-Grunewald
+618 Griebnitzsee
+619 Babelsberg
+620 Potsdam Hbf
+621 Ahrensfelde
+622 Mehrower Allee
+623 Raoul-Wallenberg-Straße
+624 Berlin-Marzahn
+625 Poelchaustraße
+626 Springpfuhl
+627 Wartenberg
+628 Berlin-Hohenschönhausen
+629 Gehrenseestraße
+630 Zeuthen
+631 Eichwalde
+632 Berlin-Grünau
+633 Berlin-Adlershof
+634 Betriebsbahnhof Berlin-Schöneweide
+635 Berlin-Schöneweide Pbf
+636 Baumschulenweg
+637 Plänterwald
+638 Schönfließ
+639 Bergfelde (b Berlin)
+640 Flughafen Berlin-Schönefeld
+641 Grünbergallee
+642 Altglienicke
+643 Magdeburg Hbf
+644 Magdeburg-Neustadt
+645 Magdeburg-Herrenkrug
+646 Biederitz
+647 Gerwisch
+648 Möser
+649 Burg (b Magdeburg)
+650 Güsen (Kr Genthin)
+651 Genthin
+652 Wusterwitz
+653 Kirchmöser
+654 Brandenburg Hbf
+655 Götz
+656 Groß Kreutz
+657 Werder (Havel)
+658 Potsdam Park Sanssouci
+659 Potsdam Charlottenhof
+660 Golm
+661 Fangschleuse
+662 Hangelsberg
+663 Fürstenwalde (Spree)
+664 Berkenbrück
+665 Briesen (Mark)
+666 Jacobsdorf (Mark)
+667 Pillgram
+668 Frankfurt (Oder)-Rosengarten
+669 Frankfurt (Oder)
+670 Kraftwerk Finkenheerd
+671 Finkenheerd
+672 Wiesenau
+673 Ziltendorf
+674 Eisenhüttenstadt
+675 Neuzelle
+676 Wellmitz
+677 Coschen
+678 Guben
+679 Kerkwitz
+680 Jänschwalde Ost
+681 Jänschwalde
+682 Peitz Ost
+683 Teichland
+684 Cottbus-Willmersdorf Nord
+685 Cottbus-Merzdorf
+686 Cottbus-Sandow
+687 Cottbus
+688 Stendal
+689 Hämerten
+690 Schönhausen (Elbe)
+691 Großwudicke
+692 Rathenow
+693 Nennhausen
+694 Buschow
+695 Wustermark
+696 Elstal
+697 Dallgow-Döberitz
+698 Berlin-Staaken
+699 Königs Wusterhausen
+700 Brand (Niederlausitz)
+701 Lübben (Spreewald)
+702 Lübbenau (Spreewald)
+703 Raddusch
+704 Vetschau
+705 Kunersdorf
+706 Kolkwitz
+707 Klein Bünzow
+708 Anklam
+709 Ducherow
+710 Ferdinandshof
+711 Nechlin
+712 Prenzlau
+713 Seehausen (Uckermark)
+714 Warnitz (Uckermark)
+715 Wilmersdorf (b Angermünde)
+716 Angermünde
+717 Schwedt (Oder)
+718 Schwedt (Oder) Mitte
+719 Pinnow (Uckermark)
+720 Chorin
+721 Britz
+722 Eberswalde Hbf
+723 Dahlewitz
+724 Rangsdorf
+725 Dabendorf
+726 Zossen
+727 Wünsdorf Waldstadt
+728 Neuhof (b Zossen)
+729 Baruth (Mark)
+730 Klasdorf
+731 Golßen (Niederlausitz)
+732 Drahnsdorf
+733 Luckau-Uckro
+734 Walddrehna
+735 Doberlug-Kirchhain
+736 Rückersdorf
+737 Hohenleipisch
+738 Elsterwerda
+739 Mecklenburg Dorf
+740 Petersdorf (Meckl)
+741 Moidentin
+742 Sülstorf
+743 Rastow
+744 Lüblow (Meckl)
+745 Grabow (Meckl)
+746 Karstädt
+747 Wittenberge
+748 Bad Wilsnack
+749 Glöwen
+750 Breddin
+751 Neustadt (Dosse)
+752 Friesack (Mark)
+753 Paulinenaue
+754 Nauen
+755 Falkensee
+756 Teltow
+757 Großbeeren
+758 Birkengrund
+759 Ludwigsfelde
+760 Luckenwalde
+761 Jüterbog
+762 Zarrendorf
+763 Elmenhorst
+764 Wittenhagen
+765 Grimmen
+766 Rakow
+767 Demmin
+768 Utzedel
+769 Sternfeld
+770 Gnevkow
+771 Altentreptow
+772 Burg Stargard (Meckl)
+773 Cammin (Meckl)
+774 Blankensee (Meckl)
+775 Fürstenberg (Havel)
+776 Dannenwalde (Kr Gransee)
+777 Gransee
+778 Löwenberg (Mark)
+779 Thyrow
+780 Trebbin
+781 Woltersdorf (b Luckenwalde)
+782 Oehna
+783 Linda (Elster)
+784 Holzdorf (Elster)
+785 Herzberg (Elster) West
+786 Falkenberg (Elster)
+787 Niedergörsdorf
+788 Blönsdorf
+789 Klebitz
+790 Zahna
+791 Bülzig
+792 Zörnigall
+793 Lutherstadt Wittenberg
+794 Weisen
+795 Perleberg
+796 Groß Pankow
+797 Pritzwalk
+798 Heiligengrabe
+799 Liebenthal (Prign)
+800 Wittstock (Dosse)
+801 Dossow (Prign)
+802 Fretzdorf
+803 Netzeband
+804 Walsleben
+805 Neuruppin West
+806 Neuruppin Rheinsberger Tor
+807 Wustrau-Radensleben
+808 Beetz-Sommerfeld
+809 Kremmen
+810 Schwante
+811 Vehlefanz
+812 Bärenklau
+813 Velten (Mark)
+814 Dessau Hbf
+815 Roßlau (Elbe)
+816 Thießen
+817 Jeber-Bergfrieden
+818 Medewitz (Mark)
+819 Wiesenburg (Mark)
+820 Belzig
+821 Baitz
+822 Brück (Mark)
+823 Borkheide
+824 Beelitz-Heilstätten
+825 Seddin
+826 Michendorf
+827 Wilhelmshorst
+828 Dresden-Neustadt
+829 Coswig (Bz Dresden)
+830 Dresden Hbf
+831 Dresden-Friedrichstadt
+832 Dresden-Cotta
+833 Dresden-Kemnitz
+834 Dresden-Stetzsch
+835 Cossebaude
+836 Niederwartha
+837 Radebeul-Naundorf
+838 Weinböhla Hp
+839 Niederau
+840 Priestewitz
+841 Großenhain Cottb Bf
+842 Zabeltitz
+843 Frauenhain
+844 Prösen Ost
+845 Elsterwerda-Biehla
+846 Lampertswalde
+847 Ortrand
+848 Ruhland
+849 Senftenberg
+850 Sedlitz Ost
+851 Neupetershain
+852 Drebkau
+853 Brieselang
+854 Finkenkrug
+855 Seegefeld
+856 Albrechtshof
+857 Sachsenhausen (Nordb)
+858 Nassenheide
+859 Grüneberg
+860 Bergsdorf
+861 Zehdenick (Mark)
+862 Zehdenick-Neuhof
+863 Vogelsang (Kr Gransee)
+864 Hammelspring
+865 Templin
+866 Templin Stadt
+867 Zeesen
+868 Bestensee
+869 Groß Köris
+870 Halbe
+871 Oderin
+872 Schönwalde (Spreewald)
+873 Lubolz
+874 Calau (Niederlausitz)
+875 Altdöbern
+876 Großräschen
+877 Hosena
+878 Lauta (Niederlausitz)
+879 Schwarzkollm
+880 Hoyerswerda
+881 Hohen Neuendorf West
+882 Marquardt
+883 Priort
+884 Saarmund
+885 Genshagener Heide
+886 Potsdam Pirschheide
+887 Caputh-Geltow
+888 Caputh-Schwielowsee
+889 Ferch-Lienewitz
+890 Ahrensfelde Friedhof
+891 Ahrensfelde Nord
+892 Blumberg (b Berlin)
+893 Seefeld (Mark)
+894 Werneuchen
+895 Herrensee
+896 Rehfelde (Kr Strausberg)
+897 Müncheberg (Mark)
+898 Obersdorf
+899 Trebnitz (Mark)
+900 Alt Rosenthal
+901 Seelow-Gusow
+902 Werbig
+903 Golzow (Oderbruch)
+904 Gorgast
+905 Küstrin-Kietz
+906 Beelitz Stadt
+907 Elsholz
+908 Buchholz (Zauche)
+909 Treuenbrietzen
+910 Treuenbrietzen Süd
+911 Altes Lager
+912 Bad Saarow-Pieskow
+913 Fürstenwalde (Spree) Süd
+914 Frankfurt (Oder)-Neuberesinchen
+915 Helenesee
+916 Müllrose
+917 Mixdorf
+918 Grunow (Niederlausitz)
+919 Schneeberg (Mark)
+920 Oegeln
+921 Beeskow
+922 Buckow (b Beeskow)
+923 Lindenberg (Mark)
+924 Wendisch-Rietz
+925 Hubertushöhe
+926 Storkow (Mark)
+927 Kummersdorf (b Storkow)
+928 Friedersdorf (b Königs Wusterhausen)
+929 Kablow
+930 Zernsdorf
+931 Niederlehme
+932 Kolkwitz Süd
+933 Gollmitz (Niederlausitz)
+934 Finsterwalde (Niederlausitz)
+935 Schönborn (b Doberlug)
+936 Beutersitz
+937 Uebigau
+938 Klinge
+939 Forst (Lausitz)
+940 Brandenburg-Altstadt
+941 Görden
+942 Fohrde
+943 Pritzerbe
+944 Döberitz
+945 Premnitz Zentrum
+946 Premnitz Nord
+947 Mögelin
+948 Rüdnitz
+949 Biesenthal
+950 Melchow
+951 Golzow (b Eberswalde)
+952 Alt Hüttendorf
+953 Joachimsthal Kaiserbahnhof
+954 Joachimsthal
+955 Niederfinow
+956 Falkenberg (Mark)
+957 Bad Freienwalde (Oder)
+958 Altranft
+959 Wriezen
+960 Neutrebbin
+961 Letschin
+962 Seelow (Mark)
+963 Schönfließ Dorf
+964 Tantow
+965 Petershagen (Uckermark)
+966 Casekow
+967 Schönow (Kr Uckermark)
+968 Passow (Uckermark)
+969 Leipzig Hbf
+970 Leipzig-Thekla
+971 Leipzig-Heiterblick
+972 Taucha (b Leipzig)
+973 Pönitz (b Leipzig)
+974 Jesewitz (b Leipzig)
+975 Eilenburg
+976 Eilenburg Ost
+977 Doberschütz
+978 Mockrehna
+979 Torgau
+980 Beilrode
+981 Meinsdorf
+982 Klieken
+983 Coswig (Anh)
+984 Griebo
+985 Lutherstadt Wittenberg-Piesteritz
+986 Lutherstadt Wittenberg West
+987 Lutherstadt Wittenberg Altstadt
+988 Mühlanger
+989 Elster (Elbe)
+990 Jessen (Elster)
+991 Annaburg
+992 Fermerswalde
+993 Kämmereiforst
+994 Krensitz
+995 Hohenroda
+996 Delitzsch ob Bf
+997 Kyhna
+998 Klitschmar
+999 Landsberg (b Halle/Saale) Süd
+1000 Reußen
+1001 Peißen
+1002 Halle (Saale) Hbf
+1003 Zittau
+1004 Hirschfelde
+1005 Krzewina Zgorzelecka
+1006 Hagenwerder
+1007 Görlitz-Weinhübel
+1008 Görlitz
+1009 Kodersdorf
+1010 Horka Pbf
+1011 Uhsmannsdorf
+1012 Hähnichen
+1013 Rietschen
+1014 Weißwasser (Oberlausitz)
+1015 Schleife
+1016 Spremberg
+1017 Bagenz
+1018 Neuhausen (Cottbus)
+1019 Kiekebusch (Cottbus)
+1020 Dresden Industriegelände
+1021 Dresden-Klotzsche
+1022 Weixdorf Bad
+1023 Weixdorf
+1024 Hermsdorf (b Dresden)
+1025 Ottendorf-Okrilla Süd
+1026 Ottendorf-Okrilla Hp
+1027 Ottendorf-Okrilla Nord
+1028 Laußnitz
+1029 Königsbrück
+1030 Langebrück (Sachs)
+1031 Radeberg
+1032 Arnsdorf (b Dresden)
+1033 Kleinröhrsdorf
+1034 Großröhrsdorf
+1035 Pulsnitz
+1036 Bischheim-Gersdorf
+1037 Kamenz (Sachs)
+1038 Lauchhammer
+1039 Plessa
+1040 Bad Liebenwerda
+1041 Rehfeld (b Falkenberg/Elster)
+1042 Niesky
+1043 Petershain
+1044 Mücka
+1045 Klitten
+1046 Uhyst
+1047 Lohsa
+1048 Hoyerswerda-Neustadt
+1049 Dresden Mitte
+1050 Großharthau
+1051 Weickersdorf (Sachs)
+1052 Bischofswerda
+1053 Demitz-Thumitz
+1054 Seitschen
+1055 Bautzen
+1056 Kubschütz
+1057 Pommritz
+1058 Breitendorf
+1059 Löbau (Sachs)
+1060 Zoblitz
+1061 Reichenbach (Oberlausitz)
+1062 Gersdorf (b Görlitz)
+1063 Görlitz-Rauschwalde
+1064 Dresden Freiberger Straße
+1065 Schmölln (Oberlausitz)
+1066 Putzkau
+1067 Neukirch (Lausitz) West
+1068 Neukirch (Lausitz) Ost
+1069 Wilthen
+1070 Schirgiswalde-Kirschau
+1071 Sohland
+1072 Taubenheim (Spree)
+1073 Neusalza-Spremberg
+1074 Ebersbach (Sachs)
+1075 Neugersdorf
+1076 Eibau
+1077 Oberoderwitz Oberdorf
+1078 Oberoderwitz
+1079 Niederoderwitz
+1080 Mittelherwigsdorf (Sachs)
+1081 Hainewalde
+1082 Großschönau (Sachs)
+1083 Seifhennersdorf
+1084 Leutersdorf
+1085 Zittau Hp
+1086 Zittau Süd
+1087 Zittau Vorstadt
+1088 Olbersdorf Niederdorf
+1089 Olbersdorf Oberdorf
+1090 Bertsdorf
+1091 Kurort Jonsdorf Hst
+1092 Kurort Jonsdorf
+1093 Kurort Oybin-Niederdorf
+1094 Teufelsmühle
+1095 Kurort Oybin
+1096 Meißen Triebischtal
+1097 Meißen
+1098 Neusörnewitz
+1099 Radebeul-Zitzschewig
+1100 Radebeul West
+1101 Radebeul-Weintraube
+1102 Radebeul Ost
+1103 Dresden-Trachau
+1104 Dresden-Pieschen
+1105 Dresden-Strehlen
+1106 Dresden-Reick
+1107 Dresden-Dobritz
+1108 Dresden-Niedersedlitz Hp (DHD)
+1109 Dresden-Zschachwitz
+1110 Heidenau
+1111 Heidenau Süd
+1112 Heidenau-Großsedlitz
+1113 Pirna
+1114 Obervogelgesang (Kr Pirna)
+1115 Stadt Wehlen (Sachs)
+1116 Kurort Rathen (Kr Pirna)
+1117 Königstein (Sächs Schweiz)
+1118 Bad Schandau
+1119 Krippen
+1120 Schmilka-Hirschmühle
+1121 Schöna
+1122 Dresden Grenzstraße
+1123 Dresden Flughafen
+1124 Dohna (Sachs)
+1125 Köttewitz
+1126 Weesenstein
+1127 Burkhardswalde-Maxen
+1128 Mühlbach (b Pirna)
+1129 Niederschlottwitz
+1130 Oberschlottwitz
+1131 Glashütte (Sachs)
+1132 Bärenhecke-Johnsbach
+1133 Bärenstein (b Glashütte/Sachs)
+1134 Lauenstein (Sachs)
+1135 Hartmannmühle
+1136 Geising
+1137 Kurort Altenberg (Erzgeb)
+1138 Neustadt (Sachs)
+1139 Langenwolmsdorf
+1140 Langenwolmsdorf Mitte
+1141 Stolpen
+1142 Helmsdorf (b Pirna)
+1143 Dürrröhrsdorf
+1144 Lohmen
+1145 Pirna-Copitz Nord
+1146 Pirna-Copitz
+1147 Rathmannsdorf (Kr Pirna)
+1148 Porschdorf (Kr Pirna)
+1149 Goßdorf-Kohlmühle
+1150 Mittelndorf
+1151 Ulbersdorf
+1152 Amtshainersdorf
+1153 Sebnitz (Sachs)
+1154 Krumhermsdorf
+1155 Neuwiederitzsch LeipzigerMesse
+1156 Rackwitz (B Leipzig)
+1157 Zschortau
+1158 Delitzsch unt Bf
+1159 Petersroda
+1160 Bitterfeld
+1161 Dessau Süd
+1162 Marke
+1163 Raguhn
+1164 Jeßnitz (Anh)
+1165 Wolfen (Kr Bitterfeld)
+1166 Greppin
+1167 Roitzsch (Kr Bitterfeld)
+1168 Brehna
+1169 Landsberg (b Halle/Saale)
+1170 Hohenthurm
+1171 Königsborn
+1172 Wahlitz
+1173 Gommern
+1174 Prödel
+1175 Lübs (b Magdeburg)
+1176 Güterglück
+1177 Zerbst
+1178 Jütrichau
+1179 Rodleben
+1180 Woltersdorf (b Magdeburg)
+1181 Büden
+1182 Ziepel
+1183 Zeddenick (Sachs-Anh)
+1184 Möckern (b Magdeburg)
+1185 Zeppernick (b Magdeburg)
+1186 Loburg
+1187 Stendal Vorbf
+1188 Bindfelde
+1189 Miltern
+1190 Tangermünde West
+1191 Tangermünde
+1192 Lehrte
+1193 Immensen-Arpke
+1194 Dollbergen
+1195 Dedenhausen
+1196 Meinersen
+1197 Leiferde (b Gifhorn)
+1198 Calberlah
+1199 Fallersleben
+1200 Wolfsburg
+1201 Weddel (Braunschw)
+1202 Oebisfelde
+1203 Miesterhorst
+1204 Mieste
+1205 Solpke
+1206 Gardelegen
+1207 Jävenitz
+1208 Uchtspringe
+1209 Vinzelberg
+1210 Möringen (Altm)
+1211 Magdeburg-Eichenweiler
+1212 Magdeburg-Rothensee
+1213 Wolmirstedt
+1214 Zielitz Ort
+1215 Angern-Rogätz
+1216 Mahlwinkel
+1217 Tangerhütte
+1218 Demker
+1219 Stendal-Stadtsee
+1220 Eichstedt (Altm)
+1221 Goldbeck (Kr Osterburg)
+1222 Osterburg
+1223 Seehausen (Altm)
+1224 Geestgottberg
+1225 Bösdorf (Sachs-Anh)
+1226 Rätzlingen
+1227 Wegenstedt
+1228 Flechtingen
+1229 Haldensleben
+1230 Vahldorf
+1231 Groß Ammensleben
+1232 Meitzendorf
+1233 Barleben
+1234 Zielitz
+1235 Barleber See
+1236 Magdeburg-Hasselbachplatz
+1237 Magdeburg-Buckau
+1238 Magdeburg Thälmannwerk
+1239 Magdeburg-Salbke
+1240 Magdeburg Südost
+1241 Schönebeck-Frohse
+1242 Schönebeck (Elbe)
+1243 Schönebeck (Elbe) Süd
+1244 Schönebeck-Salzelmen
+1245 Hämelerwald
+1246 Vöhrum
+1247 Peine
+1248 Vechelde
+1249 Schandelah
+1250 Königslutter
+1251 Frellstedt
+1252 Helmstedt
+1253 Marienborn
+1254 Wefensleben
+1255 Eilsleben (b Magdeburg)
+1256 Ovelgünne
+1257 Dreileben-Drackenstedt
+1258 Ochtmersleben
+1259 Wellen (b Magdeburg)
+1260 Niederndodeleben
+1261 Magdeburg-Sudenburg
+1262 Wolfenbüttel
+1263 Dettum
+1264 Schöppenstedt
+1265 Hildesheim Hbf
+1266 Hoheneggelsen
+1267 Woltwiesche
+1268 Lengede-Broistedt
+1269 Beyendorf
+1270 Dodendorf
+1271 Osterweddingen
+1272 Langenweddingen
+1273 Blumenberg
+1274 Hadmersleben
+1275 Oschersleben (Bode)
+1276 Hordorf
+1277 Krottorf
+1278 Nienhagen (b Halberstadt)
+1279 Groß Quenstedt
+1280 Halberstadt
+1281 Wegeleben
+1282 Ditfurt
+1283 Quedlinburg
+1284 Neinstedt
+1285 Thale Musestieg
+1286 Thale Hbf
+1287 Hildesheim Ost
+1288 Großdüngen
+1289 Derneburg (Han)
+1290 Baddeckenstedt
+1291 Salzgitter-Ringelheim
+1292 Goslar
+1293 Oker
+1294 Bad Harzburg
+1295 Wernigerode
+1296 Wernigerode-Westerntor
+1297 Wernigerode Hochschule Harz
+1298 Wernigerode-Hasserode
+1299 Steinerne Renne
+1300 Drei Annen Hohne
+1301 Schierke
+1302 Brocken
+1303 Nordhausen Nord
+1304 Hesseröder Straße
+1305 Nordhausen Altentor
+1306 Nordhausen Ricarda-Huch-Straße
+1307 Nordhausen Schurzfell
+1308 Nordhausen-Krimderode
+1309 Niedersachswerfen-Herkules Markt
+1310 Niedersachswerfen Ost
+1311 Niedersachswerfen Ilfelder Straße
+1312 Ilfeld Schreiberwiese
+1313 Ilfeld
+1314 Ilfeld Neanderklinik
+1315 Ilfeld Bad
+1316 Netzkater
+1317 Eisfelder Talmühle
+1318 Tiefenbachmühle
+1319 Sophienhof
+1320 Benneckenstein
+1321 Sorge
+1322 Elend
+1323 Halberstadt Oststraße
+1324 Halberstadt-Spiegelsberge
+1325 Langenstein
+1326 Börnecke (Harz)
+1327 Blankenburg (Harz)
+1328 Vienenburg
+1329 Stapelburg
+1330 Ilsenburg
+1331 Darlingerode
+1332 Wernigerode Elmowerk
+1333 Heudeber-Danstedt
+1334 Hedersleben-Wedderstedt
+1335 Gatersleben
+1336 Nachterstedt-Hoym
+1337 Frose
+1338 Aschersleben Pbf
+1339 Drohndorf-Mehringen
+1340 Freckleben
+1341 Sandersleben (Anh)
+1342 Belleben
+1343 Könnern
+1344 Domnitz (SaalKr)
+1345 Nauendorf (Saalkr)
+1346 Wallwitz (Saalkr)
+1347 Teicha
+1348 Halle-Trotha
+1349 Quedlinburg-Quarmbeck
+1350 Bad Suderode
+1351 Gernrode (Harz)
+1352 Sternhaus Haferfeld
+1353 Sternhaus Ramberg
+1354 Mägdesprung
+1355 Drahtzug
+1356 Alexisbad
+1357 Harzgerode
+1358 Silberhütte (Anhalt)
+1359 Straßberg (Harz)
+1360 Straßberg (Harz) Glasebach
+1361 Güntersberge
+1362 Friedrichshöhe
+1363 Albrechtshaus
+1364 Stiege
+1365 Hasselfelde
+1366 Birkenmoor
+1367 Schierstedt
+1368 Giersleben
+1369 Güsten
+1370 Ilberstedt
+1371 Bernburg
+1372 Bernburg-Friedenshall
+1373 Baalberge
+1374 Biendorf
+1375 Frenz
+1376 Köthen
+1377 Osternienburg
+1378 Elsnigk (Anh)
+1379 Dessau-Mosigkau
+1380 Dessau-Alten
+1381 Eggersdorf
+1382 Eickendorf
+1383 Förderstedt
+1384 Staßfurt
+1385 Neundorf (Anh)
+1386 Hettstedt
+1387 Klostermansfeld
+1388 Sangerhausen
+1389 Oberröblingen (Helme)
+1390 Voigtstedt
+1391 Artern
+1392 Reinsdorf (b Artern)
+1393 Bretleben
+1394 Heldrungen
+1395 Etzleben
+1396 Griefstedt
+1397 Leubingen
+1398 Sömmerda
+1399 Großrudestedt
+1400 Stotternheim
+1401 Erfurt Ost
+1402 Erfurt Hbf
+1403 Klostermannsfeld Randsiedlung
+1404 Mansfeld (Südharz)
+1405 Vatterode
+1406 Vatterröder Teich
+1407 Gräfenstuhl-Klippmühle
+1408 Biesenrode
+1409 Friesdorf Ost
+1410 Friesdorf
+1411 Wippra
+1412 Schönebeck-Felgeleben
+1413 Gnadau
+1414 Calbe (Saale) Ost
+1415 Sachsendorf (b Calbe)
+1416 Wulfen (Anh)
+1417 Arensdorf (b Köthen)
+1418 Weißandt-Gölzau
+1419 Stumsdorf
+1420 Niemberg
+1421 Zöberitz
+1422 Flughafen Leipzig/Halle
+1423 Hannover Bismarckstraße
+1424 Hannover-Messe / Laatzen
+1425 Rethen (Leine)
+1426 Sarstedt
+1427 Barnten
+1428 Nordstemmen
+1429 Elze (Han)
+1430 Banteln
+1431 Alfeld (Leine)
+1432 Freden (Leine)
+1433 Kreiensen
+1434 Einbeck-Salzderhelden
+1435 Northeim (Han)
+1436 Nörten-Hardenberg
+1437 Göttingen
+1438 Salzgitter-Lebenstedt
+1439 Salzgitter-Watenstedt
+1440 Salzgitter-Immendorf
+1441 Salzgitter-Thiede
+1442 Börßum
+1443 Schladen (Harz)
+1444 Langelsheim
+1445 Seesen
+1446 Bad Gandersheim
+1447 Stadtoldendorf
+1448 Holzminden
+1449 Ottbergen
+1450 Wehrden (Weser)
+1451 Lauenförde
+1452 Bad Karlshafen
+1453 Bodenfelde
+1454 Vernawahlshausen
+1455 Offensen (Kr Northeim)
+1456 Adelebsen
+1457 Lödingsen
+1458 Lenglern
+1459 Uslar
+1460 Volpriehausen
+1461 Hardegsen
+1462 Katlenburg
+1463 Wulften
+1464 Hattorf
+1465 Herzberg (Harz)
+1466 Bad Lauterberg im Harz Barbis
+1467 Bad Sachsa
+1468 Walkenried
+1469 Ellrich
+1470 Woffleben
+1471 Niedersachswerfen
+1472 Nordhausen-Salza
+1473 Nordhausen
+1474 Salzgitter Bad
+1475 Münchehof (Harz)
+1476 Gittelde
+1477 Osterode am Harz Mitte
+1478 Osterode am Harz Leege
+1479 Herzberg Schloß
+1480 Bückeburg
+1481 Kirchhorsten
+1482 Stadthagen
+1483 Lindhorst (Schaumb-Lippe)
+1484 Haste (Han)
+1485 Wunstorf
+1486 Dedensen / Gümmer
+1487 Seelze Pbf
+1488 Letter
+1489 Hannover-Leinhausen
+1490 Hannover-Nordstadt
+1491 Hannover-Linden
+1492 Hannover-Bornum
+1493 Empelde
+1494 Ronnenberg (Han)
+1495 Weetzen
+1496 Lemmie
+1497 Wennigsen (Deister)
+1498 Egestorf (Deister)
+1499 Kirchdorf (Deister)
+1500 Barsinghausen
+1501 Winninghausen
+1502 Bantorf
+1503 Bad Nenndorf
+1504 Linsburg
+1505 Hagen (Han)
+1506 Eilvese
+1507 Neustadt a Rübenberge
+1508 Poggenhagen
+1509 Hannover-Kleefeld
+1510 Hannover Karl-Wiechert-Allee
+1511 Anderten-Misburg
+1512 Ahlten (Han)
+1513 Sehnde
+1514 Algermissen
+1515 Harsum
+1516 Bissendorf
+1517 Langenhagen -Kaltenweide
+1518 Langenhagen Pferdemarkt
+1519 Hannover -Vinnhorst
+1520 Hannover -Ledeburg
+1521 Emmerke
+1522 Hannover-Flughafen
+1523 Holtensen (b Weetzen)
+1524 Bennigsen
+1525 Eldagsen-Völksen
+1526 Springe
+1527 Bad Münder (Deister)
+1528 Hameln
+1529 Emmerthal
+1530 Bad Pyrmont
+1531 Lügde
+1532 Schieder
+1533 Steinheim (Westf)
+1534 Altenbeken
+1535 Paderborn Hbf
+1536 Aligse
+1537 Burgdorf (Han)
+1538 Otze
+1539 Ehlershausen
+1540 Bielefeld Hbf
+1541 Brake (b Bielefeld)
+1542 Herford
+1543 Löhne (Westf)
+1544 Bad Oeynhausen
+1545 Porta Westfalica
+1546 Bünde (Westf)
+1547 Kirchlengern
+1548 Bad Oeynhausen Süd
+1549 Vlotho
+1550 Rinteln
+1551 Hessisch Oldendorf
+1552 Coppenbrügge
+1553 Voldagsen
+1554 Osterwald
+1555 Wesseln
+1556 Bad Salzdetfurth-Solebad
+1557 Bad Salzdetfurth
+1558 Bodenburg
+1559 Bad Bentheim
+1560 Schüttorf
+1561 Salzbergen
+1562 Rheine
+1563 Hörstel
+1564 Ibbenbüren-Esch
+1565 Ibbenbüren
+1566 Ibbenbüren-Laggenbeck
+1567 Osnabrück Hasetor
+1568 Osnabrück Hbf
+1569 Wissingen
+1570 Westerhausen
+1571 Melle
+1572 Bruchmühlen
+1573 Bremen-Hemelingen
+1574 Dreye
+1575 Kirchweyhe
+1576 Barrien
+1577 Syke
+1578 Bramstedt (b Syke)
+1579 Bassum
+1580 Twistringen
+1581 Barnstorf (Han)
+1582 Diepholz
+1583 Lemförde
+1584 Bohmte
+1585 Hasbergen (Kr Osnabrück)
+1586 Natrup-Hagen
+1587 Lengerich (Westf)
+1588 Kattenvenne
+1589 Ostbevern
+1590 Westbevern
+1591 Münster (Westf) Hbf
+1592 Rahden (Kr Lübbecke)
+1593 Espelkamp
+1594 Lübbecke (Westf)
+1595 Holzhausen-Heddinghausen
+1596 Neue Mühle
+1597 Bieren-Rödinghausen
+1598 Hiddenhausen-Schweicheln
+1599 Delmenhorst
+1600 Hude
+1601 Oldenburg (Oldb) Hbf
+1602 Bad Zwischenahn
+1603 Westerstede-Ocholt
+1604 Augustfehn
+1605 Leer (Ostfriesl)
+1606 Emden Hbf
+1607 Marienhafe
+1608 Norden
+1609 Norddeich
+1610 Norddeich Mole
+1611 Bookholzberg
+1612 Schierbrok
+1613 Hoykenkamp
+1614 Heidkrug
+1615 Bremen Neustadt
+1616 Nordenham
+1617 Kleinensiel
+1618 Rodenkirchen (Oldb)
+1619 Brake (Unterweser)
+1620 Elsfleth
+1621 Berne
+1622 Wilhelmshaven
+1623 Sande
+1624 Varel (Oldb)
+1625 Rastede
+1626 Sandkrug
+1627 Huntlosen
+1628 Großenkneten
+1629 Ahlhorn
+1630 Cloppenburg
+1631 Essen (Oldb)
+1632 Quakenbrück
+1633 Bersenbrück
+1634 Bramsche
+1635 Achmer
+1636 Halen
+1637 Sanderbusch
+1638 Schortens-Heidmühle (Oldb)
+1639 Jever
+1640 Wittmund
+1641 Burhafe
+1642 Esens (Ostfriesl)
+1643 Ganderkesee
+1644 Brettorf
+1645 Wildeshausen
+1646 Rechterfeld
+1647 Goldenstedt (Oldb)
+1648 Lutten
+1649 Vechta
+1650 Lohne (Oldb)
+1651 Mühlen (Oldb)
+1652 Steinfeld (Oldb)
+1653 Holdorf (Oldb)
+1654 Neuenkirchen (Oldb)
+1655 Rieste
+1656 Hesepe
+1657 Papenburg (Ems)
+1658 Aschendorf
+1659 Dörpen
+1660 Lathen
+1661 Haren (Ems)
+1662 Meppen
+1663 Geeste
+1664 Lingen (Ems)
+1665 Leschede
+1666 Weener
+1667 Hamm (Westf)
+1668 Heessen
+1669 Ahlen (Westf)
+1670 Neubeckum
+1671 Oelde
+1672 Rheda-Wiedenbrück
+1673 Gütersloh Hbf
+1674 Isselhorst-Avenwedde
+1675 Brackwede
+1676 Quelle Kupferheide
+1677 Quelle
+1678 Steinhagen (Westf) Bielefelder Straße
+1679 Steinhagen (Westf)
+1680 Künsebeck
+1681 Halle (Westf)
+1682 Halle (Westf)-Gerry-Weber-Stadion
+1683 Hesseln
+1684 Borgholzhausen
+1685 Westbarthausen
+1686 Dissen-Bad Rothenfelde
+1687 Brackwede Süd
+1688 Windelsbleiche
+1689 Sennestadt
+1690 Schloß Holte
+1691 Hövelriege
+1692 Hövelhof
+1693 Sennelager
+1694 Paderborn Nord
+1695 Paderborn Kasseler Tor
+1696 Bad Driburg (Westf)
+1697 Brakel (Kr Höxter)
+1698 Godelheim
+1699 Höxter Rathaus
+1700 Lüchtringen
+1701 Bielefeld Ost
+1702 Oldentrup
+1703 Ubbedissen
+1704 Oerlinghausen
+1705 Helpup
+1706 Ehlenbruch
+1707 Lage (Lippe)
+1708 Hörstmar (Lippe)
+1709 Bad Salzuflen
+1710 Schötmar
+1711 Sylbach
+1712 Detmold
+1713 Horn-Bad Meinberg
+1714 Leopoldstal
+1715 Sandebeck
+1716 Telgte
+1717 Raestrup-Everswinkel
+1718 Warendorf
+1719 Beelen
+1720 Clarholz
+1721 Herzebrock
+1722 Münster Zentrum Nord
+1723 Münster-Häger
+1724 Altenberge
+1725 Nordwalde
+1726 Steinfurt-Borghorst
+1727 Steinfurt-Grottenkamp
+1728 Steinfurt-Burgsteinfurt
+1729 Metelen Land
+1730 Ochtrup
+1731 Gronau (Westf)
+1732 Havixbeck
+1733 Billerbeck
+1734 Lutum
+1735 Coesfeld (Westf)
+1736 Münster-Amelsbüren
+1737 Davensberg
+1738 Ascheberg (Westf)
+1739 Capelle (Westf)
+1740 Werne (a d Lippe)
+1741 Lünen Hbf
+1742 Preußen
+1743 Dortmund-Derne
+1744 Dortmund-Kirchderne
+1745 Dortmund Hbf
+1746 Bork (Westf)
+1747 Selm-Beifang
+1748 Selm (Kr Lüdinghausen)
+1749 Lüdinghausen
+1750 Dülmen
+1751 Lette (Kr Coesfeld)
+1752 Rosendahl-Holtwick
+1753 Legden
+1754 Ahaus
+1755 Epe (Westf)
+1756 Köln Hbf
+1757 Köln Messe/Deutz
+1758 Köln-Mülheim
+1759 Leverkusen Mitte
+1760 Düsseldorf-Benrath
+1761 Düsseldorf Hbf
+1762 Düsseldorf Flughafen
+1763 Duisburg Hbf
+1764 Mülheim (Ruhr) Hbf
+1765 Essen Hbf
+1766 Essen-Kray Süd
+1767 Wattenscheid
+1768 Bochum Hbf
+1769 Dortmund-Scharnhorst
+1770 Dortmund-Kurl
+1771 Kamen-Methler
+1772 Kamen
+1773 Nordbögge
+1774 Oberhausen Hbf
+1775 Essen-Altenessen
+1776 Gelsenkirchen Hbf
+1777 Wanne-Eickel Hbf
+1778 Herne
+1779 Castrop-Rauxel Hbf
+1780 Dortmund-Mengede
+1781 Emmerich
+1782 Praest
+1783 Millingen (Kr Rees)
+1784 Empel-Rees
+1785 Haldern (Rheinl)
+1786 Mehrhoog
+1787 Wesel-Feldmark
+1788 Wesel
+1789 Friedrichsfeld (Niederrhein)
+1790 Voerde (Niederrhein)
+1791 Dinslaken
+1792 Oberhausen-Holten
+1793 Oberhausen-Sterkrade
+1794 Blumenkamp
+1795 Hamminkeln
+1796 Dingden
+1797 Bocholt
+1798 Borken (Westf)
+1799 Marbeck-Heiden
+1800 Rhade
+1801 Deuten
+1802 Hervest-Dorsten
+1803 Dorsten
+1804 Feldhausen
+1805 Gladbeck-Zweckel
+1806 Gladbeck West
+1807 Bottrop-Boy
+1808 Bottrop Hbf
+1809 Essen-Borbeck
+1810 Wulfen (Westf)
+1811 Lembeck
+1812 Reken
+1813 Maria-Veen
+1814 Mönchengladbach Hbf
+1815 Viersen
+1816 Anrath
+1817 Forsthaus
+1818 Krefeld Hbf
+1819 Krefeld-Oppum
+1820 Krefeld-Linn
+1821 Krefeld-Uerdingen
+1822 Hohenbudberg Bayerwerk
+1823 Rheinhausen
+1824 Rheinhausen Ost
+1825 Duisburg-Hochfeld Süd
+1826 Recklinghausen Süd
+1827 Recklinghausen Hbf
+1828 Marl-Sinsen
+1829 Haltern am See
+1830 Sythen
+1831 Buldern
+1832 Nottuln-Appelhülsen
+1833 Bösensell
+1834 Münster-Albachten
+1835 Gladbeck Ost
+1836 Gelsenkirchen-Buer Süd
+1837 Gelsenkirchen Zoo
+1838 Herne-Börnig
+1839 Castrop-Rauxel Süd
+1840 Castrop-Rauxel-Merklinde
+1841 Dortmund-Bövinghausen
+1842 Dortmund-Lütgendortmund Nord
+1843 Dortmund-Marten
+1844 Dortmund-Rahm
+1845 Dortmund-Huckarde Nord
+1846 Dortmund-Barop
+1847 Dortmund-Kruckel
+1848 Witten-Annen Nord
+1849 Witten Hbf
+1850 Wetter (Ruhr)
+1851 Hagen-Vorhalle
+1852 Hagen Hbf
+1853 Bochum NOKIA
+1854 Bochum-Hamme
+1855 Bochum West
+1856 Welver
+1857 Borgeln
+1858 Soest
+1859 Bad Sassendorf
+1860 Lippstadt
+1861 Dedinghausen
+1862 Ehringhausen (Kr Lippstadt)
+1863 Geseke
+1864 Salzkotten
+1865 Scharmede
+1866 Willebadessen
+1867 Warburg (Westf)
+1868 Liebenau (Bz Kassel)
+1869 Hofgeismar-Hümme
+1870 Hofgeismar
+1871 Grebenstein
+1872 Immenhausen (Hess)
+1873 Espenau-Mönchehof
+1874 Vellmar-Obervellmar
+1875 Kassel-Harleshausen
+1876 Kassel Hbf
+1877 Kassel-Wilhelmshöhe
+1878 Dortmund Signal-Iduna-Park
+1879 Dortmund-Hörde
+1880 Dortmund-Aplerbeck
+1881 Dortmund-Sölde
+1882 Holzwickede
+1883 Unna
+1884 Lünern
+1885 Hemmerde
+1886 Werl
+1887 Westönnen
+1888 Dortmund-Aplerbeck Süd
+1889 Schwerte (Ruhr)
+1890 Ergste
+1891 Hennen
+1892 Kalthof (Kr Iserlohn)
+1893 Iserlohnerheide
+1894 Iserlohn
+1895 Dortmund-Tierpark
+1896 Dortmund-Kirchhörde
+1897 Dortmund-Löttringhausen
+1898 Wittbräucke
+1899 Herdecke
+1900 Hagen-Oberhagen
+1901 Dahl
+1902 Rummenohl
+1903 Dahlerbrück
+1904 Schalksmühle
+1905 Brügge (Westf)
+1906 Lüdenscheid
+1907 Fröndenberg
+1908 Wickede (Ruhr)
+1909 Neheim-Hüsten
+1910 Arnsberg (Westf)
+1911 Oeventrop
+1912 Freienohl
+1913 Meschede
+1914 Bestwig
+1915 Olsberg
+1916 Brilon Wald
+1917 Hoppecke
+1918 Messinghausen
+1919 Beringhausen
+1920 Bredelar
+1921 Marsberg
+1922 Westheim (Westf)
+1923 Scherfede
+1924 Frömern
+1925 Ardey
+1926 Bösperde
+1927 Menden (Sauerland)
+1928 Menden (Sauerland) Süd
+1929 Lendringsen
+1930 Binolen
+1931 Volkringhausen
+1932 Sanssouci
+1933 Balve
+1934 Garbeck
+1935 Küntrop
+1936 Neuenrade
+1937 Bigge
+1938 Siedlinghausen
+1939 Silbach
+1940 Hohenlimburg
+1941 Letmathe
+1942 Letmathe-Dechenhöhle
+1943 Finnentrop
+1944 Heggen
+1945 Attendorn
+1946 Kraghammer
+1947 Listerscheid
+1948 Sondern
+1949 Eichhagen
+1950 Olpe
+1951 Siegen
+1952 Siegen-Weidenau
+1953 Hüttental-Geisweid
+1954 Kreuztal
+1955 Ferndorf (Kr Siegen)
+1956 Kredenbach
+1957 Dahlbruch
+1958 Hillnhütten
+1959 Stift Keppel-Allenbach
+1960 Hilchenbach
+1961 Vormwald Dorf
+1962 Vormwald
+1963 Lützel
+1964 Erndtebrück
+1965 Birkelbach
+1966 Aue-Wingeshausen
+1967 Berghausen
+1968 Raumland-Markhausen
+1969 Bad Berleburg
+1970 Rudersdorf (Kr Siegen)
+1971 Dillbrecht
+1972 Rodenbach (Dillkr)
+1973 Haiger
+1974 Sechshelden
+1975 Dillenburg
+1976 Niederscheld (Dillkr) Süd
+1977 Burg (Dillkr) Nord
+1978 Herborn (Dillkr)
+1979 Sinn
+1980 Edingen (Kr Wetzlar)
+1981 Katzenfurt
+1982 Ehringshausen (Kr Wetzlar)
+1983 Werdorf
+1984 Aßlar
+1985 Wetzlar
+1986 Dutenhofen (Kr Wetzlar)
+1987 Gießen
+1988 Duisburg-Obermeiderich
+1989 Duisburg-Meiderich Ost
+1990 Duisburg-Meiderich Süd
+1991 Duisburg-Ruhrort
+1992 Duisburg-Wedau
+1993 Duisburg-Bissingheim
+1994 Duisburg-Entenfang
+1995 Solingen Hbf
+1996 Solingen Vogelpark
+1997 Hilden Süd
+1998 Hilden
+1999 Düsseldorf-Eller
+2000 Düsseldorf-Eller Mitte
+2001 Düsseldorf-Oberbilk
+2002 Düsseldorf Volksgarten
+2003 Düsseldorf Wehrhahn
+2004 Düsseldorf Zoo
+2005 Düsseldorf-Derendorf
+2006 Düsseldorf-Unterrath
+2007 Angermund
+2008 Duisburg-Rahm
+2009 Duisburg-Großenbaum
+2010 Duisburg-Buchholz
+2011 Duisburg Schlenk
+2012 Mülheim (Ruhr)-Styrum
+2013 Essen-Frohnhausen
+2014 Essen West
+2015 Essen-Steele
+2016 Essen-Steele Ost
+2017 Essen-Eiberg
+2018 Wattenscheid-Höntrop
+2019 Bochum-Ehrenfeld
+2020 Bochum-Langendreer West
+2021 Bochum-Langendreer
+2022 Dortmund-Kley
+2023 Dortmund-Oespel
+2024 Dortmund-Universität
+2025 Dortmund-Dorstfeld Süd
+2026 Dortmund-Dorstfeld
+2027 Düsseldorf-Friedrichstadt
+2028 Düsseldorf-Bilk
+2029 Düsseldorf Völklinger Straße
+2030 Düsseldorf-Hamm
+2031 Neuss Rheinpark-Center
+2032 Neuss Am Kaiser
+2033 Neuss Hbf
+2034 Neuss Süd
+2035 Norf
+2036 Neuss Allerheiligen
+2037 Nievenheim
+2038 Dormagen
+2039 Dormagen Bayerwerk
+2040 Köln-Worringen
+2041 Köln-Blumenberg
+2042 Köln-Chorweiler Nord
+2043 Köln-Chorweiler
+2044 Köln Volkhovener Weg
+2045 Köln-Longerich
+2046 Köln Geldernstr/Parkgürtel
+2047 Köln-Nippes
+2048 Köln Hansaring
+2049 Köln-Buchforst
+2050 Köln-Holweide
+2051 Köln-Dellbrück
+2052 Duckterath
+2053 Bergisch Gladbach
+2054 Düren
+2055 Merzenich
+2056 Buir
+2057 Sindorf
+2058 Horrem
+2059 Frechen-Königsdorf
+2060 Köln-Weiden West
+2061 Lövenich
+2062 Köln-Müngersdorf Technologiepark
+2063 Köln-Ehrenfeld
+2064 Köln Trimbornstrasse
+2065 Köln Airport-Businesspark
+2066 Köln Steinstraße
+2067 Porz (Rhein)
+2068 Porz-Wahn
+2069 Spich
+2070 Troisdorf
+2071 Siegburg/Bonn
+2072 Hennef (Sieg)
+2073 Blankenberg (Sieg)
+2074 Merten (Sieg)
+2075 Eitorf
+2076 Herchen
+2077 Dattenfeld (Sieg)
+2078 Schladern (Sieg)
+2079 Rosbach (Sieg)
+2080 Au (Sieg)
+2081 Köln Frankfurter Straße
+2082 Köln/Bonn Flughafen
+2083 Essen-Dellwig
+2084 Essen-Bergeborbeck
+2085 Essen-Katernberg Süd
+2086 Dortmund-Nette/Östrich
+2087 Dortmund-Westerfilde
+2088 Dortmund-Huckarde
+2089 Dortmund-Wischlingen
+2090 Düsseldorf-Flingern
+2091 Düsseldorf-Gerresheim
+2092 Mülheim (Ruhr) West
+2093 Essen-Horst
+2094 Bochum-Dahlhausen
+2095 Hattingen (Ruhr)
+2096 Hattingen (Ruhr) Mitte
+2097 Dortmund-Lütgendortmund
+2098 Dortmund-Somborn
+2099 Dortmund-Germania
+2100 Dortmund-Marten Süd
+2101 Dortmund-West
+2102 Dortmund-Möllerbrücke
+2103 Dortmund-Stadthaus
+2104 Dortmund-Körne West
+2105 Dortmund-Körne
+2106 Dortmund-Knappschaftskrankenhaus
+2107 Dortmund-Brackel
+2108 Dortmund-Asseln Mitte
+2109 Dortmund-Wickede West
+2110 Dortmund-Wickede
+2111 Massen
+2112 Unna-Königsborn
+2113 Unna-West
+2114 Köln-Stammheim
+2115 Bayerwerk
+2116 Leverkusen-Küppersteg
+2117 Leverkusen-Rheindorf
+2118 Langenfeld (Rheinl)
+2119 Langenfeld (Rheinl)-Berghausen
+2120 Düsseldorf-Hellerhof
+2121 Düsseldorf-Garath
+2122 Düsseldorf-Reisholz
+2123 Düsseldorf-Eller Süd
+2124 Düsseldorf-Rath Mitte
+2125 Düsseldorf-Rath
+2126 Ratingen Ost
+2127 Hösel
+2128 Kettwig Stausee
+2129 Kettwig
+2130 Essen-Werden
+2131 Essen-Hügel
+2132 Essen Stadtwald
+2133 Essen Süd
+2134 Hagen-Wehringhausen
+2135 Hagen-Heubing
+2136 Hagen-Westerbauer
+2137 Gevelsberg-Knapp
+2138 Gevelsberg Hbf
+2139 Gevelsberg-Kipp
+2140 Gevelsberg West
+2141 Schwelm
+2142 Schwelm West
+2143 Wuppertal-Langerfeld
+2144 Wuppertal-Oberbarmen
+2145 Wuppertal-Barmen
+2146 Wuppertal-Unterbarmen
+2147 Wuppertal Hbf
+2148 Wuppertal-Steinbeck
+2149 Wuppertal Zoologischer Garten
+2150 Wuppertal-Sonnborn
+2151 Wuppertal-Vohwinkel
+2152 Gruiten
+2153 Hochdahl-Millrath
+2154 Hochdahl
+2155 Erkrath
+2156 Büttgen
+2157 Kleinenbroich
+2158 Korschenbroich
+2159 Mönchengladbach-Lürrip
+2160 Marl-Hamm
+2161 Marl Mitte
+2162 Gelsenkirchen-Hassel
+2163 Gelsenkirchen-Buer Nord
+2164 Essen-Dellwig Ost
+2165 Essen-Gerschede
+2166 Essen-Borbeck Süd
+2167 Essen-Überruhr
+2168 Essen-Holthausen
+2169 Essen-Kupferdreh
+2170 Nierenhof
+2171 Velbert-Langenberg
+2172 Velbert-Neviges
+2173 Velbert-Rosenhügel
+2174 Wülfrath-Aprath
+2175 Leverkusen-Schlebusch
+2176 Opladen
+2177 Leichlingen
+2178 Haan
+2179 Ennepetal
+2180 Bönen
+2181 Bockum-Hövel
+2182 Mersch (Westf)
+2183 Drensteinfurt
+2184 Rinkerode
+2185 Münster-Hiltrup
+2186 Wuppertal-Ronsdorf
+2187 Remscheid-Lüttringhausen
+2188 Remscheid-Lennep
+2189 Remscheid Hbf
+2190 Remscheid-Güldenwerth
+2191 Solingen-Schaberg
+2192 Solingen-Mitte
+2193 Solingen-Grünewald
+2194 Rösrath-Stümpen
+2195 Rösrath
+2196 Hoffnungsthal
+2197 Honrath
+2198 Overath
+2199 Engelskirchen
+2200 Ründeroth
+2201 Dieringhausen
+2202 Gummersbach
+2203 Marienheide
+2204 Etzbach
+2205 Wissen (Sieg)
+2206 Niederhövels
+2207 Scheuerfeld (Sieg)
+2208 Betzdorf (Sieg)
+2209 Kirchen
+2210 Freusburg Siedlung
+2211 Brachbach
+2212 Mudersbach
+2213 Niederschelden
+2214 Niederschelden Nord Hp
+2215 Eiserfeld (Sieg)
+2216 Geilhausen
+2217 Hohegrete
+2218 Breitscheidt (Kr Altenkirchen)
+2219 Kloster Marienthal
+2220 Obererbach
+2221 Altenkirchen (Westerw)
+2222 Ingelbach
+2223 Hattert
+2224 Hachenburg
+2225 Unnau-Korb
+2226 Nistertal-Bad Marienberg
+2227 Büdingen
+2228 Enspel
+2229 Rotenhain
+2230 Langenhahn
+2231 Westerburg
+2232 Willmenrod
+2233 Berzhahn
+2234 Wilsenroth
+2235 Frickhofen
+2236 Niederzeuzheim
+2237 Hadamar
+2238 Niederhadamar
+2239 Elz (Kr Limburg/Lahn)
+2240 Staffel
+2241 Diez Ost
+2242 Limburg (Lahn)
+2243 Grünebacher Hütte
+2244 Grünebach Ort
+2245 Sassenroth
+2246 Königsstollen
+2247 Herdorf
+2248 Struthütten
+2249 Altenseelbach
+2250 Neunkirchen (Kr Siegen)
+2251 Wahlbach (Kr Siegen)
+2252 Burbach (Kr Siegen)
+2253 Würgendorf Ort
+2254 Würgendorf
+2255 Holzhausen (Kr Siegen)
+2256 Niederdresselndorf
+2257 Allendorf (Dillkr)
+2258 Haiger Obertor
+2259 Rheydt Hbf
+2260 Rheydt-Odenkirchen
+2261 Hochneukirch
+2262 Jüchen
+2263 Grevenbroich
+2264 Rommerskirchen
+2265 Stommeln
+2266 Pulheim
+2267 Friedrich Wilhelmshütte
+2268 Menden (Rheinl)
+2269 Bonn-Beuel
+2270 Bonn-Oberkassel
+2271 Niederdollendorf
+2272 Königswinter
+2273 Rhöndorf
+2274 Bad Honnef (Rhein)
+2275 Unkel
+2276 Erpel (Rhein)
+2277 Linz (Rhein)
+2278 Leubsdorf (Rhein)
+2279 Bad Hönningen
+2280 Rheinbrohl
+2281 Leutesdorf (Rhein)
+2282 Neuwied
+2283 Urmitz Rheinbrücke
+2284 Koblenz-Lützel
+2285 Koblenz Hbf
+2286 Niederlahnstein
+2287 Oberlahnstein
+2288 Braubach
+2289 Osterspai
+2290 Filsen
+2291 Kamp-Bornhofen
+2292 Kestert
+2293 St. Goarshausen
+2294 Kaub
+2295 Lorchhausen
+2296 Lorch (Rhein)
+2297 Assmannshausen
+2298 Rüdesheim (Rhein)
+2299 Geisenheim
+2300 Oestrich-Winkel
+2301 Hattenheim
+2302 Erbach (Rheingau)
+2303 Eltville
+2304 Niederwalluf
+2305 Wiesbaden-Schierstein
+2306 Wiesbaden-Biebrich
+2307 Wiesbaden Hbf
+2308 Köln West
+2309 Köln Süd
+2310 Hürth-Kalscheuren
+2311 Brühl
+2312 Sechtem
+2313 Roisdorf
+2314 Bonn Hbf
+2315 Bonn-Bad Godesberg
+2316 Bonn-Mehlem
+2317 Rolandseck
+2318 Oberwinter
+2319 Remagen
+2320 Sinzig (Rhein)
+2321 Bad Breisig
+2322 Brohl
+2323 Namedy
+2324 Andernach
+2325 Weißenthurm
+2326 Urmitz
+2327 Rhens
+2328 Spay
+2329 Boppard Hbf
+2330 Boppard-Bad Salzig
+2331 Boppard-Hirzenach
+2332 St. Goar
+2333 Oberwesel
+2334 Bacharach
+2335 Niederheimbach
+2336 Trechtingshausen
+2337 Bingen (Rhein) Hbf
+2338 Bingen (Rhein) Stadt
+2339 Bingen-Gaulsheim
+2340 Gau Algesheim
+2341 Ingelheim
+2342 Heidesheim (Rheinhess)
+2343 Uhlerborn
+2344 Budenheim
+2345 Mainz-Mombach
+2346 Mainz Hbf
+2347 Mainz Römisches Theater
+2348 Mainz-Bischofsheim
+2349 Rüsselsheim
+2350 Frankfurt (Main) Flughafen Regionalbahnhof
+2351 Frankfurt (Main) Niederrad
+2352 Frankfurt (Main) Hbf
+2353 Kierberg
+2354 Erftstadt
+2355 Weilerswist
+2356 Derkum
+2357 Großbüllesheim
+2358 Euskirchen
+2359 Satzvey
+2360 Mechernich
+2361 Scheven
+2362 Kall
+2363 Urft
+2364 Nettersheim
+2365 Blankenheim (Wald)
+2366 Schmidtheim
+2367 Dahlem (Eifel)
+2368 Jünkerath
+2369 Lissendorf
+2370 Oberbettingen-Hillesheim
+2371 Gerolstein
+2372 Birresborn
+2373 Mürlenbach
+2374 Densborn
+2375 Usch-Zendscheid
+2376 St. Thomas
+2377 Kyllburg
+2378 Bitburg-Erdorf
+2379 Hüttingen
+2380 Philippsheim
+2381 Speicher
+2382 Auw an der Kyll
+2383 Daufenbach
+2384 Kordel
+2385 Ehrang
+2386 Pfalzel
+2387 Trier Hbf
+2388 Bad Münstereifel
+2389 Iversheim
+2390 Arloff
+2391 Kreuzweingarten
+2392 Stotzheim
+2393 Zuckerfabrik
+2394 Kuchenheim
+2395 Odendorf
+2396 Rheinbach
+2397 Meckenheim (Bz Köln)
+2398 Meckenheim Industriepark
+2399 Kottenforst
+2400 Witterschlick
+2401 Bonn-Duisdorf
+2402 Ahrbrück
+2403 Kreuzberg (Ahr)
+2404 Altenahr
+2405 Mayschoß
+2406 Rech
+2407 Dernau
+2408 Walporzheim
+2409 Ahrweiler Markt
+2410 Ahrweiler
+2411 Bad Neuenahr
+2412 Heimersheim
+2413 Bad Bodendorf
+2414 Kaisersesch
+2415 Urmersbach
+2416 Monreal
+2417 Mayen West
+2418 Mayen Ost
+2419 Kottenheim
+2420 Mendig
+2421 Kruft
+2422 Plaidt
+2423 Miesenheim
+2424 Boppard Süd
+2425 Boppard-Buchholz
+2426 Boppard-Fleckertshöhe
+2427 Ehr
+2428 Emmelshausen
+2429 Aachen Hbf
+2430 Aachen-Rothe Erde
+2431 Eilendorf
+2432 Stolberg (Rheinl) Hbf
+2433 Eschweiler Hbf
+2434 Langerwehe
+2435 Quadrath-Ichendorf
+2436 Bergheim (Erft)
+2437 Zieverich
+2438 Paffendorf
+2439 Glesch
+2440 Bedburg (Erft)
+2441 Frimmersdorf
+2442 Gustorf
+2443 Kapellen-Wevelinghoven
+2444 Holzheim (b Neuss)
+2445 Herzogenrath
+2446 Kohlscheid
+2447 Aachen West
+2448 Aachen Schanz
+2449 Kaldenkirchen
+2450 Breyell
+2451 Boisheim
+2452 Dülken
+2453 Mönchengladbach-Rheindahlen
+2454 Mönchengladbach-Genhausen
+2455 Wegberg
+2456 Arsbeck
+2457 Dalheim
+2458 Kleve
+2459 Bedburg-Hau
+2460 Goch
+2461 Weeze
+2462 Kevelaer
+2463 Geldern
+2464 Nieukerk
+2465 Aldekerk
+2466 Kempen (Niederrhein)
+2467 Meerbusch-Osterath
+2468 Nünchritz
+2469 Glaubitz (b Riesa)
+2470 Riesa
+2471 Oschatz
+2472 Dahlen (Sachs)
+2473 Kühren
+2474 Wurzen
+2475 Engelsdorf
+2476 Leipzig Ost
+2477 Leipzig Sellerhausen
+2478 Leipzig Anger-Crottendorf
+2479 Leipzig-Stötteritz
+2480 Leipzig-Völkerschlachtdenkmal
+2481 Leipzig Marienbrunn
+2482 Leipzig-Connewitz
+2483 Markkleeberg
+2484 Markkleeberg-Großstädteln
+2485 Gaschwitz
+2486 Großdeuben
+2487 Böhlen (b Leipzig)
+2488 Böhlen Werke
+2489 Neukieritzsch
+2490 Lobstädt
+2491 Borna (b Leipzig)
+2492 Oschatz Lichtstrasse
+2493 Oschatz Körnerstr.
+2494 Oschatz Südbf
+2495 Altoschatz-Rosenthal
+2496 Thalheim-Kreischa
+2497 Naundorf (Oschatz)
+2498 Schweta Gasthof
+2499 Schweta Bahnhof
+2500 Grauschwitz Flocke
+2501 Mügeln Bahnhof
+2502 Mügeln Stadt
+2503 Altmügeln
+2504 Nebitzschen
+2505 Kemmlitz Ort
+2506 Kemmlitz Bahnhof
+2507 Glossen
+2508 Brandis
+2509 Beucha Ost
+2510 Beucha
+2511 Borsdorf (Sachs)
+2512 Leipzig-Paunsdorf
+2513 Leipzig-Gohlis
+2514 Leipzig-Olbrichtstraße
+2515 Leipzig-Slevogtstraße
+2516 Leipzig-Wahren Hp
+2517 Lützschena
+2518 Schkeuditz
+2519 Schkeuditz West
+2520 Großkugel
+2521 Gröbers
+2522 Dieskau
+2523 Halle MESSE
+2524 Miltitz-Roitzschen
+2525 Deutschenbora
+2526 Nossen
+2527 Gleisberg-Marbach
+2528 Roßwein
+2529 Niederstriegis
+2530 Döbeln Zentrum
+2531 Döbeln Hbf
+2532 Westewitz-Hochweitzschen
+2533 Klosterbuch
+2534 Leisnig
+2535 Tanndorf
+2536 Großbothen
+2537 Grimma ob Bf
+2538 Großsteinberg
+2539 Naunhof
+2540 Weisses Ross
+2541 Lössnitzgrund
+2542 Friedewald (Kr Dresden)Hp
+2543 Friedewald (Kr Dresden) Bad
+2544 Moritzburg
+2545 Cunnertswalde
+2546 Bärnsdorf
+2547 Berbisdorf
+2548 Berbisdorf Anbau
+2549 Radeburg
+2550 Dresden-Plauen
+2551 Freital-Potschappel
+2552 Freital-Deuben
+2553 Freital-Hainsberg
+2554 Freital-Hainsberg West
+2555 Tharandt
+2556 Edle Krone
+2557 Klingenberg-Colmnitz
+2558 Niederbobritzsch
+2559 Muldenhütten
+2560 Freiberg (Sachs)
+2561 Kleinschirma
+2562 Frankenstein (Sachs)
+2563 Oederan
+2564 Falkenau (Sachs) Süd
+2565 Flöha
+2566 Niederwiesa
+2567 Chemnitz-Hilbersdorf Hp
+2568 Chemnitz Hbf
+2569 Chemnitz Süd
+2570 Chemnitz Mitte
+2571 Chemnitz-Schönau
+2572 Chemnitz-Siegmar
+2573 Grüna (Sachs)
+2574 Wüstenbrand
+2575 Hohenstein-Ernstthal
+2576 St Egidien
+2577 Glauchau (Sachs)
+2578 Glauchau-Schönbörnchen
+2579 Mosel
+2580 Oberrothenbach
+2581 Zwickau-Pölbitz
+2582 Zwickau (Sachs) Hbf
+2583 Berthelsdorf (Erzgeb)
+2584 Berthelsdorf (Erzgebirge) Ort
+2585 Lichtenberg (Erzgeb)
+2586 Mulda (Sachs)
+2587 Nassau (Erzgeb)
+2588 Clausnitz
+2589 Bienenmühle
+2590 Rechenberg
+2591 Holzhau Skilift
+2592 Holzhau
+2593 Erdmannsdorf-Augustusburg
+2594 Hennersdorf (Sachs)
+2595 Witzschdorf
+2596 Waldkirchen (Erzgeb)
+2597 Zschopau
+2598 Wilischthal
+2599 Scharfenstein
+2600 Warmbad
+2601 Wolkenstein
+2602 Thermalbad Wiesenbad
+2603 Wiesa (Erzgebirge)
+2604 Annaberg-Buchholz unt Bf
+2605 Annaberg-Buchholz Mitte
+2606 Annaberg-Buchholz Süd
+2607 Sehma
+2608 Cranzahl
+2609 Bärenstein (Annab)
+2610 Vejprty
+2611 Unterneudorf
+2612 Neudorf (Erzgeb)
+2613 Vierenstrasse
+2614 Kretscham-Rothensehma
+2615 Niederschlag
+2616 Hammerunterwiesenthal
+2617 Unterwiesenthal
+2618 Kurort Oberwiesenthal
+2619 Falkenau (Sachs) Hp
+2620 Hetzdorf (Flöhatal)
+2621 Hohenfichte
+2622 Leubsdorf (Sachs)
+2623 Grünhainichen-Borstendorf
+2624 Flossmühle
+2625 Reifland-Wünschendorf
+2626 Lengefeld-Rauenstein
+2627 Pockau-Lengefeld
+2628 Nennigmühle
+2629 Blumenau
+2630 Olbernhau
+2631 Olbernhau-Grünthal
+2632 Olbernhau Busbahnhof
+2633 Oberneuschönberg
+2634 Heidersdorf Gasthaus Flöhatal
+2635 Heidersdorf Rathaus
+2636 Seiffen (Erzgeb)
+2637 Seiffen (Erzgeb) Schauwerkstatt
+2638 Seiffen (Erzgeb) Dittersbach Ga
+2639 Neuhausen (Erzgeb)
+2640 Strobelmühle
+2641 Zöblitz-Pobershau
+2642 Marienberg (Sachs)
+2643 Chemnitz Kinderwaldstätte
+2644 Oberlichtenau
+2645 Ottendorf (b Mittweida)
+2646 Altmittweida
+2647 Mittweida
+2648 Erlau (Sachs)
+2649 Schweikershain
+2650 Waldheim
+2651 Steina
+2652 Limmritz (Sachs)
+2653 Zschaitz
+2654 Ostrau
+2655 Stauchitz
+2656 Seerhausen
+2657 Zeithain
+2658 Wülknitz
+2659 Tiefenau
+2660 Gröditz (b Riesa)
+2661 Prösen West
+2662 Prösen
+2663 Chemnitz Schillerplatz
+2664 Chemnitz Theaterplatz
+2665 Chemnitz Roter Turm
+2666 Chemnitz Zentralhaltestelle
+2667 Chemnitz Moritzhof
+2668 Chemnitz Gustav-Freytag-Strass
+2669 Chemnitz Treffurthstrasse
+2670 Chemnitz Rösslerstrasse
+2671 Chemnitz Erdmannsdorfer Strass
+2672 Chemnitz Uhlestrasse
+2673 Chemnitz Scheffel-/Annaberger
+2674 Chemnitz Schule Altchemnitz
+2675 Chemnitz Alt Chemnitz Center
+2676 Chemnitz Schneeberger Strasse
+2677 Chemnitz-Altchemnitz
+2678 Chemnitz Riemenschneiderstrass
+2679 Chemnitz-Harthau
+2680 Chemnitz Friedrichstrasse
+2681 Klaffenbach Hp
+2682 Neukirchen-Klaffenbach
+2683 Adorf (Erzgeb)
+2684 Jahnsdorf (Erzgeb)
+2685 Pfaffenhain
+2686 Niederdorf (Erzgeb)
+2687 Stollberg Schlachthofstrasse
+2688 Stollberg (Sachs)
+2689 Lichtenstein Gewerbegebiet
+2690 Lichtenstein Ernst-Schneller-S
+2691 Lichtenstein (Sachs)
+2692 Lichtenstein Hartensteiner Str
+2693 Rödlitz-Hohndorf
+2694 Hohndorf Mitte
+2695 Oelsnitz (Erzgeb)
+2696 Oelsnitz Bahnhofstraße
+2697 Mitteloelsnitz
+2698 Neuoelsnitz
+2699 Niederwürschnitz
+2700 Chemnitz-Reichenhain
+2701 Chemnitz Erfenschlag
+2702 Einsiedel Hp Gymnasium
+2703 Einsiedel
+2704 Dittersdorf
+2705 Kemtau
+2706 Burkhardtsdorf
+2707 Burkhardtsdorf Mitte
+2708 Meinersdorf (Erzgeb)
+2709 Thalheim (Erzgeb)
+2710 Dorfchemnitz
+2711 Zwönitz
+2712 Lössnitz ob Bf
+2713 Lössnitz unt Bf
+2714 Aue (Sachs) Erzgebirgsstadion
+2715 Aue (Sachs)
+2716 Engelsdorf Werkstätten
+2717 Leipzig-Mölkau
+2718 Leipzig-Holzhausen
+2719 Leipzig-Liebertwolkwitz
+2720 Großpösna
+2721 Oberholz
+2722 Belgershain
+2723 Otterwisch
+2724 Lauterbach-Steinbach
+2725 Bad Lausick
+2726 Hopfgarten (Sachs)
+2727 Tautenhain
+2728 Geithain
+2729 Narsdorf
+2730 Burgstädt
+2731 Wittgensdorf ob Bf
+2732 Wittgensdorf Mitte
+2733 Chemnitz-Borna Hp
+2734 Petergrube
+2735 Neukirchen-Wyhra
+2736 Frohburg
+2737 Deutzen
+2738 Regis-Breitingen
+2739 Treben-Lehma
+2740 Altenburg
+2741 Paditz
+2742 Lehndorf (Kr Altenburg)
+2743 Gößnitz
+2744 Ponitz
+2745 Crimmitschau
+2746 Schweinsburg-Culten
+2747 Werdau Nord
+2748 Werdau
+2749 Neumark (Sachs)
+2750 Steinpleis
+2751 Lichtentanne (Sachs)
+2752 Zwickau-Schedewitz
+2753 Cainsdorf
+2754 Wilkau-Hasslau
+2755 Silberstrasse
+2756 Wiesenburg (Sachs)
+2757 Fährbrücke
+2758 Hartenstein
+2759 Schlema unt Bf
+2760 Lauter (Sachs)
+2761 Schwarzenberg-Neuwelt
+2762 Schwarzenberg (Erzg)
+2763 Schwarzenberg Hp
+2764 Erla
+2765 Antonsthal
+2766 Breitenbrunn (Erzg)
+2767 Erlabrunn (Erzgeb)
+2768 Johanngeorgenstadt
+2769 Zwickau Zentrum
+2770 Zwickau Stadthalle
+2771 Stenn
+2772 Ebersbrunn
+2773 Voigtsgrün
+2774 Irfersgrün
+2775 Lengenfeld (Vogtl)
+2776 Rodewisch
+2777 Auerbach (Vogtl) unt Bf
+2778 Ellefeld
+2779 Falkenstein (Vogtl)
+2780 Plauen (Vogtl) ob Bf
+2781 Jößnitz
+2782 Jocketa
+2783 Ruppertsgrün
+2784 Herlasgrün
+2785 Treuen
+2786 Eich (Sachs)
+2787 Auerbach (Vogtl) ob Bf
+2788 Auerbach (Vogtl) Hp
+2789 Grünbach (Vogtl)
+2790 Muldenberg
+2791 Muldenberg Floßplatz
+2792 Schöneck (Vogtl)
+2793 Schöneck (Vogtl) Ferienpark
+2794 Zwotental
+2795 Gunzen
+2796 Siebenbrunn
+2797 Adorf (Vogtl)
+2798 Zwota-Zechenbach
+2799 Zwota
+2800 Klingenthal
+2801 Kraslice-Pod vlekem
+2802 Kraslice
+2803 Meerane
+2804 Dennheritz
+2805 Gera Hbf
+2806 Gera Süd
+2807 Gera Ost
+2808 Gera-Liebschwitz
+2809 Wünschendorf (Elster) Nord
+2810 Wünschendorf (Elster)
+2811 Berga (Elster)
+2812 Neumühle (Elster)
+2813 Greiz
+2814 Greiz-Dölau
+2815 Elsterberg
+2816 Elsterberg Kunstseidenwerk
+2817 Rentzschmühle
+2818 Barthmühle
+2819 Plauen (Vogtl)-Chrieschwitz
+2820 Plauen (Vogtl) unt Bf
+2821 Plauen (Vogtl) Zellwolle
+2822 Kürbitz
+2823 Weischlitz
+2824 Schönberg (Vogtl)
+2825 Mühltroff
+2826 Langenbuch
+2827 Lössau
+2828 Wüstendittersdorf
+2829 Schleiz
+2830 Schleiz West
+2831 Reichenbach (Vogtl) ob Bf
+2832 Netzschkau
+2833 Limbach (Vogtl)
+2834 Syrau
+2835 Mehltheuer
+2836 Reuth (b Plauen/Vogtl)
+2837 Grobau
+2838 Gutenfürst
+2839 Feilitzsch
+2840 Hof Hbf
+2841 Plauen (Vogtl) West
+2842 Plauen (Vogtl)-Straßberg
+2843 Pirk
+2844 Oelsnitz (Vogtl)
+2845 Hundsgrün
+2846 Bad Elster
+2847 Sohl
+2848 Raun
+2849 Bad Brambach
+2850 Vojtanov státní hranice
+2851 Gera-Zwötzen
+2852 Wolfsgefärth
+2853 Weida
+2854 Weida Mitte
+2855 Weida Altstadt
+2856 Loitsch-Hohenleuben
+2857 Schüptitz
+2858 Hohenleuben
+2859 Triebes
+2860 Zeulenroda unt Bf
+2861 Pöllwitz
+2862 Pausa
+2863 Bernsgrün
+2864 Leipzig-Möckern
+2865 Leipzig-Plagwitz
+2866 Leipzig-Großzschocher
+2867 Leipzig-Knauthain
+2868 Knautnaundorf
+2869 Groß Dalzig
+2870 Pegau
+2871 Profen
+2872 Reuden (Kr Zeitz)
+2873 Bornitz (b Zeitz)
+2874 Zeitz
+2875 Haynsburg
+2876 Wetterzeube
+2877 Crossen Ort
+2878 Crossen a. d. Elster
+2879 Bad Köstritz
+2880 Gera-Langenberg
+2881 Weißenfels
+2882 Weißenfels West
+2883 Langendorf
+2884 Prittitz
+2885 Teuchern
+2886 Deuben (b Zeitz)
+2887 Luckenau
+2888 Theißen
+2889 Naumburg (Saale) Hbf
+2890 Naumburg (Saale) Ost
+2891 Wethau
+2892 Mertendorf
+2893 Stößen
+2894 Krauschwitz (b Teuchern)
+2895 Saalfeld (Saale)
+2896 Unterwellenborn
+2897 Könitz (Thür)
+2898 Krölpa-Ranis
+2899 Pößneck ob Bf
+2900 Oppurg
+2901 Neunhofen
+2902 Neustadt (Orla)
+2903 Traun
+2904 Triptis
+2905 Niederpöllnitz
+2906 Breternitz
+2907 Kaulsdorf (Saale)
+2908 Hockeroda
+2909 Leutenberg
+2910 Lichtentanne (Thür)
+2911 Zschachenmühle
+2912 Wurzbach (Thür)
+2913 Unterlemnitz
+2914 Lobenstein (Thür)
+2915 Harra Nord
+2916 Harra
+2917 Blankenstein (Saale)
+2918 Jena Saalbf
+2919 Jena Paradies
+2920 Göschwitz (Saale)
+2921 Rothenstein (Saale)
+2922 Kahla (Thür)
+2923 Orlamünde
+2924 Freienorla
+2925 Langenorla West
+2926 Langenorla Ost
+2927 Pößneck unt Bf
+2928 Bad Kösen
+2929 Camburg (Saale)
+2930 Dornburg (Saale)
+2931 Porstendorf
+2932 Jena-Zwätzen
+2933 Zeutsch
+2934 Uhlstädt
+2935 Rudolstadt (Thür)
+2936 Rudolstadt-Schwarza
+2937 Erfurt-Bischleben
+2938 Neudietendorf
+2939 Sülzenbrücken
+2940 Haarhausen
+2941 Arnstadt Hbf
+2942 Marlishausen
+2943 Niederwillingen
+2944 Stadtilm
+2945 Singen (Thür)
+2946 Paulinzella
+2947 Rottenbach
+2948 Quittelsdorf
+2949 Bad Blankenburg (Thüringerw)
+2950 Neuhaus-Igelshieb
+2951 Ernstthal am Rennsteig
+2952 Oberlauscha
+2953 Lauscha (Thür)
+2954 Steinach (Thür)
+2955 Steinach Süd
+2956 Blechhammer (Thür)
+2957 Hüttengrund
+2958 Sonneberg (Thür) Nord
+2959 Sonneberg (Thür) Ost
+2960 Sonneberg (Thür) Hbf
+2961 Vieselbach
+2962 Hopfgarten (Kr Weimar)
+2963 Weimar
+2964 Oberweimar
+2965 Mellingen (Thür)
+2966 Großschwabhausen
+2967 Jena West
+2968 Neue Schenke
+2969 Stadtroda
+2970 Papiermühle (Kr Stadtroda)
+2971 Hermsdorf-Klosterlausnitz
+2972 Kraftsdorf
+2973 Töppeln
+2974 Arnstadt Süd
+2975 Plaue (Thür)
+2976 Martinroda
+2977 Geraberg
+2978 Elgersburg
+2979 Ilmenau-Roda
+2980 Ilmenau-Pörlitzer Höhe
+2981 Ilmenau
+2982 Meiningen
+2983 Untermaßfeld
+2984 Grimmenthal
+2985 Vachdorf
+2986 Themar
+2987 Reurieth
+2988 Hildburghausen
+2989 Veilsdorf
+2990 Harras (Thür)
+2991 Eisfeld
+2992 Bachfeld
+2993 Schalkau
+2994 Schalkau-Mitte
+2995 Rauenstein (Thür)
+2996 Seltendorf
+2997 Effelder (Thür)
+2998 Mengersgereuth-Hämmern
+2999 Mengersgereuth-Hämmern Ost
+3000 Sonneberg (Thür) West
+3001 Gräfenroda
+3002 Dörrberg
+3003 Gehlberg
+3004 Oberhof (Thür)
+3005 Zella-Mehlis
+3006 Suhl
+3007 Suhl-Heinrichs
+3008 Dietzhausen
+3009 Rohr (Thür)
+3010 Rentwertshausen
+3011 Mellrichstadt Bahnhof
+3012 Bad Neustadt (Saale)
+3013 Burglauer
+3014 Münnerstadt
+3015 Rottershausen
+3016 Ebenhausen (Unterfr)
+3017 Poppenhausen
+3018 Schweinfurt Hbf
+3019 Gotha
+3020 Emleben
+3021 Petriroda
+3022 Georgenthal (Thür)
+3023 Ohrdruf
+3024 Luisenthal (Thür)
+3025 Crawinkel
+3026 Frankenhain
+3027 Gräfenroda Ort
+3028 Wernshausen
+3029 Niederschmalkalden
+3030 Mittelschmalkalden
+3031 Auehütte
+3032 Schmalkalden
+3033 Schmalkalden Fachhochschule
+3034 Altersbach
+3035 Steinbach-Hallenberg
+3036 Viernau
+3037 Benshausen
+3038 Zella-Mehlis West
+3039 Eisenach
+3040 Förtha (Kr Eisenach)
+3041 Marksuhl
+3042 Ettenhausen
+3043 Oberrohn
+3044 Bad Salzungen
+3045 Immelborn
+3046 Breitungen (Werra)
+3047 Schwallungen
+3048 Wasungen
+3049 Walldorf (Werra)
+3050 Weimar West
+3051 Weimar Berkaer Bf
+3052 Nohra (b Weimar)
+3053 Obergrunstedt
+3054 Holzdorf (b Weimar)
+3055 Legefeld
+3056 Hetschburg
+3057 Bad Berka Zeughausplatz
+3058 Bad Berka
+3059 München (b Bad Berka)
+3060 Tannroda
+3061 Kranichfeld
+3062 Oßmannstedt
+3063 Apolda
+3064 Niedertrebra
+3065 Bad Sulza
+3066 Großheringen
+3067 Leißling
+3068 Großkorbetha
+3069 Leuna Werke Süd
+3070 Leuna Werke Nord
+3071 Merseburg
+3072 Schkopau
+3073 Halle-Ammendorf
+3074 Leipzig Coppiplatz
+3075 Leipzig-Leutzsch
+3076 Leipzig-Rückmarsdorf
+3077 Leipzig Miltitz
+3078 Markranstädt
+3079 Großlehna
+3080 Kötzschau
+3081 Bad Dürrenberg
+3082 Nebra
+3083 Vitzenburg
+3084 Karsdorf
+3085 Kirchscheidungen
+3086 Laucha (Unstrut)
+3087 Balgstädt
+3088 Freyburg (Unstrut)
+3089 Kleinjena
+3090 Querfurt
+3091 Nemsdorf-Göhrendorf
+3092 Langeneichstädt
+3093 Mücheln (Geiseltal)
+3094 Mücheln (Geiseltal) -Stadt
+3095 Krumpa
+3096 Braunsbedra
+3097 Braunsbedra Ost
+3098 Frankleben
+3099 Beuna (Geiseltal)
+3100 Merseburg Bergmannsring
+3101 Schafstädt
+3102 Groß Gräfendorf
+3103 Bad Lauchstädt West
+3104 Bad Lauchstädt
+3105 Milzau
+3106 Buna Werke
+3107 Merseburg Elisabethhöhe
+3108 Heringen (Helme)
+3109 Görsbach
+3110 Berga-Kelbra
+3111 Roßla
+3112 Bennungen
+3113 Wallhausen (Helme)
+3114 Riestedt
+3115 Blankenheim (Kr Sangerhausen)
+3116 Wolferode
+3117 Lutherstadt Eisleben
+3118 Erdeborn
+3119 Röblingen am See
+3120 Amsdorf
+3121 Wansleben am See
+3122 Teutschenthal
+3123 Teutschenthal Ost
+3124 Zscherben
+3125 Angersdorf
+3126 Halle-Nietleben
+3127 Halle-Neustadt
+3128 Zscherbener Straße
+3129 Südstadt
+3130 Silberhöhe
+3131 Rosengarten
+3132 Steintorbrücke
+3133 Dessauer Brücke
+3134 Zoo
+3135 Wohnstadt Nord
+3136 Uftrungen
+3137 Rottleberode
+3138 Stolberg (Harz)
+3139 Kiebitzhöhe
+3140 Kölleda
+3141 Großneuhausen
+3142 Guthmannshausen
+3143 Buttstädt
+3144 Tromsdorf
+3145 Eckartsberga (Thür)
+3146 Auerstedt
+3147 Bad Sulza Nord
+3148 Werther
+3149 Wolkramshausen
+3150 Nohra (Wipper)
+3151 Wipperdorf
+3152 Bleicherode Ost
+3153 Gebra (Hainleite)
+3154 Sollstedt
+3155 Bernterode
+3156 Niederorschel
+3157 Hausen
+3158 Leinefelde
+3159 Beuren
+3160 Wingerode
+3161 Bodenrode
+3162 Uder
+3163 Arenshausen
+3164 Eichenberg
+3165 Kleinfurra
+3166 Großfurra
+3167 Glückauf
+3168 Sondershausen
+3169 Hohenebra Ort
+3170 Niederspier
+3171 Wasserthaleben
+3172 Greußen
+3173 Gangloffsömmern
+3174 Straußfurt
+3175 Ringleben-Gebesee
+3176 Walschleben
+3177 Kühnhausen
+3178 Erfurt-Gispersleben
+3179 Erfurt Nord
+3180 Elxleben
+3181 Dachwig
+3182 Döllstädt
+3183 Gräfentonna
+3184 Bad Langensalza
+3185 Hann Münden
+3186 Hedemünden
+3187 Witzenhausen Nord
+3188 Birkungen
+3189 Silberhausen
+3190 Dachrieden
+3191 Ammern
+3192 Mühlhausen (Thür)
+3193 Seebach (Kr Mühlhausen)
+3194 Großengottern
+3195 Schönstedt
+3196 Eckardtsleben
+3197 Ballstädt (Kr Gotha)
+3198 Bufleben
+3199 Gotha Ost
+3200 Bebra
+3201 Ronshausen
+3202 Wildeck-Hönebach
+3203 Wildeck-Bosserode
+3204 Wildeck-Obersuhl
+3205 Gerstungen
+3206 Herleshausen
+3207 Hörschel
+3208 Eisenach Opelwerk
+3209 Eisenach West
+3210 Wutha
+3211 Schönau (Hörsel)
+3212 Sättelstädt
+3213 Mechterstädt
+3214 Fröttstädt
+3215 Seebergen
+3216 Wandersleben
+3217 Hörselgau
+3218 Waltershausen
+3219 Waltershausen-Schnepfenthal
+3220 Reinhardsbrunn-Friedrichroda
+3221 Friedrichroda
+3222 Kassel-Oberzwehren
+3223 Baunatal-Rengershausen
+3224 Baunatal-Guntershausen
+3225 Guxhagen
+3226 Körle
+3227 Melsungen-Röhrenfurth
+3228 Melsungen
+3229 Malsfeld
+3230 Ludwigsau-Friedlos
+3231 Bad Hersfeld
+3232 Haunetal-Neukirchen
+3233 Burghaun (Kr Hünfeld)
+3234 Hünfeld
+3235 Fulda
+3236 Vellmar-Niedervellmar
+3237 Fuldatal-Ihringshausen
+3238 Staufenberg-Speele
+3239 Gertenbach
+3240 Friedland (Han)
+3241 Bad Sooden-Allendorf
+3242 Eschwege West
+3243 Wehretal-Reichensachsen
+3244 Sontra
+3245 Neuhof (Kr Fulda)
+3246 Flieden
+3247 Schlüchtern
+3248 Steinau (Straße)
+3249 Bad Soden-Salmünster
+3250 Wächtersbach
+3251 Wirtheim
+3252 Haitz-Höchst
+3253 Gelnhausen
+3254 Hailer-Meerholz
+3255 Niedermittlau
+3256 Langenselbold
+3257 Rodenbach bei Hanau
+3258 Wolfgang (Kr Hanau)
+3259 Hanau Hbf
+3260 Offenbach (Main) Hbf
+3261 Frankfurt (Main) Süd
+3262 Eichenzell
+3263 Welkers
+3264 Rönshausen
+3265 Lütter
+3266 Ried
+3267 Schmalnau
+3268 Hettenhausen
+3269 Altenfeld (Rhön)
+3270 Gersfeld (Rhön)
+3271 Edermünde-Grifte
+3272 Felsberg-Wolfershausen
+3273 Felsberg-Altenbrunslar
+3274 Felsberg-Gensungen
+3275 Wabern (Bz Kassel)
+3276 Singlis
+3277 Borken (Hess)
+3278 Zimmersrode
+3279 Schlierbach (Kr Schwalm-Eder)
+3280 Treysa
+3281 Schwalmstadt-Wiera
+3282 Neustadt (Kr Marburg)
+3283 Stadtallendorf
+3284 Kirchhain (Bz Kassel)
+3285 Anzefahr
+3286 Bürgeln
+3287 Cölbe
+3288 Marburg (Lahn)
+3289 Marburg Süd
+3290 Niederweimar
+3291 Niederwalgern
+3292 Fronhausen (Lahn)
+3293 Friedelhausen
+3294 Lollar
+3295 Gießen Oswaldsgarten
+3296 Friedrichssegen
+3297 Nievern
+3298 Bad Ems West
+3299 Bad Ems
+3300 Dausenau
+3301 Nassau (Lahn)
+3302 Obernhof (Lahn)
+3303 Laurenburg (Lahn)
+3304 Balduinstein
+3305 Fachingen (Lahn)
+3306 Diez
+3307 Eschhofen
+3308 Kerkerbach
+3309 Runkel
+3310 Villmar
+3311 Arfurt (Lahn)
+3312 Aumenau
+3313 Fürfurt
+3314 Gräveneck
+3315 Weilburg
+3316 Löhnberg
+3317 Stockhausen (Lahn)
+3318 Leun/Braunfels
+3319 Solms
+3320 Albshausen
+3321 Lindenholzhausen
+3322 Niederbrechen
+3323 Oberbrechen
+3324 Niederselters
+3325 Bad Camberg
+3326 Wörsdorf
+3327 Idstein (Taunus)
+3328 Niedernhausen (Taunus)
+3329 Hofheim (Taunus)
+3330 Frankfurt-Höchst Farbwerke
+3331 Frankfurt-Höchst
+3332 Elz (Kr Limburg/Lahn) Süd
+3333 Niedererbach
+3334 Dreikirchen
+3335 Steinefrenz
+3336 Girod
+3337 Goldhausen
+3338 Montabaur
+3339 Dernbach (Westerw)
+3340 Wirges
+3341 Siershahn
+3342 Großen Linden
+3343 Lang Göns
+3344 Kirch Göns
+3345 Butzbach
+3346 Ostheim (b Butzbach)
+3347 Bad Nauheim
+3348 Friedberg (Hess)
+3349 Bad Vilbel
+3350 Frankfurt (Main) West
+3351 Gießen Erdkauter Weg
+3352 Watzenborn-Steinberg
+3353 Garbenteich
+3354 Lich (Oberhess)
+3355 Langsdorf (Oberhess)
+3356 Hungen
+3357 Trais-Horloff
+3358 Ober Widdersheim
+3359 Borsdorf (Hess)
+3360 Nidda
+3361 Ranstadt
+3362 Effolderbach
+3363 Glauburg-Stockheim
+3364 Bleichenbach (Oberhess)
+3365 Büches-Düdelsheim
+3366 Büdingen (Oberhess)
+3367 Mittel Gründau
+3368 Lieblos
+3369 Dorheim (Wetterau)
+3370 Beienheim
+3371 Weckesheim
+3372 Reichelsheim (Wetterau)
+3373 Gettenau-Bingenheim
+3374 Echzell
+3375 Häuserhof
+3376 Bad Salzhausen
+3377 Assenheim (Oberhess)
+3378 Nidderau
+3379 Ostheim (Kr Hanau)
+3380 Bruchköbel
+3381 Hanau Nord
+3382 Glauburg-Glauberg
+3383 Altenstadt-Lindheim
+3384 Altenstadt (Hess)
+3385 Altenstadt-Höchst
+3386 Nidderau-Eichen
+3387 Nidderau-Windecken
+3388 Schöneck-Büdesheim
+3389 Schöneck-Kilianstädten
+3390 Schöneck-Oberdorfelden
+3391 Niederdorfelden
+3392 Bad Vilbel-Gronau
+3393 Gießen Licher Straße
+3394 Großen Buseck
+3395 Reiskirchen (Kr Gießen)
+3396 Saasen
+3397 Göbelnrod
+3398 Grünberg (Oberhess)
+3399 Lehnheim
+3400 Mücke (Hessen)
+3401 Nieder Ohmen
+3402 Burg-und Nieder Gemünden
+3403 Ehringshausen (Oberhess)
+3404 Zell-Romrod
+3405 Alsfeld (Oberhess)
+3406 Renzendorf
+3407 Wallenrod
+3408 Lauterbach (Hess) Nord
+3409 Angersbach
+3410 Bad Salzschlirf
+3411 Großenlüder
+3412 Oberbimbach
+3413 Friedberg Süd
+3414 Rosbach v d Höhe
+3415 Rodheim v d Höhe
+3416 Burgholzhausen v d Höhe
+3417 Friedrichsdorf (Taunus)
+3418 Seulberg
+3419 Bad Homburg
+3420 Oberursel (Taunus)
+3421 Frankfurt-Rödelheim
+3422 Frankfurt (Main) Ost
+3423 Frankfurt-Mainkur
+3424 Maintal West
+3425 Maintal Ost
+3426 Hanau-Wilhelmsbad
+3427 Hanau West
+3428 Großauheim (Kr Hanau)
+3429 Großkrotzenburg
+3430 Kahl (Main)
+3431 Dettingen (Main)
+3432 Rückersbacher Schlucht
+3433 Klein Ostheim
+3434 Aschaffenburg Hbf
+3435 Darmstadt Hbf
+3436 Darmstadt Nord
+3437 Darmstadt Ost
+3438 Darmstadt-Lichtwiese
+3439 Mühltal
+3440 Ober Ramstadt
+3441 Reinheim (Odenw)
+3442 Otzberg-Lengfeld
+3443 Groß Umstadt-Wiebelsbach
+3444 Höchst-Hetschbach
+3445 Höchst (Odenw)
+3446 Höchst Mümling-Grumbach
+3447 Bad König
+3448 Bad König-Zell
+3449 Michelstadt
+3450 Erbach (Odenw) Nord
+3451 Erbach (Odenw)
+3452 Beerfelden-Hetzbach
+3453 Hesseneck-Schöllenbach
+3454 Hesseneck-Kailbach
+3455 Eberbach
+3456 Schöllkrippen
+3457 Blankenbach
+3458 Königshofen (Kahl)
+3459 Schimborn
+3460 Mömbris-Mensengesäß
+3461 Mömbris-Strötzbach
+3462 Niedersteinbach
+3463 Michelbach (Unterfr) Herrnmühle
+3464 Michelbach (Unterfr)
+3465 Kälberau
+3466 Alzenau Burg
+3467 Alzenau (Unterfr)
+3468 Alzenau Nord
+3469 Kahl Kopp/Heide
+3470 Frankfurt-Sossenheim
+3471 Sulzbach (Taunus)
+3472 Bad Soden (Taunus)
+3473 Wiesbaden Ost
+3474 Mainz-Kastel
+3475 Hochheim (Main)
+3476 Flörsheim (Main)
+3477 Eddersheim
+3478 Hattersheim (Main)
+3479 Frankfurt-Sindlingen
+3480 Frankfurt-Nied
+3481 Frankfurt-Griesheim
+3482 Frankfurt (Main) Taunusanlage
+3483 Frankfurt (Main) Hauptwache
+3484 Frankfurt (Main) Konstablerwache
+3485 Frankfurt (Main) Ostendstraße
+3486 Frankfurt (Main) Mühlberg
+3487 Offenbach-Kaiserlei
+3488 Offenbach Ledermuseum
+3489 Offenbach Marktplatz
+3490 Offenbach (Main) Ost
+3491 Offenbach-Bieber
+3492 Offenbach-Waldhof
+3493 Obertshausen (Kr Offenbach)
+3494 Rodgau-Weiskirchen
+3495 Rodgau-Hainhausen
+3496 Rodgau-Jügesheim
+3497 Rodgau-Dudenhofen
+3498 Rodgau-Nieder Roden
+3499 Rodgau-Rollwald
+3500 Rödermark-Ober Roden
+3501 Niederjosbach
+3502 Eppstein-Bremthal
+3503 Eppstein
+3504 Lorsbach
+3505 Kriftel
+3506 Frankfurt-Zeilsheim
+3507 Heusenstamm
+3508 Dietzenbach-Steinberg
+3509 Dietzenbach-Mitte
+3510 Dietzenbach Bahnhof
+3511 Darmstadt-Arheilgen
+3512 Darmstadt-Wixhausen
+3513 Erzhausen
+3514 Egelsbach
+3515 Langen (Hess)
+3516 Langen-Flugsicherung
+3517 Dreieich-Buchschlag
+3518 Neu Isenburg
+3519 Frankfurt-Louisa
+3520 Frankfurt (Main) Stresemannallee
+3521 Frankfurt (Main) Lokalbahnhof
+3522 Frankfurt (Main) Galluswarte
+3523 Frankfurt am Main Messe
+3524 Eschborn Süd
+3525 Eschborn
+3526 Niederhöchstadt
+3527 Sulzbach (Taunus) Nord
+3528 Schwalbach a Ts (Limes)
+3529 Steinheim/Main
+3530 Mühlheim-Dietesheim
+3531 Mühlheim (Main)
+3532 Frankfurt am Main Stadion
+3533 Kelsterbach
+3534 Raunheim
+3535 Rüsselsheim Opelwerk
+3536 Mainz-Gustavsburg
+3537 Mainz Nord
+3538 Oberursel-Stierstadt
+3539 Oberursel-Weißkirchen/Steinbach
+3540 Bruchenbrücken
+3541 Nieder Wöllstadt
+3542 Okarben
+3543 Groß Karben
+3544 Dortelweil
+3545 Bad Vilbel Süd
+3546 Frankfurt-Berkersheim
+3547 Frankfurt-Frankfurter Berg
+3548 Frankfurt-Eschersheim
+3549 Zeppelinheim
+3550 Walldorf (Hess)
+3551 Mörfelden
+3552 Groß Gerau-Dornberg
+3553 Groß Gerau-Dornheim
+3554 Riedstadt-Wolfskehlen
+3555 Riedstadt-Goddelau
+3556 Dreieich-Sprendlingen
+3557 Dreieich-Weibelfeld
+3558 Dreieich-Dreieichenhain
+3559 Dreieich-Götzenhain
+3560 Dreieich-Offenthal
+3561 Rödermark-Urberach
+3562 Eppertshausen
+3563 Münster (b Dieburg)
+3564 Dieburg
+3565 Darmstadt Süd
+3566 Darmstadt-Eberstadt
+3567 Bickenbach (Bergstr)
+3568 Hähnlein-Alsbach
+3569 Zwingenberg (Bergstr)
+3570 Bensheim-Auerbach
+3571 Bensheim
+3572 Heppenheim (Bergstr)
+3573 Laudenbach (Bergstr)
+3574 Hemsbach
+3575 Weinheim (Bergstr)
+3576 Lützelsachsen
+3577 Großsachsen-Heddesheim
+3578 Ladenburg
+3579 Mannheim-Friedrichsfeld
+3580 Heidelberg-Pfaffengrund/Wieblingen
+3581 Heidelberg Hbf
+3582 Mainaschaff
+3583 Stockstadt (Main)
+3584 Worms Hbf
+3585 Worms Brücke
+3586 Hofheim (Ried)
+3587 Bürstadt
+3588 Riedrode
+3589 Lorsch
+3590 Birkenau
+3591 Reisen (Hess)
+3592 Mörlenbach
+3593 Zotzenbach
+3594 Rimbach
+3595 Lörzenbach-Fahrenbach
+3596 Fürth (Odenw)
+3597 Stockstadt (Rhein)
+3598 Biebesheim
+3599 Gernsheim
+3600 Groß Rohrheim
+3601 Biblis
+3602 Bobstadt
+3603 Lampertheim
+3604 Mannheim-Waldhof
+3605 Mannheim-Luzenberg
+3606 Mannheim-Neckarstadt
+3607 Mannheim-Handelshafen
+3608 Mannheim Hbf
+3609 Frankenthal Hbf
+3610 Ludwigshafen (Rhein) Hbf
+3611 Schifferstadt
+3612 Speyer Hbf
+3613 Germersheim
+3614 Philippsburg (Baden)
+3615 Graben-Neudorf
+3616 Karlsruhe Hbf
+3617 Mainz-Laubenheim
+3618 Bodenheim
+3619 Nackenheim
+3620 Nierstein
+3621 Oppenheim
+3622 Guntersblum
+3623 Alsheim
+3624 Mettenheim
+3625 Osthofen
+3626 Bobenheim
+3627 Ludwigshafen-Oggersheim
+3628 Ludwigshafen (Rhein) Mitte
+3629 Waggonfabrik
+3630 Mainz-Gonsenheim
+3631 Mainz-Marienborn
+3632 Klein Winternheim-Ober Olm
+3633 Nieder Olm
+3634 Saulheim
+3635 Wörrstadt
+3636 Armsheim
+3637 Albig
+3638 Alzey
+3639 Gensingen-Horrweiler
+3640 Welgesheim-Zotzenheim
+3641 Sprendlingen (Rheinhess)
+3642 Gau Bickelheim
+3643 Wallertheim
+3644 Alzey Süd
+3645 Eppelsheim (Rheinhess)
+3646 Gundersheim (Rheinhess)
+3647 Nieder Flörsheim-Dalsheim
+3648 Monsheim
+3649 Pfeddersheim
+3650 Hochspeyer
+3651 Homburg (Saar) Hbf
+3652 Bruchmühlbach-Miesau
+3653 Hauptstuhl
+3654 Landstuhl
+3655 Kindsbach
+3656 Einsiedlerhof
+3657 Vogelweh
+3658 Kennelgarten
+3659 Kaiserslautern Hbf
+3660 Frankenstein (Pfalz)
+3661 Weidenthal
+3662 Neidenfels
+3663 Lambrecht (Pfalz)
+3664 Neustadt (Weinstr) Hbf
+3665 Neustadt (Weinstr) Böbig
+3666 Haßloch (Pfalz)
+3667 Böhl-Iggelheim
+3668 Limburgerhof
+3669 Mannheim Rbf
+3670 Mannheim-Seckenheim
+3671 Mannheim-Friedrichsfeld Süd
+3672 Heidelberg Karlstor
+3673 Heidelberg-Schlierbach-Ziegelhausen
+3674 Heidelberg-Orthopädie
+3675 Neckargemünd
+3676 Neckargemünd Altstadt
+3677 Neckarsteinach
+3678 Neckarhausen bei Neckarsteinach
+3679 Hirschhorn (Neckar)
+3680 Lindach
+3681 Zwingenberg (Baden)
+3682 Neckargerach
+3683 Binau
+3684 Neckarelz
+3685 Mosbach West
+3686 Mosbach (Baden)
+3687 Neckarburken
+3688 Dallau
+3689 Auerbach (b Mosbach)
+3690 Oberschefflenz
+3691 Eicholzheim
+3692 Seckach
+3693 Zimmern bei Seckach
+3694 Adelsheim Nord
+3695 Osterburken
+3696 Lingenfeld
+3697 Heiligenstein (Pfalz)
+3698 Berghausen (Pfalz)
+3699 Speyer Nord-West
+3700 Schifferstadt Süd
+3701 Ludwigshafen-Rheingönheim
+3702 Ludwigshafen-Mundenheim
+3703 Heidelberg-Kirchheim/Rohrbach
+3704 St. Ilgen/Sandhausen
+3705 Wiesloch-Walldorf
+3706 Rot-Malsch
+3707 Bad Schönborn Kronau
+3708 Bad Schönborn Süd
+3709 Ubstadt-Weiher
+3710 Bruchsal
+3711 Karlsruhe-Durlach
+3712 Bammental
+3713 Reilsheim
+3714 Mauer (b Heidelberg)
+3715 Meckesheim
+3716 Zuzenhausen
+3717 Hoffenheim
+3718 Sinsheim (Elsenz)
+3719 Sinsheim Museum
+3720 Steinsfurt
+3721 Reihen
+3722 Ittlingen
+3723 Richen (b Eppingen)
+3724 Eiswoog
+3725 Ramsen
+3726 Eisenberg (Pfalz)
+3727 Ebertsheim
+3728 Mertesheim
+3729 Asselheim
+3730 Grünstadt Nord
+3731 Grünstadt
+3732 Kirchheim (Weinstr)
+3733 Herxheim am Berg
+3734 Freinsheim
+3735 Weisenheim (Sand)
+3736 Lambsheim
+3737 Flomersheim
+3738 Hohensülzen
+3739 Bockenheim-Kindenheim
+3740 Albsheim (Eis)
+3741 Erpolzheim
+3742 Bad Dürkheim-Trift
+3743 Bad Dürkheim
+3744 Wachenheim (Pfalz)
+3745 Deidesheim
+3746 Mußbach
+3747 Saarbrücken Hbf
+3748 Saarbrücken Ost
+3749 Schafbrücke
+3750 Scheidt (Saar)
+3751 Rentrisch
+3752 St. Ingbert
+3753 Rohrbach (Saar)
+3754 Kirkel
+3755 Limbach (b Homburg,Saar)
+3756 Kusel
+3757 Rammelsbach
+3758 Altenglan
+3759 Theisbergstegen
+3760 Eisenbach-Matzenbach
+3761 Rehweiler
+3762 Glan-Münchweiler
+3763 Niedermohr
+3764 Obermohr
+3765 Steinwenden
+3766 Miesenbach
+3767 Ramstein
+3768 Pirmasens Hbf
+3769 Pirmasens Nord
+3770 Waldfischbach
+3771 Steinalben
+3772 Schopp
+3773 Galgenschanze
+3774 Enkenbach
+3775 Münchweiler (Alsens)
+3776 Winnweiler
+3777 Imsweiler
+3778 Rockenhausen
+3779 Alsenz
+3780 Hochstätten (Pfalz)
+3781 Altenbamberg
+3782 Bad Münster am Stein
+3783 Bad Kreuznach
+3784 Bretzenheim (Nahe)
+3785 Langenlonsheim
+3786 Laubenheim (Nahe)
+3787 Münster-Sarmsheim
+3788 Kaiserslautern Pfaffwerk
+3789 Kaiserslautern West
+3790 Lampertsmühle-Otterbach
+3791 Katzweiler
+3792 Hirschhorn (Pfalz)
+3793 Untersulzbach
+3794 Olsbrücken
+3795 Kreimbach-Kaulbach
+3796 Roßbach (Pfalz)
+3797 Wolfstein
+3798 Reckweilerhof
+3799 Heinzenhausen
+3800 Lohnweiler
+3801 Lauterecken-Grumbach
+3802 Hassel (Saar)
+3803 Würzbach (Saar)
+3804 Blieskastel-Lautzkirchen
+3805 Bierbach
+3806 Zweibrücken Hbf
+3807 Contwig
+3808 Dellfeld
+3809 Dellfeld Ort
+3810 Rieschweiler
+3811 Höhmühlbach
+3812 Thaleischweiler-Fröschen
+3813 Rodalben
+3814 Münchweiler (Rodalb)
+3815 Hinterweidenthal
+3816 Hinterweidenthal Ost
+3817 Hauenstein (Pfalz)
+3818 Wilgartswiesen
+3819 Rinnthal
+3820 Annweiler am Trifels
+3821 Albersweiler (Pfalz)
+3822 Siebeldingen-Birkweiler
+3823 Godramstein
+3824 Landau (Pfalz) West
+3825 Landau (Pfalz) Hbf
+3826 Maikammer-Kirrweiler
+3827 Edenkoben
+3828 Edesheim (Pfalz)
+3829 Knöringen-Essingen
+3830 Insheim
+3831 Rohrbach (Pfalz)
+3832 Steinweiler
+3833 Winden (Pfalz)
+3834 Kandel
+3835 Wörth (Rhein)
+3836 Karlsruhe-Knielingen
+3837 Karlsruhe-Mühlburg
+3838 Karlsruhe West
+3839 Maximiliansau im Rüsten
+3840 Hagenbach
+3841 Neuburg (Rhein)
+3842 Berg (Pfalz)
+3843 Barbelroth
+3844 Kapellen-Drusweiler
+3845 Bad Bergzabern
+3846 Schaidt (Pf)
+3847 Steinfeld (Pfalz)
+3848 Kapsweyer
+3849 Schweighofen
+3850 Jägersfreude
+3851 Dudweiler
+3852 Sulzbach (Saar)
+3853 Sulzbach (Saar) Altenwald
+3854 Friedrichsthal (Saar)
+3855 Friedrichsthal Mitte
+3856 Bildstock
+3857 Landsweiler-Reden
+3858 Neunkirchen (Saar) Hbf
+3859 Wiebelskirchen
+3860 Ottweiler (Saar)
+3861 Niederlinxweiler
+3862 Oberlinxweiler
+3863 St. Wendel
+3864 Baltersweiler
+3865 Hofeld
+3866 Namborn
+3867 Walhausen (Saar)
+3868 Türkismühle
+3869 Nohfelden
+3870 Neubrücke (Nahe)
+3871 Hoppstädten (Nahe)
+3872 Heimbach (Nahe)
+3873 Nohen
+3874 Kronweiler
+3875 Idar-Oberstein
+3876 Fischbach-Weierbach
+3877 Kirnsulzbach
+3878 Kirn
+3879 Hochstetten (Nahe)
+3880 Martinstein
+3881 Monzingen
+3882 Bad Sobernheim
+3883 Staudernheim
+3884 Norheim
+3885 Ockenheim
+3886 Fischbach-Camphausen
+3887 Quierschied
+3888 Merchweiler
+3889 Gennweiler
+3890 Illingen (Saar)
+3891 Wustweiler
+3892 Dirmingen
+3893 Eppelborn
+3894 Bubach
+3895 Lebach
+3896 Lebach-Jabach
+3897 Wemmetsweiler Rathaus
+3898 Schiffweiler
+3899 Neunkirchen (Saar)-Wellesweiler
+3900 Bexbach
+3901 Saarbrücken-Burbach
+3902 Luisenthal (Saar)
+3903 Bous (Saar)
+3904 Ensdorf (Saar)
+3905 Saarlouis Hbf
+3906 Dillingen (Saar)
+3907 Beckingen (Saar)
+3908 Fremersdorf
+3909 Merzig (Saar)
+3910 Merzig Stadtmitte
+3911 Besseringen
+3912 Mettlach
+3913 Saarhölzbach
+3914 Taben
+3915 Serrig
+3916 Saarburg (Bz Trier)
+3917 Schoden-Ockfen
+3918 Wiltingen (Saar)
+3919 Kanzem
+3920 Konz
+3921 Karthaus
+3922 Trier Süd
+3923 Niedaltdorf
+3924 Hemmersdorf (Saar)
+3925 Siersburg
+3926 Ehrang Ort
+3927 Quint
+3928 Schweich DB
+3929 Föhren
+3930 Hetzerath
+3931 Sehlem (Kr Wittlich)
+3932 Salmtal
+3933 Wittlich Hbf
+3934 Ürzig DB
+3935 Bengel
+3936 Bullay DB
+3937 Neef
+3938 Ediger-Eller
+3939 Cochem (Mosel)
+3940 Klotten
+3941 Pommern (Mosel)
+3942 Treis-Karden
+3943 Müden (Mosel)
+3944 Moselkern
+3945 Hatzenport
+3946 Löf
+3947 Kattenes
+3948 Lehmen
+3949 Kobern-Gondorf
+3950 Winningen (Mosel)
+3951 Güls (Kr Koblenz)
+3952 Koblenz-Moselweiß
+3953 Reil DB
+3954 Kövenig
+3955 Traben-Trarbach DB
+3956 Konz Mitte
+3957 Wasserliesch
+3958 Oberbillig
+3959 Temmels
+3960 Wellen (Mosel)
+3961 Nittel
+3962 Wincheringen
+3963 Nennig
+3964 Perl
+3965 Igel
+3966 Kreuz Konz
+3967 Mannheim-Neckarau
+3968 Mannheim-Rheinau
+3969 Schwetzingen
+3970 Oftersheim
+3971 Hockenheim
+3972 Neulußheim
+3973 Waghäusel
+3974 Wiesental
+3975 Friedrichstal (Baden)
+3976 Blankenloch
+3977 Karlsruhe-Hagsfeld
+3978 Rastatt
+3979 Baden-Baden
+3980 Bühl (Baden)
+3981 Achern
+3982 Renchen
+3983 Appenweier
+3984 Offenburg
+3985 Friesenheim (Baden)
+3986 Lahr (Schwarzw)
+3987 Orschweier
+3988 Ringsheim
+3989 Herbolzheim (Breisgau)
+3990 Kenzingen
+3991 Riegel
+3992 Köndringen
+3993 Teningen-Mundingen
+3994 Emmendingen
+3995 Kollmarsreute
+3996 Denzlingen
+3997 Gundelfingen
+3998 Freiburg-Zähringen
+3999 Freiburg-Herdern
+4000 Freiburg (Breisgau) Hbf
+4001 Freiburg-St Georgen
+4002 Ebringen
+4003 Schallstadt
+4004 Norsingen
+4005 Bad Krozingen
+4006 Heitersheim
+4007 Buggingen
+4008 Müllheim (Baden)
+4009 Auggen
+4010 Schliengen
+4011 Bad Bellingen
+4012 Rheinweiler
+4013 Kleinkems
+4014 Istein
+4015 Efringen-Kirchen
+4016 Eimeldingen
+4017 Haltingen
+4018 Weil am Rhein
+4019 Basel Bad Bf
+4020 Rheinsheim
+4021 Huttenheim
+4022 Graben-Neudorf Nord
+4023 Karlsdorf
+4024 Grombach
+4025 Babstadt
+4026 Bad Rappenau
+4027 Bad Wimpfen
+4028 Bad Friedrichshall-Jagstfeld
+4029 Neckarsulm
+4030 Heilbronn Hbf
+4031 Bad Wimpfen-Hohenstadt
+4032 Bad Friedrichshall-Kochendorf
+4033 Heilbronn Sülmertor
+4034 Öhringen Cappel
+4035 Öhringen
+4036 Öhringen West
+4037 Bitzfeld
+4038 Bretzfeld
+4039 Scheppach
+4040 Wieslensdorf
+4041 Eschenau (b Heilbronn)
+4042 Affaltrach
+4043 Willsbach
+4044 Sülzbach Schule
+4045 Sülzbach
+4046 Ellhofen
+4047 Weinsberg/Ellhofen Gewerbegebiet
+4048 Weinsberg
+4049 Heilbronn Trappensee
+4050 Bretten
+4051 Forchheim (b Karlsruhe)
+4052 Durmersheim Nord
+4053 Durmersheim
+4054 Bietigheim (Baden)
+4055 Ötigheim
+4056 Freudenstadt Hbf
+4057 Baden-Baden Haueneberstein
+4058 Sinzheim Nord
+4059 Sinzheim
+4060 Baden-Baden Rebland
+4061 Wilferdingen-Singen
+4062 Pforzheim Hbf
+4063 Bretten-Rechberg
+4064 Bretten-Ruit
+4065 Ölbronn-Dürrn
+4066 Maulbronn West
+4067 Ötisheim
+4068 Mühlacker
+4069 Zusenhofen
+4070 Oberkirch
+4071 Oberkirch-Koehlersiedlung
+4072 Lautenbach (Baden)
+4073 Hubacker
+4074 Ramsbach Höfle
+4075 Ramsbach Birkhof
+4076 Oppenau
+4077 Ibach
+4078 Löcherberg
+4079 Bad Peterstal
+4080 Bad Griesbach
+4081 Kehl
+4082 Kork
+4083 Legelshurst
+4084 Offenburg Kreisschulzentrum
+4085 Gengenbach
+4086 Biberach (Baden)
+4087 Steinach (Baden)
+4088 Haslach
+4089 Hausach
+4090 Hornberg
+4091 Triberg
+4092 St. Georgen (Schwarzw)
+4093 Villingen (Schwarzw)
+4094 Donaueschingen
+4095 Geisingen
+4096 Immendingen
+4097 Engen
+4098 Welschingen-Neuhausen
+4099 Mühlhausen (b Engen)
+4100 Singen-Landesgartenschau
+4101 Singen (Hohentwiel)
+4102 Singen-Industriegebiet
+4103 Böhringen-Rickelshausen
+4104 Radolfzell
+4105 Markelfingen
+4106 Allensbach
+4107 Hegne
+4108 Reichenau (Baden)
+4109 Konstanz-Wollmatingen
+4110 Konstanz Fürstenberg
+4111 Konstanz-Petershausen
+4112 Konstanz
+4113 Wolfach
+4114 Halbmeil
+4115 Schiltach
+4116 Schiltach Mitte
+4117 Schenkenzell
+4118 Alpirsbach
+4119 Loßburg-Rodt
+4120 Breisach
+4121 Gottenheim
+4122 Buchholz (Baden)
+4123 Batzenhäusle
+4124 Waldkirch
+4125 Kollnau
+4126 Gutach (Breisgau)
+4127 Bleibach
+4128 Niederwinden
+4129 Oberwinden
+4130 Elzach
+4131 Freiburg-Wiehre
+4132 Freiburg-Littenweiler
+4133 Kirchzarten
+4134 Himmelreich
+4135 Hinterzarten
+4136 Titisee
+4137 Neustadt (Schwarzw)
+4138 Rötenbach (Baden)
+4139 Löffingen
+4140 Bachheim
+4141 Unadingen
+4142 Döggingen
+4143 Hüfingen Mitte
+4144 Donaueschingen Allmendshofen
+4145 Feldberg-Bärental
+4146 Altglashütten-Falkau
+4147 Aha
+4148 Schluchsee
+4149 Seebrugg
+4150 Freiburg-Klinikum
+4151 Freiburg Messe/Universität
+4152 Freiburg West
+4153 Hugstetten
+4154 Wasenweiler
+4155 Ihringen
+4156 Grenzach
+4157 Wyhlen
+4158 Herten (Baden)
+4159 Rheinfelden (Baden)
+4160 Beuggen
+4161 Schwörstadt
+4162 Wehr-Brennet
+4163 Bad Säckingen
+4164 Murg (Baden)
+4165 Laufenburg (Baden)
+4166 Laufenburg (Baden) Ost
+4167 Albbruck
+4168 Dogern
+4169 Waldshut
+4170 Tiengen (Hochrhein)
+4171 Lauchringen West
+4172 Lauchringen
+4173 Grießen (Baden)
+4174 Erzingen (Baden)
+4175 Trasadingen
+4176 Wilchingen-Hallau
+4177 Neunkirch
+4178 Beringen Bad Bf
+4179 Neuhausen Bad Bf
+4180 Schaffhausen
+4181 Herblingen
+4182 Thayngen
+4183 Bietingen
+4184 Gottmadingen
+4185 Lindau Hbf
+4186 Lindau-Aeschach
+4187 Enzisweiler
+4188 Wasserburg (Bodensee)
+4189 Nonnenhorn
+4190 Kressbronn
+4191 Langenargen
+4192 Eriskirch
+4193 Friedrichshafen Ost
+4194 Friedrichshafen Stadt
+4195 Friedrichshafen Landratsamt
+4196 Friedrichshafen Manzell
+4197 Friedrichshafen-Fischbach
+4198 Friedrichshafen-Kluftern
+4199 Markdorf (Baden)
+4200 Bermatingen-Ahausen
+4201 Salem
+4202 Uhldingen-Mühlhofen
+4203 Überlingen-Nußdorf
+4204 Überlingen
+4205 Überlingen-Therme
+4206 Sipplingen
+4207 Ludwigshafen (Bodensee)
+4208 Stahringen
+4209 Steinen (b Lörrach)
+4210 Brombach (b Lörrach)
+4211 Haagen (Baden)
+4212 Lörrach Schwarzwaldstraße
+4213 Lörrach
+4214 Lörrach Schillerstraße
+4215 Lörrach-Stetten
+4216 Lörrach Dammstraße
+4217 Weil am Rhein Ost
+4218 Weil am Rhein-Pfädlistrasse
+4219 Weil am Rhein Gartenstadt
+4220 Basel SBB
+4221 Riehen(b Basel)
+4222 Maulburg
+4223 Schopfheim West
+4224 Schopfheim
+4225 Fahrnau
+4226 Hausen-Raitbach
+4227 Zell (Wiesental)
+4228 Stuttgart Hbf
+4229 Böblingen
+4230 Herrenberg
+4231 Gäufelden
+4232 Bondorf (b Herrenberg)
+4233 Ergenzingen
+4234 Eutingen im Gäu
+4235 Horb
+4236 Sulz (Neckar)
+4237 Oberndorf (Neckar)
+4238 Rottweil
+4239 Spaichingen
+4240 Tuttlingen
+4241 Hochdorf (b Horb)
+4242 Bittelbronn
+4243 Schopfloch (b Freudenstadt)
+4244 Dornstetten
+4245 Rottweil Saline
+4246 Deißlingen Mitte
+4247 Trossingen Bahnhof
+4248 Villingen-Schwenningen Hammerstatt
+4249 Schwenningen (Neckar)
+4250 Villingen-Schwenningen Eisstadion
+4251 Zollhaus Villingen-Schwenningen
+4252 Marbach Ost Villingen-Schwenningen
+4253 Marbach West Villingen-Schwenningen
+4254 Brigachtal Kirchdorf
+4255 Brigachtal Klengen
+4256 Donaueschingen Grüningen
+4257 Donaueschingen Aufen
+4258 Donaueschingen Mitte/Siedlung
+4259 Rottweil Göllsdorf
+4260 Spaichingen Mitte
+4261 Balgheim
+4262 Rietheim
+4263 Weilheim
+4264 Wurmlingen Nord
+4265 Wurmlingen Mitte
+4266 Tuttlingen Gänsäcker
+4267 Möhringen Bahnhof
+4268 Möhringen Rathaus
+4269 Immendingen Mitte
+4270 Immendingen Zimmern
+4271 Stuttgart-Bad Cannstatt
+4272 Esslingen (Neckar)
+4273 Plochingen
+4274 Reichenbach (Fils)
+4275 Ebersbach (Fils)
+4276 Uhingen
+4277 Faurndau
+4278 Göppingen
+4279 Eislingen (Fils)
+4280 Salach
+4281 Süßen
+4282 Gingen (Fils)
+4283 Kuchen
+4284 Geislingen West
+4285 Geislingen (Steige)
+4286 Amstetten (Württ)
+4287 Urspring
+4288 Lonsee
+4289 Westerstetten
+4290 Beimerstetten
+4291 Ulm Hbf
+4292 Ulm-Donautal
+4293 Erbach (Württ)
+4294 Laupheim West
+4295 Schemmerberg
+4296 Warthausen
+4297 Biberach (Riß)
+4298 Biberach Süd
+4299 Bad Schussenried
+4300 Aulendorf
+4301 Mochenwangen
+4302 Niederbiegen
+4303 Weingarten (Berg)
+4304 Ravensburg
+4305 Weißenau
+4306 Oberzell
+4307 Meckenbeuren
+4308 Kehlen
+4309 Friedrichshafen Flughafen
+4310 Löwental
+4311 Friedrichshafen Hafen
+4312 Bad Waldsee
+4313 Alttann
+4314 Wolfegg
+4315 Kißlegg
+4316 Wangen (Allgäu)
+4317 Hergatz
+4318 Beuron
+4319 Sigmaringen
+4320 Sigmaringendorf
+4321 Mengen
+4322 Herbertingen
+4323 Riedlingen
+4324 Munderkingen
+4325 Ehingen (Donau)
+4326 Schelklingen
+4327 Blaubeuren
+4328 Allmendingen
+4329 Schmiechen
+4330 Gerhausen
+4331 Herrlingen
+4332 Blaustein
+4333 Ulm-Söflingen
+4334 Neu-Ulm
+4335 Finningerstraße
+4336 Gerlenhofen
+4337 Senden
+4338 Vöhringen
+4339 Bellenberg
+4340 Illertissen
+4341 Altenstadt (Iller)
+4342 Kellmünz
+4343 Memmingen
+4344 Ulm Ost
+4345 Thalfingen (b Ulm)
+4346 Oberelchingen
+4347 Unterelchingen
+4348 Langenau (Württ)
+4349 Rammingen
+4350 Niederstotzingen
+4351 Sontheim-Brenz
+4352 Bergenweiler
+4353 Hermaringen
+4354 Giengen (Brenz)
+4355 Herbrechtingen
+4356 Heidenheim Voithwerk
+4357 Heidenheim
+4358 Heidenheim-Schnaitheim
+4359 Itzelberg
+4360 Königsbronn
+4361 Oberkochen
+4362 Unterkochen
+4363 Aalen
+4364 Wernau (Neckar)
+4365 Wendlingen (Neckar)
+4366 Oberboihingen
+4367 Nürtingen
+4368 Bempflingen
+4369 Metzingen
+4370 Reutlingen-Sondelfingen
+4371 Reutlingen Hbf
+4372 Reutlingen West
+4373 Reutlingen-Betzingen
+4374 Wannweil
+4375 Kirchentellinsfurt
+4376 Tübingen-Lustnau
+4377 Tübingen Hbf
+4378 Kirchheim (Teck)-Ötlingen
+4379 Kirchheim (Teck)
+4380 Kirchheim (Teck) Süd
+4381 Dettingen (Teck)
+4382 Owen (Teck)
+4383 Brucken
+4384 Unterlenningen
+4385 Oberlenningen
+4386 Tübingen-Derendingen
+4387 Dußlingen
+4388 Nehren
+4389 Mössingen
+4390 Bad Sebastiansweiler-Belsen
+4391 Bodelshausen
+4392 Hechingen
+4393 Bisingen
+4394 Engstlatt
+4395 Balingen (Württ)
+4396 Balingen Süd
+4397 Frommern
+4398 Albstadt-Laufen Ort
+4399 Albstadt-Lautlingen
+4400 Albstadt Ebingen West
+4401 Albstadt-Ebingen
+4402 Straßberg-Winterlingen
+4403 Storzingen
+4404 Herbertingen Ort
+4405 Bad Saulgau
+4406 Altshausen
+4407 Eyach
+4408 Eutingen (Baden)
+4409 Niefern
+4410 Enzberg
+4411 Mühlacker Rößlesweg
+4412 Illingen (Württ)
+4413 Vaihingen (Enz)
+4414 Sersheim
+4415 Sachsenheim
+4416 Bietigheim-Ellental
+4417 Bietigheim-Bissingen
+4418 Ludwigsburg
+4419 Unterreichenbach
+4420 Monbach-Neuhausen
+4421 Bad Liebenzell
+4422 Hirsau
+4423 Calw
+4424 Bad Teinach-Neubulach
+4425 Wildberg (Württ)
+4426 Nagold
+4427 Mühlen (b Horb)
+4428 Bieringen (b Horb)
+4429 Bad Niedernau
+4430 Rottenburg (Neckar)
+4431 Kiebingen
+4432 Würzburg Hbf
+4433 Würzburg Süd
+4434 Geroldshausen
+4435 Kirchheim (Unterfr)
+4436 Gaubüttelbrunn
+4437 Wittighausen
+4438 Zimmern
+4439 Grünsfeld
+4440 Gerlachsheim
+4441 Lauda
+4442 Königshofen (Baden)
+4443 Boxberg-Wölchingen
+4444 Eubigheim
+4445 Rosenberg (Baden)
+4446 Adelsheim Ost
+4447 Sennfeld
+4448 Roigheim
+4449 Möckmühl
+4450 Züttlingen
+4451 Siglingen
+4452 Neudenau
+4453 Herbolzheim (Jagst)
+4454 Untergriesheim
+4455 Neckarzimmern
+4456 Haßmersheim
+4457 Gundelsheim (Neckar)
+4458 Offenau
+4459 Nordheim (Württ)
+4460 Lauffen (Neckar)
+4461 Kirchheim (Neckar)
+4462 Walheim (Württ)
+4463 Besigheim
+4464 Aschaffenburg Fachhochschule
+4465 Aschaffenburg Süd
+4466 Obernau
+4467 Sulzbach (Main)
+4468 Kleinwallstadt
+4469 Obernburg-Elsenfeld
+4470 Glanzstoffwerke
+4471 Erlenbach (Main)
+4472 Wörth (Main)
+4473 Klingenberg (Main)
+4474 Laudenbach (b Kleinheubach)
+4475 Kleinheubach
+4476 Miltenberg
+4477 Freudenberg (Main)
+4478 Reistenhausen-Fechenbach
+4479 Dorfprozelten
+4480 Stadtprozelten
+4481 Faulbach (Main)
+4482 Hasloch (Main)
+4483 Wertheim Glashütte
+4484 Wertheim
+4485 Reicholzheim
+4486 Bronnbach (Tauber)
+4487 Gamburg (Tauber)
+4488 Niklashausen
+4489 Hochhausen (Tauber)
+4490 Tauberbischofsheim
+4491 Dittigheim
+4492 Distelhausen
+4493 Edelfingen
+4494 Bad Mergentheim
+4495 Igersheim
+4496 Markelsheim
+4497 Elpersheim
+4498 Weikersheim
+4499 Laudenbach (Württ)
+4500 Niederstetten
+4501 Schrozberg
+4502 Blaufelden
+4503 Rot am See
+4504 Satteldorf
+4505 Crailsheim
+4506 Neuenstein
+4507 Waldenburg (Württ)
+4508 Wackershofen-Freilandmuseum
+4509 Schwäbisch Hall
+4510 Schwäbisch Hall-Hessental
+4511 Eckartshausen-Ilshofen
+4512 Breitendiel
+4513 Weilbach (Unterfr)
+4514 Amorbach
+4515 Schneeberg (b Amorbach)
+4516 Rippberg
+4517 Walldürn
+4518 Hainstadt (Baden)
+4519 Buchen (Odenw)
+4520 Buchen Ost
+4521 Bödigheim
+4522 Waiblingen
+4523 Winnenden
+4524 Backnang
+4525 Oppenweiler (Württ)
+4526 Sulzbach (Murr)
+4527 Murrhardt
+4528 Fornsbach
+4529 Fichtenberg
+4530 Gaildorf West
+4531 Schorndorf
+4532 Urbach (b Schorndorf)
+4533 Plüderhausen
+4534 Waldhausen (b Schorndorf)
+4535 Lorch (Württ)
+4536 Schwäbisch Gmünd
+4537 Böbingen (Rems)
+4538 Mögglingen (b Gmünd)
+4539 Wasseralfingen
+4540 Hofen (b Aalen)
+4541 Goldshöfe
+4542 Schwabsberg
+4543 Schrezheim
+4544 Ellwangen
+4545 Jagstzell
+4546 Dombühl
+4547 Ansbach
+4548 Nürnberg Hbf
+4549 Kornwestheim Pbf
+4550 Stuttgart-Zazenhausen
+4551 Stuttgart-Münster
+4552 Stuttgart Ebitzweg
+4553 Stuttgart-Untertürkheim Pbf
+4554 Marbach (Neckar)
+4555 Erdmannhausen-Rielingshausen
+4556 Kirchberg (Murr)
+4557 Burgstall (Murr)
+4558 Benningen (Neckar)
+4559 Freiberg (Neckar)
+4560 Favoritepark
+4561 Stuttgart-Zuffenhausen
+4562 Stuttgart-Feuerbach
+4563 Stuttgart Nord
+4564 Stuttgart Stadtmitte
+4565 Stuttgart Feuersee
+4566 Stuttgart Schwabstraße
+4567 Weil der Stadt
+4568 Malmsheim
+4569 Renningen
+4570 Rutesheim
+4571 Leonberg
+4572 Höfingen
+4573 Ditzingen
+4574 Stuttgart-Weilimdorf
+4575 Korntal
+4576 Neuwirtshaus-Porscheplatz
+4577 Hösbach
+4578 Laufach
+4579 Heigenbrücken
+4580 Wiesthal
+4581 Partenstein
+4582 Lohr Bahnhof
+4583 Langenprozelten
+4584 Gemünden (Main)
+4585 Wernfeld
+4586 Karlstadt (Main)
+4587 Himmelstadt
+4588 Retzbach-Zellingen
+4589 Thüngersheim
+4590 Veitshöchheim
+4591 Würzburg-Zell
+4592 Elm
+4593 Sterbfritz
+4594 Jossa
+4595 Obersinn
+4596 Mittelsinn
+4597 Burgsinn
+4598 Rieneck
+4599 Wolfsmünster
+4600 Gräfendorf
+4601 Michelaubrück
+4602 Weickersgrüben
+4603 Morlesau
+4604 Diebach
+4605 Hammelburg
+4606 Hammelburg Ost
+4607 Westheim-Langendorf
+4608 Elfershausen-Trimberg
+4609 Euerdorf
+4610 Bad Kissingen
+4611 Rottendorf
+4612 Dettelbach Bahnhof
+4613 Buchbrunn-Mainstockheim
+4614 Kitzingen
+4615 Iphofen
+4616 Markt Bibart
+4617 Neustadt (Aisch) Bahnhof
+4618 Emskirchen
+4619 Siegelsdorf
+4620 Fürth (Bay) Hbf
+4621 Dietersheim
+4622 Dottenheim
+4623 Ipsheim
+4624 Bad Windsheim
+4625 Illesheim
+4626 Ottenhofen-Bergel
+4627 Burgbernheim
+4628 Steinach (b Rothenburg o.d. Tauber)
+4629 Fürth Westvorstadt
+4630 Fürth-Dambach
+4631 Alte Veste
+4632 Zirndorf
+4633 Zirndorf Kneippallee
+4634 Weiherhof
+4635 Egersdorf
+4636 Cadolzburg
+4637 Seligenstadt (b Würzburg)
+4638 Bergtheim
+4639 Eßleben
+4640 Waigolshausen
+4641 Schweinfurt-Mitte
+4642 Schweinfurt Stadt
+4643 Haßfurt
+4644 Zeil
+4645 Ebelsbach-Eltmann
+4646 Oberhaid
+4647 Bamberg
+4648 Ritschenhausen
+4649 Wölfershausen
+4650 Bibra
+4651 Oerlenbach
+4652 Neustadt (b Coburg)
+4653 Mönchröden
+4654 Rödental Mitte
+4655 Rödental
+4656 Dörfles-Esbach
+4657 Coburg Nord
+4658 Coburg
+4659 Creidlitz
+4660 Grub am Forst
+4661 Ebersdorf (b Coburg)
+4662 Schney
+4663 Lichtenfels
+4664 Bad Staffelstein
+4665 Ebensfeld
+4666 Zapfendorf
+4667 Ebing
+4668 Breitengüßbach
+4669 Hallstadt (b Bamberg)
+4670 Strullendorf
+4671 Hirschaid
+4672 Buttenheim
+4673 Eggolsheim
+4674 Forchheim (Oberfr)
+4675 Kersbach
+4676 Baiersdorf
+4677 Bubenreuth
+4678 Erlangen
+4679 Erlangen-Bruck
+4680 Eltersdorf
+4681 Vach
+4682 Fürth-Unterfarrnbach
+4683 Pinzberg
+4684 Gosberg
+4685 Wiesenthau
+4686 Kirchehrenbach
+4687 Pretzfeld
+4688 Ebermannstadt
+4689 Baunach
+4690 Reckendorf
+4691 Manndorf
+4692 Rentweinsdorf
+4693 Ebern
+4694 Coburg-Neuses
+4695 Wiesenfeld (b Coburg)
+4696 Meeder
+4697 Großwalbur
+4698 Bad Rodach (b Coburg)
+4699 Unterloquitz
+4700 Marktgölitz
+4701 Probstzella
+4702 Ludwigsstadt
+4703 Steinbach am Wald
+4704 Förtschendorf
+4705 Pressig-Rothenkirchen
+4706 Stockheim (Oberfr)
+4707 Gundelsdorf
+4708 Kronach
+4709 Neuses (b Kronach)
+4710 Küps
+4711 Redwitz (Rodach)
+4712 Hochstadt-Marktzeuln
+4713 Michelau (Oberfr)
+4714 Burgkunstadt
+4715 Mainroth
+4716 Mainleus
+4717 Kulmbach
+4718 Untersteinach (b Stadtsteinach)
+4719 Ludwigschorgast
+4720 Neuenmarkt-Wirsberg
+4721 Marktschorgast
+4722 Trebgast
+4723 Stammbach
+4724 Münchberg
+4725 Seulbitz
+4726 Förbau
+4727 Schwarzenbach (Saale)
+4728 Oberkotzau
+4729 Harsdorf
+4730 Ramsenthal
+4731 Bindlach
+4732 Bayreuth Hbf
+4733 Unfriedsdorf
+4734 Hildbrandsgrün
+4735 Wüstenselbitz
+4736 Helmbrechts
+4737 Martinlamitz
+4738 Kirchenlamitz Ost
+4739 Marktleuthen
+4740 Röslau
+4741 Wunsiedel-Holenbrunn
+4742 Marktredwitz
+4743 Pechbrunn
+4744 Wiesau (Oberpf)
+4745 Reuth (b Erbendorf)
+4746 Windischeschenbach
+4747 Altenstadt (Waldnaab)
+4748 Weiden (Oberpf)
+4749 Luhe-Wildenau
+4750 Luhe
+4751 Wernberg
+4752 Pfreimd
+4753 Nabburg
+4754 Schwarzenfeld (Oberpf)
+4755 Irrenlohe
+4756 Schwandorf
+4757 Maxhütte-Haidhof
+4758 Regenstauf
+4759 Regensburg Hbf
+4760 Hof-Neuhof
+4761 Köditz
+4762 Stegenwaldhaus
+4763 Rothenbürg
+4764 Selbitz
+4765 Naila
+4766 Oberklingensporn
+4767 Marxgrün
+4768 Höllenthal
+4769 Bad Steben
+4770 Wurlitz
+4771 Rehau
+4772 Schönwald (Oberfr)
+4773 Selb-Plößberg
+4774 Erkersreuth
+4775 Selb Nord
+4776 Selb Stadt
+4777 Hersbruck (rechts Pegnitz)
+4778 Neuhaus (Pegnitz)
+4779 Pegnitz
+4780 Kirchenlaibach
+4781 Haidenaab-Göppmannsbühl
+4782 Immenreuth
+4783 Neusorg
+4784 Waldershof
+4785 Arzberg (Oberfr)
+4786 Schirnding
+4787 Schnabelwaid
+4788 Creußen (Oberfr)
+4789 Nürnberg Nordost
+4790 Heroldsberg
+4791 Heroldsberg Nord
+4792 Kalchreuth
+4793 Großgeschaidt
+4794 Eschenau (Mittelfr)
+4795 Forth
+4796 Rüsselbach
+4797 Igensdorf
+4798 Weißenohe
+4799 Gräfenberg
+4800 Bayreuth-St Georgen
+4801 Laineck
+4802 Friedrichsthal (b Bayreuth)
+4803 Döhlau
+4804 Untersteinach (Bayr)
+4805 Görschnitz
+4806 Weidenberg
+4807 Stockau
+4808 Seybothenreuth
+4809 Kemnath-Neustadt
+4810 Trabitz
+4811 Pressath
+4812 Schwarzenbach (b Pressath)
+4813 Pommelsbrunn
+4814 Hartmannshof
+4815 Etzelwang
+4816 Neukirchen (b Sulzbach-Rosenberg)
+4817 Vilseck
+4818 Freihung
+4819 Thansüß
+4820 Röthenbach (Oberpf)
+4821 Weiherhammer
+4822 Etzenricht
+4823 Neustadt (Waldnaab)
+4824 Sulzbach-Rosenberg
+4825 Sulzbach-Rosenberg Hütte
+4826 Amberg
+4827 Freihöls
+4828 Bodenwöhr Nord
+4829 Neubäu
+4830 Roding
+4831 Pösing
+4832 Cham (Oberpf)
+4833 Kothmaißling
+4834 Weiding
+4835 Arnschwang
+4836 Furth im Wald
+4837 Willmering
+4838 Waffenbrunn
+4839 Balbersdorf
+4840 Geigant
+4841 Zillendorf
+4842 Grub (Oberpf)
+4843 Waldmünchen
+4844 Chamerau
+4845 Miltach
+4846 Blaibach (Oberpf)
+4847 Bad Kötzting
+4848 Zellerthal
+4849 Grafenwiesen
+4850 Watzelsteg
+4851 Hohenwarth Campingplatz
+4852 Hohenwarth
+4853 Arrach
+4854 Frahelsbruck
+4855 Lam
+4856 Feucht
+4857 Ochenbruck
+4858 Mimberg
+4859 Burgthann
+4860 Oberferrieden
+4861 Postbauer-Heng
+4862 Pölling
+4863 Neumarkt (Oberpf)
+4864 Deining (Oberpf)
+4865 Batzhausen
+4866 Seubersdorf
+4867 Parsberg
+4868 Mausheim
+4869 Beratzhausen
+4870 Laaber
+4871 Deuerling
+4872 Undorf
+4873 Etterzhausen
+4874 Regensburg-Prüfening
+4875 Regensburg-Burgweinting
+4876 Obertraubling
+4877 Sünching
+4878 Radldorf (Niederbay)
+4879 Straubing
+4880 Straßkirchen
+4881 Plattling
+4882 Osterhofen (Niederbay)
+4883 Vilshofen (Niederbay)
+4884 Passau Hbf
+4885 Nürnberg-Dürrenhof
+4886 Nürnberg-Ostring
+4887 Nürnberg-Mögeldorf
+4888 Nürnberg-Rehhof
+4889 Nürnberg-Laufamholz
+4890 Schwaig
+4891 Röthenbach (Pegnitz)
+4892 Röthenbach-Steinberg
+4893 Röthenbach-Seespitz
+4894 Lauf West
+4895 Lauf (links Pegnitz)
+4896 Ottensoos
+4897 Henfenfeld
+4898 Hersbruck (links Pegnitz)
+4899 Nürnberg-Gleißhammer
+4900 Nürnberg-Dutzendteich
+4901 Nürnberg-Frankenstadion
+4902 Fischbach (b Nürnberg)
+4903 Feucht-Moosbach
+4904 Winkelhaid
+4905 Ludersheim
+4906 Altdorf West (b Nürnberg)
+4907 Altdorf (b Nürnberg)
+4908 Nürnberg-Steinbühl
+4909 Nürnberg-Sandreuth
+4910 Nürnberg-Eibach
+4911 Nürnberg-Reichelsdorf
+4912 Reichelsdorfer Keller
+4913 Katzwang
+4914 Schwabach-Limbach
+4915 Schwabach
+4916 Rednitzhembach
+4917 Büchenbach
+4918 Roth
+4919 Nürnberg-Rothenburgerstraße
+4920 Fürth-Unterfürberg
+4921 Fürth-Burgfarrnbach
+4922 Raindorf
+4923 Langenzenn
+4924 Hardhof
+4925 Laubendorf
+4926 Wilhermsdorf
+4927 Wilhermsdorf-Mitte
+4928 Adelsdorf (Mittelfr)
+4929 Eschenbach (b Markt Erlbach)
+4930 Markt Erlbach
+4931 Puschendorf
+4932 Hagenbüchach
+4933 Nürnberg Ost
+4934 Nürnberg-Erlenstegen
+4935 Behringersdorf
+4936 Rückersdorf (Mittelfr)
+4937 Ludwigshöhe
+4938 Lauf (rechts Pegnitz)
+4939 Neunkirchen a Sand
+4940 Speikern
+4941 Rollhofen
+4942 Schnaittach Markt
+4943 Hedersdorf
+4944 Simmelsdorf-Hüttenbach
+4945 Reichenschwand
+4946 Hohenstadt (Mittelfr)
+4947 Vorra (Pegnitz)
+4948 Rupprechtstegen
+4949 Velden (b Hersbruck)
+4950 Nürnberg-Schweinau
+4951 Nürnberg-Stein
+4952 Unterasbach
+4953 Oberasbach
+4954 Anwanden
+4955 Roßtal
+4956 Roßtal-Wegbrücke
+4957 Raitersaich
+4958 Heilsbronn
+4959 Wicklesgreuth
+4960 Sachsen (b Ansbach)
+4961 Schnelldorf
+4962 Allersberg (Rothsee)
+4963 Kinding (Altmühltal)
+4964 Ingolstadt Nord
+4965 Ingolstadt Hbf
+4966 Pankofen
+4967 Deggendorf Hbf
+4968 Gotteszell
+4969 Triefenried
+4970 Regen
+4971 Bettmannsäge
+4972 Zwiesel (Bay)
+4973 Ludwigsthal
+4974 Bayerisch Eisenstein
+4975 Lichtenthal
+4976 Zwieselau
+4977 Frauenau
+4978 Klingenbrunn
+4979 Spiegelau
+4980 Großarmschlag
+4981 Rosenau (b Grafenau)
+4982 Grafenau
+4983 Außenried
+4984 Langdorf
+4985 Böhmhof
+4986 Bodenmais
+4987 Augsburg Hbf
+4988 Augsburg-Oberhausen
+4989 Gersthofen
+4990 Gablingen
+4991 Langweid (Lech)
+4992 Herbertshofen
+4993 Meitingen
+4994 Westendorf
+4995 Nordendorf
+4996 Mertingen Bahnhof
+4997 Bäumenheim
+4998 Donauwörth
+4999 Otting-Weilheim
+5000 Treuchtlingen
+5001 Weißenburg (Bay)
+5002 Ellingen (Bay)
+5003 Pleinfeld
+5004 Mühlstetten
+5005 Georgensgmünd
+5006 Unterheckenhofen
+5007 Lohgarten-Roth
+5008 Eckersmühlen
+5009 Hilpoltstein
+5010 Ramsberg
+5011 Langlau
+5012 Gunzenhausen
+5013 Winterhausen
+5014 Goßmannsdorf
+5015 Ochsenfurt
+5016 Marktbreit
+5017 Uffenheim
+5018 Oberdachstetten
+5019 Triesdorf
+5020 Muhr am See
+5021 Hartershofen
+5022 Schweinsdorf
+5023 Rothenburg ob der Tauber
+5024 Petersaurach
+5025 Neuendettelsau
+5026 Windsbach
+5027 München Hbf
+5028 Freising
+5029 Marzling
+5030 Langenbach (Oberbay)
+5031 Moosburg
+5032 Bruckberg
+5033 Gündlkofen
+5034 Landshut (Bay) Hbf
+5035 Ergoldsbach
+5036 Neufahrn (Niederbay)
+5037 Eggmühl
+5038 Hagelstadt
+5039 Köfering
+5040 Otzing
+5041 Wallersdorf
+5042 Landau (Isar)
+5043 Dingolfing
+5044 Wörth (Isar)
+5045 Oberlindhart
+5046 Niederlindhart
+5047 Mallersdorf
+5048 Laberweinting
+5049 Sallach
+5050 Geiselhöring
+5051 Perkam
+5052 Straubing Ost
+5053 Ittling
+5054 Sand (Niederbay)
+5055 Bogen
+5056 München Ost
+5057 Markt Schwaben
+5058 Hörlkofen
+5059 Walpertskirchen
+5060 Thann-Matzbach
+5061 Dorfen Bahnhof
+5062 Schwindegg
+5063 Weidenbach
+5064 Ampfing
+5065 Mühldorf (Oberbay)
+5066 Töging (Inn)
+5067 Neuötting
+5068 Marktl
+5069 Julbach
+5070 Simbach (Inn)
+5071 Tüßling
+5072 Heiligenstatt (Obb)
+5073 Altötting
+5074 Kastl (Oberbay)
+5075 Gendorf
+5076 Burgkirchen
+5077 Burghausen (Oberbay)
+5078 Waldkraiburg
+5079 Jettenbach
+5080 Mittergars
+5081 Gars (Inn)
+5082 Soyen
+5083 Wasserburg (Inn) Bahnhof
+5084 Ramerberg
+5085 Rott (Inn)
+5086 Schechen
+5087 Rosenheim
+5088 Landshut (Bay) Süd
+5089 Geisenhausen
+5090 Vilsbiburg
+5091 Aich (Niederbay)
+5092 Egglkofen
+5093 Neumarkt-St Veit
+5094 Rohrbach (Oberbay)
+5095 Garching
+5096 Kirchweidach
+5097 Tittmoning-Wiesmühl
+5098 Fridolfing
+5099 Kirchanschöring
+5100 Laufen (Oberbay)
+5101 Freilassing
+5102 Salzburg Hbf
+5103 Neustift (b Passau)
+5104 Neukirchen (Inn)
+5105 Fürstenzell
+5106 Bad Höhenstadt
+5107 Engertsham
+5108 Sulzbach (Inn)
+5109 Ruhstorf
+5110 Pocking
+5111 Karpfham
+5112 Bayerbach
+5113 Bad Birnbach
+5114 Anzenkirchen
+5115 Pfarrkirchen
+5116 Hebertsfelden
+5117 Eggenfelden Mitte
+5118 Eggenfelden
+5119 Massing
+5120 Trostberg
+5121 Wiesmühl (Alz)
+5122 Tacherting
+5123 Schalchen
+5124 Altenmarkt (Alz)
+5125 Stein (Traun)
+5126 Hörpolding
+5127 Matzing
+5128 Bad Empfing
+5129 Traunstein
+5130 Grafing Bahnhof
+5131 Grafing Stadt
+5132 Ebersberg (Oberbay)
+5133 Steinhöring
+5134 Tulling
+5135 Forsting
+5136 Brandstätt
+5137 Edling
+5138 Traunreut
+5139 Aßling (Oberbay)
+5140 Ostermünchen
+5141 Großkarolinenfeld
+5142 Pfraundorf (Inn)
+5143 Raubling
+5144 Brannenburg
+5145 Flintsbach
+5146 Oberaudorf
+5147 Kiefersfelden
+5148 Kufstein
+5149 Bad Endorf (Oberbay)
+5150 Prien am Chiemsee
+5151 Bernau a. Chiemsee
+5152 Übersee
+5153 Bergen (Oberbay)
+5154 Teisendorf
+5155 Urschalling
+5156 Vachendorf
+5157 Umrathshausen Bahnhof
+5158 Umrathshausen Ort
+5159 Aschau (Chiemgau)
+5160 Seiboldsdorf
+5161 Traundorf
+5162 Siegsdorf
+5163 Höpfling
+5164 Eisenärzt
+5165 Bibelöd
+5166 Ruhpolding
+5167 Ainring
+5168 Hammerau
+5169 Piding
+5170 Bad Reichenhall
+5171 Bad Reichenhall-Kirchberg
+5172 Bayerisch Gmain
+5173 Bischofswiesen
+5174 Berchtesgaden Hbf
+5175 München Donnersbergerbrücke
+5176 München Harras
+5177 München Siemenswerke
+5178 Otterfing
+5179 Holzkirchen
+5180 Darching
+5181 Miesbach
+5182 Agatharied
+5183 Hausham
+5184 Schliersee
+5185 Fischhausen-Neuhaus
+5186 Fischbachau
+5187 Geitau
+5188 Osterhofen (Oberbay)
+5189 Bayrischzell
+5190 München-Solln
+5191 Warngau
+5192 Schaftlach
+5193 Moosrain
+5194 Gmund (Tegernsee)
+5195 Tegernsee
+5196 Reichersbeuern
+5197 Bad Tölz
+5198 Gaißach
+5199 Obergries
+5200 Lenggries
+5201 Kreuzstraße
+5202 Westerham
+5203 Bruckmühl
+5204 Heufeldmühle
+5205 Heufeld
+5206 Bad Aibling
+5207 Kolbermoor
+5208 Hufschlag
+5209 Weibhausen
+5210 Kirchhalling
+5211 Unteraschau
+5212 Otting
+5213 Waging
+5214 München-Pasing
+5215 Tutzing
+5216 Weilheim (Oberbay)
+5217 Huglfing
+5218 Uffing am Staffelsee
+5219 Murnau
+5220 Ohlstadt
+5221 Eschenlohe
+5222 Oberau
+5223 Garmisch-Partenkirchen
+5224 Klais
+5225 Mittenwald
+5226 Starnberg
+5227 Bernried
+5228 Seeshaupt
+5229 Iffeldorf
+5230 Penzberg Pbf
+5231 Bichl
+5232 Benediktbeuern
+5233 Kochel
+5234 Peißenberg Nord
+5235 Peißenberg
+5236 Hohenpeißenberg
+5237 Peiting Ost
+5238 Peiting Nord
+5239 Schongau
+5240 Murnau Ort
+5241 Seeleiten-Berggeist
+5242 Grafenaschau
+5243 Jägerhaus
+5244 Bad Kohlgrub
+5245 Bad Kohlgrub Kurhaus
+5246 Saulgrub
+5247 Altenau (Bay)
+5248 Unterammergau
+5249 Oberammergau
+5250 Geltendorf
+5251 Kaufering
+5252 Buchloe
+5253 Kaufbeuren
+5254 Biessenhofen
+5255 Günzach
+5256 Kempten (Allgäu) Hbf
+5257 Martinszell (Allgäu)
+5258 Immenstadt
+5259 Oberstaufen
+5260 Röthenbach (Allgäu)
+5261 Heimenkirch
+5262 Augsburg Morellstraße
+5263 Augsburg Messe
+5264 Inningen
+5265 Bobingen
+5266 Schwabmünchen
+5267 Türkheim (Bay) Bahnhof
+5268 Mindelheim
+5269 Stetten (Schwab)
+5270 Sontheim (Schwab)
+5271 Ungerhausen
+5272 Marstetten-Aitrach
+5273 Aichstetten
+5274 Leutkirch
+5275 Füssen
+5276 Weizern-Hopferau
+5277 Seeg
+5278 Lengenwang
+5279 Leuterschach
+5280 Marktoberdorf Schule
+5281 Marktoberdorf
+5282 Ebenhofen
+5283 Bad Grönenbach
+5284 Dietmannsried
+5285 Kempten (Allgäu) Ost
+5286 Blaichach (Allgäu)
+5287 Sonthofen
+5288 Altstädten (Allgäu)
+5289 Fischen
+5290 Langenwang (Schwab)
+5291 Oberstdorf
+5292 St. Mang
+5293 Durach
+5294 Sulzberg
+5295 Jodbad Sulzbrunn
+5296 Bodelsberg
+5297 Zollhaus-Petersthal
+5298 Oy-Mittelberg
+5299 Wertach-Haslach
+5300 Maria Rain
+5301 Nesselwang
+5302 Pfronten-Weißbach
+5303 Pfronten-Ried
+5304 Pfronten-Steinach
+5305 Schönbichl
+5306 Vils
+5307 Ulrichsbrücke-Füssen [6]
+5308 Musau
+5309 Pflach
+5310 Reutte in Tirol
+5311 Reutte in Tirol Schulzentrum
+5312 Bad Kreckelmoos
+5313 Heiterwang-Plansee
+5314 Bichlbach-Almkopfbahn
+5315 Bichlbach-Berwang [5]
+5316 Lähn
+5317 Lermoos
+5318 Ehrwald Zugspitzbahn
+5319 Griesen (Oberbay)
+5320 Untergrainau
+5321 Günzburg
+5322 Wasserburg (Günz)
+5323 Kleinkötz
+5324 Hochwang
+5325 Ichenhausen
+5326 Ellzee
+5327 Neuburg (Kammel)
+5328 Hirschfelden
+5329 Billenhausen
+5330 Krumbach (Schwab)
+5331 Krumbach (Schwab) Schule
+5332 Niederraunau
+5333 Aletshausen
+5334 Haupeltshofen
+5335 Loppenhausen
+5336 Breitenbrunn (Schwab)
+5337 Weilbach
+5338 Pfaffenhausen
+5339 Hausen (Schwab)
+5340 Nassenbeuren
+5341 Mammendorf
+5342 Haspelmoor
+5343 Althegnenberg
+5344 Mering
+5345 Kissing
+5346 Augsburg-Hochzoll
+5347 Augsburg Haunstetterstraße
+5348 Neusäß
+5349 Westheim (Schwab)
+5350 Diedorf (Schwab)
+5351 Gessertshausen
+5352 Kutzenhausen
+5353 Dinkelscherben
+5354 Freihalden
+5355 Jettingen
+5356 Burgau (Schwab)
+5357 Mindelaltheim
+5358 Offingen
+5359 Leipheim
+5360 Nersingen
+5361 Friedberg (b Augsburg)
+5362 Dasing
+5363 Obergriesbach
+5364 Aichach
+5365 Radersdorf
+5366 Schrobenhausen
+5367 Merching
+5368 Schmiechen (Oberbay)
+5369 Egling
+5370 Walleshausen
+5371 St. Ottilien
+5372 Schondorf (Bay)
+5373 Utting
+5374 Riederau
+5375 St. Alban
+5376 Dießen
+5377 Raisting
+5378 Oberottmarshausen
+5379 Lagerlechfeld
+5380 Klosterlechfeld
+5381 Landsberg (Lech) Schule
+5382 Landsberg (Lech)
+5383 Bad Wörishofen
+5384 Pappenheim
+5385 Solnhofen
+5386 Dollnstein
+5387 Eichstätt Bahnhof
+5388 Adelschlag
+5389 Tauberfeld
+5390 Eitensheim
+5391 Gaimersheim
+5392 Reichertshofen (Oberbay)
+5393 Rohrbach (Ilm)
+5394 Pfaffenhofen (Ilm)
+5395 Reichertshausen (Ilm)
+5396 Paindorf
+5397 Petershausen (Oberbay)
+5398 Dachau Bahnhof
+5399 Wasserzell (b Eichstätt)
+5400 Rebdorf-Hofmühle
+5401 Eichstätt Stadt
+5402 Gundelfingen (Bay)
+5403 Lauingen
+5404 Dillingen (Donau)
+5405 Höchstädt (Donau)
+5406 Blindheim
+5407 Schwenningen (Bay)
+5408 Tapfheim
+5409 Genderkingen
+5410 Rain
+5411 Burgheim
+5412 Straß-Moos
+5413 Unterhausen (Bay)
+5414 Neuburg (Donau)
+5415 Rohrenfeld
+5416 Weichering
+5417 Ernsgaden
+5418 Vohburg
+5419 Münchsmünster
+5420 Neustadt (Donau)
+5421 Abensberg
+5422 Saal (Donau)
+5423 Bad Abbach
+5424 Poikam
+5425 Gundelshausen
+5426 Sinzing (b Regensburg)
+5427 Westhausen
+5428 Lauchheim
+5429 Bopfingen
+5430 Trochtelfingen (Bopf)
+5431 Pflaumloch
+5432 Nördlingen
+5433 Möttingen
+5434 Hoppingen
+5435 Harburg (Schwab)
+5436 Ebermergen
+5437 Wörnitzstein
+5438 Flughafen München
+5439 Flughafen München Besucherpark
+5440 Neufahrn (b Freising)
+5441 Pulling (b Freising)
+5442 Eching
+5443 Lohhof
+5444 Unterschleißheim
+5445 Oberschleißheim
+5446 München-Feldmoching
+5447 München-Fasanerie
+5448 München-Moosach
+5449 München-Laim Pbf
+5450 München-Hackerbrücke
+5451 München Hbf  (tief)
+5452 München Karlsplatz
+5453 München Marienplatz
+5454 München Isartor
+5455 München Rosenheimer Platz
+5456 Vierkirchen-Esterhofen
+5457 Röhrmoos
+5458 Hebertshausen
+5459 München-Karlsfeld
+5460 München-Allach
+5461 München-Untermenzing
+5462 München-Obermenzing
+5463 München Leuchtenbergring
+5464 München-Berg am Laim
+5465 München-Riem Pbf
+5466 Feldkirchen (b München)
+5467 Heimstetten
+5468 Grub (Oberbay)
+5469 Poing
+5470 Ottenhofen (Oberbay)
+5471 St. Koloman
+5472 Aufhausen (b Erding)
+5473 Altenerding
+5474 Erding
+5475 München Heimeranplatz
+5476 München-Mittersendling
+5477 Deisenhofen
+5478 Dachau Stadt
+5479 Bachern
+5480 Schwabhausen (b Dachau)
+5481 Niederroth
+5482 Markt Indersdorf
+5483 Arnbach
+5484 Erdweg
+5485 Kleinberghofen
+5486 Altomünster
+5487 Malching (Oberbay)
+5488 Maisach
+5489 Gernlinden
+5490 Esting
+5491 Olching
+5492 Gröbenzell
+5493 München-Lochhausen
+5494 München-Langwied
+5495 München-Trudering
+5496 Gronsdorf
+5497 Haar
+5498 Vaterstetten
+5499 Baldham
+5500 Zorneding
+5501 Eglharting
+5502 Kirchseeon
+5503 Herrsching
+5504 Seefeld-Hechendorf
+5505 Steinebach
+5506 Weßling (Oberbay)
+5507 Neugilching
+5508 Gilching-Argelsried
+5509 Geisenbrunn
+5510 Germering-Unterpfaffenhofen
+5511 Harthaus
+5512 München-Neuaubing
+5513 München-Westkreuz
+5514 München St Martin Straße
+5515 München-Giesing
+5516 München-Fasangarten
+5517 Fasanenpark
+5518 Unterhaching
+5519 Taufkirchen
+5520 Furth (b Deisenhofen)
+5521 Sauerlach
+5522 Feldafing
+5523 Possenhofen
+5524 Starnberg-Nord
+5525 Gauting
+5526 Stockdorf
+5527 Planegg (Krailling)
+5528 Gräfelfing
+5529 Lochham
+5530 München-Perlach
+5531 München-Neuperlach Süd
+5532 Neubiberg
+5533 Ottobrunn
+5534 Hohenbrunn
+5535 Wächterhof
+5536 Höhenkirchen-Siegertsbrunn
+5537 Dürrnhaar
+5538 Aying
+5539 Peiß
+5540 Großhelfendorf
+5541 Wolfratshausen
+5542 Icking
+5543 Ebenhausen-Schäftlarn
+5544 Hohenschäftlarn
+5545 Baierbrunn
+5546 Buchenhain
+5547 Höllriegelskreuth
+5548 Pullach
+5549 Großhesselohe Isartalbahnhof
+5550 Türkenfeld
+5551 Grafrath
+5552 Schöngeising
+5553 Buchenau (Oberbay)
+5554 Fürstenfeldbruck
+5555 Eichenau (Oberbay)
+5556 Puchheim
+5557 München-Aubing
+5558 München Leienfelsstraße
+5559 München-Daglfing
+5560 München-Englschalking
+5561 München-Johanneskirchen
+5562 Unterföhring
+5563 Ismaning
+5564 Hallbergmoos
+5565 Fladungen
+5566 Nordheim v Rhön
+5567 Ostheim v Rhön
+5568 Stockheim (Unterfr)
+5569 Mellrichstadt
+5570 Seligenstadt Mainschleifenbahn
+5571 Prosselsheim
+5572 Eisenheim
+5573 Escherndorf-Vogelsburg
+5574 Volkach-Astheim
+5575 Volkach (Main)
+5576 Gasseldorf
+5577 Streitberg
+5578 Muggendorf
+5579 Burggaillenreuth
+5580 Gößweinstein
+5581 Behringersmühle
+5582 Steinwiesen
+5583 Mauthaus
+5584 Dürrenwald
+5585 Nordhalben
+5586 Fischhaus
+5587 Kalteneck
+5588 Fürsteneck
+5589 Röhrnbach
+5590 Waldkirchen
+5591 Freyung
+5592 Ruhmannsfelden
+5593 Patersdorf
+5594 Teisnach
+5595 Böbrach
+5596 Gumpenried-Asbach
+5597 Nußberg-Schönau
+5598 Gstadt (Wanderbahn)
+5599 Schnitzmühle
+5600 Viechtach
+5601 Schierling
+5602 Langquaid
+5603 Wachtl
+5604 Bad Endorf - Flugplatz
+5605 Halfing
+5606 Amerang
+5607 Aindorf
+5608 Pittenhart
+5609 Obing am See
+5610 Westheim
+5611 Diedorf
+5612 Fremdingen
+5613 Wilburgstetten
+5614 Dinkelsbühl
+5615 Feuchtwangen
+5616 Oettingen (Bay)
+5617 Waßertrüdingen

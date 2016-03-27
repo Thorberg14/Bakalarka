@@ -133,6 +133,9 @@ public class GraphModel {
 			writer.println("--------------");
 		}
 		writer.close();
+		
+		MyWriter.closeWriter(nodesF);
+		MyWriter.closeWriter(edgesF);
 	}
 	
 	public void printToFileAsDefault(String sourceName,boolean oriented) throws FileNotFoundException, UnsupportedEncodingException{
@@ -163,6 +166,9 @@ public class GraphModel {
 			}
 		}
 		writer.close();
+		
+		MyWriter.closeWriter(nodesF);
+		MyWriter.closeWriter(edgesF);
 	}
 	
 	public void printToFileAsPajek(String sourceName,boolean oriented) throws FileNotFoundException, UnsupportedEncodingException{
@@ -187,6 +193,8 @@ public class GraphModel {
 			}
 		}
 		writer.close();
+		
+		MyWriter.closeWriter(f);
 		
 		int index = 0;
 		for (int i=0;i<nodesA.size();i++){ 

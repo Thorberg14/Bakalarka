@@ -31,4 +31,9 @@ public class MyWriter {
 	
 		return pw;
 	}
+	
+	public static void closeWriter(File f){
+		l.remove(f);
+		
+	}
 }

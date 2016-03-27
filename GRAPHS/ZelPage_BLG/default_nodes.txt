@@ -1,0 +1,681 @@
+1 Драгоман / Dragoman
+2 Драгоман - Сп. / Dragoman Spirka
+3 Алдомировци / Aldomirovci
+4 Сливница - Сп. / Slivnica Spirka
+5 Сливница / Slivnica
+6 Петърч / Petarč
+7 Костинброд / Kostinbrod
+8 Костинброд - Сп. / Kostinbrod Spirka
+9 Волуяк / Volujak
+10 Обеля / Obelja
+11 Връбница / Vrabnica
+12 Надежда - Сп. / Nadežda Spirka
+13 София / Sofia
+14 Подуяне / Podujane
+15 Подуяне Разпределит. / Podujane Razpredelitelna
+16 Смирненски / Smirnenski
+17 Искър / Iskar
+18 Казичене / Kazičene
+19 Верила / Verila
+20 Елин Пелин / Elin Pelin
+21 Побит Камък / Pobit Kamak
+22 Вакарел - Сп. / Vakarel Spirka
+23 Вакарел / Vakarel
+24 Веринско / Verinsko
+25 Живково / Živkovo
+26 Ихтиман / Ihtiman
+27 Стамболово / Stambolovo
+28 Мирково / Mirkovo
+29 Момин Проход / Momin Prohod
+30 Костенец / Kostenec
+31 Бойка / Bojka
+32 Сестримо / Sestrimo
+33 Момина Клисура / Momina Klisura
+34 Белово / Belovo
+35 Бл.Захариев / Blagoj Zahariev
+36 Септември / Septemvri
+37 Ковачево / Kovačevo
+38 Звъничево / Zvaničevo
+39 Пазарджик / Pazardžik
+40 Синитово / Sinitovo
+41 Огняново / Ognjanovo
+42 Хаджиево / Hadžievo
+43 Стамболийски / Stambolijski
+44 Кадиево / Kadievo
+45 Тодор Каблешков / Todor Kableškov
+46 Прослав / Proslav
+47 Пловдив / Plovdiv
+48 Вр.Депо Пловдив-Сп. / Vagono-Remontno Depo Plovdiv Spirka
+49 Крумово / Krumovo
+50 Ягодово / Jagodovo
+51 Катуница / Katunica
+52 Садово / Sadovo
+53 Чешнигирово / Češnigirovo
+54 Поповица / Popovica
+55 Виница / Vinica
+56 Първомай / Parvomaj
+57 Караджалово / Karadžalovo
+58 Скобелево / Skobelevo
+59 Сталево / Stalevo
+60 Ябълково / Jabalkovo
+61 Крум / Krum
+62 Димитровград / Dimitrovgrad
+63 Строител / Stroitel
+64 Димитровград Юг / Dimitrovgrad Jug
+65 Черногорово / Černogorovo
+66 Нова Надежда / Nova Nadežda
+67 Константиново / Konstantinovo
+68 Симеоновград / Simeonovgrad
+69 Преславец / Preslavec
+70 Харманли / Harmanli
+71 Бисер / Biser
+72 Любимец / Ljubimec
+73 Свиленград / Svilengrad
+74 Банкя / Bankja
+75 Иваняне / Ivanjane
+76 Божурище / Božurište
+77 Пампорово - Сп. / Pamporovo Spirka
+78 Варвара / Varvara
+79 Марко Николов / Marko Nikolov
+80 Цепина / Cepina
+81 Долене / Dolene
+82 Костандово / Kostandovo
+83 Велинград / Velingrad
+84 Велинград Юг / Velingrad Jug
+85 Острец / Ostrec
+86 Цветино / Cvetino
+87 Света Петка / Sveta Petka
+88 Аврамово / Avramovo
+89 Смолево / Smolevo
+90 Черна Места / Černa Mesta
+91 Якоруда / Jakoruda
+92 Юруково / Jurukovo
+93 Дагоново / Dagonovo
+94 Белица / Belica
+95 Генерал Ковачев / General Kovačev
+96 Гулийна Баня / Gulijna Banja
+97 Разлог / Razlog
+98 Банско / Bansko
+99 Свети Георги / Sveti Georgi
+100 Добринище / Dobrinište
+101 Куртово Конаре / Kurtovo Konare
+102 Кричим / Kričim
+103 Козарско / Kozarsko
+104 Бяга / Bjaga
+105 Брацигово / Bracigovo
+106 Пещера / Peštera
+107 Маврудово / Mavrudovo
+108 Асеновград / Asenovgrad
+109 София Север / Sofia Sever
+110 Илиянци / Ilijanci
+111 Кумарица / Kumarica
+112 Курило / Kurilo
+113 Ромча / Romča
+114 Владо Тричков / Vlado Tričkov
+115 Луково / Lukovo
+116 Реброво / Rebrovo
+117 Томпсън / Tompsan
+118 Орлин / Orlin
+119 Своге / Svoge
+120 Желен / Želen
+121 Церово / Cerovo
+122 Бов / Bov
+123 Балкан / Balkan
+124 Лакатник / Lakatnik
+125 Жп.Школа - Лакатник / Žp.Škola - Lakatnik
+126 Оплетня / Opletnja
+127 Левище / Levište
+128 Пролет / Prolet
+129 Елисейна / Elisejna
+130 Оселна / Oselna
+131 Зверино / Zverino
+132 Черепиш / Čerepiš
+133 Лютиброд / Ljutibrod
+134 Ребърково / Rebarkovo
+135 Горна Крета / Gorna Kreta
+136 Мездра Юг / Mezdra Jug
+137 Мездра / Mezdra
+138 Брусен / Brusen
+139 Ослен / Oslen
+140 Синьо Бърдо / Sinjo Bardo
+141 Струпец / Strupec
+142 Роман / Roman
+143 Радовене / Radovene
+144 Кунино / Kunino
+145 Карлуково / Karlukovo
+146 Реселец - Сп. / Reselec Spirka
+147 Червен Бряг / Červen Brjag
+148 Рупци - Север / Rupci - Sever
+149 Хумата / Humata
+150 Телиш / Teliš
+151 Горни Дъбник / Gorni Dabnik
+152 Долни Дъбник / Dolni Dabnik
+153 Ясен / Jasen
+154 Плевен Запад / Pleven Zapad
+155 Плевен / Pleven
+156 Гривица / Grivica
+157 Пордим / Pordim
+158 Одърне / Odarne
+159 Каменец / Kamenec
+160 Левски / Levski
+161 Градище / Gradište
+162 Бутово / Butovo
+163 Павликени / Pavlikeni
+164 Михалци-Стамболово / Mihalci-Stambolovo
+165 Лесичери / Lesičeri
+166 Русаля Дичин / Rusalja Dičin
+167 Ресен / Resen
+168 Поликраище / Polikraište
+169 Горна Оряховица / Gorna Orjahovica
+170 Честово-Сп. / Čestovo Spirka
+171 Козаревец / Kozarevec
+172 Джулюница / Džuljunica
+173 Кесарево / Kesarevo
+174 Стражица / Stražica
+175 Асеново / Asenovo
+176 Горица / Gorica
+177 Славяново / Slavjanovo
+178 Медовина / Medovina
+179 Попово / Popovo
+180 Светлен / Svetlen
+181 Караджата / Karadžata
+182 Стамо Костов / Stamo Kostov
+183 Голямо Ново / Goljamo Novo
+184 Дралфа / Dralfa
+185 Подгорица / Podgorica
+186 Здравец / Zdravec
+187 Въбел / Vabel
+188 Търговище / Targovište
+189 Васил Левски / Vasil Levski
+190 Ловец / Lovec
+191 Надарево / Nadarevo
+192 Кочово / Kočovo
+193 Хан Крум / Han Krum
+194 Дивдядово / Divdjadovo
+195 Шумен / Šumen
+196 Тракия (Шумен) / Trakija Spirka
+197 Мътница / Matnica
+198 Мадара / Madara
+199 Калугерица / Kalugerica
+200 Каспичан / Kaspičan
+201 Невша / Nevša
+202 Равна / Ravna
+203 Венчан / Venčan
+204 Провадия / Provadija
+205 Добрина / Dobrina
+206 Солна Мина / Solna Mina
+207 Житница / Žitnica
+208 Царевци / Carevci
+209 Синдел Разпределит. / Sindel
+210 Тръстиково / Trastikovo
+211 Разделна / Razdelna
+212 Повеляново / Poveljanovo
+213 Белослав / Beloslav
+214 Страшимирово / Strašimirovo
+215 Моряк / Morjak
+216 Езерово / Ezerovo
+217 Тополите / Topolite
+218 Варна - Сп. / Varna Spirka
+219 Варна / Varna
+220 Долна Митрополия / Dolna Mitropolija
+221 Чифлик / Čiflik
+222 Божурица / Božurica
+223 Подем / Podem
+224 Комарево / Komarevo
+225 Крета / Kreta
+226 Милковица / Milkovica
+227 Долни Вит / Dolni Vit
+228 Сомовит / Somovit
+229 Черквица / Čerkvica
+230 Троян / Trojan
+231 Калейца / Kalejca
+232 Добродан / Dobrodan
+233 Ломец / Lomec
+234 Лешница / Lešnica
+235 Абланица / Ablanica
+236 Хлевене / Hlevene
+237 Казачево / Kazačevo
+238 Ловеч - Юг / Loveč - Jug
+239 Ловеч - Сп. / Loveč Spirka
+240 Ловеч / Loveč
+241 Ловеч-Север / Loveč - Sever
+242 Умаревци / Umarevci
+243 Йоглав / Joglav
+244 Дойренци / Dojrenci
+245 Драсов / Drasov
+246 Александрово / Aleksandrovo
+247 Чавдарци / Čavdarci
+248 Летница / Letnica
+249 Асеновци / Asenovci
+250 Морава / Morava
+251 Драгомирово / Dragomirovo
+252 Ореш / Oreš
+253 Елит / Elit
+254 Свищов / Svištov
+255 Дибич / Dibič
+256 Радко Димитриев / Radko Dimitrievo
+257 Ивански / Ivanski
+258 Смядово / Smjadovo
+259 Бял Бряг / Bjal Brjag
+260 Желъд / Želad
+261 Арковна / Arkovna
+262 Партизани / Partizani
+263 Комунари / Komunari
+264 Девня / Devnja
+265 Кипра / Kipra
+266 Чернево / Černevo
+267 Суворово / Suvorovo
+268 Вълчи Дол / Valči Dol
+269 Генерал Киселово / General Kiselovo
+270 Оборище / Oborište
+271 Ботево / Botevo
+272 Дончево / Dončevo
+273 Добрич / Dobrič
+274 Добрич - Север / Dobrič - Sever
+275 Генерал Колево / General Kolevo
+276 Равнец / Ravnec
+277 Генерал Тошево / General Toševo
+278 Кардам / Kardam
+279 Равно Поле / Ravno Pole
+280 Мусачево / Musačevo
+281 Столник / Stolnik
+282 Горна Малина / Gorna Malina
+283 Негушево / Neguševo
+284 Саранци / Saranci
+285 Чеканчево / Čekančevo
+286 Макоцево / Makocevo
+287 Макоцево - Сп. / Makocevo Spirka
+288 Долно Камарци / Dolno Kamarci
+289 Буново / Bunovo
+290 Мирково - Сп. / Mirkovo Spirka
+291 Челопеч / Čelopeč
+292 Златица / Zlatica
+293 Пирдоп / Pirdop
+294 Антон / Anton
+295 Копривщица / Koprivštica
+296 Стряма / Strjama
+297 Клисура / Klisura
+298 Розино / Rozino
+299 Христо Даново / Hristo Danovo
+300 Кърнаре / Karnare
+301 Иганово / Iganovo
+302 Анево / Anevo
+303 Сопот / Sopot
+304 Карлово / Karlovo
+305 Ботев / Botev
+306 Свежен / Svežen
+307 Калофер / Kalofer
+308 Осетеново / Osetenovo
+309 Манолово / Manolovo
+310 Тъжа / Taža
+311 Търничани / Tarničani
+312 Габарево / Gabarevo
+313 Павел Баня / Pavel Banja
+314 Сахране / Sahrane
+315 Голямо Дряново / Goljamo Drjanovo
+316 Дунавци / Dunavci
+317 Казанлък / Kazanlak
+318 Черганово / Čerganovo
+319 Тулово / Tulovo
+320 Дъбово / Dabovo
+321 Ветрен / Vetren
+322 Николаево / Nikolaevo
+323 Гурково / Gurkovo
+324 Конаре / Konare
+325 Твърдица / Tvardica
+326 Сборище / Sborište
+327 Шивачево / Šivačevo
+328 Чумерна / Čumerna
+329 Орешак / Orešak
+330 Селиминово / Seliminovo
+331 Гавраилово / Gavrailovo
+332 Чинтулово / Čintulovo
+333 Сливен / Sliven
+334 Таню Войвода / Tanju Vojvoda
+335 Желю Войвода / Želju Vojvoda
+336 Зимница / Zimnica
+337 Стралджа / Straldža
+338 Атолово / Atolovo
+339 Церковски / Cerkovski
+340 Карнобат / Karnobat
+341 Невестино / Nevestino
+342 Вълчин / Valčin
+343 Лозарево / Lozarevo
+344 Климаш / Klimaš
+345 Подвис / Podvis
+346 Прилеп / Prilep
+347 Ведрово / Vedrovo
+348 Завет / Zavet
+349 Завет - Сп. / Zavet Spirka
+350 Люляково / Ljuljakovo
+351 Листец / Listec
+352 Дъскотна / Daskotna
+353 Клм. 61+300 / Klm. 61+300
+354 Каравельово / Karaveljovo
+355 Търнак / Tarnak
+356 Струя / Struja
+357 Аспарухово / Asparuhovo
+358 Боряна / Borjana
+359 Дългопол / Dalgopol
+360 Величково / Veličkovo
+361 Нова Шипка / Nova Šipka
+362 Юнак / Junak
+363 Кубратово / Kubratovo
+364 Световрачане / Svetovračane
+365 Негован / Negovan
+366 Локорско / Lokorsko
+367 Кремиковци / Kremikovci
+368 Ботунец / Botunec
+369 Яна / Jana
+370 Обединена / Obedinena
+371 Русе Разпределителна / Ruse Razpredelitelna
+372 Русе Товарна-Сп. / Ruse Tovarna Spirka
+373 Русе / Ruse
+374 Долапите / Dolapite
+375 Божичен / Božičen
+376 Иваново / Ivanovo
+377 Кошов / Košov
+378 Табачка / Tabačka
+379 Две Могили / Dve Mogili
+380 Батишница / Batišnica
+381 Борово / Borovo
+382 Моруница / Morunica
+383 Стърмен / Starmen
+384 Бяла / Bjala
+385 Полско Косово / Polsko Kosovo
+386 Полски Тръмбеш / Polski Trambeš
+387 Раданово / Radanovo
+388 Полски Сеновец / Polski Senovec
+389 Петко Каравелово / Petko Karavelovo
+390 Куцина / Kucina
+391 Крушето / Krušeto
+392 Янтра / Jantra
+393 Правда / PRAVDA
+394 Горна Оряховица-Разпр.П. / Gorna Orjahovica-Razpr.P.
+395 Самоводене / Samovodene
+396 Трапезица / Trapezica
+397 Велико Търново / Veliko Tarnovo
+398 Дълга Лъка / Dalga Laka
+399 Дебелец / Debelec
+400 Соколово / Sokolovo
+401 Ганчовец / Gančovec
+402 Дряново - Сп. / Drjanovo Spirka
+403 Дряново / Drjanovo
+404 Бачо Киро / Bačo Kiro
+405 Царева Ливада / Careva Livada
+406 Стайновци / Stajnovci
+407 Трявна / Trjavna
+408 Божковци / Božkovci
+409 Плачковци / Plačkovci
+410 Радевци / Radevci
+411 Капиново / Kapinovo
+412 Кръстец / Krastec
+413 Борущица / Boruštica
+414 Радунци / Radunci
+415 Яворовец / Javorovec
+416 Ягода / Jagoda
+417 Змейово / Zmejovo
+418 Стара Загора / Stara Zagora
+419 Еленино / Elenino
+420 Християново / Hristijanovo
+421 Калояновец / Kalojanovec
+422 Михайлово / Mihajlovo
+423 Димитриево / Dimitrievo
+424 Меричлери-Сп. / Meričleri Spirka
+425 Меричлери / Meričleri
+426 Бряст / Brjast
+427 Димитровград Север / Dimitrovgrad Sever
+428 Узунджово / Uzundžovo
+429 Хасково / Haskovo
+430 Малево / Malevo
+431 Книжовник / Knižovnik
+432 Царева Поляна / Careva Poljana
+433 Маслиново / Maslinovo
+434 Мост / Most
+435 Добриново / Dobrinovo
+436 Мъдрец / Madrec
+437 Перперек / Perperek
+438 Калоянци / Kalojanci
+439 Средна Арда / Sredna Arda
+440 Звезделина / Zvezdelina
+441 Широко Поле / Široko Pole
+442 Момина Скала / Momina Skala
+443 Желязна Врата / Željazna Vrata
+444 Кърджали / Kardžali
+445 Глухар / Gluhar
+446 Джебел / Džebel
+447 Момчилград / Momčilgrad
+448 Горско Дюлево / Gorsko Djulevo
+449 Птичар / Ptičar
+450 Рогозче / Rogozče
+451 Подкова / Podkova
+452 Габрово / Gabrovo
+453 Иванковци / Ivankovci
+454 Съботковци / Sabotkovci
+455 Стойчевци / Stojčevci
+456 Захарна Фабрика / Zaharna Fabrika
+457 Горна Баня / Gorna Banja
+458 Владая / Vladaja
+459 Драгичево / Dragičevo
+460 Даскалово / Daskalovo
+461 Метал-Сп. / Metal Spirka
+462 Перник Разпределит. / Pernik Razpredelitelna
+463 Перник / Pernik
+464 Кракра / Krakra
+465 Чакрини / Čakrini
+466 Батановци / Batanovci
+467 Копаница / Kopanica
+468 Радомир / Radomir
+469 Кошарите / Košarite
+470 Долни Раковец / Dolni Rakovec
+471 Кондофрей / Kondofrej
+472 Чуковец / Čukovec
+473 Гълъбник / Galabnik
+474 Делян / Deljan
+475 Марек / Marek
+476 Дяково / Djakovo
+477 Яхиново / Jahinovo
+478 Дупница - Сп. / Dupnica Spirka
+479 Дупница / Dupnica
+480 Джерман / Džerman
+481 Коста Петров / Kosta Petrov
+482 Усойка / Usojka
+483 Бобошево / Boboševo
+484 Мурсалево / Mursalevo
+485 Кочериново / Kočerinovo
+486 Бяло Поле / Bjalo Pole
+487 Благоевград / Blagoevgrad
+488 Благоевград - Сп. / Blagoevgrad Spirka
+489 Железница / Železnica
+490 Симитли / Simitli
+491 Черниче / Černiče
+492 Стара Кресна / Stara Kresna
+493 Пею Яворов / Peju Javorov
+494 Кресна - Сп. / Kresna Spirka
+495 Кресна / Kresna
+496 Градешница / Gradešnica
+497 Струмяни / Strumjani
+498 Плоска Могила / Ploska Mogila
+499 Сандански / Sandanski
+500 Дамяница / Damjanica
+501 Генерал Тодоров / General Todorov
+502 Марикостино / Marikostino
+503 Марино Поле / Marino Pole
+504 Кулата / Kulata
+505 Голямо Село / Goljamo Selo
+506 Мало Село / Malo Selo
+507 Мламолово / Mlamolovo
+508 Банковица / Bankovica
+509 Бобов Дол / Bobov Dol
+510 Рупите / Rupite
+511 Мулетарово / Muletarovo
+512 Петрич / Petrič
+513 Бригадир / Brigadir
+514 Хераково / Herakovo
+515 Храбърско / Hrabarsko
+516 Златуша / Zlatuša
+517 Бригадирска Слава / Brigadirska Slava
+518 Разменна - Сп. / Razmenna Spirka
+519 Радуй / Raduj
+520 Разменна / Razmenna
+521 Прибой / Priboj
+522 Александар Димитров / Aleksandar Dimitrov
+523 Дебели Лак / Debeli Lak
+524 Егълница / Egalnica
+525 Калища / Kališta
+526 Жабляно / Žabljano
+527 Земен / Zemen
+528 Кар. Скакавица / Kar. Skakavica
+529 Скакавица / Skakavica
+530 Раждавица / Raždavica
+531 Шишковци / Šiškovci
+532 Копиловци / Kopilovci
+533 Кюстендил / Kjustendil
+534 Соволяно / Sovoljano
+535 Мазарачево / Mazaračevo
+536 Кършалево / Karšalevo
+537 Дождевица / Doždevica
+538 Церовица / Cerovica
+539 Леска / Leska
+540 Кутугерци / Kutugerci
+541 Долно Село / Dolno Selo
+542 Преколница / Prekolnica
+543 Гюешево / Gjueševo
+544 Моравица / Moravica
+545 Руска Бяла / Ruska Bjala
+546 Враца / Vraca
+547 Враца - Спирка / Vraca Spirka (Iztok)
+548 Бели Извор / Beli Izvor
+549 Власатица / Vlasatica
+550 Криводол / Krivodol
+551 Ракево / Rakevo
+552 Пали Лула / Pali Lula
+553 Охрид / Ohrid
+554 Бойчиновци / Bojčinovci
+555 Мърчево / Marčevo
+556 Габровница / Gabrovnica
+557 Долно Церовене / Dolno Cerovene
+558 Медковец / Medkovec
+559 Брусарци / Brusarci
+560 Дъбова Махала / Dabova Mahala
+561 Дреновец / Drenovec
+562 Воднянци / Vodnjanci
+563 Карбинци / Karbinci
+564 Скомля (Кантон-43) / Skomlja (Kanton-43)
+565 Орешец / Orešec
+566 Белщица / Belštica
+567 Димово / Dimovo
+568 Макреш / Makreš
+569 Срацимир / Sracimir
+570 Жеглица / Žeglica
+571 Синаговци-Гурково / Sinagovci-Gurkovo
+572 Видбол / Vidbol
+573 Слана Бара / Slana Bara
+574 Видин / Vidin
+575 Ерден / Erden
+576 Монтана / Montana
+577 Благово / Blagovo
+578 Боровци / Borovci
+579 Бокиловци / Bokilovci
+580 Берковица / Berkovica
+581 Крива Бара / Kriva Bara
+582 Василовци / Vasilovci
+583 Сталийска Махала / Stalijska Mahala
+584 Трайково / Trajkovo
+585 Момин Брод / Momin Brod
+586 Лом / Lom
+587 Тракия / Trakija
+588 Скутаре / Skutare
+589 Филипово / Filipovo
+590 Маноле / Manole
+591 Белозем / Belozem
+592 Опълченец / Opalčenec
+593 Оризово / Orizovo
+594 Черна Гора / Černa Gora
+595 Спасово / Spasovo
+596 Чирпан / Čirpan
+597 Свобода / Svoboda
+598 Самуилово / Samuilovo
+599 Калитиново / Kalitinovo
+600 Горно Ботево / Gorno Botevo
+601 Хан Аспарух / Han Asparuh
+602 Стоил Войвода / Stoil Vojvoda
+603 Нова Загора / Nova Zagora
+604 Коньово / Konjovo
+605 Кермен / Kermen
+606 Бозаджи / Bozadži
+607 Безмер / Bezmer
+608 Ямбол / Jambol
+609 Завой - Сп. / Zavoj Spirka
+610 Глумче / Glumče
+611 Кликач / Klikač
+612 Черноград / Černograd
+613 Тополица / Topolica
+614 Карагеоргиево / Karageorgievo
+615 Айтос / Ajtos
+616 Българово / Balgarovo
+617 Камено / Kameno
+618 Дружба / Družba
+619 Долно Езерово / Dolno Ezerovo
+620 Владимир Павлов / Vladimir Pavlov
+621 Бургас / Burgas
+622 Царацово / Caracovo
+623 Бенковски / Benkovski
+624 Съединение / Saedinenie
+625 Тополов Дол / Topolov Dol
+626 Овчеполци / Ovčepolci
+627 Цар Асен / Car Asen
+628 Смилец / Smilec
+629 Дюлево / Djulevo
+630 Стрелча / Strelča
+631 Панагюрище / Panagjurište
+632 Труд / Trud
+633 Граф Игнатиево / Graf Ignatievo
+634 Калояново / Kalojanovo
+635 Чернозем / Černozem
+636 Долна Махала / Dolna Mahala
+637 Горна Махала / Gorna Mahala
+638 Иван Вазово / Ivan Vazovo
+639 Песнопой / Pesnopoj
+640 Светлина - Сп. / Svetlina Spirka
+641 Отдих / Otdih
+642 Баня / Banja
+643 Дъбене / Dabene
+644 Черничево / Černičevo
+645 Хисар / Hisar
+646 Образцов Чифлик / Obrazcov Čiflik
+647 Червена Вода / Červena Voda
+648 Ястребово / Jastrebovo
+649 Ветово / Vetovo
+650 Кривня / Krivnja
+651 Сеново / Senovo
+652 Просторно / Prostorno
+653 Раковски / Rakovski
+654 Разград / Razgrad
+655 Ясеновец / Jasenovec
+656 Самуил / Samuil
+657 Висока Поляна / Visoka Poljana
+658 Байково / Bajkovo
+659 Хитрино / Chitrino
+660 Каменяк / Kamenjak
+661 Велино / Velino
+662 Златна Нива / Zlatna Niva
+663 Плиска / Pliska
+664 Силистра / Silistra
+665 Калипетрово / Kalipetrovo
+666 Бръмча / Bramča
+667 Алфатар / Alfatar
+668 Климатично Училище / Klimatično Učilište
+669 Межден / Mežden
+670 Дулово / Dulovo
+671 Черник / Černik
+672 Руйно / Rujno
+673 Безименна / Bezimenna
+674 Тодорово / Todorovo
+675 Китанчево / Kitančevo
+676 Исперих / Isperih
+677 Голям Поровец / Goljam Porovec
+678 Бърдоква / Bardokva
+679 Богданци / Bogdanci
+680 Голяма Вода / Goljama Voda
+681 Хърсово / Harsovo

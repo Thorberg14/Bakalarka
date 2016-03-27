@@ -52,4 +52,8 @@ public class DataWriter {
 		writer.close();
 		//Logger.logInfo(dm.stanica);
 	}
+	
+	public void close(){
+		MyWriter.closeWriter(dataFile);
+	}
 }
