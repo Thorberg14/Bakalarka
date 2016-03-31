@@ -96,6 +96,7 @@ public class Converter {
 		
 		for (int i = 0; i< edges.size(); i++){
 			Edge e = edges.get(i);
+			if (e.dist.get(0) > 20) Logger.logProblem(this,"Suspision edge length: "+e.dist.get(0)+" : "+e.lineType+" ("+e.from.name+")");
 			if (e.dist.get(0) < 0){
 				if (breaks.get(i)){
 					Logger.logDebug(this, "subroute discovered in "+e.lineType+" ("+e.from.name+")");

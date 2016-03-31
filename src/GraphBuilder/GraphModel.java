@@ -19,6 +19,7 @@ public class GraphModel {
 	protected boolean oriented = false;
 	protected boolean multigraph = true;
 	
+	
 	protected Hashtable<String, Node> nodes = new Hashtable<String, Node>();
 	protected Hashtable<String, Edge> edges = new Hashtable<String, Edge>();
 	
@@ -42,12 +43,6 @@ public class GraphModel {
 		return nodes.get(n);
 	}
 	
-	private Edge isInTheGraph(Edge e){
-		Edge edgeInGraph = edges.get(e.name);
-		if (edgeInGraph==null && e.oriented) 
-			edgeInGraph = edges.get(e.getInvertedName());
-		return edgeInGraph;
-	}
 	public boolean addEdge(Edge e){
 		if (e.oriented && !oriented) {
 			Logger.logError(this, "oriented edge To Not oriented graph!");
@@ -73,6 +68,13 @@ public class GraphModel {
 		return true;
 	}
 	
+	private Edge isInTheGraph(Edge e){
+		Edge edgeInGraph = edges.get(e.name);
+		if (edgeInGraph==null && !oriented) 
+			edgeInGraph = edges.get(e.getInvertedName());
+		return edgeInGraph;
+	}
+	
 	private void addEdgeToGraph(Edge e){
 
 		e.id = ++edgeId;
@@ -82,18 +84,7 @@ public class GraphModel {
 		e.from.edges.add(e);
 		if (!e.oriented) e.target.edges.add(e);
 	}
-
-	/*public Edge getEdge(String n){
-		
-		if (ORIENTED) return edges.get(n);
-		//ELSE
-		Edge e = edges.get(n);
-		if (e!= null) return e;
-		//ELSE
-		n = Edge.invertName(n);
-		e = edges.get(n);
-		return e;
-	}*/
+	
 	
 	
 	public void printToFile(int type,String sourceName,boolean oriented) throws FileNotFoundException, UnsupportedEncodingException{
@@ -150,18 +141,23 @@ public class GraphModel {
 		
 		File edgesF = new File("GRAPHS\\"+sourceName+"\\"+"default_edges.txt");
 		writer = MyWriter.getWriter(edgesF);
-
+		
 		for (Edge tmp : edgesA){
 			writer.print(tmp.from.id+" "+tmp.target.id);		
 			writer.print(" "+tmp.dist.get(0));
+			/*for (int j = 0;j<tmp.dist.size();j++) 
+				writer.print(" "+tmp.dist.get(j));
 			for (int j=0;j<tmp.time.size();j++)
-				writer.print(" "+tmp.time.get(j).minutes);
+				writer.print(" "+tmp.time.get(j).minutes);  */
 			writer.println();
+			
 			if (oriented){
 				writer.print(tmp.target.id+" "+tmp.from.id);		
 				writer.print(" "+tmp.dist.get(0));
+				/*for (int j = 0;j<tmp.dist.size();j++) 
+					writer.print(" "+tmp.dist.get(j));
 				for (int j=0;j<tmp.time.size();j++)
-					writer.print(" "+tmp.time.get(j).minutes);
+					writer.print(" "+tmp.time.get(j).minutes); */
 				writer.println();
 			}
 		}
