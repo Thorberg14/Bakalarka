@@ -1,9 +1,9 @@
-1 Katowice
-2 Sosnowiec Główny
-3 Zawiercie
-4 Włoszczowa Północ
-5 Kraków Główny
-6 Kozłów
+1 Kraków Główny
+2 Kozłów
+3 Włoszczowa Północ
+4 Katowice
+5 Sosnowiec Główny
+6 Zawiercie
 7 Idzikowice
 8 Grodzisk Mazowiecki
 9 Warszawa Zachodnia
@@ -67,18 +67,18 @@
 67 Myszków-Mrzygłód
 68 Zawiercie Borowe P.
 69 Dąbrowa Górnicza Ząbkowice
-70 Tunel
-71 Charsznica
-72 Gajówka
-73 Jeżówka
-74 Wolbrom
-75 Zarzecze
-76 Chrząstowice Olkusk.
-77 Jaroszowiec Olkuski
-78 Olkusz
-79 Bukowno
-80 Knieje
-81 Jaworzno Szczakowa
+70 Bukowno
+71 Knieje
+72 Jaworzno Szczakowa
+73 Tunel
+74 Charsznica
+75 Gajówka
+76 Jeżówka
+77 Wolbrom
+78 Zarzecze
+79 Chrząstowice Olkusk.
+80 Jaroszowiec Olkuski
+81 Olkusz
 82 Bukowno Przymiarki
 83 Sławków
 84 Dąbrowa Górnicza Wschodnia
@@ -255,13 +255,13 @@
 255 Tryńcza
 256 Gniewczyna
 257 Przeworsk
-258 Kraków Zabłocie
-259 Kraków Płaszów
-260 Kraków Prokocim
-261 Kraków Bieżanów
-262 Kraków Bieżanów Drożdżownia
-263 Wieliczka
-264 Wieliczka Rynek
+258 Kraków Bieżanów
+259 Kraków Bieżanów Drożdżownia
+260 Wieliczka
+261 Wieliczka Rynek
+262 Kraków Zabłocie
+263 Kraków Płaszów
+264 Kraków Prokocim
 265 Kokotów
 266 Węgrzce Wielkie
 267 Podłęże
@@ -361,57 +361,57 @@
 361 Budy Głogowskie
 362 Głogów Małopolski
 363 Zaczernie
-364 Kłokowa
-365 Łowczówek Pleśna
-366 Łowczów
-367 Tuchów
-368 Lubaszowa
-369 Siedliska k.Tuchowa
-370 Chojnik
-371 Gromnik
-372 Bogoniowice Cięźkowice
-373 Pławna
-374 Bobowa
-375 Bobowa Miasto
-376 Jankowa
-377 Wilczyska
-378 Stróże
-379 Grybów
-380 Ptaszkowa
-381 Mszalnica
-382 Kamionka Wielka
-383 Nowy Sącz Jamnica
-384 Nowy Sącz
-385 Nowy Sącz Biegonice
-386 Stary Sącz
-387 Barcice
-388 Rytro
-389 Młodów
-390 Piwniczna Zdrój
-391 Piwniczna
-392 Łomnica Zdrój
-393 Wierchomla Wielka
-394 Zubrzyk
-395 Żegiestów
-396 Żegiestów Zdrój
-397 Andrzejówka
-398 Milik
-399 Muszyna
-400 Muszyna Zdrój
-401 Powroźnik
-402 Krynica
+364 Muszyna
+365 Muszyna Zdrój
+366 Powroźnik
+367 Krynica
+368 Kłokowa
+369 Łowczówek Pleśna
+370 Łowczów
+371 Tuchów
+372 Lubaszowa
+373 Siedliska k.Tuchowa
+374 Chojnik
+375 Gromnik
+376 Bogoniowice Cięźkowice
+377 Pławna
+378 Bobowa
+379 Bobowa Miasto
+380 Jankowa
+381 Wilczyska
+382 Stróże
+383 Grybów
+384 Ptaszkowa
+385 Mszalnica
+386 Kamionka Wielka
+387 Nowy Sącz Jamnica
+388 Nowy Sącz
+389 Nowy Sącz Biegonice
+390 Stary Sącz
+391 Barcice
+392 Rytro
+393 Młodów
+394 Piwniczna Zdrój
+395 Piwniczna
+396 Łomnica Zdrój
+397 Wierchomla Wielka
+398 Zubrzyk
+399 Żegiestów
+400 Żegiestów Zdrój
+401 Andrzejówka
+402 Milik
 403 Muszyna Poprad
 404 Leluchów
 405 Čirč
 406 Orlov
 407 Plaveč
-408 Polna
-409 Szalowa
-410 Wola Łużańska
-411 Moszczenica Małopolska
-412 Gorlice Zagórzany
-413 Gorlice Glinik
-414 Gorlice
+408 Gorlice Zagórzany
+409 Gorlice Glinik
+410 Gorlice
+411 Polna
+412 Szalowa
+413 Wola Łużańska
+414 Moszczenica Małopolska
 415 Libusza
 416 Biecz
 417 Siepietnica
@@ -567,11 +567,11 @@
 567 Krzemionki
 568 Bielsko Biała Wschód
 569 Bielsko Biała Główna
-570 Mysłowice
-571 Dąbrowa Górnicza Huta Katowice
-572 Dąbrowa Górnicza Południowa
-573 Sosnowiec Maczki
-574 Jaworzno Szczakowa Lokomotywownia
+570 Dąbrowa Górnicza Huta Katowice
+571 Dąbrowa Górnicza Południowa
+572 Sosnowiec Maczki
+573 Jaworzno Szczakowa Lokomotywownia
+574 Mysłowice
 575 Jaworzno Ciężkowice
 576 Balin
 577 Trzebinia
@@ -621,24 +621,24 @@
 621 Wisła Dziechcinka
 622 Wisła Kopydło
 623 Wisła Głębce
-624 Zebrzydowice
-625 Kończyce
-626 Kaczyce
-627 Pogwizdów
-628 Cieszyn Marklowice
-629 Cieszyn
-630 Bielsko Biała Zachód
-631 Bielsko Biała Górne
-632 Bielsko Biała Aleksandrowice
-633 Bielsko Biała Wapienica
-634 Jaworze Jasienica
-635 Jasienica k. Bielska
-636 Grodziec Śląski
-637 Pogórze
-638 Goleszów Górny
-639 Bażanowice
-640 Cieszyn Mnisztwo
-641 Český Těšín
+624 Cieszyn
+625 Cieszyn Marklowice
+626 Pogwizdów
+627 Kaczyce
+628 Kończyce
+629 Zebrzydowice
+630 Český Těšín
+631 Bielsko Biała Zachód
+632 Bielsko Biała Górne
+633 Bielsko Biała Aleksandrowice
+634 Bielsko Biała Wapienica
+635 Jaworze Jasienica
+636 Jasienica k. Bielska
+637 Grodziec Śląski
+638 Pogórze
+639 Goleszów Górny
+640 Bażanowice
+641 Cieszyn Mnisztwo
 642 Nowy Bieruń
 643 Chełm Śląski
 644 Imielin
@@ -660,12 +660,12 @@
 660 Drogomyśl
 661 Pruchna
 662 Petrovice u Karviné
-663 Katowice Brynów
-664 Katowice Ligota
-665 Katowice Piotrowice
-666 Katowice Podlesie
-667 Tychy Zachodnie
-668 Tychy Miasto
+663 Tychy Zachodnie
+664 Tychy Miasto
+665 Katowice Brynów
+666 Katowice Ligota
+667 Katowice Piotrowice
+668 Katowice Podlesie
 669 Tychy Żwaków
 670 Kobiór
 671 Piasek
@@ -708,23 +708,23 @@
 708 Nędza
 709 Racibórz Markowice
 710 Racibórz
-711 Pszczyna Czarków
-712 Radostowice
-713 Suszec
-714 Suszec Kopalnia
-715 Suszec Rudziczka
-716 Żory
+711 Żory
+712 Pszczyna Czarków
+713 Radostowice
+714 Suszec
+715 Suszec Kopalnia
+716 Suszec Rudziczka
 717 Szczejkowice
 718 Rybnik Gotartowice
 719 Rybnik Piaski
-720 Mikołów Jamna
-721 Mikołów
-722 Łaziska Górne
-723 Łaziska Górne Brada
-724 Orzesze
-725 Orzesze Jaśkowice
-726 Łaziska Średnie
-727 Orzesze Miasto
+720 Łaziska Średnie
+721 Orzesze Jaśkowice
+722 Orzesze Miasto
+723 Mikołów Jamna
+724 Mikołów
+725 Łaziska Górne
+726 Łaziska Górne Brada
+727 Orzesze
 728 Czerwionka
 729 Czerwionka Dębieńsko
 730 Leszczyny
@@ -771,10 +771,10 @@
 771 Wistka
 772 Biała Pajęczańska
 773 Chorzew Siemkowice
-774 Częstochowa Gnaszyn
-775 Blachownia
-776 Herby Stare
-777 Herby Nowe
+774 Herby Stare
+775 Herby Nowe
+776 Częstochowa Gnaszyn
+777 Blachownia
 778 Lisów
 779 Kochanowice
 780 Lubliniec
@@ -788,17 +788,17 @@
 788 Chrząstowice
 789 Suchy Bór Opolski
 790 Opole Główne
-791 Chorzów Miasto
-792 Chorzów Stary
-793 Bytom Karb
-794 Bytom Północny
-795 Radzionków Rojca
-796 Radzionków
-797 Nakło Śląskie
-798 Miasteczko Śląskie
-799 Kalety
-800 Strzebiń
-801 Boronów
+791 Kalety
+792 Strzebiń
+793 Boronów
+794 Chorzów Miasto
+795 Chorzów Stary
+796 Bytom Karb
+797 Bytom Północny
+798 Radzionków Rojca
+799 Radzionków
+800 Nakło Śląskie
+801 Miasteczko Śląskie
 802 Koszęcin
 803 Rusinowice
 804 Ciasna
@@ -966,32 +966,32 @@
 966 Pszenno
 967 Świdnica Przedmieście
 968 Świdnica Miasto
-969 Smardzów Wrocławski
-970 Żórawina
-971 Węgry
-972 Boreczek
-973 Warkocz
-974 Strzelin
-975 Biały Kościół
-976 Henryków
-977 Ziębice
-978 Starczów
-979 Kamieniec Ząbkowicki
-980 Suszka
-981 Bardo Przyłęk
-982 Bardo Śląskie
-983 Ławica
-984 Kłodzko Główne
-985 Kłodzko Miasto
-986 Kłodzko Książek
-987 Kłodzko Zagórze
-988 Stary Wielisław
-989 Polanica Zdrój
-990 Szczytna
-991 Duszniki Zdrój
-992 Kulin Kłodzki
-993 Lewin Kłodzki
-994 Kudowa Zdrój
+969 Kłodzko Główne
+970 Kłodzko Miasto
+971 Kłodzko Książek
+972 Kłodzko Zagórze
+973 Stary Wielisław
+974 Polanica Zdrój
+975 Szczytna
+976 Duszniki Zdrój
+977 Kulin Kłodzki
+978 Lewin Kłodzki
+979 Kudowa Zdrój
+980 Smardzów Wrocławski
+981 Żórawina
+982 Węgry
+983 Boreczek
+984 Warkocz
+985 Strzelin
+986 Biały Kościół
+987 Henryków
+988 Ziębice
+989 Starczów
+990 Kamieniec Ząbkowicki
+991 Suszka
+992 Bardo Przyłęk
+993 Bardo Śląskie
+994 Ławica
 995 Krosnowice Kłodzkie
 996 Gorzanów
 997 Bystrzyca Kłodzka
@@ -1284,28 +1284,28 @@
 1284 Karczyn
 1285 Inowrocław Rąbinek
 1286 Inowrocław
-1287 Krzywizna
-1288 Biskupice k.Kluczborka
-1289 Byczyna Kluczborska
-1290 Kostów
-1291 Łęka Opatowska
-1292 Słupia
-1293 Kępno
-1294 Kuleje
-1295 Panki
-1296 Krzepice
-1297 Jaworzno k. Wielunia
-1298 Janinów
-1299 Dzietrzniki
-1300 Pątnów Wieluński
-1301 Wieluń
-1302 Wieluń Dąbrowa
-1303 Biała
-1304 Czastary
-1305 Pieczyska
-1306 Wieruszów Miasto
-1307 Wieruszów
-1308 Świba
+1287 Kuleje
+1288 Panki
+1289 Krzepice
+1290 Jaworzno k. Wielunia
+1291 Janinów
+1292 Dzietrzniki
+1293 Pątnów Wieluński
+1294 Wieluń
+1295 Wieluń Dąbrowa
+1296 Biała
+1297 Czastary
+1298 Pieczyska
+1299 Wieruszów Miasto
+1300 Wieruszów
+1301 Świba
+1302 Kępno
+1303 Krzywizna
+1304 Biskupice k.Kluczborka
+1305 Byczyna Kluczborska
+1306 Kostów
+1307 Łęka Opatowska
+1308 Słupia
 1309 Domanin
 1310 Ostrzeszów
 1311 Niedźwiedź Wlkp.
@@ -1634,20 +1634,20 @@
 1634 Szczecin Zdunowo
 1635 Szczecin Zdroje
 1636 Szczecin Port Centralny
-1637 Dolaszewo Wałeckie
-1638 Szydłowo Krajeńskie
-1639 Skrzatusz
-1640 Dobino Wałeckie
-1641 Wałcz
-1642 Wałcz Raduń
-1643 Strączno
-1644 Rutwica
-1645 Tuczno Krajeńskie
-1646 Jeziorki Wałeckie
-1647 Krępa Krajeńska
-1648 Biały Zdrój Południowy
-1649 Kalisz Pomorski
-1650 Kalisz Pomorski Miasto
+1637 Kalisz Pomorski Miasto
+1638 Kalisz Pomorski
+1639 Dolaszewo Wałeckie
+1640 Szydłowo Krajeńskie
+1641 Skrzatusz
+1642 Dobino Wałeckie
+1643 Wałcz
+1644 Wałcz Raduń
+1645 Strączno
+1646 Rutwica
+1647 Tuczno Krajeńskie
+1648 Jeziorki Wałeckie
+1649 Krępa Krajeńska
+1650 Biały Zdrój Południowy
 1651 Cybowo
 1652 Prostynia
 1653 Żółwino
@@ -1659,43 +1659,43 @@
 1659 Barzkowice
 1660 Pęzino
 1661 Ulikowo
-1662 Namyślin
-1663 Boleszkowice
-1664 Mieszkowice
-1665 Bielin
-1666 Witnica Chojeńska
-1667 Godków
-1668 Chojna
-1669 Lisie Pole
-1670 Krzywin Gryfiński
-1671 Widuchowa
-1672 Pacholęta
-1673 Dolna Odra
-1674 Gryfino
-1675 Czepino
-1676 Daleszewo Gryfińskie
-1677 Szczecin Podjuchy
+1662 Szczecin Podjuchy
+1663 Namyślin
+1664 Boleszkowice
+1665 Mieszkowice
+1666 Bielin
+1667 Witnica Chojeńska
+1668 Godków
+1669 Chojna
+1670 Lisie Pole
+1671 Krzywin Gryfiński
+1672 Widuchowa
+1673 Pacholęta
+1674 Dolna Odra
+1675 Gryfino
+1676 Czepino
+1677 Daleszewo Gryfińskie
 1678 Tantow
 1679 Szczecin Gumieńce
 1680 Grambow
-1681 Świnoujście Port
-1682 Świnoujście
-1683 Świnoujście Odra
-1684 Świnoujście Przytor
-1685 Lubiewo
-1686 Międzyzdroje
-1687 Warnowo
-1688 Ładzin
-1689 Mokrzyca Wielka
-1690 Wolin Pomorski
-1691 Recław
-1692 Troszyn
-1693 Parłówko
-1694 Wysoka Kamieńska
-1695 Kamień Pomorski
-1696 Jarszewo
-1697 Górki Pomorskie
-1698 Stawno
+1681 Kamień Pomorski
+1682 Jarszewo
+1683 Górki Pomorskie
+1684 Stawno
+1685 Wysoka Kamieńska
+1686 Świnoujście Port
+1687 Świnoujście
+1688 Świnoujście Odra
+1689 Świnoujście Przytor
+1690 Lubiewo
+1691 Międzyzdroje
+1692 Warnowo
+1693 Ładzin
+1694 Mokrzyca Wielka
+1695 Wolin Pomorski
+1696 Recław
+1697 Troszyn
+1698 Parłówko
 1699 Rokita
 1700 Łożnica
 1701 Białuń
@@ -2064,18 +2064,18 @@
 2064 Dolnik
 2065 Skórka
 2066 Piła Podlasie
-2067 Laskowice Pomorskie
-2068 Dąbrowy
-2069 Czersk Świecki
-2070 Kwiatki
-2071 Tleń
-2072 Osie
-2073 Łążek
-2074 Laski Tucholskie
-2075 Śliwiczki
-2076 Śliwice
-2077 Szlachta
-2078 Lipowa Tucholska
+2067 Lipowa Tucholska
+2068 Szlachta
+2069 Laskowice Pomorskie
+2070 Dąbrowy
+2071 Czersk Świecki
+2072 Kwiatki
+2073 Tleń
+2074 Osie
+2075 Łążek
+2076 Laski Tucholskie
+2077 Śliwiczki
+2078 Śliwice
 2079 Będźmirowice
 2080 Karsin
 2081 Bąk
@@ -2115,21 +2115,21 @@
 2115 Pelplin
 2116 Subkowy
 2117 Czarlin
-2118 Racławki
-2119 Silno
-2120 Piastoszyn
-2121 Żalno
-2122 Tuchola
-2123 Cekcyn
-2124 Wierzchucin Stary
-2125 Wierzchucin
-2126 Błądzim
-2127 Lipienica
-2128 Świekatowo
-2129 Lubania Lipiny
-2130 Serock
-2131 Wudzyn
-2132 Stronno
+2118 Wierzchucin
+2119 Błądzim
+2120 Lipienica
+2121 Świekatowo
+2122 Lubania Lipiny
+2123 Serock
+2124 Wudzyn
+2125 Stronno
+2126 Racławki
+2127 Silno
+2128 Piastoszyn
+2129 Żalno
+2130 Tuchola
+2131 Cekcyn
+2132 Wierzchucin Stary
 2133 Lniano
 2134 Jastrzębie Pomorskie
 2135 Drzycim
@@ -2262,14 +2262,14 @@
 2262 Jarzębiec
 2263 Grodzie
 2264 Braniewo
-2265 Królewo Malborskie
-2266 Stare Pole
-2267 Fiszewo
-2268 Gronowo Elbląskie
-2269 Elbląg
-2270 Komorowo Żuławskie
-2271 Bogaczewo
-2272 Młynary
+2265 Bogaczewo
+2266 Młynary
+2267 Królewo Malborskie
+2268 Stare Pole
+2269 Fiszewo
+2270 Gronowo Elbląskie
+2271 Elbląg
+2272 Komorowo Żuławskie
 2273 Pasłęk
 2274 Nowa Wieś Cierpkie
 2275 Zielonka Pasłęcka
@@ -2359,39 +2359,39 @@
 2359 Ostrołęka
 2360 Warszawa Wileńska
 2361 Małkinia
-2362 Zaręby Kościelne
-2363 Kietlanka
-2364 Szulborze Koty
-2365 Czyżew
-2366 Kity
-2367 Dąbrowa Łazy
-2368 Szepietowo
-2369 Szymbory
-2370 Jabłoń Kościelna
-2371 Racibory
-2372 Zdrody Nowe
-2373 Łapy Osse
-2374 Łapy
-2375 Uhowo
-2376 Bojary
-2377 Baciuty
-2378 Trypucie
-2379 Niewodnica
-2380 Klepacze
-2381 Białystok Wiadukt
-2382 Białystok
-2383 Wasilków
-2384 Czarny Blok
-2385 Wólka Ratowiecka
-2386 Czarna Białostocka
-2387 Machnacz
-2388 Rozedranka
-2389 Gieniusze
-2390 Sokółka
-2391 Kundzin
-2392 Czuprynowo
-2393 Kuźnica Białostocka
-2394 Grodno
+2362 Sokółka
+2363 Kundzin
+2364 Czuprynowo
+2365 Kuźnica Białostocka
+2366 Grodno
+2367 Zaręby Kościelne
+2368 Kietlanka
+2369 Szulborze Koty
+2370 Czyżew
+2371 Kity
+2372 Dąbrowa Łazy
+2373 Szepietowo
+2374 Szymbory
+2375 Jabłoń Kościelna
+2376 Racibory
+2377 Zdrody Nowe
+2378 Łapy Osse
+2379 Łapy
+2380 Uhowo
+2381 Bojary
+2382 Baciuty
+2383 Trypucie
+2384 Niewodnica
+2385 Klepacze
+2386 Białystok Wiadukt
+2387 Białystok
+2388 Wasilków
+2389 Czarny Blok
+2390 Wólka Ratowiecka
+2391 Czarna Białostocka
+2392 Machnacz
+2393 Rozedranka
+2394 Gieniusze
 2395 Gliniszcze
 2396 Racewo
 2397 Sidra
@@ -2583,15 +2583,15 @@
 2583 Leopoldów
 2584 Ryki
 2585 Stawy
-2586 Żulin
-2587 Krasnystaw Fabryczny
-2588 Krasnystaw Miasto
-2589 Izbica
-2590 Tarzymiechy
-2591 Ruskie Piaski
-2592 Złojec
-2593 Zawada
-2594 Zamość
+2586 Zamość
+2587 Zawada
+2588 Żulin
+2589 Krasnystaw Fabryczny
+2590 Krasnystaw Miasto
+2591 Izbica
+2592 Tarzymiechy
+2593 Ruskie Piaski
+2594 Złojec
 2595 Wólka Niedzieliska
 2596 Klemensów
 2597 Szczebrzeszyn
@@ -2636,36 +2636,36 @@
 2636 Huta Deregowska
 2637 Kłyżów
 2638 Stalowa Wola Południe
-2639 Warszawa Stadion
-2640 Warszawa Powiśle
-2641 Warszawa Śródmieście
-2642 Warszawa Ochota
-2643 Warszawa Włochy
-2644 Warszawa Ursus
-2645 Piastów
-2646 Pruszków
-2647 Brwinów
-2648 Milanówek
-2649 Jaktorów
-2650 Międzyborów
-2651 Żyrardów
-2652 Sucha Żyrardowska
-2653 Jesionka
-2654 Radziwiłłów Mazowiecki
-2655 Skierniewice Rawka
-2656 Dąbrowice Skierniewickie
-2657 Maków
-2658 Płyćwia
-2659 Lipce Reymontowskie
-2660 Krosnowa
-2661 Przyłęk Duży
-2662 Rogów
-2663 Wągry
-2664 Żakowice Południowe
-2665 Gałkówek
-2666 Żakowice
-2667 Justynów
-2668 Bedoń
+2639 Żakowice
+2640 Gałkówek
+2641 Bedoń
+2642 Warszawa Stadion
+2643 Warszawa Powiśle
+2644 Warszawa Śródmieście
+2645 Warszawa Ochota
+2646 Warszawa Włochy
+2647 Warszawa Ursus
+2648 Piastów
+2649 Pruszków
+2650 Brwinów
+2651 Milanówek
+2652 Jaktorów
+2653 Międzyborów
+2654 Żyrardów
+2655 Sucha Żyrardowska
+2656 Jesionka
+2657 Radziwiłłów Mazowiecki
+2658 Skierniewice Rawka
+2659 Dąbrowice Skierniewickie
+2660 Maków
+2661 Płyćwia
+2662 Lipce Reymontowskie
+2663 Krosnowa
+2664 Przyłęk Duży
+2665 Rogów
+2666 Wągry
+2667 Żakowice Południowe
+2668 Justynów
 2669 Łódź Andrzejów
 2670 Łódź Widzew
 2671 Łódź Niciarniana
@@ -2747,12 +2747,12 @@
 2747 Żychlin
 2748 Złotniki Kutnowskie
 2749 Sklęczki
-2750 Warszawa Praga
-2751 Warszawa Wola
-2752 Warszawa Kasprzaka
-2753 Warszawa Koło
-2754 Warszawa Gdańska
-2755 Warszawa ZOO
+2750 Warszawa Wola
+2751 Warszawa Kasprzaka
+2752 Warszawa Koło
+2753 Warszawa Gdańska
+2754 Warszawa ZOO
+2755 Warszawa Praga
 2756 Warszawa Toruńska
 2757 Warszawa Żerań
 2758 Warszawa Płudy
@@ -2787,10 +2787,10 @@
 2787 Dąbkowizna
 2788 Radzymin
 2789 Krusze
-2790 Ząbki
-2791 Zielonka
-2792 Warszawa Rembertów
-2793 Zielonka Bankowa
+2790 Warszawa Rembertów
+2791 Zielonka Bankowa
+2792 Zielonka
+2793 Ząbki
 2794 Ossów
 2795 Kobyłka
 2796 Wołomin
@@ -2849,28 +2849,28 @@
 2849 Chrosna
 2850 Zabieżki
 2851 Augustówka
-2852 Warszawa Śródmieście WKD
-2853 Warszawa Ochota WKD
-2854 Warszawa Zachodnia WKD
-2855 Warszawa Reduta Ordona
-2856 Warszawa Aleje Jerozolimskie WKD
-2857 Warszawa Raków
-2858 Warszawa Salomea
-2859 Opacz
-2860 Michałowice
-2861 Reguły
-2862 Malichy
-2863 Tworki
-2864 Pruszków WKD
-2865 Komorów
-2866 Nowa Wieś Warszawska
-2867 Kanie Helenowskie
-2868 Otrębusy
-2869 Podkowa Leśna Wschodnia
-2870 Podkowa Leśna Główna
-2871 Podkowa Leśna Zachodnia
-2872 Polesie
-2873 Milanówek Grudów
+2852 Podkowa Leśna Zachodnia
+2853 Polesie
+2854 Milanówek Grudów
+2855 Warszawa Śródmieście WKD
+2856 Warszawa Ochota WKD
+2857 Warszawa Zachodnia WKD
+2858 Warszawa Reduta Ordona
+2859 Warszawa Aleje Jerozolimskie WKD
+2860 Warszawa Raków
+2861 Warszawa Salomea
+2862 Opacz
+2863 Michałowice
+2864 Reguły
+2865 Malichy
+2866 Tworki
+2867 Pruszków WKD
+2868 Komorów
+2869 Nowa Wieś Warszawska
+2870 Kanie Helenowskie
+2871 Otrębusy
+2872 Podkowa Leśna Wschodnia
+2873 Podkowa Leśna Główna
 2874 Kazimierówka
 2875 Brzózki
 2876 Grodzisk Mazowiecki Okrężna

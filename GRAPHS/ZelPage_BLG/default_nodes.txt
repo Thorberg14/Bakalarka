@@ -360,13 +360,13 @@
 360 Величково / Veličkovo
 361 Нова Шипка / Nova Šipka
 362 Юнак / Junak
-363 Кубратово / Kubratovo
-364 Световрачане / Svetovračane
-365 Негован / Negovan
-366 Локорско / Lokorsko
-367 Кремиковци / Kremikovci
-368 Ботунец / Botunec
-369 Яна / Jana
+363 Кремиковци / Kremikovci
+364 Ботунец / Botunec
+365 Яна / Jana
+366 Кубратово / Kubratovo
+367 Световрачане / Svetovračane
+368 Негован / Negovan
+369 Локорско / Lokorsko
 370 Обединена / Obedinena
 371 Русе Разпределителна / Ruse Razpredelitelna
 372 Русе Товарна-Сп. / Ruse Tovarna Spirka
@@ -584,9 +584,9 @@
 584 Трайково / Trajkovo
 585 Момин Брод / Momin Brod
 586 Лом / Lom
-587 Тракия / Trakija
+587 Филипово / Filipovo
 588 Скутаре / Skutare
-589 Филипово / Filipovo
+589 Тракия / Trakija
 590 Маноле / Manole
 591 Белозем / Belozem
 592 Опълченец / Opalčenec

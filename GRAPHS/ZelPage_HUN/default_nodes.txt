@@ -31,24 +31,24 @@
 31 Budaörs
 32 Budapest-Kelenföld
 33 Budapest-Déli pu.
-34 Budapest-Nyugati pu.
-35 Rákosrendező
-36 Budapest-Angyalföld
-37 Újpest
-38 Aquincum felső
-39 Óbuda
-40 Budapest-Üröm
-41 Solymár
-42 Pilisvörösvár
-43 Szabadságliget
-44 Pázmáneum
-45 Klotildliget
-46 Piliscsaba
-47 Pilisjászfalu
-48 Piliscsév
-49 Leányvár
-50 Dorog
-51 Tokod
+34 Tokod
+35 Dorog
+36 Budapest-Nyugati pu.
+37 Rákosrendező
+38 Budapest-Angyalföld
+39 Újpest
+40 Aquincum felső
+41 Óbuda
+42 Budapest-Üröm
+43 Solymár
+44 Pilisvörösvár
+45 Szabadságliget
+46 Pázmáneum
+47 Klotildliget
+48 Piliscsaba
+49 Pilisjászfalu
+50 Piliscsév
+51 Leányvár
 52 Esztergom-Kertváros
 53 Esztergom
 54 Tát
@@ -115,20 +115,20 @@
 115 Vinár
 116 Külsővat
 117 Celldömölk
-118 Nyúl
-119 Écs
-120 Pannonhalma
-121 Ravazd
-122 Tarjánpuszta
-123 Győrasszonyfa
-124 Bakonypéterd
-125 Veszprémvarsány
-126 Bakonygyirót
-127 Bakonyszentlászló
-128 Vinye
-129 Porva-Csesznek
-130 Zirc
-131 Dudarbánya
+118 Zirc
+119 Dudarbánya
+120 Nyúl
+121 Écs
+122 Pannonhalma
+123 Ravazd
+124 Tarjánpuszta
+125 Győrasszonyfa
+126 Bakonypéterd
+127 Veszprémvarsány
+128 Bakonygyirót
+129 Bakonyszentlászló
+130 Vinye
+131 Porva-Csesznek
 132 Eplény
 133 Veszprém
 134 Felsőgalla
@@ -301,17 +301,17 @@
 301 Ötvös
 302 Dabronc
 303 Ukk
-304 Tapolca
-305 Balatonszentgyörgy
-306 Fenékpuszta
-307 Keszthely
-308 Alsógyenes
-309 Gyenesdiás
-310 Vonyarcvashegy
-311 Balatongyörök
-312 Becehegy
-313 Balatonederics
-314 Raposka
+304 Balatonszentgyörgy
+305 Fenékpuszta
+306 Keszthely
+307 Alsógyenes
+308 Gyenesdiás
+309 Vonyarcvashegy
+310 Balatongyörök
+311 Becehegy
+312 Balatonederics
+313 Raposka
+314 Tapolca
 315 Lesencetomaj
 316 Uzsabánya alsó
 317 Uzsa
@@ -462,17 +462,17 @@
 462 Pálmajor
 463 Somogyszentpál felső
 464 Somogyszentpál
-465 Pusztaszabolcs
-466 Budafok-Háros
-467 Budatétény
-468 Nagytétény-Diósd
-469 Érdliget
-470 Érd felső
-471 Érd
-472 Százhalombatta
-473 Dunai Finomító
-474 Ercsi
-475 Iváncsa
+465 Budafok-Háros
+466 Budatétény
+467 Nagytétény-Diósd
+468 Érdliget
+469 Érd felső
+470 Érd
+471 Százhalombatta
+472 Dunai Finomító
+473 Ercsi
+474 Iváncsa
+475 Pusztaszabolcs
 476 Szabadegyháza
 477 Sárosd
 478 Nagylók
@@ -862,9 +862,9 @@
 862 Szellőhát
 863 Jászladány
 864 Szászberek
-865 Eger
-866 Maklár
-867 Andornaktálya
+865 Maklár
+866 Andornaktálya
+867 Eger
 868 Egervár
 869 Eger-Felnémet
 870 Almár
@@ -957,61 +957,61 @@
 957 Göncruszka
 958 Gönc
 959 Zsujta
-960 Budapest-Zugló
-961 Kőbánya alsó
-962 Kőbánya-Kispest
-963 Pestszentlőrinc
-964 Szemeretelep
-965 Vecsés
-966 Vecsés-Kertekalja
-967 Üllő
-968 Hosszúberek-Péteri
-969 Monor
-970 Monorierdő
-971 Pilis
-972 Albertirsa
-973 Ceglédbercel
-974 Ceglédbercel-Cserő
-975 Budai út
-976 Cegléd
-977 Abony
-978 Szajol
-979 Törökszentmiklós
-980 Barta
-981 Pusztaszakállas
-982 Fegyvernek-Örményes
-983 Kisújszállás
-984 Karcag
-985 Püspökladány
-986 Kaba
-987 Hajdúszoboszló
-988 Ebes
-989 Debrecen
-990 Debrecen-Csapókert
-991 Apafa
-992 Bocskaikert
-993 Hajdúhadház
-994 Téglás
-995 Újfehértó
-996 Császárszállás
-997 Nyíregyháza
-998 Tarcal
-999 Tokaj
-1000 Rakamaz
-1001 Virányos
-1002 Görögszállás
-1003 Nyírtelek
-1004 Füzesbokor
-1005 Sóstó
-1006 Sóstóhegy
-1007 Kemecse
-1008 Nyírbogdány
-1009 Kék
-1010 Demecser
-1011 Gégény
-1012 Pátroha
-1013 Ajak
-1014 Kisvárda
+960 Nyíregyháza
+961 Budapest-Zugló
+962 Kőbánya alsó
+963 Kőbánya-Kispest
+964 Pestszentlőrinc
+965 Szemeretelep
+966 Vecsés
+967 Vecsés-Kertekalja
+968 Üllő
+969 Hosszúberek-Péteri
+970 Monor
+971 Monorierdő
+972 Pilis
+973 Albertirsa
+974 Ceglédbercel
+975 Ceglédbercel-Cserő
+976 Budai út
+977 Cegléd
+978 Abony
+979 Szajol
+980 Törökszentmiklós
+981 Barta
+982 Pusztaszakállas
+983 Fegyvernek-Örményes
+984 Kisújszállás
+985 Karcag
+986 Püspökladány
+987 Kaba
+988 Hajdúszoboszló
+989 Ebes
+990 Debrecen
+991 Debrecen-Csapókert
+992 Apafa
+993 Bocskaikert
+994 Hajdúhadház
+995 Téglás
+996 Újfehértó
+997 Császárszállás
+998 Sóstó
+999 Sóstóhegy
+1000 Tarcal
+1001 Kemecse
+1002 Tokaj
+1003 Nyírbogdány
+1004 Kék
+1005 Rakamaz
+1006 Demecser
+1007 Gégény
+1008 Virányos
+1009 Pátroha
+1010 Görögszállás
+1011 Ajak
+1012 Nyírtelek
+1013 Kisvárda
+1014 Füzesbokor
 1015 Kisvárda-Hármasút
 1016 Fényeslitke
 1017 Komoró
@@ -1256,30 +1256,30 @@
 1256 Deszk
 1257 Szőreg
 1258 Újszeged
-1259 Pusztabánréve
-1260 Halászlak
-1261 Szarvas
-1262 Sirató
-1263 Csabacsűd felső
-1264 Csabacsűd
-1265 Nagyrét
-1266 Kisszénás
-1267 Kiscsákó
-1268 Nagyszénás
-1269 Pusztaszenttornya
-1270 Orosháza alsó
-1271 Orosháza-Üveggyár
-1272 Orosháza
-1273 Orosháza felső
-1274 Bogárzó
-1275 Kardoskút
-1276 Tótkomlós
-1277 Nagyér
-1278 Ambrózfalva
-1279 Pitvaros
-1280 Belsőperegpuszta
-1281 Tompapuszta
-1282 Battonya
+1259 Belsőperegpuszta
+1260 Tompapuszta
+1261 Battonya
+1262 Pusztabánréve
+1263 Halászlak
+1264 Szarvas
+1265 Sirató
+1266 Csabacsűd felső
+1267 Csabacsűd
+1268 Nagyrét
+1269 Kisszénás
+1270 Kiscsákó
+1271 Nagyszénás
+1272 Pusztaszenttornya
+1273 Orosháza alsó
+1274 Orosháza-Üveggyár
+1275 Orosháza
+1276 Orosháza felső
+1277 Bogárzó
+1278 Kardoskút
+1279 Tótkomlós
+1280 Nagyér
+1281 Ambrózfalva
+1282 Pitvaros
 1283 Kondoros
 1284 Körösnagyharsány
 1285 Körösszakál
@@ -1599,18 +1599,18 @@
 1599 Horgásztanyák
 1600 Angyalisziget
 1601 Ráckeve
-1602 Örs vezér tere
-1603 Rákosfalva
-1604 Nagyicce
-1605 Sashalom
-1606 Mátyásföld, Imre utca
-1607 Mátyásföld, Repülőtér
-1608 Mátyásföld alsó
-1609 Cinkota
-1610 Cinkota alsó
-1611 Árpádföld
-1612 Szabadságtelep
-1613 Csömör
+1602 Cinkota
+1603 Cinkota alsó
+1604 Árpádföld
+1605 Szabadságtelep
+1606 Csömör
+1607 Örs vezér tere
+1608 Rákosfalva
+1609 Nagyicce
+1610 Sashalom
+1611 Mátyásföld, Imre utca
+1612 Mátyásföld, Repülőtér
+1613 Mátyásföld alsó
 1614 Ilonatelep
 1615 Kistarcsa Kórház
 1616 Kistarcsa
@@ -1640,17 +1640,17 @@
 1640 Kistolmács
 1641 Baláta ló
 1642 Kaszó
-1643 Almamellék
-1644 Szentrnártonpuszta
-1645 Lukafai elágazás
-1646 Lukafa
+1643 Lukafai elágazás
+1644 Lukafa
+1645 Almamellék
+1646 Szentrnártonpuszta
 1647 Sasrét erdei iskola
 1648 Sasrét
-1649 Lassi
-1650 Malorntelelő
-1651 Gyöngyösoldal
-1652 Gernenci delta
-1653 Gernenc-Dunapart
+1649 Gernenc-Dunapart
+1650 Gernenci delta
+1651 Lassi
+1652 Malorntelelő
+1653 Gyöngyösoldal
 1654 Keselyűs
 1655 Bárányfok
 1656 Gyóta-Busvár

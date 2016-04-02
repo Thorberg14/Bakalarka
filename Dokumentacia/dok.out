@@ -1,0 +1,41 @@
+\BOOKMARK [1][-]{section.1}{\332vod}{}% 1
+\BOOKMARK [1][-]{section.2}{Zdroje}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Cesk\351 dr\341hy}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{CP}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Zelpage.cz}{section.2}% 5
+\BOOKMARK [1][-]{section.3}{Komunik\341cia s webom}{}% 6
+\BOOKMARK [2][-]{subsection.3.1}{Webov\375 formul\341r}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.2}{Webov\351 tabulky}{section.3}% 8
+\BOOKMARK [1][-]{section.4}{Grafy v informatike}{}% 9
+\BOOKMARK [2][-]{subsection.4.1}{Te\363ria grafov}{section.4}% 10
+\BOOKMARK [3][-]{subsubsection.4.1.1}{Vlastnosti vrcholov}{subsection.4.1}% 11
+\BOOKMARK [3][-]{subsubsection.4.1.2}{Vlastnosti hr\341n}{subsection.4.1}% 12
+\BOOKMARK [3][-]{subsubsection.4.1.3}{Merateln\351 vlastnosti grafu}{subsection.4.1}% 13
+\BOOKMARK [2][-]{subsection.4.2}{Reprezent\341cia grafu}{section.4}% 14
+\BOOKMARK [3][-]{subsubsection.4.2.1}{Grafick\341 reprezent\341cia}{subsection.4.2}% 15
+\BOOKMARK [3][-]{subsubsection.4.2.2}{Reprezent\341cia maticou}{subsection.4.2}% 16
+\BOOKMARK [3][-]{subsubsection.4.2.3}{\227tandardn\351 textov\351 form\341ty}{subsection.4.2}% 17
+\BOOKMARK [2][-]{subsection.4.3}{N\341stroje na pr\341cu s grafom}{section.4}% 18
+\BOOKMARK [3][-]{subsubsection.4.3.1}{Pajek}{subsection.4.3}% 19
+\BOOKMARK [3][-]{subsubsection.4.3.2}{Gephi}{subsection.4.3}% 20
+\BOOKMARK [3][-]{subsubsection.4.3.3}{GraphTool}{subsection.4.3}% 21
+\BOOKMARK [1][-]{section.5}{\227pecifik\341cia programu}{}% 22
+\BOOKMARK [2][-]{subsection.5.1}{Funkcion\341lne n\341roky}{section.5}% 23
+\BOOKMARK [3][-]{subsubsection.5.1.1}{V\375ber zdroja}{subsection.5.1}% 24
+\BOOKMARK [3][-]{subsubsection.5.1.2}{V\375ber grafu}{subsection.5.1}% 25
+\BOOKMARK [3][-]{subsubsection.5.1.3}{Zhrnutie vlastnost\355}{subsection.5.1}% 26
+\BOOKMARK [2][-]{subsection.5.2}{Jazykov\351 n\341roky}{section.5}% 27
+\BOOKMARK [3][-]{subsubsection.5.2.1}{Java}{subsection.5.2}% 28
+\BOOKMARK [1][-]{section.6}{\227trukt\372ra programu}{}% 29
+\BOOKMARK [2][-]{subsection.6.1}{DataCollector}{section.6}% 30
+\BOOKMARK [3][-]{subsubsection.6.1.1}{WebCommunicator}{subsection.6.1}% 31
+\BOOKMARK [3][-]{subsubsection.6.1.2}{HTMLParser}{subsection.6.1}% 32
+\BOOKMARK [3][-]{subsubsection.6.1.3}{DataWriter}{subsection.6.1}% 33
+\BOOKMARK [3][-]{subsubsection.6.1.4}{InputGUI}{subsection.6.1}% 34
+\BOOKMARK [2][-]{subsection.6.2}{GraphBuilder}{section.6}% 35
+\BOOKMARK [3][-]{subsubsection.6.2.1}{DataReader}{subsection.6.2}% 36
+\BOOKMARK [3][-]{subsubsection.6.2.2}{Converter}{subsection.6.2}% 37
+\BOOKMARK [3][-]{subsubsection.6.2.3}{GraphModel}{subsection.6.2}% 38
+\BOOKMARK [3][-]{subsubsection.6.2.4}{InputGUI}{subsection.6.2}% 39
+\BOOKMARK [2][-]{subsection.6.3}{GraphAnalyzer}{section.6}% 40
+\BOOKMARK [1][-]{section.7}{Implement\341cia}{}% 41

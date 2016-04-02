@@ -805,6 +805,7 @@ SUB_ROUTE;vlak_148;
 Cieszyn;;;39;
 Český Těšín;;;41;
 END_ROUTE;
+END_ROUTE;
 ROUTE;vlak_149;
 Oświęcim;;;0;
 Nowy Bieruń;;;5;

@@ -2,6 +2,7 @@ package GraphBuilder;
 import java.io.FileNotFoundException;
 import java.io.UnsupportedEncodingException;
 import java.util.ArrayList;
+import java.util.Comparator;
 import java.util.List;
 
 import graph.Edge;
@@ -12,61 +13,103 @@ import util.Time;
 
 public class Converter {
 	
-	protected List<Edge> edges = new ArrayList<Edge>();
-	protected List<Boolean> breaks = new ArrayList<Boolean>(); 
-	
-	protected DataModul last = null; 
-	protected Node lastNode = null;
 	protected String routeName = null;
 	protected GraphModel gm = null;
 	
-	protected boolean subRoutePossibility = false;
-	protected boolean ignoreRoute = false;
+	protected List<DataModul> l;
 	
 	protected final boolean EDGE_ORIENTATION = false;
 	
 	public Converter(GraphModel gm){
 		this.gm = gm; 
 	}
-	public void convert(DataModul dm){
-		if (this.ignoreRoute) return;
-		
-		Node n = new Node(dm.stanica); 
-		if ( gm.addNode(n) == false)
-			n = gm.getNode(n.name);
-		
-		if (last!=null){
-			
-			Edge e = new Edge(lastNode,n,EDGE_ORIENTATION);		
-			e.time.add(getTime(last,dm));
-			e.dist.add(new Integer(dm.vzdialenost - last.vzdialenost));				
-			e.lineType = dm.lineType;
-			e.target = n;
-			e.from = lastNode;
-			
-			edges.add(e);
-			breaks.add(this.subRoutePossibility);
-			/*
-			if (e.dist < 0){
-				if (this.subRoutePossibility){
-					Logger.logDebug(this, "subroute discovered in "+dm.lineType+" ("+dm.stanica+")");
-				}
-				else {
-					Logger.logProblem(this, "negative distance in "+dm.lineType+" ("+dm.stanica+")");
-					ignoreRoute = true;
-				}
-			}
-			else
-			gm.addEdge(e); */
-			
-		}
-		
-		last = dm;	
-		lastNode = n;
-		this.subRoutePossibility = false;
-		
+	
+	public void newRoute(String s) throws FileNotFoundException, UnsupportedEncodingException{
+		routeName = s;
+		l = new ArrayList<DataModul>();
 	}
 	
+	public void addData(DataModul dm){
+		l.add(dm);
+	}
+	
+	public boolean tryToConnect(DataModul dm){
+		DataModul last = getLast();
+		if (last!=null){
+			if (getTime(last,dm).minutes < 0) return false;
+			if (dm.vzdialenost - last.vzdialenost  < 0) return false;
+		}
+		addData(dm);
+		return true;	
+	}
+	
+	private void convertRoute(){
+		Node lastNode = null;
+		
+		for (int i = 0;i<l.size();i++){
+			DataModul dm = l.get(i);
+			
+			Node n = new Node(dm.stanica); 
+			if ( gm.addNode(n) == false)
+				n = gm.getNode(n.name);
+			
+			if (i > 0){
+				//create Edge
+				DataModul last = l.get(i-1); 
+				Edge e = new Edge(lastNode,n,EDGE_ORIENTATION);		
+				e.time.add(getTime(last,dm));
+				e.dist.add(new Integer(dm.vzdialenost - last.vzdialenost));				
+				e.lineType = dm.lineType;
+				e.target = n;
+				e.from = lastNode;
+				
+				gm.addEdge(e);
+			}
+			
+			lastNode = n;
+		}
+		
+	}
+			
+	public void endRoute(){
+		
+		if (l.size() <= 0) { Logger.logDebug(this, "empty rotue"); return; }
+		int numberOfErrors = findNegativeConnection();
+		
+		if (numberOfErrors > 0){
+			Logger.logDebug(this, "Erors: "+numberOfErrors);
+			if (numberOfErrors == l.size()-1)
+				Logger.logProblem(this, "Reversed route ("+this.routeName+") with size: "+l.size());
+			else Logger.logProblem(this,"Route ("+this.routeName+") with negative values!");
+			
+			sortRouteByKm();
+		}
+		
+		convertRoute();
+	}
+	
+	private void sortRouteByKm(){
+		l.sort(new Comparator<DataModul>(){
+			@Override
+			public int compare(DataModul d1, DataModul d2) {
+				return d1.vzdialenost - d2.vzdialenost;
+			}	
+		});
+	}
+	private int findNegativeConnection(){
+		int nc = 0;
+		DataModul last = null;
+		for (DataModul dm : l){
+			if (last!=null){
+				if (getTime(last,dm).minutes < 0 || dm.vzdialenost - last.vzdialenost  < 0){ 
+					nc++;
+					Logger.logDebug(this, "Negative value in: "+last.stanica+" -> "+dm.stanica);
+				}
+			}
+			last = dm;
+		}
+		return nc;
+	}
 	private Time getTime(DataModul last, DataModul dm){
 		Time t;
 		if (dm.prichod.length() > 0) t = new Time(dm.prichod);
@@ -76,45 +119,9 @@ public class Converter {
 		return t;		
 	}
 	
-	public void newRoute(String s) throws FileNotFoundException, UnsupportedEncodingException{
-		routeName = s;
-		last = null;
-		lastNode = null;
+	private DataModul getLast(){
+		if (l == null || l.size() < 1) return null;
+		return l.get(l.size()-1);
 	}
-	
-	public void endRoute(){
-		if (edges.size() <= 0) { Logger.logDebug(this, "empty rotue"); return; }
-		boolean rev = true;
-		for (Edge e : edges) 
-			if (e.dist.get(0) > 0) 
-				rev = false;
-		if (rev){
-			Logger.logDebug(this,"reversed distance route ("+edges.size()+") discovered in "+edges.get(0).lineType);
-			for (Edge e : edges) 
-				e.dist.set(0, new Integer( e.dist.get(0) * -1));
-		}
 		
-		for (int i = 0; i< edges.size(); i++){
-			Edge e = edges.get(i);
-			if (e.dist.get(0) > 20) Logger.logProblem(this,"Suspision edge length: "+e.dist.get(0)+" : "+e.lineType+" ("+e.from.name+")");
-			if (e.dist.get(0) < 0){
-				if (breaks.get(i)){
-					Logger.logDebug(this, "subroute discovered in "+e.lineType+" ("+e.from.name+")");
-				}
-				else {
-					Logger.logProblem(this, "negative distance in "+e.lineType+" ("+e.from.name+")");
-					return;
-				}
-			}
-			else 
-				gm.addEdge(e);
-		}
-		last = null;
-		lastNode = null;
-	}
-	
-	public void setSubRoutePos(boolean b){
-		this.subRoutePossibility = b;
-	}
-	
 }

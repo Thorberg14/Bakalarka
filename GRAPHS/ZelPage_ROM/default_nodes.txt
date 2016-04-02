@@ -1,63 +1,63 @@
-1 Braşov
-2 Bartolomeu
-3 Ghimbav
-4 Codlea
-5 Dumbrăviţa Bârsei
-6 Vlădeni Ardeal
-7 Valea Homorod
-8 Brădet
-9 Perşani
-10 Şercaia
-11 Şercaia  Haltă
-12 Mândra Oltului
-13 Făgăraş
-14 Beclean pe Olt
-15 Dridif
-16 Voila
-17 Olteţ
-18 Viştea
-19 Ucea
-20 Arpaş
-21 Cârta
-22 Scoreiu
-23 Sărata Colun
-24 Porumbacu
-25 Avrig
-26 Mârşa
-27 Racoviţă
-28 Sebeş Olt
-29 Podu Olt
-30 Tălmaciu
-31 Veştem
-32 Mohu
-33 Sibiu Grupa Selimbăr
-34 Sibiu Triaj
-35 Atelier Zona
-36 Sibiu
-37 Turnişor
-38 Cristian Sibiu
-39 Orlat
-40 Sibiel
-41 Săcelu Sibiului
-42 Sălişte
-43 Aciliu
-44 Tilişca
-45 Apoldu de Sus
-46 Apoldu de Joş
-47 Miercurea Sibiu
-48 Băile Miercurea
-49 Cunţa
-50 Cut
-51 Răhău
-52 Sebeş Alba
-53 Sebeş Glod
-54 Vintu de Jos
-55 Teiuş
-56 Coşlariu
-57 Sântimbru Haltă
-58 Sântimbru
-59 Bărăbanţ
-60 Alba Iulia
+1 Teiuş
+2 Coşlariu
+3 Sântimbru Haltă
+4 Sântimbru
+5 Bărăbanţ
+6 Alba Iulia
+7 Vintu de Jos
+8 Braşov
+9 Bartolomeu
+10 Ghimbav
+11 Codlea
+12 Dumbrăviţa Bârsei
+13 Vlădeni Ardeal
+14 Valea Homorod
+15 Brădet
+16 Perşani
+17 Şercaia
+18 Şercaia  Haltă
+19 Mândra Oltului
+20 Făgăraş
+21 Beclean pe Olt
+22 Dridif
+23 Voila
+24 Olteţ
+25 Viştea
+26 Ucea
+27 Arpaş
+28 Cârta
+29 Scoreiu
+30 Sărata Colun
+31 Porumbacu
+32 Avrig
+33 Mârşa
+34 Racoviţă
+35 Sebeş Olt
+36 Podu Olt
+37 Tălmaciu
+38 Veştem
+39 Mohu
+40 Sibiu Grupa Selimbăr
+41 Sibiu Triaj
+42 Atelier Zona
+43 Sibiu
+44 Turnişor
+45 Cristian Sibiu
+46 Orlat
+47 Sibiel
+48 Săcelu Sibiului
+49 Sălişte
+50 Aciliu
+51 Tilişca
+52 Apoldu de Sus
+53 Apoldu de Joş
+54 Miercurea Sibiu
+55 Băile Miercurea
+56 Cunţa
+57 Cut
+58 Răhău
+59 Sebeş Alba
+60 Sebeş Glod
 61 Blandiana
 62 Tărtăria
 63 Balomiru de Câmp

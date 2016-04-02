@@ -222,12 +222,12 @@
 222 Les Tines
 223 Les Praz de Chamonix
 224 Chamonix-Mont-Blanc
-225 Martigny-Bourg
-226 Martigny-Croix
-227 Bovernier
-228 Sembrancher
-229 Douay, La
-230 Orsières
+225 Sembrancher
+226 Douay, La
+227 Orsières
+228 Martigny-Bourg
+229 Martigny-Croix
+230 Bovernier
 231 Etiez
 232 Châble, Le
 233 Zermatt
@@ -281,9 +281,9 @@
 281 Varzo
 282 Preglia
 283 Domodossola
-284 Genève-Aéroport
+284 Lancy-pont-rouge
 285 Genève
-286 Lancy-pont-rouge
+286 Genève-Aéroport
 287 Geneve-Secheron
 288 Chambésy
 289 Tuileries, Les
@@ -337,23 +337,23 @@
 337 Pralies, Les
 338 La Givrine
 339 Cure, La
-340 La Gottaz
-341 Prelionne
-342 Chigny
-343 Vufflens-le-Château
-344 Le Marais
-345 Bussy-sur-Morges
-346 Yens
-347 Chardonney-Chateau
-348 Reverolle
-349 Apples
-350 Le Manege
-351 Pampigny-Sévery
-352 Mauraz
-353 Tuilerie
-354 Montricher
-355 Villars-Bozon
-356 Isle-Mont-la-Ville, L'
+340 Apples
+341 Le Manege
+342 Pampigny-Sévery
+343 Mauraz
+344 Tuilerie
+345 Montricher
+346 Villars-Bozon
+347 Isle-Mont-la-Ville, L'
+348 La Gottaz
+349 Prelionne
+350 Chigny
+351 Vufflens-le-Château
+352 Le Marais
+353 Bussy-sur-Morges
+354 Yens
+355 Chardonney-Chateau
+356 Reverolle
 357 Froideville
 358 Ballens
 359 Bière
@@ -418,14 +418,14 @@
 418 Neuchatel-Place Pury
 419 Areuse
 420 Boudry TN
-421 Bôle
-422 Champ-du-Moulin
-423 Noiraigue
-424 Travers
-425 Couvet CFF
-426 Boveresse
-427 Les Verrières §
-428 Pontarlier
+421 Travers
+422 Couvet CFF
+423 Boveresse
+424 Les Verrières §
+425 Pontarlier
+426 Bôle
+427 Champ-du-Moulin
+428 Noiraigue
 429 La Presta Mines d'aspahlte
 430 Couvet RVT
 431 Môtiers
@@ -588,17 +588,17 @@
 588 Rueyres-Treyfayes
 589 Vuisternens-devant-Romont
 590 Mézières FR
-591 St-Blaise BN
-592 Marin-Epagnier
-593 Zihlbrücke
-594 Gampelen
-595 Ins
-596 Sugiez
-597 Muntelier
-598 Kerzers
-599 Galmiz
-600 Muntelier-Löwenberg
-601 Murten
+591 Kerzers
+592 Galmiz
+593 Muntelier
+594 Muntelier-Löwenberg
+595 Murten
+596 St-Blaise BN
+597 Marin-Epagnier
+598 Zihlbrücke
+599 Gampelen
+600 Ins
+601 Sugiez
 602 Münchenwiler-Courgevaux
 603 Cressier FR
 604 Courtepin
@@ -684,15 +684,15 @@
 684 Mülenen
 685 Reichenbach im Kandertal
 686 Wengi
-687 Düdingen
-688 Fillistorf
-689 Schmitten
-690 Wünnewil
+687 Laupen
+688 Freiburghaus
+689 Neuenegg
+690 Flamatt Dorf
 691 Flamatt
-692 Laupen
-693 Freiburghaus
-694 Neuenegg
-695 Flamatt Dorf
+692 Düdingen
+693 Fillistorf
+694 Schmitten
+695 Wünnewil
 696 Thörishaus Dorf
 697 Thörishaus
 698 Oberwangen
@@ -736,52 +736,52 @@
 736 Seftigen
 737 Uetendorf
 738 Uetendorf Allmend
-739 Rosshäusern
-740 Riedbach
-741 Niederbottigen BN
-742 Bern Brünnen
-743 Bern Bümpliz Nord
-744 Bern Stöckacker
-745 Schönbühl SBB
-746 Mattstetten
-747 Hindelbank
-748 Lyssach
-749 Burgdorf
-750 Burgdorf Buchmatt
-751 Kirchberg-Alchenflüh
-752 Aefligen
-753 Utzenstorf
-754 Wiler
-755 Gerlafingen
-756 Biberist EBT
-757 Solothurn
-758 Burgdorf Steinhof
-759 Oberburg
-760 Hasle-Rüegsau
-761 Lützelflüh-Goldbach
-762 Ramsei
-763 Zollbrück
-764 Neumühle
-765 Grünenmatt
-766 Sumiswald-Grünen
-767 Ei
-768 Burghof
-769 Oberei
-770 Wasen im Emmental
-771 Gammenthal
-772 Griesbach
-773 Affoltern-Weier
+739 Burgdorf
+740 Burgdorf Buchmatt
+741 Kirchberg-Alchenflüh
+742 Aefligen
+743 Utzenstorf
+744 Wiler
+745 Gerlafingen
+746 Biberist EBT
+747 Solothurn
+748 Ramsei
+749 Zollbrück
+750 Neumühle
+751 Sumiswald-Grünen
+752 Ei
+753 Burghof
+754 Oberei
+755 Wasen im Emmental
+756 Affoltern-Weier
+757 Rosshäusern
+758 Riedbach
+759 Niederbottigen BN
+760 Bern Brünnen
+761 Bern Bümpliz Nord
+762 Bern Stöckacker
+763 Schönbühl SBB
+764 Mattstetten
+765 Hindelbank
+766 Lyssach
+767 Burgdorf Steinhof
+768 Oberburg
+769 Hasle-Rüegsau
+770 Lützelflüh-Goldbach
+771 Grünenmatt
+772 Gammenthal
+773 Griesbach
 774 Häusernmoos
 775 Mussachen
 776 Dürrenroth
 777 Huttwil-Sportzentrum §
 778 Huttwil
-779 Müntschemier
-780 Corcelles-Nord
-781 Dompierre
-782 Domdidier
-783 Avenches
-784 Faoug
+779 Corcelles-Nord
+780 Dompierre
+781 Domdidier
+782 Avenches
+783 Faoug
+784 Müntschemier
 785 Ferenbalm-Gurbrü
 786 Gümmenen
 787 Rüplisried-Mauss
@@ -934,41 +934,41 @@
 934 Roggwil Dorf
 935 St. Urban
 936 St. Urban Ziegelei
-937 Langenthal Süd
-938 Lotzwil
-939 Gutenburg
-940 Madiswil
-941 Lindenholz
-942 Kleindietwil
-943 Rohrbach
-944 Gondiswil
-945 Hüswil
-946 Zell
-947 Gettnau
-948 Willisau
-949 Daiwil
-950 Menznau
-951 Weid (B)
-952 Wolhusen
-953 Doppleschwand-Romoos
-954 Entlebuch
-955 Hasle LU
-956 Schüpfheim
-957 Escholzmatt
-958 Wiggen
-959 Trubschachen
+937 Wolhusen
+938 Doppleschwand-Romoos
+939 Entlebuch
+940 Hasle LU
+941 Schüpfheim
+942 Escholzmatt
+943 Wiggen
+944 Trubschachen
+945 Langenthal Süd
+946 Lotzwil
+947 Gutenburg
+948 Madiswil
+949 Lindenholz
+950 Kleindietwil
+951 Rohrbach
+952 Gondiswil
+953 Hüswil
+954 Zell
+955 Gettnau
+956 Willisau
+957 Daiwil
+958 Menznau
+959 Weid (B)
 960 Werthenstein
 961 Schachen LU
 962 Malters
 963 Littau
 964 Luzern
 965 Mattstetten (Abzw)
-966 Hardfeld (Spw)
-967 Inkwil Ost (Abzw)
-968 Derendingen
-969 Subingen
-970 Inkwil West (Abzw)
-971 Rothrist
+966 Inkwil Ost (Abzw)
+967 Hardfeld (Spw)
+968 Rothrist
+969 Derendingen
+970 Subingen
+971 Inkwil West (Abzw)
 972 Sandacher (Spw)
 973 Wynigen
 974 Riedtwil
@@ -1028,20 +1028,20 @@
 1028 Sissach
 1029 Gelterkinden
 1030 Tecknau
-1031 Basel Bad Bf
-1032 Riehen(b Basel)
-1033 Lörrach-Stetten
-1034 Lörrach Schillerstraße
-1035 Steinen (b Lörrach)
-1036 Brombach (b Lörrach)
-1037 Haagen (Baden)
-1038 Lörrach Schwarzwaldstraße
-1039 Lörrach
-1040 Lörrach Dammstraße
-1041 Weil am Rhein Ost
-1042 Weil am Rhein-Pfädlistrasse
-1043 Weil am Rhein Gartenstadt
-1044 Weil am Rhein
+1031 Steinen (b Lörrach)
+1032 Brombach (b Lörrach)
+1033 Haagen (Baden)
+1034 Lörrach Schwarzwaldstraße
+1035 Lörrach
+1036 Lörrach Schillerstraße
+1037 Lörrach-Stetten
+1038 Lörrach Dammstraße
+1039 Weil am Rhein Ost
+1040 Weil am Rhein-Pfädlistrasse
+1041 Weil am Rhein Gartenstadt
+1042 Weil am Rhein
+1043 Basel Bad Bf
+1044 Riehen(b Basel)
 1045 Maulburg
 1046 Schopfheim West
 1047 Schopfheim
@@ -1117,40 +1117,40 @@
 1117 Rothenburg Dorf
 1118 Emmenbrücke Gersag
 1119 Emmenbrücke
-1120 Küngoldingen
-1121 Walterswil-Striegel
-1122 Safenwil
-1123 Kölliken Oberdorf
-1124 Kölliken
-1125 Oberentfelden
-1126 Suhr
-1127 Buchs AG
-1128 Aarau
+1120 Suhr
+1121 Buchs AG
+1122 Aarau
+1123 Küngoldingen
+1124 Walterswil-Striegel
+1125 Safenwil
+1126 Kölliken Oberdorf
+1127 Kölliken
+1128 Oberentfelden
 1129 Hunzenschwil
 1130 Lenzburg
-1131 Luzern Verkehrshaus
-1132 Meggen Zentrum
-1133 Meggen
-1134 Merlischachen
-1135 Küssnacht am Rigi
-1136 Immensee
-1137 Rotkreuz
-1138 Brueglen (B)
-1139 Meierskappel-Risch
-1140 Arth-Goldau
-1141 Zürich HB
-1142 Thalwil
-1143 Oberrieden Dorf
-1144 Horgen Oberdorf
-1145 Sihlbrugg
-1146 Baar
-1147 Baar Neufeld
-1148 Baar Lindenpark
-1149 Zug
-1150 Zug Postplatz
-1151 Zug Fridbach
-1152 Zug Oberwil
-1153 Walchwil
+1131 Rotkreuz
+1132 Brueglen (B)
+1133 Meierskappel-Risch
+1134 Immensee
+1135 Zürich HB
+1136 Thalwil
+1137 Oberrieden Dorf
+1138 Horgen Oberdorf
+1139 Sihlbrugg
+1140 Baar
+1141 Baar Neufeld
+1142 Baar Lindenpark
+1143 Zug
+1144 Zug Postplatz
+1145 Zug Fridbach
+1146 Zug Oberwil
+1147 Walchwil
+1148 Arth-Goldau
+1149 Luzern Verkehrshaus
+1150 Meggen Zentrum
+1151 Meggen
+1152 Merlischachen
+1153 Küssnacht am Rigi
 1154 Steinen (CH)
 1155 Schwyz
 1156 Brunnen
@@ -1340,23 +1340,23 @@
 1340 Gruemet (Abzw)
 1341 Mägenwil
 1342 Othmarsingen
-1343 Dulliken
-1344 Däniken
-1345 Schönenwerd SO
-1346 Rupperswil
-1347 Wildegg
-1348 Holderbank AG
-1349 Schinznach Bad
-1350 Brugg AG
-1351 Turgi
-1352 Baden
-1353 Neuenhof
-1354 Killwangen-Spreitenbach
-1355 Dietikon
-1356 Glanzenberg
-1357 Schlieren
-1358 Zürich Altstetten
-1359 Zürich Hardbrücke
+1343 Rupperswil
+1344 Wildegg
+1345 Holderbank AG
+1346 Schinznach Bad
+1347 Brugg AG
+1348 Turgi
+1349 Baden
+1350 Neuenhof
+1351 Killwangen-Spreitenbach
+1352 Dietikon
+1353 Glanzenberg
+1354 Schlieren
+1355 Zürich Altstetten
+1356 Zürich Hardbrücke
+1357 Dulliken
+1358 Däniken
+1359 Schönenwerd SO
 1360 Seon
 1361 Hallwil-Dürrenäsch
 1362 Boniswil-Seengen
@@ -1414,17 +1414,17 @@
 1414 Längenbold
 1415 Buchrain
 1416 Ebikon
-1417 Rapperswil
-1418 Hurden
-1419 Pfäffikon SZ
-1420 Freienbach SOB
-1421 Wilen bei Wollerau
-1422 Wollerau
-1423 Riedmatt SZ
-1424 Samstagern
-1425 Schindellegi-Feusisberg
-1426 Biberbrugg
-1427 Einsiedeln
+1417 Biberbrugg
+1418 Einsiedeln
+1419 Rapperswil
+1420 Hurden
+1421 Pfäffikon SZ
+1422 Freienbach SOB
+1423 Wilen bei Wollerau
+1424 Wollerau
+1425 Riedmatt SZ
+1426 Samstagern
+1427 Schindellegi-Feusisberg
 1428 Altmatt
 1429 Rothenthurm
 1430 Biberegg
@@ -1433,36 +1433,36 @@
 1433 Wädenswil
 1434 Burghalden
 1435 Grüenfeld
-1436 Kaiseraugst
-1437 Rheinfelden
-1438 Möhlin
-1439 Dossenboden (Spw)
-1440 Mumpf
-1441 Stein-Säckingen
+1436 Stein-Säckingen
+1437 Etzgen
+1438 Leibstadt
+1439 Full  
+1440 Felsenau AG
+1441 Koblenz
 1442 Sisseln
 1443 Laufenburg
-1444 Etzgen
-1445 Leibstadt
-1446 Full  
-1447 Felsenau AG
-1448 Koblenz
-1449 Eiken
-1450 Niederfeld (Spw)
-1451 Frick
-1452 Buchhalde (Spw)
-1453 Kirchmatt (Spw)
-1454 Effingen
-1455 Schinznach Dorf
-1456 Villnachern
-1457 Villnachern (Spw)
-1458 Zürich Oerlikon
-1459 Zürich Flughafen
-1460 Siggenthal-Würenlingen
-1461 Döttingen-Klingnau
-1462 Klingnau
-1463 Koblenz Dorf
-1464 Rietheim
-1465 Zurzach
+1444 Zürich Oerlikon
+1445 Zürich Flughafen
+1446 Kaiseraugst
+1447 Rheinfelden
+1448 Möhlin
+1449 Dossenboden (Spw)
+1450 Mumpf
+1451 Eiken
+1452 Niederfeld (Spw)
+1453 Frick
+1454 Buchhalde (Spw)
+1455 Kirchmatt (Spw)
+1456 Effingen
+1457 Schinznach Dorf
+1458 Villnachern
+1459 Villnachern (Spw)
+1460 Koblenz Dorf
+1461 Rietheim
+1462 Zurzach
+1463 Siggenthal-Würenlingen
+1464 Döttingen-Klingnau
+1465 Klingnau
 1466 Waldshut
 1467 Würenlos
 1468 Otelfingen
@@ -1576,13 +1576,13 @@
 1576 Linthal
 1577 Wallisellen
 1578 Dübendorf
-1579 Stettbach
-1580 Schwerzenbach ZH
-1581 Nänikon-Greifensee
-1582 Uster
-1583 Aathal
-1584 Wetzikon
-1585 Hinwil
+1579 Wetzikon
+1580 Hinwil
+1581 Stettbach
+1582 Schwerzenbach ZH
+1583 Nänikon-Greifensee
+1584 Uster
+1585 Aathal
 1586 Bubikon
 1587 Rüti ZH
 1588 Jona
@@ -1590,11 +1590,11 @@
 1590 Neuthal
 1591 Bäretswil
 1592 Ettenhausen-Emmetschloo
-1593 Opfikon
-1594 Kloten Balsberg
-1595 Kloten
-1596 Bassersdorf
-1597 Effretikon
+1593 Effretikon
+1594 Opfikon
+1595 Kloten Balsberg
+1596 Kloten
+1597 Bassersdorf
 1598 Dietlikon
 1599 Kemptthal
 1600 Winterthur
@@ -1617,24 +1617,24 @@
 1617 Gibswil
 1618 Wald
 1619 Tann-Dürnten
-1620 Schaffhausen
-1621 Neuhausen
-1622 Altenburg-Rheinau
-1623 Jestetten
-1624 Lottstetten
-1625 Rafz
-1626 Hüntwangen-Wil
-1627 Eglisau
-1628 Glattfelden
-1629 Bülach
-1630 Niederglatt
-1631 Oberglatt
-1632 Niederweningen
-1633 Niederweningen Dorf
-1634 Schöfflisdorf-Oberweningen
-1635 Steinmaur
-1636 Dielsdorf
-1637 Niederhasli
+1620 Niederweningen
+1621 Niederweningen Dorf
+1622 Schöfflisdorf-Oberweningen
+1623 Steinmaur
+1624 Dielsdorf
+1625 Niederhasli
+1626 Oberglatt
+1627 Schaffhausen
+1628 Neuhausen
+1629 Altenburg-Rheinau
+1630 Jestetten
+1631 Lottstetten
+1632 Rafz
+1633 Hüntwangen-Wil
+1634 Eglisau
+1635 Glattfelden
+1636 Bülach
+1637 Niederglatt
 1638 Rümlang
 1639 Glattbrugg
 1640 Rekingen AG
@@ -1845,16 +1845,16 @@
 1845 Mogelsberg
 1846 Brunnadern-Neckertal
 1847 Kaltbrunn
-1848 Mörschwil
-1849 Goldach
-1850 Rorschach Stadt
-1851 Staad
-1852 St. Margrethen
-1853 Au SG
-1854 Heerbrugg
-1855 Rebstein-Marbach
-1856 Altstätten SG
-1857 Buchs SG
+1848 Altstätten SG
+1849 Buchs SG
+1850 Mörschwil
+1851 Goldach
+1852 Rorschach Stadt
+1853 Staad
+1854 St. Margrethen
+1855 Au SG
+1856 Heerbrugg
+1857 Rebstein-Marbach
 1858 Oberriet
 1859 Rüthi SG
 1860 Salez-Sennwald
@@ -1876,33 +1876,33 @@
 1876 Walenstadt
 1877 Flums
 1878 Mels
-1879 Chur Wiesental
-1880 Haldenstein
-1881 Trimmis
-1882 Untervaz
-1883 Zizers
-1884 Igis
-1885 Landquart Ried
-1886 Malans
-1887 Seewis-Valzeina
-1888 Grüsch
-1889 Schiers
-1890 Fuchsenwinkel §
-1891 Furna
-1892 Jenaz
-1893 Fideris
-1894 Küblis
-1895 Saas
-1896 Serneus
-1897 Klosters Dorf
-1898 Klosters
+1879 Klosters
+1880 Chur Wiesental
+1881 Haldenstein
+1882 Trimmis
+1883 Untervaz
+1884 Zizers
+1885 Igis
+1886 Landquart Ried
+1887 Malans
+1888 Seewis-Valzeina
+1889 Grüsch
+1890 Schiers
+1891 Fuchsenwinkel §
+1892 Furna
+1893 Jenaz
+1894 Fideris
+1895 Küblis
+1896 Saas
+1897 Serneus
+1898 Klosters Dorf
 1899 Sagliains
 1900 Lavin
-1901 Guarda
-1902 Ardez
-1903 Ftan
-1904 Scuol-Tarasp
-1905 Susch
+1901 Susch
+1902 Guarda
+1903 Ardez
+1904 Ftan
+1905 Scuol-Tarasp
 1906 Cavadürli
 1907 Davos Laret
 1908 Davos Wolfgang

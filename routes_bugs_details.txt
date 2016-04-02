@@ -1,0 +1,74 @@
+
+
+AUSTRIA:
+409 - reversed 
+	- solution: sort
+501 - negative break or "branch" 
+	- solution: cut start subroute
+520 - wrong depth format
+	- solution: 
+	
+SLOVAKIA
+153 - "changable"
+167 - reversed
+	- solution: sort
+	
+CZECH
+011 - wrong depth format
+	- solution:
+	
+SWITZERLAND
+304 - negative break or "branch"
+	- solution: cut or start subroute
+450 - wrong depth format
+	- solution:
+700 - negative break or "branch"
+	- solution: cut or start subroute
+750 - wrong depth format
+	- negative break or "branch" (starts with 0)
+	- solution: 
+910 - wrong depth format
+	- negative break or "branch" (starts with 0)
+	- solution:
+	
+HUNGARY: 
+100 - "changable"
+
+POLAND
+147 - reversed
+	- solution: sort
+180 - wrong depth format
+	- solution: 
+604 - negative break or "branch"
+	- solution: cut or start subroute OR sort?
+	
+GERMANY:
+152 - "WAT?"
+	- solution: 
+172 - wrong position of ONE station
+	- solution: sort or delete the station
+200.1 - wrong position of ONE station
+	  - solution: sort or delete the station
+200.7 - wrong position of ONE station
+	  - solution: sort or delete the station
+200.8 - wrong position of ONE station
+	  - solution: sort or delete the station
+201	- wrong position of ONE station
+	  - solution: Delete the station
+333 - - wrong position of ONE station
+	  - solution: sort or delete the station
+403 - WAT?
+	- solution: sort
+438 - "WAT"?
+	- solution: sort
+450.8 - reversed
+	  - solution: sort
+530: - "reversed" subroute (starts on 80km instead of 0) 
+	 - solution: remove (length 2)
+544 - wrong depth format
+	- solution: 
+645.6 - "wat"
+	  - solution: sort or cut
+850 - wrong depth format
+	- solution: 
+

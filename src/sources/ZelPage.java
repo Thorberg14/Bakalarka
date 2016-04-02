@@ -79,7 +79,7 @@ public class ZelPage extends WebSource{
 				}
 
 				table[TABLE_WIDTH-1] = digUpStationName(table[TABLE_WIDTH-1]);
-				Logger.logDebug(this, table[TABLE_WIDTH-1]);
+				Logger.logInfo(this, table[TABLE_WIDTH-1]);
 				
 				if (table[0].equals("")){
 					if (table[1].equals("")){
@@ -98,7 +98,7 @@ public class ZelPage extends WebSource{
 				}
 			}
 		}
-		dw.endRoute();
+		for (int i=0;i<depth+1; i++) dw.endRoute(); //musi sa ukoncit route vo vsetkch vrstvach
 	}
 	
 	private String digUpStationName(String s){
