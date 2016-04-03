@@ -1,5 +1,3 @@
-
-
 AUSTRIA:
 409 - reversed 
 	- solution: sort

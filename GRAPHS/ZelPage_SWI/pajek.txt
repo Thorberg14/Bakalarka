@@ -1,4 +1,4 @@
-*Vertices 1993
+*Vertices 1988
 1 Lausanne
 2 Pully
 3 Lutry
@@ -223,12 +223,12 @@
 222 Les Tines
 223 Les Praz de Chamonix
 224 Chamonix-Mont-Blanc
-225 Martigny-Bourg
-226 Martigny-Croix
-227 Bovernier
-228 Sembrancher
-229 Douay, La
-230 Orsières
+225 Sembrancher
+226 Douay, La
+227 Orsières
+228 Martigny-Bourg
+229 Martigny-Croix
+230 Bovernier
 231 Etiez
 232 Châble, Le
 233 Zermatt
@@ -282,9 +282,9 @@
 281 Varzo
 282 Preglia
 283 Domodossola
-284 Genève-Aéroport
+284 Lancy-pont-rouge
 285 Genève
-286 Lancy-pont-rouge
+286 Genève-Aéroport
 287 Geneve-Secheron
 288 Chambésy
 289 Tuileries, Les
@@ -338,23 +338,23 @@
 337 Pralies, Les
 338 La Givrine
 339 Cure, La
-340 La Gottaz
-341 Prelionne
-342 Chigny
-343 Vufflens-le-Château
-344 Le Marais
-345 Bussy-sur-Morges
-346 Yens
-347 Chardonney-Chateau
-348 Reverolle
-349 Apples
-350 Le Manege
-351 Pampigny-Sévery
-352 Mauraz
-353 Tuilerie
-354 Montricher
-355 Villars-Bozon
-356 Isle-Mont-la-Ville, L'
+340 Apples
+341 Le Manege
+342 Pampigny-Sévery
+343 Mauraz
+344 Tuilerie
+345 Montricher
+346 Villars-Bozon
+347 Isle-Mont-la-Ville, L'
+348 La Gottaz
+349 Prelionne
+350 Chigny
+351 Vufflens-le-Château
+352 Le Marais
+353 Bussy-sur-Morges
+354 Yens
+355 Chardonney-Chateau
+356 Reverolle
 357 Froideville
 358 Ballens
 359 Bière
@@ -419,14 +419,14 @@
 418 Neuchatel-Place Pury
 419 Areuse
 420 Boudry TN
-421 Bôle
-422 Champ-du-Moulin
-423 Noiraigue
-424 Travers
-425 Couvet CFF
-426 Boveresse
-427 Les Verrières §
-428 Pontarlier
+421 Travers
+422 Couvet CFF
+423 Boveresse
+424 Les Verrières §
+425 Pontarlier
+426 Bôle
+427 Champ-du-Moulin
+428 Noiraigue
 429 La Presta Mines d'aspahlte
 430 Couvet RVT
 431 Môtiers
@@ -589,17 +589,17 @@
 588 Rueyres-Treyfayes
 589 Vuisternens-devant-Romont
 590 Mézières FR
-591 St-Blaise BN
-592 Marin-Epagnier
-593 Zihlbrücke
-594 Gampelen
-595 Ins
-596 Sugiez
-597 Muntelier
-598 Kerzers
-599 Galmiz
-600 Muntelier-Löwenberg
-601 Murten
+591 Kerzers
+592 Galmiz
+593 Muntelier
+594 Muntelier-Löwenberg
+595 Murten
+596 St-Blaise BN
+597 Marin-Epagnier
+598 Zihlbrücke
+599 Gampelen
+600 Ins
+601 Sugiez
 602 Münchenwiler-Courgevaux
 603 Cressier FR
 604 Courtepin
@@ -685,15 +685,15 @@
 684 Mülenen
 685 Reichenbach im Kandertal
 686 Wengi
-687 Düdingen
-688 Fillistorf
-689 Schmitten
-690 Wünnewil
+687 Laupen
+688 Freiburghaus
+689 Neuenegg
+690 Flamatt Dorf
 691 Flamatt
-692 Laupen
-693 Freiburghaus
-694 Neuenegg
-695 Flamatt Dorf
+692 Düdingen
+693 Fillistorf
+694 Schmitten
+695 Wünnewil
 696 Thörishaus Dorf
 697 Thörishaus
 698 Oberwangen
@@ -737,52 +737,52 @@
 736 Seftigen
 737 Uetendorf
 738 Uetendorf Allmend
-739 Rosshäusern
-740 Riedbach
-741 Niederbottigen BN
-742 Bern Brünnen
-743 Bern Bümpliz Nord
-744 Bern Stöckacker
-745 Schönbühl SBB
-746 Mattstetten
-747 Hindelbank
-748 Lyssach
-749 Burgdorf
-750 Burgdorf Buchmatt
-751 Kirchberg-Alchenflüh
-752 Aefligen
-753 Utzenstorf
-754 Wiler
-755 Gerlafingen
-756 Biberist EBT
-757 Solothurn
-758 Burgdorf Steinhof
-759 Oberburg
-760 Hasle-Rüegsau
-761 Lützelflüh-Goldbach
-762 Ramsei
-763 Zollbrück
-764 Neumühle
-765 Grünenmatt
-766 Sumiswald-Grünen
-767 Ei
-768 Burghof
-769 Oberei
-770 Wasen im Emmental
-771 Gammenthal
-772 Griesbach
-773 Affoltern-Weier
-774 Häusernmoos
-775 Mussachen
-776 Dürrenroth
-777 Huttwil-Sportzentrum §
-778 Huttwil
-779 Müntschemier
-780 Corcelles-Nord
-781 Dompierre
-782 Domdidier
-783 Avenches
-784 Faoug
+739 Burgdorf
+740 Burgdorf Buchmatt
+741 Kirchberg-Alchenflüh
+742 Aefligen
+743 Utzenstorf
+744 Wiler
+745 Gerlafingen
+746 Biberist EBT
+747 Solothurn
+748 Ramsei
+749 Zollbrück
+750 Neumühle
+751 Sumiswald-Grünen
+752 Ei
+753 Burghof
+754 Oberei
+755 Wasen im Emmental
+756 Affoltern-Weier
+757 Häusernmoos
+758 Mussachen
+759 Dürrenroth
+760 Huttwil-Sportzentrum §
+761 Huttwil
+762 Rosshäusern
+763 Riedbach
+764 Niederbottigen BN
+765 Bern Brünnen
+766 Bern Bümpliz Nord
+767 Bern Stöckacker
+768 Schönbühl SBB
+769 Mattstetten
+770 Hindelbank
+771 Lyssach
+772 Burgdorf Steinhof
+773 Oberburg
+774 Hasle-Rüegsau
+775 Lützelflüh-Goldbach
+776 Grünenmatt
+777 Gammenthal
+778 Griesbach
+779 Corcelles-Nord
+780 Dompierre
+781 Domdidier
+782 Avenches
+783 Faoug
+784 Müntschemier
 785 Ferenbalm-Gurbrü
 786 Gümmenen
 787 Rüplisried-Mauss
@@ -935,41 +935,41 @@
 934 Roggwil Dorf
 935 St. Urban
 936 St. Urban Ziegelei
-937 Langenthal Süd
-938 Lotzwil
-939 Gutenburg
-940 Madiswil
-941 Lindenholz
-942 Kleindietwil
-943 Rohrbach
-944 Gondiswil
-945 Hüswil
-946 Zell
-947 Gettnau
-948 Willisau
-949 Daiwil
-950 Menznau
-951 Weid (B)
-952 Wolhusen
-953 Doppleschwand-Romoos
-954 Entlebuch
-955 Hasle LU
-956 Schüpfheim
-957 Escholzmatt
-958 Wiggen
-959 Trubschachen
+937 Wolhusen
+938 Doppleschwand-Romoos
+939 Entlebuch
+940 Hasle LU
+941 Schüpfheim
+942 Escholzmatt
+943 Wiggen
+944 Trubschachen
+945 Langenthal Süd
+946 Lotzwil
+947 Gutenburg
+948 Madiswil
+949 Lindenholz
+950 Kleindietwil
+951 Rohrbach
+952 Gondiswil
+953 Hüswil
+954 Zell
+955 Gettnau
+956 Willisau
+957 Daiwil
+958 Menznau
+959 Weid (B)
 960 Werthenstein
 961 Schachen LU
 962 Malters
 963 Littau
 964 Luzern
 965 Mattstetten (Abzw)
-966 Hardfeld (Spw)
-967 Inkwil Ost (Abzw)
-968 Derendingen
-969 Subingen
-970 Inkwil West (Abzw)
-971 Rothrist
+966 Inkwil Ost (Abzw)
+967 Derendingen
+968 Subingen
+969 Inkwil West (Abzw)
+970 Rothrist
+971 Hardfeld (Spw)
 972 Sandacher (Spw)
 973 Wynigen
 974 Riedtwil
@@ -1029,20 +1029,20 @@
 1028 Sissach
 1029 Gelterkinden
 1030 Tecknau
-1031 Basel Bad Bf
-1032 Riehen(b Basel)
-1033 Lörrach-Stetten
-1034 Lörrach Schillerstraße
-1035 Steinen (b Lörrach)
-1036 Brombach (b Lörrach)
-1037 Haagen (Baden)
-1038 Lörrach Schwarzwaldstraße
-1039 Lörrach
-1040 Lörrach Dammstraße
-1041 Weil am Rhein Ost
-1042 Weil am Rhein-Pfädlistrasse
-1043 Weil am Rhein Gartenstadt
-1044 Weil am Rhein
+1031 Steinen (b Lörrach)
+1032 Brombach (b Lörrach)
+1033 Haagen (Baden)
+1034 Lörrach Schwarzwaldstraße
+1035 Lörrach
+1036 Lörrach Schillerstraße
+1037 Lörrach-Stetten
+1038 Lörrach Dammstraße
+1039 Weil am Rhein Ost
+1040 Weil am Rhein-Pfädlistrasse
+1041 Weil am Rhein Gartenstadt
+1042 Weil am Rhein
+1043 Basel Bad Bf
+1044 Riehen(b Basel)
 1045 Maulburg
 1046 Schopfheim West
 1047 Schopfheim
@@ -1118,40 +1118,40 @@
 1117 Rothenburg Dorf
 1118 Emmenbrücke Gersag
 1119 Emmenbrücke
-1120 Küngoldingen
-1121 Walterswil-Striegel
-1122 Safenwil
-1123 Kölliken Oberdorf
-1124 Kölliken
-1125 Oberentfelden
-1126 Suhr
-1127 Buchs AG
-1128 Aarau
+1120 Suhr
+1121 Buchs AG
+1122 Aarau
+1123 Küngoldingen
+1124 Walterswil-Striegel
+1125 Safenwil
+1126 Kölliken Oberdorf
+1127 Kölliken
+1128 Oberentfelden
 1129 Hunzenschwil
 1130 Lenzburg
-1131 Luzern Verkehrshaus
-1132 Meggen Zentrum
-1133 Meggen
-1134 Merlischachen
-1135 Küssnacht am Rigi
-1136 Immensee
-1137 Rotkreuz
-1138 Brueglen (B)
-1139 Meierskappel-Risch
-1140 Arth-Goldau
-1141 Zürich HB
-1142 Thalwil
-1143 Oberrieden Dorf
-1144 Horgen Oberdorf
-1145 Sihlbrugg
-1146 Baar
-1147 Baar Neufeld
-1148 Baar Lindenpark
-1149 Zug
-1150 Zug Postplatz
-1151 Zug Fridbach
-1152 Zug Oberwil
-1153 Walchwil
+1131 Rotkreuz
+1132 Brueglen (B)
+1133 Meierskappel-Risch
+1134 Immensee
+1135 Zürich HB
+1136 Thalwil
+1137 Oberrieden Dorf
+1138 Horgen Oberdorf
+1139 Sihlbrugg
+1140 Baar
+1141 Baar Neufeld
+1142 Baar Lindenpark
+1143 Zug
+1144 Zug Postplatz
+1145 Zug Fridbach
+1146 Zug Oberwil
+1147 Walchwil
+1148 Arth-Goldau
+1149 Luzern Verkehrshaus
+1150 Meggen Zentrum
+1151 Meggen
+1152 Merlischachen
+1153 Küssnacht am Rigi
 1154 Steinen (CH)
 1155 Schwyz
 1156 Brunnen
@@ -1341,23 +1341,23 @@
 1340 Gruemet (Abzw)
 1341 Mägenwil
 1342 Othmarsingen
-1343 Dulliken
-1344 Däniken
-1345 Schönenwerd SO
-1346 Rupperswil
-1347 Wildegg
-1348 Holderbank AG
-1349 Schinznach Bad
-1350 Brugg AG
-1351 Turgi
-1352 Baden
-1353 Neuenhof
-1354 Killwangen-Spreitenbach
-1355 Dietikon
-1356 Glanzenberg
-1357 Schlieren
-1358 Zürich Altstetten
-1359 Zürich Hardbrücke
+1343 Rupperswil
+1344 Wildegg
+1345 Holderbank AG
+1346 Schinznach Bad
+1347 Brugg AG
+1348 Turgi
+1349 Baden
+1350 Neuenhof
+1351 Killwangen-Spreitenbach
+1352 Dietikon
+1353 Glanzenberg
+1354 Schlieren
+1355 Zürich Altstetten
+1356 Zürich Hardbrücke
+1357 Dulliken
+1358 Däniken
+1359 Schönenwerd SO
 1360 Seon
 1361 Hallwil-Dürrenäsch
 1362 Boniswil-Seengen
@@ -1415,17 +1415,17 @@
 1414 Längenbold
 1415 Buchrain
 1416 Ebikon
-1417 Rapperswil
-1418 Hurden
-1419 Pfäffikon SZ
-1420 Freienbach SOB
-1421 Wilen bei Wollerau
-1422 Wollerau
-1423 Riedmatt SZ
-1424 Samstagern
-1425 Schindellegi-Feusisberg
-1426 Biberbrugg
-1427 Einsiedeln
+1417 Biberbrugg
+1418 Einsiedeln
+1419 Rapperswil
+1420 Hurden
+1421 Pfäffikon SZ
+1422 Freienbach SOB
+1423 Wilen bei Wollerau
+1424 Wollerau
+1425 Riedmatt SZ
+1426 Samstagern
+1427 Schindellegi-Feusisberg
 1428 Altmatt
 1429 Rothenthurm
 1430 Biberegg
@@ -1434,564 +1434,559 @@
 1433 Wädenswil
 1434 Burghalden
 1435 Grüenfeld
-1436 Kaiseraugst
-1437 Rheinfelden
-1438 Möhlin
-1439 Dossenboden (Spw)
-1440 Mumpf
-1441 Stein-Säckingen
-1442 Sisseln
-1443 Laufenburg
-1444 Etzgen
-1445 Leibstadt
-1446 Full  
-1447 Felsenau AG
-1448 Koblenz
-1449 Eiken
-1450 Niederfeld (Spw)
-1451 Frick
-1452 Buchhalde (Spw)
-1453 Kirchmatt (Spw)
-1454 Effingen
-1455 Schinznach Dorf
-1456 Villnachern
-1457 Villnachern (Spw)
-1458 Zürich Oerlikon
-1459 Zürich Flughafen
-1460 Siggenthal-Würenlingen
-1461 Döttingen-Klingnau
-1462 Klingnau
-1463 Koblenz Dorf
-1464 Rietheim
-1465 Zurzach
-1466 Waldshut
-1467 Würenlos
-1468 Otelfingen
-1469 Otelfingen Rietholz
-1470 Buchs-Dällikon
-1471 Regensdorf-Watt
-1472 Zürich Affoltern
-1473 Zürich Seebach
-1474 Zürich Stadelhofen
-1475 Urdorf
-1476 Urdorf Weihermatt
-1477 Birmensdorf ZH
-1478 Bonstetten-Wettswil
-1479 Hedingen
-1480 Affoltern am Albis
-1481 Mettmenstetten
-1482 Knonau
-1483 Steinhausen
-1484 Zürich Selnau
-1485 Zürich Giesshübel
-1486 Zürich Saalsporthalle
-1487 Zürich Brunau
-1488 Zürich Manegg
-1489 Zürich Leimbach
-1490 Sood-Oberleimbach
-1491 Adliswil
-1492 Sihlau
-1493 Wildpark-Höfli
-1494 Langnau-Gattikon
-1495 Sihlwald
-1496 Zürich Binz
-1497 Friesenberg
-1498 Schweighof
-1499 Triemli
-1500 Uitikon Waldegg
-1501 Ringlikon
-1502 Uetliberg
-1503 Zürich Wiedikon
-1504 Zürich Wipkingen
-1505 Zürich Enge
-1506 Zürich Wollishofen
-1507 Kilchberg
-1508 Rüschlikon
-1509 Oberrieden
-1510 Horgen
-1511 Au ZH
-1512 Richterswil
-1513 Bäch
-1514 Freienbach SBB
-1515 Altendorf
-1516 Lachen
-1517 Siebnen-Wangen
-1518 Schübelbach-Buttikon
-1519 Reichenburg
-1520 Bilten
-1521 Ziegelbrücke
-1522 Zürich Tiefenbrunnen
-1523 Zollikon
-1524 Küsnacht Goldbach
-1525 Küsnacht ZH
-1526 Erlenbach ZH
-1527 Winkel
-1528 Herrliberg-Feldmeilen
-1529 Meilen
-1530 Uetikon
-1531 Männedorf
-1532 Stäfa
-1533 Uerikon
-1534 Feldbach
-1535 Kempraten
-1536 Zürich Kreuzplatz
-1537 Zürich Hegibachplatz
-1538 Zürich Balgrist
-1539 Zürich Rehalp
-1540 Waldburg
-1541 Spital Neumünster
-1542 Zollikerberg
-1543 Waltikon
-1544 Zumikon
-1545 Maiacker
-1546 Neue Forch
-1547 Forch
-1548 Scheuren
-1549 Neuhaus (Unterseen) ThS
-1550 Hinteregg
-1551 Egg
-1552 Langwies [CH]
-1553 Emmat
-1554 Esslingen
-1555 Zürich Römerhof
-1556 Zürich Dolder
-1557 Blumenau
-1558 Bollingen
-1559 Schmerikon
-1560 Uznach
-1561 Benken
-1562 Schänis
-1563 Nieder- und Oberurnen
-1564 Näfels-Mollis
-1565 Netstal
-1566 Glarus
-1567 Ennenda
-1568 Mitlödi
-1569 Schwanden
-1570 Nidfurn-Haslen
-1571 Leuggelbach
-1572 Luchsingen-Hätzingen
-1573 Diesbach-Betschwanden
-1574 Rüti GL
-1575 Linthal Braunwaldbahn
-1576 Linthal
-1577 Wallisellen
-1578 Dübendorf
-1579 Stettbach
-1580 Schwerzenbach ZH
-1581 Nänikon-Greifensee
-1582 Uster
-1583 Aathal
-1584 Wetzikon
-1585 Hinwil
-1586 Bubikon
-1587 Rüti ZH
-1588 Jona
-1589 Bauma
-1590 Neuthal
-1591 Bäretswil
-1592 Ettenhausen-Emmetschloo
-1593 Opfikon
-1594 Kloten Balsberg
-1595 Kloten
-1596 Bassersdorf
-1597 Effretikon
-1598 Dietlikon
-1599 Kemptthal
-1600 Winterthur
-1601 Oberwinterthur
-1602 Illnau
-1603 Fehraltorf
-1604 Pfäffikon ZH
-1605 Kempten
-1606 Winterthur Grüze
-1607 Winterthur Seen
-1608 Sennhof-Kyburg
-1609 Kollbrunn
-1610 Rikon
-1611 Rämismühle-Zell
-1612 Turbenthal
-1613 Wila
-1614 Saland
-1615 Steg
-1616 Fischenthal
-1617 Gibswil
-1618 Wald
-1619 Tann-Dürnten
-1620 Schaffhausen
-1621 Neuhausen
-1622 Altenburg-Rheinau
-1623 Jestetten
-1624 Lottstetten
-1625 Rafz
-1626 Hüntwangen-Wil
-1627 Eglisau
-1628 Glattfelden
-1629 Bülach
-1630 Niederglatt
-1631 Oberglatt
-1632 Niederweningen
-1633 Niederweningen Dorf
-1634 Schöfflisdorf-Oberweningen
-1635 Steinmaur
-1636 Dielsdorf
-1637 Niederhasli
-1638 Rümlang
-1639 Glattbrugg
-1640 Rekingen AG
-1641 Mellikon
-1642 Rümikon AG
-1643 Kaiserstuhl AG
-1644 Zweidlen
-1645 Embrach-Rorbas
-1646 Pfungen-Neftenbach
-1647 Winterthur Wülflingen
-1648 Winterthur Töss
-1649 Schloss Laufen am Rheinfall
-1650 Dachsen
-1651 Marthalen
-1652 Andelfingen
-1653 Henggart
-1654 Hettlingen
-1655 Erzingen (Baden)
-1656 Trasadingen
-1657 Wilchingen-Hallau
-1658 Neunkirch
-1659 Beringen Bad Bf
-1660 Neuhausen Bad Bf
-1661 Herblingen
-1662 Thayngen
-1663 Bietingen
-1664 Gottmadingen
-1665 Singen (Hohentwiel)
-1666 Winterthur Wallrüti
-1667 Reutlingen
-1668 Seuzach
-1669 Weinfelden
-1670 Märstetten
-1671 Müllheim-Wigoltingen
-1672 Hüttlingen-Mettendorf
-1673 Felben-Wellhausen
-1674 Frauenfeld
-1675 Islikon
-1676 Rickenbach-Attikon
-1677 Wiesendangen
-1678 Feuerthalen
-1679 Langwiesen
-1680 Schlatt
-1681 St. Katharinental
-1682 Diessenhofen
-1683 Schlattingen
-1684 Etzwilen
-1685 Stein am Rhein
-1686 Eschenz
-1687 Mammern
-1688 Steckborn
-1689 Berlingen
-1690 Mannenbach-Salenstein
-1691 Ermatingen
-1692 Triboltingen
-1693 Tägerwilen SBB
-1694 Kreuzlingen
-1695 Kreuzlingen Hafen
-1696 Kurzrickenbach Seepark
-1697 Bottighofen
-1698 Münsterlingen-Scherzingen
-1699 Münsterlingen Spital
-1700 Landschlacht
-1701 Altnau
-1702 Güttingen
-1703 Kesswil
-1704 Uttwil
-1705 Romanshorn
-1706 Stammheim
-1707 Ossingen
-1708 Thalheim-Altikon
-1709 Dinhard
-1710 Konstanz
-1711 Tägerwilen MThB
-1712 Kreuzlingen Bernrain
-1713 Lengwil
-1714 Siegershausen
-1715 Berg
-1716 Kehlhof
-1717 Bussnang
-1718 Oppikon
-1719 Märwil
-1720 Tobel-Affeltrangen
-1721 Tägerschen
-1722 Bettwiesen
-1723 Bronschhofen AMP
-1724 Bronschhofen
-1725 Wil
-1726 Bürglen
-1727 Sulgen
-1728 Erlen
-1729 Oberaach
-1730 Amriswil
-1731 Frauenfeld Marktplatz
-1732 Lüdem
-1733 Murkart
-1734 Weberei Matzingen
-1735 Matzingen
-1736 Jakobstal
-1737 Wiesengrund
-1738 Wängi
-1739 Rosental
-1740 Münchwilen Pflegeheim
-1741 Münchwilen TG
-1742 Egnach
-1743 Arbon Seemoosriet
-1744 Arbon
-1745 Steinach
-1746 Horn (Bodensee)
-1747 Rorschach Hafen
-1748 Rorschach
-1749 Winterthur Hegi
-1750 Räterschen
-1751 Schottikon
-1752 Elgg
-1753 Aadorf
-1754 Guntershausen
-1755 Eschlikon
-1756 Sirnach
-1757 Schwarzenbach SG
-1758 Algetshausen-Henau
-1759 Uzwil
-1760 Flawil
-1761 Gossau SG
-1762 St. Gallen Winkeln
-1763 St. Gallen Bruggen
-1764 St. Gallen
-1765 Kradolf
-1766 Bischofszell Nord
-1767 Sitterdorf
-1768 Bischofszell Stadt
-1769 Hauptwil
-1770 Arnegg
-1771 Bazenheid
-1772 Lütisburg
-1773 Bütschwil
-1774 Dietfurt
-1775 Lichtensteig
-1776 Wattwil
-1777 Ebnat-Kappel
-1778 Krummenau
-1779 Nesslau-Neu St. Johann
-1780 Herisau
-1781 Wilen
-1782 Waldstatt
-1783 Zürchersmühle
-1784 Urnäsch
-1785 Jakobsbad
-1786 Gonten
-1787 Gontenbad
-1788 Appenzell
-1789 Steinegg
-1790 Weissbad
-1791 Schwende
-1792 Wasserauen
-1793 Riethüsli
-1794 Lustmühle
-1795 Niederteufen
-1796 Sternen bei Teufen
-1797 Stofel
-1798 Teufen
-1799 Steigbach
-1800 Bühler
-1801 Strahlholz
-1802 Zweibrücken
-1803 Gais
-1804 Sammelplatz
-1805 Hirschberg
-1806 Hebrig
-1807 Schachen (Gais)
-1808 Rietli
-1809 Stoss AR
-1810 Kreuzstrasse
-1811 Warmesberg
-1812 Alter Zoll
-1813 Altstätten Stadt
-1814 Seebleiche
-1815 Sandbüchel
-1816 Wartensee
-1817 Wienacht-Tobel
-1818 Schwendi bei Heiden
-1819 Heiden
-1820 Rheineck
-1821 Walzenhausen
-1822 St. Gallen, Marktplatz
-1823 Spisertor
-1824 Schülerhaus
-1825 Notkersegg
-1826 Schwarzer Bären
-1827 Rank
-1828 Vögelinsegg
-1829 Schützengarten
-1830 Speicher
-1831 Bendlehn
-1832 Gfeld
-1833 Trogen
-1834 Neukirch-Egnach
-1835 Steinebrunn
-1836 Muolen
-1837 Häggenschwil-Winden
-1838 Roggwil-Berg
-1839 Wittenbach
-1840 St. Gallen St. Fiden
-1841 St. Gallen Haggen
-1842 Gübsensee
-1843 Schachen BT
-1844 Degersheim
-1845 Mogelsberg
-1846 Brunnadern-Neckertal
-1847 Kaltbrunn
-1848 Mörschwil
-1849 Goldach
-1850 Rorschach Stadt
-1851 Staad
-1852 St. Margrethen
-1853 Au SG
-1854 Heerbrugg
-1855 Rebstein-Marbach
-1856 Altstätten SG
-1857 Buchs SG
-1858 Oberriet
-1859 Rüthi SG
-1860 Salez-Sennwald
-1861 Räfis-Burgerau
-1862 Sevelen
-1863 Weite
-1864 Trübbach
-1865 Sargans
-1866 Bad Ragaz
-1867 Maienfeld
-1868 Landquart
-1869 Trimmis (Spw)
-1870 Chur
-1871 Weesen
-1872 Mühlehorn
-1873 Murg
-1874 Unterterzen
-1875 Mols
-1876 Walenstadt
-1877 Flums
-1878 Mels
-1879 Chur Wiesental
-1880 Haldenstein
-1881 Trimmis
-1882 Untervaz
-1883 Zizers
-1884 Igis
-1885 Landquart Ried
-1886 Malans
-1887 Seewis-Valzeina
-1888 Grüsch
-1889 Schiers
-1890 Fuchsenwinkel §
-1891 Furna
-1892 Jenaz
-1893 Fideris
-1894 Küblis
-1895 Saas
-1896 Serneus
-1897 Klosters Dorf
-1898 Klosters
-1899 Sagliains
-1900 Lavin
-1901 Guarda
-1902 Ardez
-1903 Ftan
-1904 Scuol-Tarasp
-1905 Susch
-1906 Cavadürli
-1907 Davos Laret
-1908 Davos Wolfgang
-1909 Davos Dorf
-1910 Davos Platz
-1911 Davos Islen
-1912 Davos Frauenkirch
-1913 Davos Glaris
-1914 Davos Monstein
-1915 Wiesen
-1916 Filisur
-1917 Chur West
-1918 Felsberg
-1919 Domat/Ems
-1920 Ems Werk
-1921 Reichenau-Tamins
-1922 Trin
-1923 Versam-Safien
-1924 Valendas-Sagogn
-1925 Castrisch
-1926 Ilanz
-1927 Schnaus-Strada
-1928 Rueun
-1929 Waltensburg/Vuorz
-1930 Tavanasa-Breil/Brigels
-1931 Trun
-1932 Rabius-Surrein
-1933 Sumvitg-Cumpadials
-1934 Chur Stadt
-1935 Sassal
-1936 Untersax
-1937 Lüen-Castiel
-1938 St. Peter-Molinis
-1939 Peist
-1940 Langwies GR
-1941 Litzirüti
-1942 Arosa
-1943 Bonaduz
-1944 Rhäzüns
-1945 Rothenbrunnen
-1946 Rodels-Realta
-1947 Cazis
-1948 Thusis
-1949 Sils im Domleschg
-1950 Solis
-1951 Tiefencastel
-1952 Surava
-1953 Alvaneu
-1954 Stugl/Stuls
-1955 Bergün/Bravuogn
-1956 Muot
-1957 Preda
-1958 Spinas
-1959 Bever
-1960 Samedan
-1961 Celerina
-1962 Celerina Bobrun §
-1963 St. Moritz
-1964 Celerina Staz
-1965 Punt Muragl Staz
-1966 Pontresina
-1967 Surovas
-1968 Morteratsch
-1969 Bernina Suot
-1970 Bernina Diavolezza
-1971 Bernina Lagalb
-1972 Ospizio Bernina
-1973 Alp Grüm
-1974 Cavaglia
-1975 Cadera
-1976 Privilasco
-1977 Poschiavo
-1978 Li Curt
-1979 Le Prese
-1980 Miralago
-1981 Brusio
-1982 Campascio
-1983 Campocologno
-1984 Tirano
-1985 Punt Muragl
-1986 Punt-Chamues-ch, La
-1987 Madulain
-1988 Zuoz
-1989 S-chanf
-1990 S-chanf Marathon §
-1991 Cinuos-chel-Brail
-1992 Carolina
-1993 Zernez
+1436 Stein-Säckingen
+1437 Sisseln
+1438 Zürich Oerlikon
+1439 Zürich Flughafen
+1440 Kaiseraugst
+1441 Rheinfelden
+1442 Möhlin
+1443 Dossenboden (Spw)
+1444 Mumpf
+1445 Eiken
+1446 Niederfeld (Spw)
+1447 Frick
+1448 Buchhalde (Spw)
+1449 Kirchmatt (Spw)
+1450 Effingen
+1451 Schinznach Dorf
+1452 Villnachern
+1453 Villnachern (Spw)
+1454 Koblenz
+1455 Koblenz Dorf
+1456 Rietheim
+1457 Zurzach
+1458 Siggenthal-Würenlingen
+1459 Döttingen-Klingnau
+1460 Klingnau
+1461 Waldshut
+1462 Würenlos
+1463 Otelfingen
+1464 Otelfingen Rietholz
+1465 Buchs-Dällikon
+1466 Regensdorf-Watt
+1467 Zürich Affoltern
+1468 Zürich Seebach
+1469 Zürich Stadelhofen
+1470 Urdorf
+1471 Urdorf Weihermatt
+1472 Birmensdorf ZH
+1473 Bonstetten-Wettswil
+1474 Hedingen
+1475 Affoltern am Albis
+1476 Mettmenstetten
+1477 Knonau
+1478 Steinhausen
+1479 Zürich Selnau
+1480 Zürich Giesshübel
+1481 Zürich Saalsporthalle
+1482 Zürich Brunau
+1483 Zürich Manegg
+1484 Zürich Leimbach
+1485 Sood-Oberleimbach
+1486 Adliswil
+1487 Sihlau
+1488 Wildpark-Höfli
+1489 Langnau-Gattikon
+1490 Sihlwald
+1491 Zürich Binz
+1492 Friesenberg
+1493 Schweighof
+1494 Triemli
+1495 Uitikon Waldegg
+1496 Ringlikon
+1497 Uetliberg
+1498 Zürich Wiedikon
+1499 Zürich Wipkingen
+1500 Zürich Enge
+1501 Zürich Wollishofen
+1502 Kilchberg
+1503 Rüschlikon
+1504 Oberrieden
+1505 Horgen
+1506 Au ZH
+1507 Richterswil
+1508 Bäch
+1509 Freienbach SBB
+1510 Altendorf
+1511 Lachen
+1512 Siebnen-Wangen
+1513 Schübelbach-Buttikon
+1514 Reichenburg
+1515 Bilten
+1516 Ziegelbrücke
+1517 Zürich Tiefenbrunnen
+1518 Zollikon
+1519 Küsnacht Goldbach
+1520 Küsnacht ZH
+1521 Erlenbach ZH
+1522 Winkel
+1523 Herrliberg-Feldmeilen
+1524 Meilen
+1525 Uetikon
+1526 Männedorf
+1527 Stäfa
+1528 Uerikon
+1529 Feldbach
+1530 Kempraten
+1531 Zürich Kreuzplatz
+1532 Zürich Hegibachplatz
+1533 Zürich Balgrist
+1534 Zürich Rehalp
+1535 Waldburg
+1536 Spital Neumünster
+1537 Zollikerberg
+1538 Waltikon
+1539 Zumikon
+1540 Maiacker
+1541 Neue Forch
+1542 Forch
+1543 Scheuren
+1544 Neuhaus (Unterseen) ThS
+1545 Hinteregg
+1546 Egg
+1547 Langwies [CH]
+1548 Emmat
+1549 Esslingen
+1550 Zürich Römerhof
+1551 Zürich Dolder
+1552 Blumenau
+1553 Bollingen
+1554 Schmerikon
+1555 Uznach
+1556 Benken
+1557 Schänis
+1558 Nieder- und Oberurnen
+1559 Näfels-Mollis
+1560 Netstal
+1561 Glarus
+1562 Ennenda
+1563 Mitlödi
+1564 Schwanden
+1565 Nidfurn-Haslen
+1566 Leuggelbach
+1567 Luchsingen-Hätzingen
+1568 Diesbach-Betschwanden
+1569 Rüti GL
+1570 Linthal Braunwaldbahn
+1571 Linthal
+1572 Wallisellen
+1573 Dübendorf
+1574 Wetzikon
+1575 Hinwil
+1576 Stettbach
+1577 Schwerzenbach ZH
+1578 Nänikon-Greifensee
+1579 Uster
+1580 Aathal
+1581 Bubikon
+1582 Rüti ZH
+1583 Jona
+1584 Bauma
+1585 Neuthal
+1586 Bäretswil
+1587 Ettenhausen-Emmetschloo
+1588 Effretikon
+1589 Dietlikon
+1590 Kemptthal
+1591 Winterthur
+1592 Oberwinterthur
+1593 Illnau
+1594 Fehraltorf
+1595 Pfäffikon ZH
+1596 Kempten
+1597 Winterthur Grüze
+1598 Winterthur Seen
+1599 Sennhof-Kyburg
+1600 Kollbrunn
+1601 Rikon
+1602 Rämismühle-Zell
+1603 Turbenthal
+1604 Wila
+1605 Saland
+1606 Steg
+1607 Fischenthal
+1608 Gibswil
+1609 Wald
+1610 Tann-Dürnten
+1611 Niederweningen
+1612 Niederweningen Dorf
+1613 Schöfflisdorf-Oberweningen
+1614 Steinmaur
+1615 Dielsdorf
+1616 Niederhasli
+1617 Oberglatt
+1618 Schaffhausen
+1619 Neuhausen
+1620 Altenburg-Rheinau
+1621 Jestetten
+1622 Lottstetten
+1623 Rafz
+1624 Hüntwangen-Wil
+1625 Eglisau
+1626 Glattfelden
+1627 Bülach
+1628 Niederglatt
+1629 Rümlang
+1630 Glattbrugg
+1631 Rekingen AG
+1632 Mellikon
+1633 Rümikon AG
+1634 Kaiserstuhl AG
+1635 Zweidlen
+1636 Embrach-Rorbas
+1637 Pfungen-Neftenbach
+1638 Winterthur Wülflingen
+1639 Winterthur Töss
+1640 Schloss Laufen am Rheinfall
+1641 Dachsen
+1642 Marthalen
+1643 Andelfingen
+1644 Henggart
+1645 Hettlingen
+1646 Erzingen (Baden)
+1647 Trasadingen
+1648 Wilchingen-Hallau
+1649 Neunkirch
+1650 Beringen Bad Bf
+1651 Neuhausen Bad Bf
+1652 Herblingen
+1653 Thayngen
+1654 Bietingen
+1655 Gottmadingen
+1656 Singen (Hohentwiel)
+1657 Winterthur Wallrüti
+1658 Reutlingen
+1659 Seuzach
+1660 Bassersdorf
+1661 Kloten
+1662 Kloten Balsberg
+1663 Opfikon
+1664 Weinfelden
+1665 Märstetten
+1666 Müllheim-Wigoltingen
+1667 Hüttlingen-Mettendorf
+1668 Felben-Wellhausen
+1669 Frauenfeld
+1670 Islikon
+1671 Rickenbach-Attikon
+1672 Wiesendangen
+1673 Feuerthalen
+1674 Langwiesen
+1675 Schlatt
+1676 St. Katharinental
+1677 Diessenhofen
+1678 Schlattingen
+1679 Etzwilen
+1680 Stein am Rhein
+1681 Eschenz
+1682 Mammern
+1683 Steckborn
+1684 Berlingen
+1685 Mannenbach-Salenstein
+1686 Ermatingen
+1687 Triboltingen
+1688 Tägerwilen SBB
+1689 Kreuzlingen
+1690 Kreuzlingen Hafen
+1691 Kurzrickenbach Seepark
+1692 Bottighofen
+1693 Münsterlingen-Scherzingen
+1694 Münsterlingen Spital
+1695 Landschlacht
+1696 Altnau
+1697 Güttingen
+1698 Kesswil
+1699 Uttwil
+1700 Romanshorn
+1701 Stammheim
+1702 Ossingen
+1703 Thalheim-Altikon
+1704 Dinhard
+1705 Konstanz
+1706 Tägerwilen MThB
+1707 Kreuzlingen Bernrain
+1708 Lengwil
+1709 Siegershausen
+1710 Berg
+1711 Kehlhof
+1712 Bussnang
+1713 Oppikon
+1714 Märwil
+1715 Tobel-Affeltrangen
+1716 Tägerschen
+1717 Bettwiesen
+1718 Bronschhofen AMP
+1719 Bronschhofen
+1720 Wil
+1721 Bürglen
+1722 Sulgen
+1723 Erlen
+1724 Oberaach
+1725 Amriswil
+1726 Frauenfeld Marktplatz
+1727 Lüdem
+1728 Murkart
+1729 Weberei Matzingen
+1730 Matzingen
+1731 Jakobstal
+1732 Wiesengrund
+1733 Wängi
+1734 Rosental
+1735 Münchwilen Pflegeheim
+1736 Münchwilen TG
+1737 Egnach
+1738 Arbon Seemoosriet
+1739 Arbon
+1740 Steinach
+1741 Horn (Bodensee)
+1742 Rorschach Hafen
+1743 Rorschach
+1744 Winterthur Hegi
+1745 Räterschen
+1746 Schottikon
+1747 Elgg
+1748 Aadorf
+1749 Guntershausen
+1750 Eschlikon
+1751 Sirnach
+1752 Schwarzenbach SG
+1753 Algetshausen-Henau
+1754 Uzwil
+1755 Flawil
+1756 Gossau SG
+1757 St. Gallen Winkeln
+1758 St. Gallen Bruggen
+1759 St. Gallen
+1760 Kradolf
+1761 Bischofszell Nord
+1762 Sitterdorf
+1763 Bischofszell Stadt
+1764 Hauptwil
+1765 Arnegg
+1766 Bazenheid
+1767 Lütisburg
+1768 Bütschwil
+1769 Dietfurt
+1770 Lichtensteig
+1771 Wattwil
+1772 Ebnat-Kappel
+1773 Krummenau
+1774 Nesslau-Neu St. Johann
+1775 Herisau
+1776 Wilen
+1777 Waldstatt
+1778 Zürchersmühle
+1779 Urnäsch
+1780 Jakobsbad
+1781 Gonten
+1782 Gontenbad
+1783 Appenzell
+1784 Steinegg
+1785 Weissbad
+1786 Schwende
+1787 Wasserauen
+1788 Riethüsli
+1789 Lustmühle
+1790 Niederteufen
+1791 Sternen bei Teufen
+1792 Stofel
+1793 Teufen
+1794 Steigbach
+1795 Bühler
+1796 Strahlholz
+1797 Zweibrücken
+1798 Gais
+1799 Sammelplatz
+1800 Hirschberg
+1801 Hebrig
+1802 Schachen (Gais)
+1803 Rietli
+1804 Stoss AR
+1805 Kreuzstrasse
+1806 Warmesberg
+1807 Alter Zoll
+1808 Altstätten Stadt
+1809 Seebleiche
+1810 Sandbüchel
+1811 Wartensee
+1812 Wienacht-Tobel
+1813 Schwendi bei Heiden
+1814 Heiden
+1815 Rheineck
+1816 Walzenhausen
+1817 St. Gallen, Marktplatz
+1818 Spisertor
+1819 Schülerhaus
+1820 Notkersegg
+1821 Schwarzer Bären
+1822 Rank
+1823 Vögelinsegg
+1824 Schützengarten
+1825 Speicher
+1826 Bendlehn
+1827 Gfeld
+1828 Trogen
+1829 Neukirch-Egnach
+1830 Steinebrunn
+1831 Muolen
+1832 Häggenschwil-Winden
+1833 Roggwil-Berg
+1834 Wittenbach
+1835 St. Gallen St. Fiden
+1836 St. Gallen Haggen
+1837 Gübsensee
+1838 Schachen BT
+1839 Degersheim
+1840 Mogelsberg
+1841 Brunnadern-Neckertal
+1842 Kaltbrunn
+1843 Altstätten SG
+1844 Buchs SG
+1845 Mörschwil
+1846 Goldach
+1847 Rorschach Stadt
+1848 Staad
+1849 St. Margrethen
+1850 Au SG
+1851 Heerbrugg
+1852 Rebstein-Marbach
+1853 Oberriet
+1854 Rüthi SG
+1855 Salez-Sennwald
+1856 Räfis-Burgerau
+1857 Sevelen
+1858 Weite
+1859 Trübbach
+1860 Sargans
+1861 Bad Ragaz
+1862 Maienfeld
+1863 Landquart
+1864 Trimmis (Spw)
+1865 Chur
+1866 Weesen
+1867 Mühlehorn
+1868 Murg
+1869 Unterterzen
+1870 Mols
+1871 Walenstadt
+1872 Flums
+1873 Mels
+1874 Klosters
+1875 Susch
+1876 Sagliains
+1877 Lavin
+1878 Guarda
+1879 Ardez
+1880 Ftan
+1881 Chur Wiesental
+1882 Haldenstein
+1883 Trimmis
+1884 Untervaz
+1885 Zizers
+1886 Igis
+1887 Landquart Ried
+1888 Malans
+1889 Seewis-Valzeina
+1890 Grüsch
+1891 Schiers
+1892 Fuchsenwinkel §
+1893 Furna
+1894 Jenaz
+1895 Fideris
+1896 Küblis
+1897 Saas
+1898 Serneus
+1899 Klosters Dorf
+1900 Cavadürli
+1901 Davos Laret
+1902 Davos Wolfgang
+1903 Davos Dorf
+1904 Davos Platz
+1905 Davos Islen
+1906 Davos Frauenkirch
+1907 Davos Glaris
+1908 Davos Monstein
+1909 Wiesen
+1910 Filisur
+1911 Chur West
+1912 Felsberg
+1913 Domat/Ems
+1914 Ems Werk
+1915 Reichenau-Tamins
+1916 Trin
+1917 Versam-Safien
+1918 Valendas-Sagogn
+1919 Castrisch
+1920 Ilanz
+1921 Schnaus-Strada
+1922 Rueun
+1923 Waltensburg/Vuorz
+1924 Tavanasa-Breil/Brigels
+1925 Trun
+1926 Rabius-Surrein
+1927 Sumvitg-Cumpadials
+1928 Chur Stadt
+1929 Sassal
+1930 Untersax
+1931 Lüen-Castiel
+1932 St. Peter-Molinis
+1933 Peist
+1934 Langwies GR
+1935 Litzirüti
+1936 Arosa
+1937 Bonaduz
+1938 Rhäzüns
+1939 Rothenbrunnen
+1940 Rodels-Realta
+1941 Cazis
+1942 Thusis
+1943 Sils im Domleschg
+1944 Solis
+1945 Tiefencastel
+1946 Surava
+1947 Alvaneu
+1948 Stugl/Stuls
+1949 Bergün/Bravuogn
+1950 Muot
+1951 Preda
+1952 Spinas
+1953 Bever
+1954 Samedan
+1955 Celerina
+1956 Celerina Bobrun §
+1957 St. Moritz
+1958 Celerina Staz
+1959 Punt Muragl Staz
+1960 Pontresina
+1961 Surovas
+1962 Morteratsch
+1963 Bernina Suot
+1964 Bernina Diavolezza
+1965 Bernina Lagalb
+1966 Ospizio Bernina
+1967 Alp Grüm
+1968 Cavaglia
+1969 Cadera
+1970 Privilasco
+1971 Poschiavo
+1972 Li Curt
+1973 Le Prese
+1974 Miralago
+1975 Brusio
+1976 Campascio
+1977 Campocologno
+1978 Tirano
+1979 Punt Muragl
+1980 Punt-Chamues-ch, La
+1981 Madulain
+1982 Zuoz
+1983 S-chanf
+1984 S-chanf Marathon §
+1985 Cinuos-chel-Brail
+1986 Carolina
+1987 Zernez
+1988 Scuol-Tarasp
 *Edges
 1 2 2
 2 3 2
@@ -2217,13 +2212,13 @@
 221 222 1
 222 223 2
 223 224 2
-228 229 3
-229 230 3
-25 225 2
-225 226 2
+225 226 3
 226 227 3
-227 228 5
-228 231 2
+25 228 2
+228 229 2
+229 230 3
+230 225 5
+225 231 2
 231 232 5
 233 234 2
 234 235 1
@@ -2277,8 +2272,8 @@
 280 281 3
 281 282 8
 282 283 4
-286 285 5
-284 285 6
+284 285 5
+286 285 6
 285 287 2
 287 288 2
 288 289 0
@@ -2333,24 +2328,24 @@
 336 337 3
 337 338 2
 338 339 4
-349 350 2
+340 341 2
+341 342 2
+342 343 2
+343 344 2
+344 345 2
+345 346 2
+346 347 1
+311 348 1
+348 349 1
+349 350 1
 350 351 2
-351 352 2
+351 352 1
 352 353 2
 353 354 2
 354 355 2
 355 356 1
-311 340 1
-340 341 1
-341 342 1
-342 343 2
-343 344 1
-344 345 2
-345 346 2
-346 347 2
-347 348 1
-348 349 2
-349 357 3
+356 340 2
+340 357 3
 357 358 2
 358 359 4
 360 361 2
@@ -2414,15 +2409,15 @@
 418 395 2
 393 419 1
 419 420 2
-424 425 3
-425 426 4
-426 427 10
-427 428 12
-394 421 4
-421 422 5
-422 423 5
-423 424 4
-424 429 2
+421 422 3
+422 423 4
+423 424 10
+424 425 12
+394 426 4
+426 427 5
+427 428 5
+428 421 4
+421 429 2
 429 430 2
 430 431 2
 431 432 3
@@ -2591,18 +2586,18 @@
 588 589 2
 589 590 3
 590 550 3
-598 599 4
-599 597 1
-597 600 1
-600 601 2
-396 591 4
 591 592 4
-592 593 2
-593 594 3
-594 595 4
-595 596 5
-596 597 3
-601 602 2
+592 593 1
+593 594 1
+594 595 2
+396 596 4
+596 597 4
+597 598 2
+598 599 3
+599 600 4
+600 601 5
+601 593 3
+595 602 2
 602 603 4
 603 604 5
 604 605 3
@@ -2650,8 +2645,8 @@
 643 644 2
 644 645 3
 645 646 4
-646 595 1
-598 647 2
+646 600 1
+591 647 2
 647 648 1
 648 649 4
 649 650 3
@@ -2691,15 +2686,15 @@
 684 685 1
 685 686 4
 686 40 43
-692 693 3
-693 694 2
-694 695 2
-695 691 2
-558 687 6
 687 688 3
 688 689 2
-689 690 3
-690 691 4
+689 690 2
+690 691 2
+558 692 6
+692 693 3
+693 694 2
+694 695 3
+695 691 4
 691 696 3
 696 697 1
 697 698 1
@@ -2747,60 +2742,60 @@
 736 737 3
 737 738 2
 738 678 4
-749 750 1
-750 751 3
-751 752 2
-752 753 5
-753 754 3
-754 755 3
-755 756 2
-756 757 3
-762 763 5
-763 764 2
-764 719 5
-766 767 2
-767 768 0
-768 769 2
-769 770 1
-739 740 3
+739 740 1
 740 741 3
-741 742 1
-742 743 2
-743 744 1
-744 670 4
-725 745 4
+741 742 2
+742 743 5
+743 744 3
+744 745 3
 745 746 2
 746 747 3
-747 748 3
-748 749 3
-749 758 1
+748 749 5
+749 750 2
+750 719 5
+751 752 2
+752 753 0
+753 754 2
+754 755 1
+757 758 2
 758 759 2
 759 760 4
-760 761 3
-761 762 3
-762 765 2
-765 766 3
-766 771 1
-771 772 1
-772 773 3
-774 775 2
-775 776 2
-776 777 4
-777 778 0
-568 780 2
-780 781 3
-781 782 2
-782 783 3
-783 784 4
-784 601 4
-600 599 2
-595 779 4
-779 598 5
-598 785 5
+760 761 0
+762 763 3
+763 764 3
+764 765 1
+765 766 2
+766 767 1
+767 670 4
+725 768 4
+768 769 2
+769 770 3
+770 771 3
+771 739 3
+739 772 1
+772 773 2
+773 774 4
+774 775 3
+775 748 3
+748 776 2
+776 751 3
+751 777 1
+777 778 1
+778 756 3
+568 779 2
+779 780 3
+780 781 2
+781 782 3
+782 783 4
+783 595 4
+594 592 2
+600 784 4
+784 591 5
+591 785 5
 785 786 2
 786 787 3
-787 739 4
-743 670 5
+787 762 4
+766 670 5
 788 789 4
 789 790 2
 790 791 1
@@ -2828,7 +2823,7 @@
 810 811 1
 811 812 2
 812 813 1
-813 757 2
+813 747 2
 788 814 3
 814 815 1
 815 789 1
@@ -2893,7 +2888,7 @@
 871 872 2
 872 873 3
 873 41 4
-760 874 3
+774 874 3
 874 875 6
 875 876 2
 876 877 4
@@ -2912,8 +2907,8 @@
 887 888 2
 888 889 3
 889 890 3
-890 757 1
-757 891 4
+890 747 1
+747 891 4
 891 892 3
 892 893 3
 893 894 6
@@ -2937,7 +2932,7 @@
 911 912 1
 912 913 1
 913 895 3
-757 914 2
+747 914 2
 914 915 2
 915 916 1
 916 917 2
@@ -2961,56 +2956,57 @@
 933 934 2
 934 935 2
 935 936 1
-952 953 4
-953 954 4
-954 955 2
-955 956 4
-956 957 8
-957 958 4
-958 959 5
-959 719 6
-932 937 2
-937 938 2
-938 939 1
+937 938 4
+938 939 4
 939 940 2
-940 941 2
-941 942 1
-942 943 2
-943 778 4
-778 944 4
-944 945 2
+940 941 4
+941 942 8
+942 943 4
+943 944 5
+944 719 6
+932 945 2
 945 946 2
-946 947 4
-947 948 3
-948 949 5
-949 950 2
+946 947 1
+947 948 2
+948 949 2
+949 950 1
 950 951 2
-951 952 3
-952 960 2
+951 761 4
+761 952 4
+952 953 2
+953 954 2
+954 955 4
+955 956 3
+956 957 5
+957 958 2
+958 959 2
+959 937 3
+937 960 2
 960 961 4
 961 962 3
 962 963 6
 963 964 15
 670 965 13
-971 901 6
-965 966 1
-757 968 3
-968 969 3
-969 970 5
-970 967 1
-746 966 1
-966 747 2
-747 972 2
-972 748 1
-749 973 6
+747 967 3
+967 968 3
+968 969 5
+969 966 1
+970 901 6
+965 971 1
+971 671 1
+769 971 1
+971 770 2
+770 972 2
+972 771 1
+739 973 6
 973 974 5
 974 975 6
 975 932 7
 932 976 5
 976 977 2
 977 978 3
-978 971 3
-971 979 3
+978 970 3
+970 979 3
 979 901 4
 964 980 3
 980 981 1
@@ -3065,21 +3061,21 @@
 1028 1029 3
 1029 1030 4
 1030 901 14
-1035 1036 3
+1031 1032 3
+1032 1033 1
+1033 1034 2
+1034 1035 1
+1035 1036 1
 1036 1037 1
-1037 1038 2
+1037 1038 1
 1038 1039 1
-1039 1034 1
-1034 1033 1
-1033 1040 1
-1040 1041 1
+1039 1040 1
+1040 1041 0
 1041 1042 1
-1042 1043 0
-1043 1044 1
-496 1031 5
-1031 1032 5
-1032 1033 2
-1035 1045 4
+496 1043 5
+1043 1044 5
+1044 1037 2
+1031 1045 4
 1045 1046 2
 1046 1047 1
 1047 1048 2
@@ -3159,41 +3155,41 @@
 1117 1118 2
 1118 1119 1
 1119 964 5
-1126 1127 2
-1127 1128 2
-1105 1120 2
-1120 1121 3
+1120 1121 2
 1121 1122 2
-1122 1123 3
-1123 1124 1
-1124 1125 3
+1105 1123 2
+1123 1124 3
+1124 1125 2
 1125 1126 3
-1126 1129 7
+1126 1127 1
+1127 1128 3
+1128 1120 3
+1120 1129 7
 1129 1130 4
-1137 1138 3
-1138 1139 1
-1139 1136 4
-1141 1142 12
-1142 1143 2
-1143 1144 2
-1144 1145 3
-1145 1146 7
-1146 1147 2
-1147 1148 2
-1148 1149 3
-1149 1150 1
-1150 1151 1
-1151 1152 1
-1152 1153 7
-1153 1140 6
-964 1131 9
 1131 1132 3
-1132 1133 2
-1133 1134 3
-1134 1135 2
-1135 1136 3
-1136 1140 9
-1140 1154 5
+1132 1133 1
+1133 1134 4
+1135 1136 12
+1136 1137 2
+1137 1138 2
+1138 1139 3
+1139 1140 7
+1140 1141 2
+1141 1142 2
+1142 1143 3
+1143 1144 1
+1144 1145 1
+1145 1146 1
+1146 1147 7
+1147 1148 6
+964 1149 9
+1149 1150 3
+1150 1151 2
+1151 1152 3
+1152 1153 2
+1153 1134 3
+1134 1148 9
+1148 1154 5
 1154 1155 3
 1155 1156 4
 1156 1157 6
@@ -3238,7 +3234,7 @@
 1194 1195 4
 1195 1196 5
 1196 1197 3
-1140 1198 1
+1148 1198 1
 1198 1199 2
 1199 1200 2
 1200 1201 2
@@ -3347,7 +3343,7 @@
 1194 1302 8
 1302 1303 10
 1303 1304 8
-1128 1305 2
+1122 1305 2
 1305 1306 2
 1306 1307 2
 1307 1308 0
@@ -3360,7 +3356,7 @@
 1314 1315 1
 1315 1316 1
 1316 1317 1
-1128 1318 3
+1122 1318 3
 1318 1319 2
 1319 1320 1
 1320 1321 2
@@ -3384,29 +3380,29 @@
 1339 1340 1
 1340 1341 3
 1341 1342 2
-1346 1347 3
-1347 1348 2
-1348 1349 2
-1349 1350 5
-1350 1351 4
-1351 1352 5
-1352 1336 2
-1336 1353 1
-1353 1354 3
-1354 1355 5
-1355 1356 1
-1356 1357 3
-1357 1358 3
-1358 1359 2
-1359 1141 1
-901 1343 4
 1343 1344 3
 1344 1345 2
-1345 1128 5
-1128 1346 6
-1346 1130 4
+1345 1346 2
+1346 1347 5
+1347 1348 4
+1348 1349 5
+1349 1336 2
+1336 1350 1
+1350 1351 3
+1351 1352 5
+1352 1353 1
+1353 1354 3
+1354 1355 3
+1355 1356 2
+1356 1135 1
+901 1357 4
+1357 1358 3
+1358 1359 2
+1359 1122 5
+1122 1343 6
+1343 1130 4
 1130 1342 4
-1339 1354 4
+1339 1351 4
 1130 1360 5
 1360 1361 2
 1361 1362 2
@@ -3424,7 +3420,7 @@
 1373 1374 2
 1374 1375 3
 1375 1118 7
-1350 1376 3
+1347 1376 3
 1376 1377 2
 1377 1342 3
 1342 1378 7
@@ -3437,7 +3433,7 @@
 1383 1384 3
 1384 1385 4
 1385 1386 2
-1386 1137 4
+1386 1131 4
 1380 1387 2
 1387 1388 2
 1388 1389 2
@@ -3459,635 +3455,634 @@
 1404 1405 2
 1405 1406 2
 1406 1407 1
-1407 1355 1
-1149 1408 2
+1407 1352 1
+1143 1408 2
 1408 1409 1
 1409 1410 1
 1410 1411 1
 1411 1412 2
-1412 1137 3
-1137 1413 4
+1412 1131 3
+1131 1413 4
 1413 1414 3
 1414 1415 1
 1415 1416 1
 1416 964 9
-1426 1427 3
 1417 1418 3
-1418 1419 3
-1419 1420 2
+1419 1420 3
 1420 1421 3
-1421 1422 1
-1422 1423 2
-1423 1424 4
-1424 1425 3
-1425 1426 2
-1426 1428 6
+1421 1422 2
+1422 1423 3
+1423 1424 1
+1424 1425 2
+1425 1426 4
+1426 1427 3
+1427 1417 2
+1417 1428 6
 1428 1429 4
 1429 1430 2
 1430 1431 6
 1431 1432 6
-1432 1140 5
+1432 1148 5
 1433 1434 3
 1434 1435 1
-1435 1424 1
-1441 1442 4
-1442 1443 5
-1358 1458 4
-1458 1459 3
-1023 1436 3
-1436 1437 5
-1437 1438 3
+1435 1426 1
+1436 1437 4
+1355 1438 4
 1438 1439 3
-1439 1440 4
-1440 1441 3
-1441 1449 3
-1449 1450 1
+1023 1440 3
+1440 1441 5
+1441 1442 3
+1442 1443 3
+1443 1444 4
+1444 1436 3
+1436 1445 3
+1445 1446 1
+1446 1447 3
+1447 1448 4
+1448 1449 2
+1449 1450 4
 1450 1451 3
-1451 1452 4
-1452 1453 2
-1453 1454 4
-1454 1455 3
+1451 1452 3
+1452 1453 1
+1453 1347 4
+1454 1455 2
 1455 1456 3
-1456 1457 1
-1457 1350 4
-1448 1463 2
-1463 1464 3
-1464 1465 2
-1351 1460 3
-1460 1461 7
-1461 1462 2
-1462 1448 2
-1448 1466 3
-1336 1467 1
-1467 1468 2
-1468 1469 1
-1469 1470 3
-1470 1471 4
+1456 1457 2
+1348 1458 3
+1458 1459 7
+1459 1460 2
+1460 1454 2
+1454 1461 3
+1336 1462 1
+1462 1463 2
+1463 1464 1
+1464 1465 3
+1465 1466 4
+1466 1467 3
+1467 1468 3
+1468 1438 1
+1438 1356 2
+1135 1469 2
+1355 1470 4
+1470 1471 1
 1471 1472 3
-1472 1473 3
-1473 1458 1
-1458 1359 2
-1141 1474 2
-1358 1475 4
-1475 1476 1
+1472 1473 5
+1473 1474 4
+1474 1475 3
+1475 1476 4
 1476 1477 3
-1477 1478 5
-1478 1479 4
-1479 1480 3
-1480 1481 4
-1481 1482 3
-1482 1483 3
-1483 1149 4
-1141 1484 2
+1477 1478 3
+1478 1143 4
+1135 1479 2
+1479 1480 2
+1480 1481 1
+1481 1482 1
+1482 1483 2
+1483 1484 1
 1484 1485 2
 1485 1486 1
-1486 1487 1
-1487 1488 2
-1488 1489 1
-1489 1490 2
-1490 1491 1
-1491 1492 2
+1486 1487 2
+1487 1488 1
+1488 1489 2
+1489 1490 3
+1479 1491 2
+1491 1492 1
 1492 1493 1
-1493 1494 2
+1493 1494 1
 1494 1495 3
-1484 1496 2
-1496 1497 1
-1497 1498 1
-1498 1499 1
-1499 1500 3
+1495 1496 2
+1496 1497 4
+1498 1481 5
+1490 1139 4
+1355 1498 3
+1140 1143 7
+1438 1499 3
+1499 1135 2
+1135 1498 3
+1498 1500 1
 1500 1501 2
-1501 1502 4
-1503 1486 5
-1495 1145 4
-1358 1503 3
-1146 1149 7
-1458 1504 3
-1504 1141 2
-1141 1503 3
-1503 1505 1
-1505 1506 2
-1506 1507 3
-1507 1508 2
-1508 1142 1
-1142 1509 2
-1509 1510 2
-1510 1511 5
-1511 1433 2
-1433 1512 4
+1501 1502 3
+1502 1503 2
+1503 1136 1
+1136 1504 2
+1504 1505 2
+1505 1506 5
+1506 1433 2
+1433 1507 4
+1507 1508 3
+1508 1509 2
+1509 1421 1
+1421 1510 4
+1510 1511 2
+1511 1512 4
 1512 1513 3
-1513 1514 2
-1514 1419 1
-1419 1515 4
-1515 1516 2
-1516 1517 4
-1517 1518 3
-1518 1519 3
-1519 1520 4
-1520 1521 3
-1474 1522 12
+1513 1514 3
+1514 1515 4
+1515 1516 3
+1469 1517 12
+1517 1518 2
+1518 1519 1
+1519 1520 1
+1520 1521 2
+1521 1522 1
 1522 1523 2
-1523 1524 1
-1524 1525 1
-1525 1526 2
-1526 1527 1
+1523 1524 3
+1524 1525 3
+1525 1526 1
+1526 1527 3
 1527 1528 2
-1528 1529 3
+1528 1529 2
 1529 1530 3
-1530 1531 1
-1531 1532 3
-1532 1533 2
-1533 1534 2
-1534 1535 3
-1535 1417 2
-1474 1536 1
+1530 1419 2
+1469 1531 1
+1531 1532 1
+1532 1533 1
+1533 1534 1
+1534 1535 1
+1535 1536 1
 1536 1537 1
-1537 1538 1
+1537 1538 2
 1538 1539 1
-1539 1540 1
+1539 1540 2
 1540 1541 1
 1541 1542 1
-1542 1543 2
-1543 1544 1
+1542 1543 1
+1543 1544 2
 1544 1545 2
 1545 1546 1
 1546 1547 1
 1547 1548 1
-1548 1549 2
-1549 1550 2
-1550 1551 1
-1551 1552 1
-1552 1553 1
-1553 1554 1
-1555 1556 5
-1417 1557 2
-1557 1558 3
-1558 1559 5
-1559 1560 3
+1548 1549 1
+1550 1551 5
+1419 1552 2
+1552 1553 3
+1553 1554 5
+1554 1555 3
+1555 1556 3
+1556 1557 6
+1557 1516 3
+1516 1558 2
+1558 1559 2
+1559 1560 4
 1560 1561 3
-1561 1562 6
-1562 1521 3
-1521 1563 2
-1563 1564 2
-1564 1565 4
-1565 1566 3
+1561 1562 1
+1562 1563 3
+1563 1564 1
+1564 1565 2
+1565 1566 2
 1566 1567 1
-1567 1568 3
-1568 1569 1
+1567 1568 2
+1568 1569 2
 1569 1570 2
-1570 1571 2
-1571 1572 1
-1572 1573 2
-1573 1574 2
-1574 1575 2
-1575 1576 0
-1458 1577 7
+1570 1571 0
+1438 1572 7
+1572 1573 3
+1574 1575 4
+1469 1576 5
+1576 1573 3
+1573 1577 3
 1577 1578 3
-1584 1585 4
-1474 1579 5
-1579 1578 3
-1578 1580 3
-1580 1581 3
+1578 1579 3
+1579 1580 4
+1580 1574 3
+1574 1581 6
 1581 1582 3
-1582 1583 4
-1583 1584 3
-1584 1586 6
-1586 1587 3
-1587 1588 5
-1588 1417 2
-1589 1590 0
-1590 1591 0
-1591 1592 0
-1592 1585 0
-1459 1597 12
-1597 1602 5
-1602 1603 4
-1603 1604 3
-1604 1605 4
-1605 1584 2
-1600 1606 3
+1582 1583 5
+1583 1419 2
+1584 1585 0
+1585 1586 0
+1586 1587 0
+1587 1575 0
+1439 1588 12
+1576 1589 3
+1589 1588 6
+1588 1590 4
+1590 1591 5
+1591 1592 4
+1588 1593 5
+1593 1594 4
+1594 1595 3
+1595 1596 4
+1596 1574 2
+1591 1597 3
+1597 1598 2
+1598 1599 3
+1599 1600 2
+1600 1601 3
+1601 1602 2
+1602 1603 2
+1603 1604 2
+1604 1605 3
+1605 1584 4
+1584 1606 5
 1606 1607 2
-1607 1608 3
-1608 1609 2
-1609 1610 3
-1610 1611 2
-1611 1612 2
-1612 1613 2
+1607 1608 2
+1608 1609 5
+1609 1610 5
+1610 1582 2
+1611 1612 1
+1612 1613 3
 1613 1614 3
-1614 1589 4
-1589 1615 5
+1614 1615 1
 1615 1616 2
 1616 1617 2
-1617 1618 5
-1618 1619 5
-1619 1587 2
-1632 1633 1
-1633 1634 3
-1634 1635 3
-1635 1636 1
-1636 1637 2
-1637 1631 2
+1618 1619 2
+1619 1620 4
 1620 1621 2
 1621 1622 4
-1622 1623 2
+1622 1623 3
 1623 1624 4
-1624 1625 3
-1625 1626 4
-1626 1627 1
-1627 1628 3
-1628 1629 3
-1629 1630 5
-1630 1631 2
-1631 1638 3
+1624 1625 1
+1625 1626 3
+1626 1627 3
+1627 1628 5
+1628 1617 2
+1617 1629 3
+1629 1630 3
+1630 1438 2
+1457 1631 3
+1631 1632 2
+1632 1633 1
+1633 1634 5
+1634 1635 5
+1635 1625 3
+1627 1636 4
+1636 1637 5
+1637 1638 3
 1638 1639 3
-1639 1458 2
-1465 1640 3
+1639 1591 1
+1619 1640 1
 1640 1641 2
-1641 1642 1
-1642 1643 5
-1643 1644 5
-1644 1627 3
-1629 1645 4
-1645 1646 5
-1646 1647 3
-1647 1648 3
-1648 1600 1
-1621 1649 1
-1649 1650 2
-1650 1651 5
-1651 1652 6
+1641 1642 5
+1642 1643 6
+1643 1644 4
+1644 1645 2
+1645 1591 7
+1646 1647 1
+1647 1648 2
+1648 1649 3
+1649 1650 10
+1650 1651 3
+1651 1618 2
+1618 1652 2
 1652 1653 4
-1653 1654 2
-1654 1600 7
-1655 1656 1
-1656 1657 2
-1657 1658 3
-1658 1659 10
-1659 1660 3
-1660 1620 2
-1620 1661 2
-1661 1662 4
-1662 1663 3
-1663 1664 3
-1664 1665 5
-1579 1598 3
-1598 1597 6
-1597 1599 13
-1599 1600 5
-1600 1601 4
-1601 1666 1
-1666 1667 2
-1667 1668 1
-1662 1620 6
-1597 1596 10
-1596 1459 2
-1128 1130 4
+1653 1654 3
+1654 1655 3
+1655 1656 5
+1592 1657 1
+1657 1658 2
+1658 1659 1
+1653 1618 6
+1588 1660 10
+1660 1439 2
+1122 1130 4
 1341 1339 3
-1596 1595 3
-1595 1594 3
-1594 1593 3
-1593 1458 3
+1660 1661 3
+1661 1662 3
+1662 1663 3
+1663 1438 3
+1664 1665 4
+1665 1666 4
+1666 1667 3
+1667 1668 2
+1668 1669 4
 1669 1670 4
 1670 1671 4
-1671 1672 3
-1672 1673 2
-1673 1674 4
-1674 1675 4
-1675 1676 4
-1676 1677 2
-1677 1601 2
-1598 1577 2
-1620 1678 2
-1678 1679 1
-1679 1680 2
+1671 1672 2
+1672 1592 2
+1589 1572 2
+1618 1673 2
+1673 1674 1
+1674 1675 2
+1675 1676 2
+1676 1677 3
+1677 1678 3
+1678 1679 4
+1679 1680 3
 1680 1681 2
 1681 1682 3
-1682 1683 3
-1683 1684 4
-1684 1685 3
-1685 1686 2
-1686 1687 3
-1687 1688 6
+1682 1683 6
+1683 1684 3
+1684 1685 2
+1685 1686 3
+1686 1687 2
+1687 1688 2
 1688 1689 3
-1689 1690 2
-1690 1691 3
-1691 1692 2
+1689 1690 1
+1690 1691 1
+1691 1692 1
 1692 1693 2
-1693 1694 3
+1693 1694 1
 1694 1695 1
 1695 1696 1
-1696 1697 1
+1696 1697 3
 1697 1698 2
-1698 1699 1
-1699 1700 1
-1700 1701 1
-1701 1702 3
-1702 1703 2
+1698 1699 2
+1699 1700 4
+1679 1701 5
+1701 1702 7
+1702 1703 8
 1703 1704 2
-1704 1705 4
-1684 1706 5
-1706 1707 7
-1707 1708 8
-1708 1709 2
-1709 1668 2
-1710 1694 1
-1694 1711 3
-1711 1712 4
+1704 1659 2
+1705 1689 1
+1689 1706 3
+1706 1707 4
+1707 1708 3
+1708 1709 4
+1709 1710 5
+1710 1711 3
+1711 1664 7
+1664 1712 4
 1712 1713 3
 1713 1714 4
-1714 1715 5
-1715 1716 3
-1716 1669 7
-1669 1717 4
+1714 1715 4
+1715 1716 2
+1716 1717 1
 1717 1718 3
-1718 1719 4
+1718 1719 1
 1719 1720 4
-1720 1721 2
-1721 1722 1
-1722 1723 3
-1723 1724 1
-1724 1725 4
-1669 1726 4
+1664 1721 4
+1721 1722 3
+1722 1723 4
+1723 1724 3
+1724 1725 3
+1725 1700 6
+1669 1726 1
 1726 1727 3
-1727 1728 4
-1728 1729 3
-1729 1730 3
-1730 1705 6
-1674 1731 1
-1731 1732 3
-1732 1733 2
-1733 1734 2
+1727 1728 2
+1728 1729 2
+1729 1730 2
+1730 1731 3
+1731 1732 1
+1732 1733 1
+1733 1734 3
 1734 1735 2
-1735 1736 3
-1736 1737 1
-1737 1738 1
-1738 1739 3
-1739 1740 2
-1740 1741 1
-1741 1725 4
-1705 1742 2
-1742 1743 4
-1743 1744 2
-1744 1745 1
-1745 1746 2
-1746 1747 5
-1747 1748 1
-1606 1749 2
-1749 1750 2
-1750 1751 1
-1751 1752 4
+1735 1736 1
+1736 1720 4
+1700 1737 2
+1737 1738 4
+1738 1739 2
+1739 1740 1
+1740 1741 2
+1741 1742 5
+1742 1743 1
+1597 1744 2
+1744 1745 2
+1745 1746 1
+1746 1747 4
+1747 1748 3
+1748 1749 2
+1749 1750 4
+1750 1751 4
+1751 1720 3
+1720 1752 4
 1752 1753 3
 1753 1754 2
-1754 1755 4
-1755 1756 4
-1756 1725 3
-1725 1757 4
-1757 1758 3
-1758 1759 2
-1759 1760 6
+1754 1755 6
+1755 1756 5
+1756 1757 4
+1757 1758 2
+1758 1759 4
+1722 1760 2
 1760 1761 5
-1761 1762 4
+1761 1762 2
 1762 1763 2
 1763 1764 4
-1727 1765 2
-1765 1766 5
-1766 1767 2
-1767 1768 2
-1768 1769 4
-1769 1770 4
-1770 1761 4
-1725 1771 7
-1771 1772 3
-1772 1773 3
-1773 1774 2
-1774 1775 3
+1764 1765 4
+1765 1756 4
+1720 1766 7
+1766 1767 3
+1767 1768 3
+1768 1769 2
+1769 1770 3
+1770 1771 2
+1771 1772 5
+1772 1773 6
+1773 1774 6
+1756 1775 8
 1775 1776 2
-1776 1777 5
-1777 1778 6
-1778 1779 6
-1761 1780 8
+1776 1777 4
+1777 1778 4
+1778 1779 2
+1779 1780 4
 1780 1781 2
-1781 1782 4
-1782 1783 4
-1783 1784 2
-1784 1785 4
+1781 1782 3
+1782 1783 3
+1783 1784 3
+1784 1785 2
 1785 1786 2
-1786 1787 3
-1787 1788 3
-1788 1789 3
+1786 1787 2
+1759 1788 4
+1788 1789 2
 1789 1790 2
-1790 1791 2
-1791 1792 2
-1764 1793 4
+1790 1791 1
+1791 1792 1
+1792 1793 1
 1793 1794 2
 1794 1795 2
-1795 1796 1
-1796 1797 1
+1795 1796 2
+1796 1797 2
 1797 1798 1
-1798 1799 2
-1799 1800 2
-1800 1801 2
+1798 1799 3
+1799 1800 4
+1800 1783 3
+1798 1801 3
 1801 1802 2
 1802 1803 1
-1803 1804 3
-1804 1805 4
-1805 1788 3
-1803 1806 3
-1806 1807 2
-1807 1808 1
-1808 1809 2
-1809 1810 2
-1810 1811 1
+1803 1804 2
+1804 1805 2
+1805 1806 1
+1806 1807 1
+1807 1808 4
+1743 1809 2
+1809 1810 1
+1810 1811 4
 1811 1812 1
-1812 1813 4
-1748 1814 2
-1814 1815 1
-1815 1816 4
-1816 1817 1
+1812 1813 1
+1813 1814 2
+1815 1816 2
+1759 1817 67
 1817 1818 1
-1818 1819 2
-1820 1821 2
-1764 1822 67
+1818 1819 1
+1819 1820 2
+1820 1821 1
+1821 1822 1
 1822 1823 1
 1823 1824 1
-1824 1825 2
+1824 1825 1
 1825 1826 1
 1826 1827 1
 1827 1828 1
-1828 1829 1
-1829 1830 1
-1830 1831 1
-1831 1832 1
-1832 1833 1
-1705 1834 6
-1834 1835 2
-1835 1836 2
-1836 1837 4
-1837 1838 4
-1838 1839 4
-1839 1840 6
-1840 1764 2
-1764 1841 4
-1841 1842 5
-1842 1780 3
-1780 1843 5
-1843 1844 5
-1844 1845 8
+1700 1829 6
+1829 1830 2
+1830 1831 2
+1831 1832 4
+1832 1833 4
+1833 1834 4
+1834 1835 6
+1835 1759 2
+1759 1836 4
+1836 1837 5
+1837 1775 3
+1775 1838 5
+1838 1839 5
+1839 1840 8
+1840 1841 5
+1841 1770 6
+1771 1842 11
+1842 1555 3
+1843 1844 24
+1835 1845 5
 1845 1846 5
-1846 1775 6
-1776 1847 11
-1847 1560 3
-1856 1857 24
-1840 1848 5
-1848 1849 5
-1849 1850 1
-1850 1748 2
-1748 1851 2
-1851 1820 5
-1820 1852 4
-1852 1853 3
-1853 1854 3
+1846 1847 1
+1847 1743 2
+1743 1848 2
+1848 1815 5
+1815 1849 4
+1849 1850 3
+1850 1851 3
+1851 1852 4
+1852 1843 3
+1843 1853 5
+1853 1854 15
 1854 1855 4
-1855 1856 3
-1856 1858 5
-1858 1859 15
+1855 1844 8
+1844 1856 2
+1856 1857 3
+1857 1858 4
+1858 1859 3
 1859 1860 4
-1860 1857 8
-1857 1861 2
-1861 1862 3
-1862 1863 4
-1863 1864 3
-1864 1865 4
-1865 1866 6
-1866 1867 2
-1867 1868 5
-1868 1869 7
-1869 1870 7
-1521 1871 3
-1871 1872 6
-1872 1873 3
-1873 1874 3
-1874 1875 2
-1875 1876 3
-1876 1877 4
-1877 1878 7
-1878 1865 2
-1870 1879 2
-1879 1880 1
-1880 1881 4
+1860 1861 6
+1861 1862 2
+1862 1863 5
+1863 1864 7
+1864 1865 7
+1516 1866 3
+1866 1867 6
+1867 1868 3
+1868 1869 3
+1869 1870 2
+1870 1871 3
+1871 1872 4
+1872 1873 7
+1873 1860 2
+1874 1875 23
+1876 1877 2
+1877 1878 3
+1878 1879 5
+1879 1880 7
+1865 1881 2
 1881 1882 1
-1882 1883 2
-1883 1884 2
-1884 1885 1
-1885 1868 1
-1868 1886 4
+1882 1883 4
+1883 1884 1
+1884 1885 2
+1885 1886 2
 1886 1887 1
-1887 1888 1
-1888 1889 4
-1889 1890 5
-1890 1891 1
-1891 1892 2
-1892 1893 2
-1893 1894 4
-1894 1895 5
-1895 1896 5
-1896 1897 3
-1897 1898 2
-1898 1899 20
-1899 1900 2
-1900 1901 3
-1901 1902 5
-1902 1903 7
-1903 1904 4
-1904 1906 14
+1887 1863 1
+1863 1888 4
+1888 1889 1
+1889 1890 1
+1890 1891 4
+1891 1892 5
+1892 1893 1
+1893 1894 2
+1894 1895 2
+1895 1896 4
+1896 1897 5
+1897 1898 5
+1898 1899 3
+1899 1874 2
+1874 1900 2
+1900 1901 4
+1901 1902 2
+1902 1903 3
+1903 1904 3
+1904 1905 2
+1905 1906 3
 1906 1907 4
-1907 1908 2
-1908 1909 3
-1909 1910 3
-1910 1911 2
-1911 1912 3
-1912 1913 4
-1913 1914 6
-1914 1915 6
+1907 1908 6
+1908 1909 6
+1909 1910 7
+1865 1911 2
+1911 1912 2
+1912 1913 2
+1913 1914 3
+1914 1915 2
 1915 1916 7
-1870 1917 2
-1917 1918 2
-1918 1919 2
+1916 1917 6
+1917 1918 6
+1918 1919 6
 1919 1920 3
-1920 1921 2
-1921 1922 7
-1922 1923 6
+1920 1921 5
+1921 1922 2
+1922 1923 3
 1923 1924 6
 1924 1925 6
-1925 1926 3
-1926 1927 5
-1927 1928 2
-1928 1929 3
-1929 1930 6
+1925 1926 4
+1926 1927 3
+1927 279 10
+1865 1928 1
+1928 1929 1
+1929 1930 4
 1930 1931 6
-1931 1932 4
+1931 1932 5
 1932 1933 3
-1933 279 10
-1870 1934 1
-1934 1935 1
-1935 1936 4
-1936 1937 6
-1937 1938 5
-1938 1939 3
+1933 1934 5
+1934 1935 4
+1935 1936 7
+1915 1937 6
+1937 1938 1
+1938 1939 6
 1939 1940 5
-1940 1941 4
-1941 1942 7
-1921 1943 6
-1943 1944 1
-1944 1945 6
-1945 1946 5
+1940 1941 3
+1941 1942 4
+1942 1943 2
+1943 1944 4
+1944 1945 5
+1945 1946 6
 1946 1947 3
-1947 1948 4
+1947 1910 5
+1910 1948 5
 1948 1949 2
-1949 1950 4
-1950 1951 5
-1951 1952 6
-1952 1953 3
-1953 1916 5
-1916 1954 5
-1954 1955 2
-1955 1956 6
-1956 1957 12
-1957 1958 9
-1958 1959 4
-1959 1960 1
-1960 1961 3
-1961 1962 1
-1962 1963 1
-1963 1964 2
-1964 1965 1
-1965 1966 2
-1966 1967 1
-1967 1968 5
-1968 1969 2
-1969 1970 1
-1970 1971 0
-1971 1972 4
+1949 1950 6
+1950 1951 12
+1951 1952 9
+1952 1953 4
+1953 1954 1
+1954 1955 3
+1955 1956 1
+1956 1957 1
+1957 1958 2
+1958 1959 1
+1959 1960 2
+1960 1961 1
+1961 1962 5
+1962 1963 2
+1963 1964 1
+1964 1965 0
+1965 1966 4
+1966 1967 4
+1967 1968 2
+1968 1969 7
+1969 1970 6
+1970 1971 2
+1971 1972 2
 1972 1973 4
-1973 1974 2
-1974 1975 7
-1975 1976 6
+1973 1974 4
+1974 1975 4
+1975 1976 3
 1976 1977 2
-1977 1978 2
-1978 1979 4
-1979 1980 4
-1980 1981 4
+1977 1978 5
+1960 1979 2
+1979 1954 3
+1953 1980 5
+1980 1981 3
 1981 1982 3
-1982 1983 2
-1983 1984 5
-1966 1985 2
-1985 1960 3
-1959 1986 5
-1986 1987 3
-1987 1988 3
-1988 1989 3
-1989 1990 2
-1990 1991 4
-1991 1992 7
-1992 1993 7
-1993 1905 9
-1905 1899 7
+1982 1983 3
+1983 1984 2
+1984 1985 4
+1985 1986 7
+1986 1987 7
+1987 1875 9
+1875 1876 7
+1880 1988 4

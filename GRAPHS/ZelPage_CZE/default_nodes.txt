@@ -31,10 +31,10 @@
 31 Odb. Parník odbočka
 32 Česká Třebová žst
 33 Praha hlavní nádraží žst
-34 Praha Masarykovo nádraží žst
-35 Praha Masarykovo nádraží-Sluncová
-36 Praha-Libeň Vítkov
-37 Praha-Libeň žst
+34 Praha-Libeň Vítkov
+35 Praha-Libeň žst
+36 Praha Masarykovo nádraží-Sluncová
+37 Praha Masarykovo nádraží žst
 38 Praha-Kyje z
 39 Praha-Dolní Počernice z
 40 Praha-Běchovice žst

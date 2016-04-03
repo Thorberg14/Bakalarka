@@ -31,13 +31,16 @@ public class Converter {
 	
 	public void addData(DataModul dm){
 		l.add(dm);
+		Logger.logInfo(this, dm.stanica);
 	}
 	
 	public boolean tryToConnect(DataModul dm){
+		
 		DataModul last = getLast();
 		if (last!=null){
-			if (getTime(last,dm).minutes < 0) return false;
-			if (dm.vzdialenost - last.vzdialenost  < 0) return false;
+			//if (getTime(last,dm).minutes < 0) return false;
+			//if (!this.validDistance(dm.vzdialenost - last.vzdialenost) && dm.vzdialenost > 0) Logger.logError(this, "Hidden subroute dont stat at 0!" + routeName + " - " +dm.stanica );
+			if (!this.validDistance(dm.vzdialenost - last.vzdialenost)) return false;
 		}
 		addData(dm);
 		return true;	
@@ -73,22 +76,27 @@ public class Converter {
 			
 	public void endRoute(){
 		
-		if (l.size() <= 0) { Logger.logDebug(this, "empty rotue"); return; }
-		int numberOfErrors = findNegativeConnection();
-		
+		//if (l.size() <= 0) { Logger.logDebug(this, "empty rotue"); return; }
+		int numberOfErrors = findNegativeConnection(l);
 		if (numberOfErrors > 0){
-			Logger.logDebug(this, "Erors: "+numberOfErrors);
-			if (numberOfErrors == l.size()-1)
+			if (numberOfErrors == l.size()-1){
 				Logger.logProblem(this, "Reversed route ("+this.routeName+") with size: "+l.size());
-			else Logger.logProblem(this,"Route ("+this.routeName+") with negative values!");
-			
-			sortRouteByKm();
+				sortRouteByKm(l);
+			}
+			else {
+				int wi = this.getErrorIndex(l);
+				Logger.logProblem(this,"Route ("+this.routeName+") with problem at "+l.get(wi).stanica);
+				l.remove(wi);
+				l = l.subList(0, wi-1);
+			}	
 		}
 		
+		numberOfErrors = findNegativeConnection(l);
+		if (numberOfErrors > 0) Logger.logError(this, "ROUTE PROBLEMS STILL NOT SOLVED!!");
 		convertRoute();
 	}
 	
-	private void sortRouteByKm(){
+	private void sortRouteByKm(List<DataModul> l){
 		l.sort(new Comparator<DataModul>(){
 			@Override
 			public int compare(DataModul d1, DataModul d2) {
@@ -96,20 +104,45 @@ public class Converter {
 			}	
 		});
 	}
-	private int findNegativeConnection(){
+	
+	private int getErrorIndex(List<DataModul> l){
+		for (int i = 1; i<l.size();i++){
+			DataModul dm = l.get(i);
+			DataModul last = l.get(i-1);
+			if (getTime(last,dm).minutes < 0 || !this.validDistance(dm.vzdialenost - last.vzdialenost)){
+				return i;
+			}
+		}
+		return -1;
+	}
+	private int findNegativeConnection(List<DataModul> l){
 		int nc = 0;
 		DataModul last = null;
 		for (DataModul dm : l){
 			if (last!=null){
-				if (getTime(last,dm).minutes < 0 || dm.vzdialenost - last.vzdialenost  < 0){ 
+				if (getTime(last,dm).minutes < 0 || !this.validDistance(dm.vzdialenost - last.vzdialenost)){
 					nc++;
-					Logger.logDebug(this, "Negative value in: "+last.stanica+" -> "+dm.stanica);
+					//Logger.logDebug(this, "Negative value in: "+last.stanica+" -> "+dm.stanica);
 				}
 			}
 			last = dm;
 		}
 		return nc;
 	}
+	
+	private int getAvgDistance(List<DataModul> l){
+		int sum = 0;
+		DataModul last = null;
+		for (DataModul dm : l){
+			if (last != null)
+				sum += (dm.vzdialenost - last.vzdialenost);
+			last = dm;
+		}
+		if (l==null || l.isEmpty())
+			return 0;
+		return sum / l.size();
+	}	
+	
 	private Time getTime(DataModul last, DataModul dm){
 		Time t;
 		if (dm.prichod.length() > 0) t = new Time(dm.prichod);
@@ -123,5 +156,9 @@ public class Converter {
 		if (l == null || l.size() < 1) return null;
 		return l.get(l.size()-1);
 	}
-		
+	
+	private boolean validDistance(int act){
+		if (act < 0) return false;
+		return true;
+	}
 }

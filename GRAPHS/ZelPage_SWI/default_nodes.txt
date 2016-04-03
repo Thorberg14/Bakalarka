@@ -754,28 +754,28 @@
 754 Oberei
 755 Wasen im Emmental
 756 Affoltern-Weier
-757 Rosshäusern
-758 Riedbach
-759 Niederbottigen BN
-760 Bern Brünnen
-761 Bern Bümpliz Nord
-762 Bern Stöckacker
-763 Schönbühl SBB
-764 Mattstetten
-765 Hindelbank
-766 Lyssach
-767 Burgdorf Steinhof
-768 Oberburg
-769 Hasle-Rüegsau
-770 Lützelflüh-Goldbach
-771 Grünenmatt
-772 Gammenthal
-773 Griesbach
-774 Häusernmoos
-775 Mussachen
-776 Dürrenroth
-777 Huttwil-Sportzentrum §
-778 Huttwil
+757 Häusernmoos
+758 Mussachen
+759 Dürrenroth
+760 Huttwil-Sportzentrum §
+761 Huttwil
+762 Rosshäusern
+763 Riedbach
+764 Niederbottigen BN
+765 Bern Brünnen
+766 Bern Bümpliz Nord
+767 Bern Stöckacker
+768 Schönbühl SBB
+769 Mattstetten
+770 Hindelbank
+771 Lyssach
+772 Burgdorf Steinhof
+773 Oberburg
+774 Hasle-Rüegsau
+775 Lützelflüh-Goldbach
+776 Grünenmatt
+777 Gammenthal
+778 Griesbach
 779 Corcelles-Nord
 780 Dompierre
 781 Domdidier
@@ -964,11 +964,11 @@
 964 Luzern
 965 Mattstetten (Abzw)
 966 Inkwil Ost (Abzw)
-967 Hardfeld (Spw)
-968 Rothrist
-969 Derendingen
-970 Subingen
-971 Inkwil West (Abzw)
+967 Derendingen
+968 Subingen
+969 Inkwil West (Abzw)
+970 Rothrist
+971 Hardfeld (Spw)
 972 Sandacher (Spw)
 973 Wynigen
 974 Riedtwil
@@ -1434,560 +1434,555 @@
 1434 Burghalden
 1435 Grüenfeld
 1436 Stein-Säckingen
-1437 Etzgen
-1438 Leibstadt
-1439 Full  
-1440 Felsenau AG
-1441 Koblenz
-1442 Sisseln
-1443 Laufenburg
-1444 Zürich Oerlikon
-1445 Zürich Flughafen
-1446 Kaiseraugst
-1447 Rheinfelden
-1448 Möhlin
-1449 Dossenboden (Spw)
-1450 Mumpf
-1451 Eiken
-1452 Niederfeld (Spw)
-1453 Frick
-1454 Buchhalde (Spw)
-1455 Kirchmatt (Spw)
-1456 Effingen
-1457 Schinznach Dorf
-1458 Villnachern
-1459 Villnachern (Spw)
-1460 Koblenz Dorf
-1461 Rietheim
-1462 Zurzach
-1463 Siggenthal-Würenlingen
-1464 Döttingen-Klingnau
-1465 Klingnau
-1466 Waldshut
-1467 Würenlos
-1468 Otelfingen
-1469 Otelfingen Rietholz
-1470 Buchs-Dällikon
-1471 Regensdorf-Watt
-1472 Zürich Affoltern
-1473 Zürich Seebach
-1474 Zürich Stadelhofen
-1475 Urdorf
-1476 Urdorf Weihermatt
-1477 Birmensdorf ZH
-1478 Bonstetten-Wettswil
-1479 Hedingen
-1480 Affoltern am Albis
-1481 Mettmenstetten
-1482 Knonau
-1483 Steinhausen
-1484 Zürich Selnau
-1485 Zürich Giesshübel
-1486 Zürich Saalsporthalle
-1487 Zürich Brunau
-1488 Zürich Manegg
-1489 Zürich Leimbach
-1490 Sood-Oberleimbach
-1491 Adliswil
-1492 Sihlau
-1493 Wildpark-Höfli
-1494 Langnau-Gattikon
-1495 Sihlwald
-1496 Zürich Binz
-1497 Friesenberg
-1498 Schweighof
-1499 Triemli
-1500 Uitikon Waldegg
-1501 Ringlikon
-1502 Uetliberg
-1503 Zürich Wiedikon
-1504 Zürich Wipkingen
-1505 Zürich Enge
-1506 Zürich Wollishofen
-1507 Kilchberg
-1508 Rüschlikon
-1509 Oberrieden
-1510 Horgen
-1511 Au ZH
-1512 Richterswil
-1513 Bäch
-1514 Freienbach SBB
-1515 Altendorf
-1516 Lachen
-1517 Siebnen-Wangen
-1518 Schübelbach-Buttikon
-1519 Reichenburg
-1520 Bilten
-1521 Ziegelbrücke
-1522 Zürich Tiefenbrunnen
-1523 Zollikon
-1524 Küsnacht Goldbach
-1525 Küsnacht ZH
-1526 Erlenbach ZH
-1527 Winkel
-1528 Herrliberg-Feldmeilen
-1529 Meilen
-1530 Uetikon
-1531 Männedorf
-1532 Stäfa
-1533 Uerikon
-1534 Feldbach
-1535 Kempraten
-1536 Zürich Kreuzplatz
-1537 Zürich Hegibachplatz
-1538 Zürich Balgrist
-1539 Zürich Rehalp
-1540 Waldburg
-1541 Spital Neumünster
-1542 Zollikerberg
-1543 Waltikon
-1544 Zumikon
-1545 Maiacker
-1546 Neue Forch
-1547 Forch
-1548 Scheuren
-1549 Neuhaus (Unterseen) ThS
-1550 Hinteregg
-1551 Egg
-1552 Langwies [CH]
-1553 Emmat
-1554 Esslingen
-1555 Zürich Römerhof
-1556 Zürich Dolder
-1557 Blumenau
-1558 Bollingen
-1559 Schmerikon
-1560 Uznach
-1561 Benken
-1562 Schänis
-1563 Nieder- und Oberurnen
-1564 Näfels-Mollis
-1565 Netstal
-1566 Glarus
-1567 Ennenda
-1568 Mitlödi
-1569 Schwanden
-1570 Nidfurn-Haslen
-1571 Leuggelbach
-1572 Luchsingen-Hätzingen
-1573 Diesbach-Betschwanden
-1574 Rüti GL
-1575 Linthal Braunwaldbahn
-1576 Linthal
-1577 Wallisellen
-1578 Dübendorf
-1579 Wetzikon
-1580 Hinwil
-1581 Stettbach
-1582 Schwerzenbach ZH
-1583 Nänikon-Greifensee
-1584 Uster
-1585 Aathal
-1586 Bubikon
-1587 Rüti ZH
-1588 Jona
-1589 Bauma
-1590 Neuthal
-1591 Bäretswil
-1592 Ettenhausen-Emmetschloo
-1593 Effretikon
-1594 Opfikon
-1595 Kloten Balsberg
-1596 Kloten
-1597 Bassersdorf
-1598 Dietlikon
-1599 Kemptthal
-1600 Winterthur
-1601 Oberwinterthur
-1602 Illnau
-1603 Fehraltorf
-1604 Pfäffikon ZH
-1605 Kempten
-1606 Winterthur Grüze
-1607 Winterthur Seen
-1608 Sennhof-Kyburg
-1609 Kollbrunn
-1610 Rikon
-1611 Rämismühle-Zell
-1612 Turbenthal
-1613 Wila
-1614 Saland
-1615 Steg
-1616 Fischenthal
-1617 Gibswil
-1618 Wald
-1619 Tann-Dürnten
-1620 Niederweningen
-1621 Niederweningen Dorf
-1622 Schöfflisdorf-Oberweningen
-1623 Steinmaur
-1624 Dielsdorf
-1625 Niederhasli
-1626 Oberglatt
-1627 Schaffhausen
-1628 Neuhausen
-1629 Altenburg-Rheinau
-1630 Jestetten
-1631 Lottstetten
-1632 Rafz
-1633 Hüntwangen-Wil
-1634 Eglisau
-1635 Glattfelden
-1636 Bülach
-1637 Niederglatt
-1638 Rümlang
-1639 Glattbrugg
-1640 Rekingen AG
-1641 Mellikon
-1642 Rümikon AG
-1643 Kaiserstuhl AG
-1644 Zweidlen
-1645 Embrach-Rorbas
-1646 Pfungen-Neftenbach
-1647 Winterthur Wülflingen
-1648 Winterthur Töss
-1649 Schloss Laufen am Rheinfall
-1650 Dachsen
-1651 Marthalen
-1652 Andelfingen
-1653 Henggart
-1654 Hettlingen
-1655 Erzingen (Baden)
-1656 Trasadingen
-1657 Wilchingen-Hallau
-1658 Neunkirch
-1659 Beringen Bad Bf
-1660 Neuhausen Bad Bf
-1661 Herblingen
-1662 Thayngen
-1663 Bietingen
-1664 Gottmadingen
-1665 Singen (Hohentwiel)
-1666 Winterthur Wallrüti
-1667 Reutlingen
-1668 Seuzach
-1669 Weinfelden
-1670 Märstetten
-1671 Müllheim-Wigoltingen
-1672 Hüttlingen-Mettendorf
-1673 Felben-Wellhausen
-1674 Frauenfeld
-1675 Islikon
-1676 Rickenbach-Attikon
-1677 Wiesendangen
-1678 Feuerthalen
-1679 Langwiesen
-1680 Schlatt
-1681 St. Katharinental
-1682 Diessenhofen
-1683 Schlattingen
-1684 Etzwilen
-1685 Stein am Rhein
-1686 Eschenz
-1687 Mammern
-1688 Steckborn
-1689 Berlingen
-1690 Mannenbach-Salenstein
-1691 Ermatingen
-1692 Triboltingen
-1693 Tägerwilen SBB
-1694 Kreuzlingen
-1695 Kreuzlingen Hafen
-1696 Kurzrickenbach Seepark
-1697 Bottighofen
-1698 Münsterlingen-Scherzingen
-1699 Münsterlingen Spital
-1700 Landschlacht
-1701 Altnau
-1702 Güttingen
-1703 Kesswil
-1704 Uttwil
-1705 Romanshorn
-1706 Stammheim
-1707 Ossingen
-1708 Thalheim-Altikon
-1709 Dinhard
-1710 Konstanz
-1711 Tägerwilen MThB
-1712 Kreuzlingen Bernrain
-1713 Lengwil
-1714 Siegershausen
-1715 Berg
-1716 Kehlhof
-1717 Bussnang
-1718 Oppikon
-1719 Märwil
-1720 Tobel-Affeltrangen
-1721 Tägerschen
-1722 Bettwiesen
-1723 Bronschhofen AMP
-1724 Bronschhofen
-1725 Wil
-1726 Bürglen
-1727 Sulgen
-1728 Erlen
-1729 Oberaach
-1730 Amriswil
-1731 Frauenfeld Marktplatz
-1732 Lüdem
-1733 Murkart
-1734 Weberei Matzingen
-1735 Matzingen
-1736 Jakobstal
-1737 Wiesengrund
-1738 Wängi
-1739 Rosental
-1740 Münchwilen Pflegeheim
-1741 Münchwilen TG
-1742 Egnach
-1743 Arbon Seemoosriet
-1744 Arbon
-1745 Steinach
-1746 Horn (Bodensee)
-1747 Rorschach Hafen
-1748 Rorschach
-1749 Winterthur Hegi
-1750 Räterschen
-1751 Schottikon
-1752 Elgg
-1753 Aadorf
-1754 Guntershausen
-1755 Eschlikon
-1756 Sirnach
-1757 Schwarzenbach SG
-1758 Algetshausen-Henau
-1759 Uzwil
-1760 Flawil
-1761 Gossau SG
-1762 St. Gallen Winkeln
-1763 St. Gallen Bruggen
-1764 St. Gallen
-1765 Kradolf
-1766 Bischofszell Nord
-1767 Sitterdorf
-1768 Bischofszell Stadt
-1769 Hauptwil
-1770 Arnegg
-1771 Bazenheid
-1772 Lütisburg
-1773 Bütschwil
-1774 Dietfurt
-1775 Lichtensteig
-1776 Wattwil
-1777 Ebnat-Kappel
-1778 Krummenau
-1779 Nesslau-Neu St. Johann
-1780 Herisau
-1781 Wilen
-1782 Waldstatt
-1783 Zürchersmühle
-1784 Urnäsch
-1785 Jakobsbad
-1786 Gonten
-1787 Gontenbad
-1788 Appenzell
-1789 Steinegg
-1790 Weissbad
-1791 Schwende
-1792 Wasserauen
-1793 Riethüsli
-1794 Lustmühle
-1795 Niederteufen
-1796 Sternen bei Teufen
-1797 Stofel
-1798 Teufen
-1799 Steigbach
-1800 Bühler
-1801 Strahlholz
-1802 Zweibrücken
-1803 Gais
-1804 Sammelplatz
-1805 Hirschberg
-1806 Hebrig
-1807 Schachen (Gais)
-1808 Rietli
-1809 Stoss AR
-1810 Kreuzstrasse
-1811 Warmesberg
-1812 Alter Zoll
-1813 Altstätten Stadt
-1814 Seebleiche
-1815 Sandbüchel
-1816 Wartensee
-1817 Wienacht-Tobel
-1818 Schwendi bei Heiden
-1819 Heiden
-1820 Rheineck
-1821 Walzenhausen
-1822 St. Gallen, Marktplatz
-1823 Spisertor
-1824 Schülerhaus
-1825 Notkersegg
-1826 Schwarzer Bären
-1827 Rank
-1828 Vögelinsegg
-1829 Schützengarten
-1830 Speicher
-1831 Bendlehn
-1832 Gfeld
-1833 Trogen
-1834 Neukirch-Egnach
-1835 Steinebrunn
-1836 Muolen
-1837 Häggenschwil-Winden
-1838 Roggwil-Berg
-1839 Wittenbach
-1840 St. Gallen St. Fiden
-1841 St. Gallen Haggen
-1842 Gübsensee
-1843 Schachen BT
-1844 Degersheim
-1845 Mogelsberg
-1846 Brunnadern-Neckertal
-1847 Kaltbrunn
-1848 Altstätten SG
-1849 Buchs SG
-1850 Mörschwil
-1851 Goldach
-1852 Rorschach Stadt
-1853 Staad
-1854 St. Margrethen
-1855 Au SG
-1856 Heerbrugg
-1857 Rebstein-Marbach
-1858 Oberriet
-1859 Rüthi SG
-1860 Salez-Sennwald
-1861 Räfis-Burgerau
-1862 Sevelen
-1863 Weite
-1864 Trübbach
-1865 Sargans
-1866 Bad Ragaz
-1867 Maienfeld
-1868 Landquart
-1869 Trimmis (Spw)
-1870 Chur
-1871 Weesen
-1872 Mühlehorn
-1873 Murg
-1874 Unterterzen
-1875 Mols
-1876 Walenstadt
-1877 Flums
-1878 Mels
-1879 Klosters
-1880 Chur Wiesental
-1881 Haldenstein
-1882 Trimmis
-1883 Untervaz
-1884 Zizers
-1885 Igis
-1886 Landquart Ried
-1887 Malans
-1888 Seewis-Valzeina
-1889 Grüsch
-1890 Schiers
-1891 Fuchsenwinkel §
-1892 Furna
-1893 Jenaz
-1894 Fideris
-1895 Küblis
-1896 Saas
-1897 Serneus
-1898 Klosters Dorf
-1899 Sagliains
-1900 Lavin
-1901 Susch
-1902 Guarda
-1903 Ardez
-1904 Ftan
-1905 Scuol-Tarasp
-1906 Cavadürli
-1907 Davos Laret
-1908 Davos Wolfgang
-1909 Davos Dorf
-1910 Davos Platz
-1911 Davos Islen
-1912 Davos Frauenkirch
-1913 Davos Glaris
-1914 Davos Monstein
-1915 Wiesen
-1916 Filisur
-1917 Chur West
-1918 Felsberg
-1919 Domat/Ems
-1920 Ems Werk
-1921 Reichenau-Tamins
-1922 Trin
-1923 Versam-Safien
-1924 Valendas-Sagogn
-1925 Castrisch
-1926 Ilanz
-1927 Schnaus-Strada
-1928 Rueun
-1929 Waltensburg/Vuorz
-1930 Tavanasa-Breil/Brigels
-1931 Trun
-1932 Rabius-Surrein
-1933 Sumvitg-Cumpadials
-1934 Chur Stadt
-1935 Sassal
-1936 Untersax
-1937 Lüen-Castiel
-1938 St. Peter-Molinis
-1939 Peist
-1940 Langwies GR
-1941 Litzirüti
-1942 Arosa
-1943 Bonaduz
-1944 Rhäzüns
-1945 Rothenbrunnen
-1946 Rodels-Realta
-1947 Cazis
-1948 Thusis
-1949 Sils im Domleschg
-1950 Solis
-1951 Tiefencastel
-1952 Surava
-1953 Alvaneu
-1954 Stugl/Stuls
-1955 Bergün/Bravuogn
-1956 Muot
-1957 Preda
-1958 Spinas
-1959 Bever
-1960 Samedan
-1961 Celerina
-1962 Celerina Bobrun §
-1963 St. Moritz
-1964 Celerina Staz
-1965 Punt Muragl Staz
-1966 Pontresina
-1967 Surovas
-1968 Morteratsch
-1969 Bernina Suot
-1970 Bernina Diavolezza
-1971 Bernina Lagalb
-1972 Ospizio Bernina
-1973 Alp Grüm
-1974 Cavaglia
-1975 Cadera
-1976 Privilasco
-1977 Poschiavo
-1978 Li Curt
-1979 Le Prese
-1980 Miralago
-1981 Brusio
-1982 Campascio
-1983 Campocologno
-1984 Tirano
-1985 Punt Muragl
-1986 Punt-Chamues-ch, La
-1987 Madulain
-1988 Zuoz
-1989 S-chanf
-1990 S-chanf Marathon §
-1991 Cinuos-chel-Brail
-1992 Carolina
-1993 Zernez
+1437 Sisseln
+1438 Zürich Oerlikon
+1439 Zürich Flughafen
+1440 Kaiseraugst
+1441 Rheinfelden
+1442 Möhlin
+1443 Dossenboden (Spw)
+1444 Mumpf
+1445 Eiken
+1446 Niederfeld (Spw)
+1447 Frick
+1448 Buchhalde (Spw)
+1449 Kirchmatt (Spw)
+1450 Effingen
+1451 Schinznach Dorf
+1452 Villnachern
+1453 Villnachern (Spw)
+1454 Koblenz
+1455 Koblenz Dorf
+1456 Rietheim
+1457 Zurzach
+1458 Siggenthal-Würenlingen
+1459 Döttingen-Klingnau
+1460 Klingnau
+1461 Waldshut
+1462 Würenlos
+1463 Otelfingen
+1464 Otelfingen Rietholz
+1465 Buchs-Dällikon
+1466 Regensdorf-Watt
+1467 Zürich Affoltern
+1468 Zürich Seebach
+1469 Zürich Stadelhofen
+1470 Urdorf
+1471 Urdorf Weihermatt
+1472 Birmensdorf ZH
+1473 Bonstetten-Wettswil
+1474 Hedingen
+1475 Affoltern am Albis
+1476 Mettmenstetten
+1477 Knonau
+1478 Steinhausen
+1479 Zürich Selnau
+1480 Zürich Giesshübel
+1481 Zürich Saalsporthalle
+1482 Zürich Brunau
+1483 Zürich Manegg
+1484 Zürich Leimbach
+1485 Sood-Oberleimbach
+1486 Adliswil
+1487 Sihlau
+1488 Wildpark-Höfli
+1489 Langnau-Gattikon
+1490 Sihlwald
+1491 Zürich Binz
+1492 Friesenberg
+1493 Schweighof
+1494 Triemli
+1495 Uitikon Waldegg
+1496 Ringlikon
+1497 Uetliberg
+1498 Zürich Wiedikon
+1499 Zürich Wipkingen
+1500 Zürich Enge
+1501 Zürich Wollishofen
+1502 Kilchberg
+1503 Rüschlikon
+1504 Oberrieden
+1505 Horgen
+1506 Au ZH
+1507 Richterswil
+1508 Bäch
+1509 Freienbach SBB
+1510 Altendorf
+1511 Lachen
+1512 Siebnen-Wangen
+1513 Schübelbach-Buttikon
+1514 Reichenburg
+1515 Bilten
+1516 Ziegelbrücke
+1517 Zürich Tiefenbrunnen
+1518 Zollikon
+1519 Küsnacht Goldbach
+1520 Küsnacht ZH
+1521 Erlenbach ZH
+1522 Winkel
+1523 Herrliberg-Feldmeilen
+1524 Meilen
+1525 Uetikon
+1526 Männedorf
+1527 Stäfa
+1528 Uerikon
+1529 Feldbach
+1530 Kempraten
+1531 Zürich Kreuzplatz
+1532 Zürich Hegibachplatz
+1533 Zürich Balgrist
+1534 Zürich Rehalp
+1535 Waldburg
+1536 Spital Neumünster
+1537 Zollikerberg
+1538 Waltikon
+1539 Zumikon
+1540 Maiacker
+1541 Neue Forch
+1542 Forch
+1543 Scheuren
+1544 Neuhaus (Unterseen) ThS
+1545 Hinteregg
+1546 Egg
+1547 Langwies [CH]
+1548 Emmat
+1549 Esslingen
+1550 Zürich Römerhof
+1551 Zürich Dolder
+1552 Blumenau
+1553 Bollingen
+1554 Schmerikon
+1555 Uznach
+1556 Benken
+1557 Schänis
+1558 Nieder- und Oberurnen
+1559 Näfels-Mollis
+1560 Netstal
+1561 Glarus
+1562 Ennenda
+1563 Mitlödi
+1564 Schwanden
+1565 Nidfurn-Haslen
+1566 Leuggelbach
+1567 Luchsingen-Hätzingen
+1568 Diesbach-Betschwanden
+1569 Rüti GL
+1570 Linthal Braunwaldbahn
+1571 Linthal
+1572 Wallisellen
+1573 Dübendorf
+1574 Wetzikon
+1575 Hinwil
+1576 Stettbach
+1577 Schwerzenbach ZH
+1578 Nänikon-Greifensee
+1579 Uster
+1580 Aathal
+1581 Bubikon
+1582 Rüti ZH
+1583 Jona
+1584 Bauma
+1585 Neuthal
+1586 Bäretswil
+1587 Ettenhausen-Emmetschloo
+1588 Effretikon
+1589 Dietlikon
+1590 Kemptthal
+1591 Winterthur
+1592 Oberwinterthur
+1593 Illnau
+1594 Fehraltorf
+1595 Pfäffikon ZH
+1596 Kempten
+1597 Winterthur Grüze
+1598 Winterthur Seen
+1599 Sennhof-Kyburg
+1600 Kollbrunn
+1601 Rikon
+1602 Rämismühle-Zell
+1603 Turbenthal
+1604 Wila
+1605 Saland
+1606 Steg
+1607 Fischenthal
+1608 Gibswil
+1609 Wald
+1610 Tann-Dürnten
+1611 Niederweningen
+1612 Niederweningen Dorf
+1613 Schöfflisdorf-Oberweningen
+1614 Steinmaur
+1615 Dielsdorf
+1616 Niederhasli
+1617 Oberglatt
+1618 Schaffhausen
+1619 Neuhausen
+1620 Altenburg-Rheinau
+1621 Jestetten
+1622 Lottstetten
+1623 Rafz
+1624 Hüntwangen-Wil
+1625 Eglisau
+1626 Glattfelden
+1627 Bülach
+1628 Niederglatt
+1629 Rümlang
+1630 Glattbrugg
+1631 Rekingen AG
+1632 Mellikon
+1633 Rümikon AG
+1634 Kaiserstuhl AG
+1635 Zweidlen
+1636 Embrach-Rorbas
+1637 Pfungen-Neftenbach
+1638 Winterthur Wülflingen
+1639 Winterthur Töss
+1640 Schloss Laufen am Rheinfall
+1641 Dachsen
+1642 Marthalen
+1643 Andelfingen
+1644 Henggart
+1645 Hettlingen
+1646 Erzingen (Baden)
+1647 Trasadingen
+1648 Wilchingen-Hallau
+1649 Neunkirch
+1650 Beringen Bad Bf
+1651 Neuhausen Bad Bf
+1652 Herblingen
+1653 Thayngen
+1654 Bietingen
+1655 Gottmadingen
+1656 Singen (Hohentwiel)
+1657 Winterthur Wallrüti
+1658 Reutlingen
+1659 Seuzach
+1660 Bassersdorf
+1661 Kloten
+1662 Kloten Balsberg
+1663 Opfikon
+1664 Weinfelden
+1665 Märstetten
+1666 Müllheim-Wigoltingen
+1667 Hüttlingen-Mettendorf
+1668 Felben-Wellhausen
+1669 Frauenfeld
+1670 Islikon
+1671 Rickenbach-Attikon
+1672 Wiesendangen
+1673 Feuerthalen
+1674 Langwiesen
+1675 Schlatt
+1676 St. Katharinental
+1677 Diessenhofen
+1678 Schlattingen
+1679 Etzwilen
+1680 Stein am Rhein
+1681 Eschenz
+1682 Mammern
+1683 Steckborn
+1684 Berlingen
+1685 Mannenbach-Salenstein
+1686 Ermatingen
+1687 Triboltingen
+1688 Tägerwilen SBB
+1689 Kreuzlingen
+1690 Kreuzlingen Hafen
+1691 Kurzrickenbach Seepark
+1692 Bottighofen
+1693 Münsterlingen-Scherzingen
+1694 Münsterlingen Spital
+1695 Landschlacht
+1696 Altnau
+1697 Güttingen
+1698 Kesswil
+1699 Uttwil
+1700 Romanshorn
+1701 Stammheim
+1702 Ossingen
+1703 Thalheim-Altikon
+1704 Dinhard
+1705 Konstanz
+1706 Tägerwilen MThB
+1707 Kreuzlingen Bernrain
+1708 Lengwil
+1709 Siegershausen
+1710 Berg
+1711 Kehlhof
+1712 Bussnang
+1713 Oppikon
+1714 Märwil
+1715 Tobel-Affeltrangen
+1716 Tägerschen
+1717 Bettwiesen
+1718 Bronschhofen AMP
+1719 Bronschhofen
+1720 Wil
+1721 Bürglen
+1722 Sulgen
+1723 Erlen
+1724 Oberaach
+1725 Amriswil
+1726 Frauenfeld Marktplatz
+1727 Lüdem
+1728 Murkart
+1729 Weberei Matzingen
+1730 Matzingen
+1731 Jakobstal
+1732 Wiesengrund
+1733 Wängi
+1734 Rosental
+1735 Münchwilen Pflegeheim
+1736 Münchwilen TG
+1737 Egnach
+1738 Arbon Seemoosriet
+1739 Arbon
+1740 Steinach
+1741 Horn (Bodensee)
+1742 Rorschach Hafen
+1743 Rorschach
+1744 Winterthur Hegi
+1745 Räterschen
+1746 Schottikon
+1747 Elgg
+1748 Aadorf
+1749 Guntershausen
+1750 Eschlikon
+1751 Sirnach
+1752 Schwarzenbach SG
+1753 Algetshausen-Henau
+1754 Uzwil
+1755 Flawil
+1756 Gossau SG
+1757 St. Gallen Winkeln
+1758 St. Gallen Bruggen
+1759 St. Gallen
+1760 Kradolf
+1761 Bischofszell Nord
+1762 Sitterdorf
+1763 Bischofszell Stadt
+1764 Hauptwil
+1765 Arnegg
+1766 Bazenheid
+1767 Lütisburg
+1768 Bütschwil
+1769 Dietfurt
+1770 Lichtensteig
+1771 Wattwil
+1772 Ebnat-Kappel
+1773 Krummenau
+1774 Nesslau-Neu St. Johann
+1775 Herisau
+1776 Wilen
+1777 Waldstatt
+1778 Zürchersmühle
+1779 Urnäsch
+1780 Jakobsbad
+1781 Gonten
+1782 Gontenbad
+1783 Appenzell
+1784 Steinegg
+1785 Weissbad
+1786 Schwende
+1787 Wasserauen
+1788 Riethüsli
+1789 Lustmühle
+1790 Niederteufen
+1791 Sternen bei Teufen
+1792 Stofel
+1793 Teufen
+1794 Steigbach
+1795 Bühler
+1796 Strahlholz
+1797 Zweibrücken
+1798 Gais
+1799 Sammelplatz
+1800 Hirschberg
+1801 Hebrig
+1802 Schachen (Gais)
+1803 Rietli
+1804 Stoss AR
+1805 Kreuzstrasse
+1806 Warmesberg
+1807 Alter Zoll
+1808 Altstätten Stadt
+1809 Seebleiche
+1810 Sandbüchel
+1811 Wartensee
+1812 Wienacht-Tobel
+1813 Schwendi bei Heiden
+1814 Heiden
+1815 Rheineck
+1816 Walzenhausen
+1817 St. Gallen, Marktplatz
+1818 Spisertor
+1819 Schülerhaus
+1820 Notkersegg
+1821 Schwarzer Bären
+1822 Rank
+1823 Vögelinsegg
+1824 Schützengarten
+1825 Speicher
+1826 Bendlehn
+1827 Gfeld
+1828 Trogen
+1829 Neukirch-Egnach
+1830 Steinebrunn
+1831 Muolen
+1832 Häggenschwil-Winden
+1833 Roggwil-Berg
+1834 Wittenbach
+1835 St. Gallen St. Fiden
+1836 St. Gallen Haggen
+1837 Gübsensee
+1838 Schachen BT
+1839 Degersheim
+1840 Mogelsberg
+1841 Brunnadern-Neckertal
+1842 Kaltbrunn
+1843 Altstätten SG
+1844 Buchs SG
+1845 Mörschwil
+1846 Goldach
+1847 Rorschach Stadt
+1848 Staad
+1849 St. Margrethen
+1850 Au SG
+1851 Heerbrugg
+1852 Rebstein-Marbach
+1853 Oberriet
+1854 Rüthi SG
+1855 Salez-Sennwald
+1856 Räfis-Burgerau
+1857 Sevelen
+1858 Weite
+1859 Trübbach
+1860 Sargans
+1861 Bad Ragaz
+1862 Maienfeld
+1863 Landquart
+1864 Trimmis (Spw)
+1865 Chur
+1866 Weesen
+1867 Mühlehorn
+1868 Murg
+1869 Unterterzen
+1870 Mols
+1871 Walenstadt
+1872 Flums
+1873 Mels
+1874 Klosters
+1875 Susch
+1876 Sagliains
+1877 Lavin
+1878 Guarda
+1879 Ardez
+1880 Ftan
+1881 Chur Wiesental
+1882 Haldenstein
+1883 Trimmis
+1884 Untervaz
+1885 Zizers
+1886 Igis
+1887 Landquart Ried
+1888 Malans
+1889 Seewis-Valzeina
+1890 Grüsch
+1891 Schiers
+1892 Fuchsenwinkel §
+1893 Furna
+1894 Jenaz
+1895 Fideris
+1896 Küblis
+1897 Saas
+1898 Serneus
+1899 Klosters Dorf
+1900 Cavadürli
+1901 Davos Laret
+1902 Davos Wolfgang
+1903 Davos Dorf
+1904 Davos Platz
+1905 Davos Islen
+1906 Davos Frauenkirch
+1907 Davos Glaris
+1908 Davos Monstein
+1909 Wiesen
+1910 Filisur
+1911 Chur West
+1912 Felsberg
+1913 Domat/Ems
+1914 Ems Werk
+1915 Reichenau-Tamins
+1916 Trin
+1917 Versam-Safien
+1918 Valendas-Sagogn
+1919 Castrisch
+1920 Ilanz
+1921 Schnaus-Strada
+1922 Rueun
+1923 Waltensburg/Vuorz
+1924 Tavanasa-Breil/Brigels
+1925 Trun
+1926 Rabius-Surrein
+1927 Sumvitg-Cumpadials
+1928 Chur Stadt
+1929 Sassal
+1930 Untersax
+1931 Lüen-Castiel
+1932 St. Peter-Molinis
+1933 Peist
+1934 Langwies GR
+1935 Litzirüti
+1936 Arosa
+1937 Bonaduz
+1938 Rhäzüns
+1939 Rothenbrunnen
+1940 Rodels-Realta
+1941 Cazis
+1942 Thusis
+1943 Sils im Domleschg
+1944 Solis
+1945 Tiefencastel
+1946 Surava
+1947 Alvaneu
+1948 Stugl/Stuls
+1949 Bergün/Bravuogn
+1950 Muot
+1951 Preda
+1952 Spinas
+1953 Bever
+1954 Samedan
+1955 Celerina
+1956 Celerina Bobrun §
+1957 St. Moritz
+1958 Celerina Staz
+1959 Punt Muragl Staz
+1960 Pontresina
+1961 Surovas
+1962 Morteratsch
+1963 Bernina Suot
+1964 Bernina Diavolezza
+1965 Bernina Lagalb
+1966 Ospizio Bernina
+1967 Alp Grüm
+1968 Cavaglia
+1969 Cadera
+1970 Privilasco
+1971 Poschiavo
+1972 Li Curt
+1973 Le Prese
+1974 Miralago
+1975 Brusio
+1976 Campascio
+1977 Campocologno
+1978 Tirano
+1979 Punt Muragl
+1980 Punt-Chamues-ch, La
+1981 Madulain
+1982 Zuoz
+1983 S-chanf
+1984 S-chanf Marathon §
+1985 Cinuos-chel-Brail
+1986 Carolina
+1987 Zernez
+1988 Scuol-Tarasp

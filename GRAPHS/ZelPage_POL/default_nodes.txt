@@ -791,23 +791,23 @@
 791 Kalety
 792 Strzebiń
 793 Boronów
-794 Chorzów Miasto
-795 Chorzów Stary
-796 Bytom Karb
-797 Bytom Północny
-798 Radzionków Rojca
-799 Radzionków
-800 Nakło Śląskie
-801 Miasteczko Śląskie
-802 Koszęcin
-803 Rusinowice
-804 Ciasna
-805 Sieraków Śląski
-806 Sowczyce
-807 Oleśno Śląskie
-808 Stare Olesno
-809 Bąków
-810 Kluczbork
+794 Koszęcin
+795 Rusinowice
+796 Ciasna
+797 Sieraków Śląski
+798 Sowczyce
+799 Oleśno Śląskie
+800 Stare Olesno
+801 Bąków
+802 Kluczbork
+803 Chorzów Miasto
+804 Chorzów Stary
+805 Bytom Karb
+806 Bytom Północny
+807 Radzionków Rojca
+808 Radzionków
+809 Nakło Śląskie
+810 Miasteczko Śląskie
 811 Łódź Kaliska
 812 Lublinek
 813 Pabianice
@@ -2698,182 +2698,181 @@
 2698 Kobiałki
 2699 Jedlanka
 2700 Żdżary
-2701 Krzna
-2702 Warszawa Aleje Jerozolimskie
-2703 Warszawa Rakowiec
-2704 Warszawa Żwirki i Wigury
-2705 Warszawa Służewiec
-2706 Warszawa Okęcie
-2707 Warszawa Dawidy
-2708 Warszawa Jeziorki
-2709 Nowa Iwiczna
-2710 Piaseczno
-2711 Zalesie Górne
-2712 Ustanówek
-2713 Czachówek Górny
-2714 Czachówek Południowy
-2715 Sułkowice
-2716 Chynów
-2717 Krężel
-2718 Michalczew
-2719 Gośniewice
-2720 Grabów n. Pilicą
-2721 Strzyżyna
-2722 Dobieszyn
-2723 Kruszyna
-2724 Wola Bierwiecka
-2725 Bartodzieje
-2726 Lesiów
-2727 Warszawa Ursus Północny
-2728 Warszawa Gołąbki
-2729 Ożarów Mazowiecki
-2730 Płochocin
-2731 Błonie
-2732 Witanów
-2733 Boża Wola
-2734 Seroki
-2735 Teresin Niepokalanów
-2736 Piasecznica
-2737 Sochaczew
-2738 Kornelin
-2739 Leonów
-2740 Kęszyce
-2741 Jasionna Łowicka
-2742 Bednary
-2743 Mysłaków
-2744 Niedźwiada Łowicka
-2745 Jackowice
-2746 Zosinów
-2747 Żychlin
-2748 Złotniki Kutnowskie
-2749 Sklęczki
-2750 Warszawa Wola
-2751 Warszawa Kasprzaka
-2752 Warszawa Koło
-2753 Warszawa Gdańska
-2754 Warszawa ZOO
-2755 Warszawa Praga
-2756 Warszawa Toruńska
-2757 Warszawa Żerań
-2758 Warszawa Płudy
-2759 Warszawa Choszczówka
-2760 Legionowo
-2761 Legionowo Przystanek
-2762 Chotomów
-2763 Janówek
-2764 Nowy Dwór Mazowiecki
-2765 Modlin
-2766 Pomiechówek
-2767 Brody Warszawskie
-2768 Studzianki Nowe
-2769 Kątne
-2770 Jackowo Dworskie
-2771 Świercze
-2772 Kałęczyn
-2773 Gąsocin
-2774 Gołotczyzna
-2775 Ciechanów Przemysłowy
-2776 Czeruchy
-2777 Krośnice Mazowieckie
-2778 Konopki
-2779 Stupsk Mazowiecki
-2780 Wyszyny
-2781 Mława Miasto
-2782 Narzym
-2783 Legionowo Piaski
-2784 Michałów Reginów
-2785 Wieliszew
-2786 Nieporęt
-2787 Dąbkowizna
-2788 Radzymin
-2789 Krusze
-2790 Warszawa Rembertów
-2791 Zielonka Bankowa
-2792 Zielonka
-2793 Ząbki
-2794 Ossów
-2795 Kobyłka
-2796 Wołomin
-2797 Wołomin Słoneczna
-2798 Zagościniec
-2799 Dobczyn
-2800 Klembów
-2801 Jasienica Mazowiecka
-2802 Chrzęsne
-2803 Mokra Wieś
-2804 Szewnica
-2805 Urle
-2806 Barchów
-2807 Łochów
-2808 Ostrówek Węgrowski
-2809 Topór
-2810 Sadowne Węgrowskie
-2811 Prostyń
-2812 Warszawa Wesoła
-2813 Warszawa Wola Grzybowska
-2814 Sulejówek
-2815 Sulejówek Miłosna
-2816 Halinów
-2817 Cisie
-2818 Dębe Wielkie
-2819 Nowe Dębe Wielkie
-2820 Wrzosów
-2821 Mińsk Mazowiecki
-2822 Minsk Mazowiecki Anielina
-2823 Barcząca
-2824 Mienia
-2825 Cegłów
-2826 Mrozy
-2827 Grodziszcze Mazowieckie
-2828 Sosnowe
-2829 Koszewnica
-2830 Kotuń
-2831 Sabinka
-2832 Siedlce Zachodnie
-2833 Warszawa Olszynka Grochowska
-2834 Warszawa Gocławek
-2835 Warszawa Wawer
-2836 Warszawa Anin
-2837 Warszawa Międzylesie
-2838 Warszawa Radość
-2839 Warszawa Miedzeszyn
-2840 Warszawa Falenica
-2841 Michalin
-2842 Józefów
-2843 Świder
-2844 Śródborów
-2845 Pogorzel Warszawska
-2846 Stara Wieś
-2847 Celestynów
-2848 Kołbiel
-2849 Chrosna
-2850 Zabieżki
-2851 Augustówka
-2852 Podkowa Leśna Zachodnia
-2853 Polesie
-2854 Milanówek Grudów
-2855 Warszawa Śródmieście WKD
-2856 Warszawa Ochota WKD
-2857 Warszawa Zachodnia WKD
-2858 Warszawa Reduta Ordona
-2859 Warszawa Aleje Jerozolimskie WKD
-2860 Warszawa Raków
-2861 Warszawa Salomea
-2862 Opacz
-2863 Michałowice
-2864 Reguły
-2865 Malichy
-2866 Tworki
-2867 Pruszków WKD
-2868 Komorów
-2869 Nowa Wieś Warszawska
-2870 Kanie Helenowskie
-2871 Otrębusy
-2872 Podkowa Leśna Wschodnia
-2873 Podkowa Leśna Główna
-2874 Kazimierówka
-2875 Brzózki
-2876 Grodzisk Mazowiecki Okrężna
-2877 Grodzisk Mazowiecki Piaskowa
-2878 Grodzisk Mazowiecki Jordanowice
-2879 Grodzisk Mazowiecki Radońska
+2701 Warszawa Aleje Jerozolimskie
+2702 Warszawa Rakowiec
+2703 Warszawa Żwirki i Wigury
+2704 Warszawa Służewiec
+2705 Warszawa Okęcie
+2706 Warszawa Dawidy
+2707 Warszawa Jeziorki
+2708 Nowa Iwiczna
+2709 Piaseczno
+2710 Zalesie Górne
+2711 Ustanówek
+2712 Czachówek Górny
+2713 Czachówek Południowy
+2714 Sułkowice
+2715 Chynów
+2716 Krężel
+2717 Michalczew
+2718 Gośniewice
+2719 Grabów n. Pilicą
+2720 Strzyżyna
+2721 Dobieszyn
+2722 Kruszyna
+2723 Wola Bierwiecka
+2724 Bartodzieje
+2725 Lesiów
+2726 Warszawa Ursus Północny
+2727 Warszawa Gołąbki
+2728 Ożarów Mazowiecki
+2729 Płochocin
+2730 Błonie
+2731 Witanów
+2732 Boża Wola
+2733 Seroki
+2734 Teresin Niepokalanów
+2735 Piasecznica
+2736 Sochaczew
+2737 Kornelin
+2738 Leonów
+2739 Kęszyce
+2740 Jasionna Łowicka
+2741 Bednary
+2742 Mysłaków
+2743 Niedźwiada Łowicka
+2744 Jackowice
+2745 Zosinów
+2746 Żychlin
+2747 Złotniki Kutnowskie
+2748 Sklęczki
+2749 Warszawa Wola
+2750 Warszawa Kasprzaka
+2751 Warszawa Koło
+2752 Warszawa Gdańska
+2753 Warszawa ZOO
+2754 Warszawa Praga
+2755 Warszawa Toruńska
+2756 Warszawa Żerań
+2757 Warszawa Płudy
+2758 Warszawa Choszczówka
+2759 Legionowo
+2760 Legionowo Przystanek
+2761 Chotomów
+2762 Janówek
+2763 Nowy Dwór Mazowiecki
+2764 Modlin
+2765 Pomiechówek
+2766 Brody Warszawskie
+2767 Studzianki Nowe
+2768 Kątne
+2769 Jackowo Dworskie
+2770 Świercze
+2771 Kałęczyn
+2772 Gąsocin
+2773 Gołotczyzna
+2774 Ciechanów Przemysłowy
+2775 Czeruchy
+2776 Krośnice Mazowieckie
+2777 Konopki
+2778 Stupsk Mazowiecki
+2779 Wyszyny
+2780 Mława Miasto
+2781 Narzym
+2782 Legionowo Piaski
+2783 Michałów Reginów
+2784 Wieliszew
+2785 Nieporęt
+2786 Dąbkowizna
+2787 Radzymin
+2788 Krusze
+2789 Warszawa Rembertów
+2790 Zielonka Bankowa
+2791 Zielonka
+2792 Ząbki
+2793 Ossów
+2794 Kobyłka
+2795 Wołomin
+2796 Wołomin Słoneczna
+2797 Zagościniec
+2798 Dobczyn
+2799 Klembów
+2800 Jasienica Mazowiecka
+2801 Chrzęsne
+2802 Mokra Wieś
+2803 Szewnica
+2804 Urle
+2805 Barchów
+2806 Łochów
+2807 Ostrówek Węgrowski
+2808 Topór
+2809 Sadowne Węgrowskie
+2810 Prostyń
+2811 Warszawa Wesoła
+2812 Warszawa Wola Grzybowska
+2813 Sulejówek
+2814 Sulejówek Miłosna
+2815 Halinów
+2816 Cisie
+2817 Dębe Wielkie
+2818 Nowe Dębe Wielkie
+2819 Wrzosów
+2820 Mińsk Mazowiecki
+2821 Minsk Mazowiecki Anielina
+2822 Barcząca
+2823 Mienia
+2824 Cegłów
+2825 Mrozy
+2826 Grodziszcze Mazowieckie
+2827 Sosnowe
+2828 Koszewnica
+2829 Kotuń
+2830 Sabinka
+2831 Siedlce Zachodnie
+2832 Warszawa Olszynka Grochowska
+2833 Warszawa Gocławek
+2834 Warszawa Wawer
+2835 Warszawa Anin
+2836 Warszawa Międzylesie
+2837 Warszawa Radość
+2838 Warszawa Miedzeszyn
+2839 Warszawa Falenica
+2840 Michalin
+2841 Józefów
+2842 Świder
+2843 Śródborów
+2844 Pogorzel Warszawska
+2845 Stara Wieś
+2846 Celestynów
+2847 Kołbiel
+2848 Chrosna
+2849 Zabieżki
+2850 Augustówka
+2851 Podkowa Leśna Zachodnia
+2852 Polesie
+2853 Milanówek Grudów
+2854 Warszawa Śródmieście WKD
+2855 Warszawa Ochota WKD
+2856 Warszawa Zachodnia WKD
+2857 Warszawa Reduta Ordona
+2858 Warszawa Aleje Jerozolimskie WKD
+2859 Warszawa Raków
+2860 Warszawa Salomea
+2861 Opacz
+2862 Michałowice
+2863 Reguły
+2864 Malichy
+2865 Tworki
+2866 Pruszków WKD
+2867 Komorów
+2868 Nowa Wieś Warszawska
+2869 Kanie Helenowskie
+2870 Otrębusy
+2871 Podkowa Leśna Wschodnia
+2872 Podkowa Leśna Główna
+2873 Kazimierówka
+2874 Brzózki
+2875 Grodzisk Mazowiecki Okrężna
+2876 Grodzisk Mazowiecki Piaskowa
+2877 Grodzisk Mazowiecki Jordanowice
+2878 Grodzisk Mazowiecki Radońska

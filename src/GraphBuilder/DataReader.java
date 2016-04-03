@@ -17,12 +17,30 @@ public class DataReader {
 		Stack<Converter> stack = new Stack<Converter>();
 		Converter con = null;
 		
-		boolean merging = false; //
+		boolean merging = false; //trying to go back to upper Route
+		boolean ultraDepth = false; // currently in non-labeled subroute 
+			// (starts if "merging" was not succesfull, ending when whatever labeled route starts
 		
 		while ( (line = br.readLine() )!=null){
 			if (line.startsWith("ROUTE;") || line.startsWith("SUB_ROUTE")){
-				if (line.startsWith("ROUTE") && !stack.empty()) 
-					Logger.logError(DataReader.class, "LAST ROUTE HAS NOT ENDED!! " + routeName );
+				if (line.startsWith("ROUTE") && !stack.empty()) {
+					Logger.logProblem(DataReader.class, "LAST ROUTE HAS NOT ENDED!! " + routeName );
+					while (!stack.empty()) {
+						con = stack.pop();
+						con.endRoute();
+						ultraDepth = false;
+						merging = false;
+					}
+					stack.clear();
+				}
+				
+				if (ultraDepth){
+					ultraDepth = false;
+					con.endRoute();
+					stack.pop();
+					con = null;
+				}
+				
 				con = new Converter(gm);
 				stack.push(con);
 				
@@ -52,9 +70,11 @@ public class DataReader {
 				boolean success = con.tryToConnect(dm);
 				if (!success){
 					Logger.logDebug(DataReader.class,"Hidden subRoute discovered inside "+routeName+"!");
-					con.endRoute();
+					/*con.endRoute(); */
+					stack.push(con = new Converter(gm));
 					con.newRoute(routeName);
-					con.addData(dm);
+					con.addData(dm); 
+					ultraDepth = true;
 				}
 				merging = false;
 				

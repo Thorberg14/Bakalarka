@@ -1,10 +1,10 @@
-*Vertices 2879
-1 Katowice
-2 Sosnowiec Główny
-3 Zawiercie
-4 Włoszczowa Północ
-5 Kraków Główny
-6 Kozłów
+*Vertices 2878
+1 Kraków Główny
+2 Kozłów
+3 Włoszczowa Północ
+4 Katowice
+5 Sosnowiec Główny
+6 Zawiercie
 7 Idzikowice
 8 Grodzisk Mazowiecki
 9 Warszawa Zachodnia
@@ -68,18 +68,18 @@
 67 Myszków-Mrzygłód
 68 Zawiercie Borowe P.
 69 Dąbrowa Górnicza Ząbkowice
-70 Tunel
-71 Charsznica
-72 Gajówka
-73 Jeżówka
-74 Wolbrom
-75 Zarzecze
-76 Chrząstowice Olkusk.
-77 Jaroszowiec Olkuski
-78 Olkusz
-79 Bukowno
-80 Knieje
-81 Jaworzno Szczakowa
+70 Bukowno
+71 Knieje
+72 Jaworzno Szczakowa
+73 Tunel
+74 Charsznica
+75 Gajówka
+76 Jeżówka
+77 Wolbrom
+78 Zarzecze
+79 Chrząstowice Olkusk.
+80 Jaroszowiec Olkuski
+81 Olkusz
 82 Bukowno Przymiarki
 83 Sławków
 84 Dąbrowa Górnicza Wschodnia
@@ -256,13 +256,13 @@
 255 Tryńcza
 256 Gniewczyna
 257 Przeworsk
-258 Kraków Zabłocie
-259 Kraków Płaszów
-260 Kraków Prokocim
-261 Kraków Bieżanów
-262 Kraków Bieżanów Drożdżownia
-263 Wieliczka
-264 Wieliczka Rynek
+258 Kraków Bieżanów
+259 Kraków Bieżanów Drożdżownia
+260 Wieliczka
+261 Wieliczka Rynek
+262 Kraków Zabłocie
+263 Kraków Płaszów
+264 Kraków Prokocim
 265 Kokotów
 266 Węgrzce Wielkie
 267 Podłęże
@@ -362,57 +362,57 @@
 361 Budy Głogowskie
 362 Głogów Małopolski
 363 Zaczernie
-364 Kłokowa
-365 Łowczówek Pleśna
-366 Łowczów
-367 Tuchów
-368 Lubaszowa
-369 Siedliska k.Tuchowa
-370 Chojnik
-371 Gromnik
-372 Bogoniowice Cięźkowice
-373 Pławna
-374 Bobowa
-375 Bobowa Miasto
-376 Jankowa
-377 Wilczyska
-378 Stróże
-379 Grybów
-380 Ptaszkowa
-381 Mszalnica
-382 Kamionka Wielka
-383 Nowy Sącz Jamnica
-384 Nowy Sącz
-385 Nowy Sącz Biegonice
-386 Stary Sącz
-387 Barcice
-388 Rytro
-389 Młodów
-390 Piwniczna Zdrój
-391 Piwniczna
-392 Łomnica Zdrój
-393 Wierchomla Wielka
-394 Zubrzyk
-395 Żegiestów
-396 Żegiestów Zdrój
-397 Andrzejówka
-398 Milik
-399 Muszyna
-400 Muszyna Zdrój
-401 Powroźnik
-402 Krynica
+364 Muszyna
+365 Muszyna Zdrój
+366 Powroźnik
+367 Krynica
+368 Kłokowa
+369 Łowczówek Pleśna
+370 Łowczów
+371 Tuchów
+372 Lubaszowa
+373 Siedliska k.Tuchowa
+374 Chojnik
+375 Gromnik
+376 Bogoniowice Cięźkowice
+377 Pławna
+378 Bobowa
+379 Bobowa Miasto
+380 Jankowa
+381 Wilczyska
+382 Stróże
+383 Grybów
+384 Ptaszkowa
+385 Mszalnica
+386 Kamionka Wielka
+387 Nowy Sącz Jamnica
+388 Nowy Sącz
+389 Nowy Sącz Biegonice
+390 Stary Sącz
+391 Barcice
+392 Rytro
+393 Młodów
+394 Piwniczna Zdrój
+395 Piwniczna
+396 Łomnica Zdrój
+397 Wierchomla Wielka
+398 Zubrzyk
+399 Żegiestów
+400 Żegiestów Zdrój
+401 Andrzejówka
+402 Milik
 403 Muszyna Poprad
 404 Leluchów
 405 Čirč
 406 Orlov
 407 Plaveč
-408 Polna
-409 Szalowa
-410 Wola Łużańska
-411 Moszczenica Małopolska
-412 Gorlice Zagórzany
-413 Gorlice Glinik
-414 Gorlice
+408 Gorlice Zagórzany
+409 Gorlice Glinik
+410 Gorlice
+411 Polna
+412 Szalowa
+413 Wola Łużańska
+414 Moszczenica Małopolska
 415 Libusza
 416 Biecz
 417 Siepietnica
@@ -568,11 +568,11 @@
 567 Krzemionki
 568 Bielsko Biała Wschód
 569 Bielsko Biała Główna
-570 Mysłowice
-571 Dąbrowa Górnicza Huta Katowice
-572 Dąbrowa Górnicza Południowa
-573 Sosnowiec Maczki
-574 Jaworzno Szczakowa Lokomotywownia
+570 Dąbrowa Górnicza Huta Katowice
+571 Dąbrowa Górnicza Południowa
+572 Sosnowiec Maczki
+573 Jaworzno Szczakowa Lokomotywownia
+574 Mysłowice
 575 Jaworzno Ciężkowice
 576 Balin
 577 Trzebinia
@@ -622,24 +622,24 @@
 621 Wisła Dziechcinka
 622 Wisła Kopydło
 623 Wisła Głębce
-624 Zebrzydowice
-625 Kończyce
-626 Kaczyce
-627 Pogwizdów
-628 Cieszyn Marklowice
-629 Cieszyn
-630 Bielsko Biała Zachód
-631 Bielsko Biała Górne
-632 Bielsko Biała Aleksandrowice
-633 Bielsko Biała Wapienica
-634 Jaworze Jasienica
-635 Jasienica k. Bielska
-636 Grodziec Śląski
-637 Pogórze
-638 Goleszów Górny
-639 Bażanowice
-640 Cieszyn Mnisztwo
-641 Český Těšín
+624 Cieszyn
+625 Cieszyn Marklowice
+626 Pogwizdów
+627 Kaczyce
+628 Kończyce
+629 Zebrzydowice
+630 Český Těšín
+631 Bielsko Biała Zachód
+632 Bielsko Biała Górne
+633 Bielsko Biała Aleksandrowice
+634 Bielsko Biała Wapienica
+635 Jaworze Jasienica
+636 Jasienica k. Bielska
+637 Grodziec Śląski
+638 Pogórze
+639 Goleszów Górny
+640 Bażanowice
+641 Cieszyn Mnisztwo
 642 Nowy Bieruń
 643 Chełm Śląski
 644 Imielin
@@ -661,12 +661,12 @@
 660 Drogomyśl
 661 Pruchna
 662 Petrovice u Karviné
-663 Katowice Brynów
-664 Katowice Ligota
-665 Katowice Piotrowice
-666 Katowice Podlesie
-667 Tychy Zachodnie
-668 Tychy Miasto
+663 Tychy Zachodnie
+664 Tychy Miasto
+665 Katowice Brynów
+666 Katowice Ligota
+667 Katowice Piotrowice
+668 Katowice Podlesie
 669 Tychy Żwaków
 670 Kobiór
 671 Piasek
@@ -709,23 +709,23 @@
 708 Nędza
 709 Racibórz Markowice
 710 Racibórz
-711 Pszczyna Czarków
-712 Radostowice
-713 Suszec
-714 Suszec Kopalnia
-715 Suszec Rudziczka
-716 Żory
+711 Żory
+712 Pszczyna Czarków
+713 Radostowice
+714 Suszec
+715 Suszec Kopalnia
+716 Suszec Rudziczka
 717 Szczejkowice
 718 Rybnik Gotartowice
 719 Rybnik Piaski
-720 Mikołów Jamna
-721 Mikołów
-722 Łaziska Górne
-723 Łaziska Górne Brada
-724 Orzesze
-725 Orzesze Jaśkowice
-726 Łaziska Średnie
-727 Orzesze Miasto
+720 Łaziska Średnie
+721 Orzesze Jaśkowice
+722 Orzesze Miasto
+723 Mikołów Jamna
+724 Mikołów
+725 Łaziska Górne
+726 Łaziska Górne Brada
+727 Orzesze
 728 Czerwionka
 729 Czerwionka Dębieńsko
 730 Leszczyny
@@ -772,10 +772,10 @@
 771 Wistka
 772 Biała Pajęczańska
 773 Chorzew Siemkowice
-774 Częstochowa Gnaszyn
-775 Blachownia
-776 Herby Stare
-777 Herby Nowe
+774 Herby Stare
+775 Herby Nowe
+776 Częstochowa Gnaszyn
+777 Blachownia
 778 Lisów
 779 Kochanowice
 780 Lubliniec
@@ -789,26 +789,26 @@
 788 Chrząstowice
 789 Suchy Bór Opolski
 790 Opole Główne
-791 Chorzów Miasto
-792 Chorzów Stary
-793 Bytom Karb
-794 Bytom Północny
-795 Radzionków Rojca
-796 Radzionków
-797 Nakło Śląskie
-798 Miasteczko Śląskie
-799 Kalety
-800 Strzebiń
-801 Boronów
-802 Koszęcin
-803 Rusinowice
-804 Ciasna
-805 Sieraków Śląski
-806 Sowczyce
-807 Oleśno Śląskie
-808 Stare Olesno
-809 Bąków
-810 Kluczbork
+791 Kalety
+792 Strzebiń
+793 Boronów
+794 Koszęcin
+795 Rusinowice
+796 Ciasna
+797 Sieraków Śląski
+798 Sowczyce
+799 Oleśno Śląskie
+800 Stare Olesno
+801 Bąków
+802 Kluczbork
+803 Chorzów Miasto
+804 Chorzów Stary
+805 Bytom Karb
+806 Bytom Północny
+807 Radzionków Rojca
+808 Radzionków
+809 Nakło Śląskie
+810 Miasteczko Śląskie
 811 Łódź Kaliska
 812 Lublinek
 813 Pabianice
@@ -967,32 +967,32 @@
 966 Pszenno
 967 Świdnica Przedmieście
 968 Świdnica Miasto
-969 Smardzów Wrocławski
-970 Żórawina
-971 Węgry
-972 Boreczek
-973 Warkocz
-974 Strzelin
-975 Biały Kościół
-976 Henryków
-977 Ziębice
-978 Starczów
-979 Kamieniec Ząbkowicki
-980 Suszka
-981 Bardo Przyłęk
-982 Bardo Śląskie
-983 Ławica
-984 Kłodzko Główne
-985 Kłodzko Miasto
-986 Kłodzko Książek
-987 Kłodzko Zagórze
-988 Stary Wielisław
-989 Polanica Zdrój
-990 Szczytna
-991 Duszniki Zdrój
-992 Kulin Kłodzki
-993 Lewin Kłodzki
-994 Kudowa Zdrój
+969 Kłodzko Główne
+970 Kłodzko Miasto
+971 Kłodzko Książek
+972 Kłodzko Zagórze
+973 Stary Wielisław
+974 Polanica Zdrój
+975 Szczytna
+976 Duszniki Zdrój
+977 Kulin Kłodzki
+978 Lewin Kłodzki
+979 Kudowa Zdrój
+980 Smardzów Wrocławski
+981 Żórawina
+982 Węgry
+983 Boreczek
+984 Warkocz
+985 Strzelin
+986 Biały Kościół
+987 Henryków
+988 Ziębice
+989 Starczów
+990 Kamieniec Ząbkowicki
+991 Suszka
+992 Bardo Przyłęk
+993 Bardo Śląskie
+994 Ławica
 995 Krosnowice Kłodzkie
 996 Gorzanów
 997 Bystrzyca Kłodzka
@@ -1285,28 +1285,28 @@
 1284 Karczyn
 1285 Inowrocław Rąbinek
 1286 Inowrocław
-1287 Krzywizna
-1288 Biskupice k.Kluczborka
-1289 Byczyna Kluczborska
-1290 Kostów
-1291 Łęka Opatowska
-1292 Słupia
-1293 Kępno
-1294 Kuleje
-1295 Panki
-1296 Krzepice
-1297 Jaworzno k. Wielunia
-1298 Janinów
-1299 Dzietrzniki
-1300 Pątnów Wieluński
-1301 Wieluń
-1302 Wieluń Dąbrowa
-1303 Biała
-1304 Czastary
-1305 Pieczyska
-1306 Wieruszów Miasto
-1307 Wieruszów
-1308 Świba
+1287 Kuleje
+1288 Panki
+1289 Krzepice
+1290 Jaworzno k. Wielunia
+1291 Janinów
+1292 Dzietrzniki
+1293 Pątnów Wieluński
+1294 Wieluń
+1295 Wieluń Dąbrowa
+1296 Biała
+1297 Czastary
+1298 Pieczyska
+1299 Wieruszów Miasto
+1300 Wieruszów
+1301 Świba
+1302 Kępno
+1303 Krzywizna
+1304 Biskupice k.Kluczborka
+1305 Byczyna Kluczborska
+1306 Kostów
+1307 Łęka Opatowska
+1308 Słupia
 1309 Domanin
 1310 Ostrzeszów
 1311 Niedźwiedź Wlkp.
@@ -1635,20 +1635,20 @@
 1634 Szczecin Zdunowo
 1635 Szczecin Zdroje
 1636 Szczecin Port Centralny
-1637 Dolaszewo Wałeckie
-1638 Szydłowo Krajeńskie
-1639 Skrzatusz
-1640 Dobino Wałeckie
-1641 Wałcz
-1642 Wałcz Raduń
-1643 Strączno
-1644 Rutwica
-1645 Tuczno Krajeńskie
-1646 Jeziorki Wałeckie
-1647 Krępa Krajeńska
-1648 Biały Zdrój Południowy
-1649 Kalisz Pomorski
-1650 Kalisz Pomorski Miasto
+1637 Kalisz Pomorski Miasto
+1638 Kalisz Pomorski
+1639 Dolaszewo Wałeckie
+1640 Szydłowo Krajeńskie
+1641 Skrzatusz
+1642 Dobino Wałeckie
+1643 Wałcz
+1644 Wałcz Raduń
+1645 Strączno
+1646 Rutwica
+1647 Tuczno Krajeńskie
+1648 Jeziorki Wałeckie
+1649 Krępa Krajeńska
+1650 Biały Zdrój Południowy
 1651 Cybowo
 1652 Prostynia
 1653 Żółwino
@@ -1660,43 +1660,43 @@
 1659 Barzkowice
 1660 Pęzino
 1661 Ulikowo
-1662 Namyślin
-1663 Boleszkowice
-1664 Mieszkowice
-1665 Bielin
-1666 Witnica Chojeńska
-1667 Godków
-1668 Chojna
-1669 Lisie Pole
-1670 Krzywin Gryfiński
-1671 Widuchowa
-1672 Pacholęta
-1673 Dolna Odra
-1674 Gryfino
-1675 Czepino
-1676 Daleszewo Gryfińskie
-1677 Szczecin Podjuchy
+1662 Szczecin Podjuchy
+1663 Namyślin
+1664 Boleszkowice
+1665 Mieszkowice
+1666 Bielin
+1667 Witnica Chojeńska
+1668 Godków
+1669 Chojna
+1670 Lisie Pole
+1671 Krzywin Gryfiński
+1672 Widuchowa
+1673 Pacholęta
+1674 Dolna Odra
+1675 Gryfino
+1676 Czepino
+1677 Daleszewo Gryfińskie
 1678 Tantow
 1679 Szczecin Gumieńce
 1680 Grambow
-1681 Świnoujście Port
-1682 Świnoujście
-1683 Świnoujście Odra
-1684 Świnoujście Przytor
-1685 Lubiewo
-1686 Międzyzdroje
-1687 Warnowo
-1688 Ładzin
-1689 Mokrzyca Wielka
-1690 Wolin Pomorski
-1691 Recław
-1692 Troszyn
-1693 Parłówko
-1694 Wysoka Kamieńska
-1695 Kamień Pomorski
-1696 Jarszewo
-1697 Górki Pomorskie
-1698 Stawno
+1681 Kamień Pomorski
+1682 Jarszewo
+1683 Górki Pomorskie
+1684 Stawno
+1685 Wysoka Kamieńska
+1686 Świnoujście Port
+1687 Świnoujście
+1688 Świnoujście Odra
+1689 Świnoujście Przytor
+1690 Lubiewo
+1691 Międzyzdroje
+1692 Warnowo
+1693 Ładzin
+1694 Mokrzyca Wielka
+1695 Wolin Pomorski
+1696 Recław
+1697 Troszyn
+1698 Parłówko
 1699 Rokita
 1700 Łożnica
 1701 Białuń
@@ -2065,18 +2065,18 @@
 2064 Dolnik
 2065 Skórka
 2066 Piła Podlasie
-2067 Laskowice Pomorskie
-2068 Dąbrowy
-2069 Czersk Świecki
-2070 Kwiatki
-2071 Tleń
-2072 Osie
-2073 Łążek
-2074 Laski Tucholskie
-2075 Śliwiczki
-2076 Śliwice
-2077 Szlachta
-2078 Lipowa Tucholska
+2067 Lipowa Tucholska
+2068 Szlachta
+2069 Laskowice Pomorskie
+2070 Dąbrowy
+2071 Czersk Świecki
+2072 Kwiatki
+2073 Tleń
+2074 Osie
+2075 Łążek
+2076 Laski Tucholskie
+2077 Śliwiczki
+2078 Śliwice
 2079 Będźmirowice
 2080 Karsin
 2081 Bąk
@@ -2116,21 +2116,21 @@
 2115 Pelplin
 2116 Subkowy
 2117 Czarlin
-2118 Racławki
-2119 Silno
-2120 Piastoszyn
-2121 Żalno
-2122 Tuchola
-2123 Cekcyn
-2124 Wierzchucin Stary
-2125 Wierzchucin
-2126 Błądzim
-2127 Lipienica
-2128 Świekatowo
-2129 Lubania Lipiny
-2130 Serock
-2131 Wudzyn
-2132 Stronno
+2118 Wierzchucin
+2119 Błądzim
+2120 Lipienica
+2121 Świekatowo
+2122 Lubania Lipiny
+2123 Serock
+2124 Wudzyn
+2125 Stronno
+2126 Racławki
+2127 Silno
+2128 Piastoszyn
+2129 Żalno
+2130 Tuchola
+2131 Cekcyn
+2132 Wierzchucin Stary
 2133 Lniano
 2134 Jastrzębie Pomorskie
 2135 Drzycim
@@ -2263,14 +2263,14 @@
 2262 Jarzębiec
 2263 Grodzie
 2264 Braniewo
-2265 Królewo Malborskie
-2266 Stare Pole
-2267 Fiszewo
-2268 Gronowo Elbląskie
-2269 Elbląg
-2270 Komorowo Żuławskie
-2271 Bogaczewo
-2272 Młynary
+2265 Bogaczewo
+2266 Młynary
+2267 Królewo Malborskie
+2268 Stare Pole
+2269 Fiszewo
+2270 Gronowo Elbląskie
+2271 Elbląg
+2272 Komorowo Żuławskie
 2273 Pasłęk
 2274 Nowa Wieś Cierpkie
 2275 Zielonka Pasłęcka
@@ -2360,39 +2360,39 @@
 2359 Ostrołęka
 2360 Warszawa Wileńska
 2361 Małkinia
-2362 Zaręby Kościelne
-2363 Kietlanka
-2364 Szulborze Koty
-2365 Czyżew
-2366 Kity
-2367 Dąbrowa Łazy
-2368 Szepietowo
-2369 Szymbory
-2370 Jabłoń Kościelna
-2371 Racibory
-2372 Zdrody Nowe
-2373 Łapy Osse
-2374 Łapy
-2375 Uhowo
-2376 Bojary
-2377 Baciuty
-2378 Trypucie
-2379 Niewodnica
-2380 Klepacze
-2381 Białystok Wiadukt
-2382 Białystok
-2383 Wasilków
-2384 Czarny Blok
-2385 Wólka Ratowiecka
-2386 Czarna Białostocka
-2387 Machnacz
-2388 Rozedranka
-2389 Gieniusze
-2390 Sokółka
-2391 Kundzin
-2392 Czuprynowo
-2393 Kuźnica Białostocka
-2394 Grodno
+2362 Sokółka
+2363 Kundzin
+2364 Czuprynowo
+2365 Kuźnica Białostocka
+2366 Grodno
+2367 Zaręby Kościelne
+2368 Kietlanka
+2369 Szulborze Koty
+2370 Czyżew
+2371 Kity
+2372 Dąbrowa Łazy
+2373 Szepietowo
+2374 Szymbory
+2375 Jabłoń Kościelna
+2376 Racibory
+2377 Zdrody Nowe
+2378 Łapy Osse
+2379 Łapy
+2380 Uhowo
+2381 Bojary
+2382 Baciuty
+2383 Trypucie
+2384 Niewodnica
+2385 Klepacze
+2386 Białystok Wiadukt
+2387 Białystok
+2388 Wasilków
+2389 Czarny Blok
+2390 Wólka Ratowiecka
+2391 Czarna Białostocka
+2392 Machnacz
+2393 Rozedranka
+2394 Gieniusze
 2395 Gliniszcze
 2396 Racewo
 2397 Sidra
@@ -2584,15 +2584,15 @@
 2583 Leopoldów
 2584 Ryki
 2585 Stawy
-2586 Żulin
-2587 Krasnystaw Fabryczny
-2588 Krasnystaw Miasto
-2589 Izbica
-2590 Tarzymiechy
-2591 Ruskie Piaski
-2592 Złojec
-2593 Zawada
-2594 Zamość
+2586 Zamość
+2587 Zawada
+2588 Żulin
+2589 Krasnystaw Fabryczny
+2590 Krasnystaw Miasto
+2591 Izbica
+2592 Tarzymiechy
+2593 Ruskie Piaski
+2594 Złojec
 2595 Wólka Niedzieliska
 2596 Klemensów
 2597 Szczebrzeszyn
@@ -2637,36 +2637,36 @@
 2636 Huta Deregowska
 2637 Kłyżów
 2638 Stalowa Wola Południe
-2639 Warszawa Stadion
-2640 Warszawa Powiśle
-2641 Warszawa Śródmieście
-2642 Warszawa Ochota
-2643 Warszawa Włochy
-2644 Warszawa Ursus
-2645 Piastów
-2646 Pruszków
-2647 Brwinów
-2648 Milanówek
-2649 Jaktorów
-2650 Międzyborów
-2651 Żyrardów
-2652 Sucha Żyrardowska
-2653 Jesionka
-2654 Radziwiłłów Mazowiecki
-2655 Skierniewice Rawka
-2656 Dąbrowice Skierniewickie
-2657 Maków
-2658 Płyćwia
-2659 Lipce Reymontowskie
-2660 Krosnowa
-2661 Przyłęk Duży
-2662 Rogów
-2663 Wągry
-2664 Żakowice Południowe
-2665 Gałkówek
-2666 Żakowice
-2667 Justynów
-2668 Bedoń
+2639 Żakowice
+2640 Gałkówek
+2641 Bedoń
+2642 Warszawa Stadion
+2643 Warszawa Powiśle
+2644 Warszawa Śródmieście
+2645 Warszawa Ochota
+2646 Warszawa Włochy
+2647 Warszawa Ursus
+2648 Piastów
+2649 Pruszków
+2650 Brwinów
+2651 Milanówek
+2652 Jaktorów
+2653 Międzyborów
+2654 Żyrardów
+2655 Sucha Żyrardowska
+2656 Jesionka
+2657 Radziwiłłów Mazowiecki
+2658 Skierniewice Rawka
+2659 Dąbrowice Skierniewickie
+2660 Maków
+2661 Płyćwia
+2662 Lipce Reymontowskie
+2663 Krosnowa
+2664 Przyłęk Duży
+2665 Rogów
+2666 Wągry
+2667 Żakowice Południowe
+2668 Justynów
 2669 Łódź Andrzejów
 2670 Łódź Widzew
 2671 Łódź Niciarniana
@@ -2699,197 +2699,196 @@
 2698 Kobiałki
 2699 Jedlanka
 2700 Żdżary
-2701 Krzna
-2702 Warszawa Aleje Jerozolimskie
-2703 Warszawa Rakowiec
-2704 Warszawa Żwirki i Wigury
-2705 Warszawa Służewiec
-2706 Warszawa Okęcie
-2707 Warszawa Dawidy
-2708 Warszawa Jeziorki
-2709 Nowa Iwiczna
-2710 Piaseczno
-2711 Zalesie Górne
-2712 Ustanówek
-2713 Czachówek Górny
-2714 Czachówek Południowy
-2715 Sułkowice
-2716 Chynów
-2717 Krężel
-2718 Michalczew
-2719 Gośniewice
-2720 Grabów n. Pilicą
-2721 Strzyżyna
-2722 Dobieszyn
-2723 Kruszyna
-2724 Wola Bierwiecka
-2725 Bartodzieje
-2726 Lesiów
-2727 Warszawa Ursus Północny
-2728 Warszawa Gołąbki
-2729 Ożarów Mazowiecki
-2730 Płochocin
-2731 Błonie
-2732 Witanów
-2733 Boża Wola
-2734 Seroki
-2735 Teresin Niepokalanów
-2736 Piasecznica
-2737 Sochaczew
-2738 Kornelin
-2739 Leonów
-2740 Kęszyce
-2741 Jasionna Łowicka
-2742 Bednary
-2743 Mysłaków
-2744 Niedźwiada Łowicka
-2745 Jackowice
-2746 Zosinów
-2747 Żychlin
-2748 Złotniki Kutnowskie
-2749 Sklęczki
-2750 Warszawa Praga
-2751 Warszawa Wola
-2752 Warszawa Kasprzaka
-2753 Warszawa Koło
-2754 Warszawa Gdańska
-2755 Warszawa ZOO
-2756 Warszawa Toruńska
-2757 Warszawa Żerań
-2758 Warszawa Płudy
-2759 Warszawa Choszczówka
-2760 Legionowo
-2761 Legionowo Przystanek
-2762 Chotomów
-2763 Janówek
-2764 Nowy Dwór Mazowiecki
-2765 Modlin
-2766 Pomiechówek
-2767 Brody Warszawskie
-2768 Studzianki Nowe
-2769 Kątne
-2770 Jackowo Dworskie
-2771 Świercze
-2772 Kałęczyn
-2773 Gąsocin
-2774 Gołotczyzna
-2775 Ciechanów Przemysłowy
-2776 Czeruchy
-2777 Krośnice Mazowieckie
-2778 Konopki
-2779 Stupsk Mazowiecki
-2780 Wyszyny
-2781 Mława Miasto
-2782 Narzym
-2783 Legionowo Piaski
-2784 Michałów Reginów
-2785 Wieliszew
-2786 Nieporęt
-2787 Dąbkowizna
-2788 Radzymin
-2789 Krusze
-2790 Ząbki
+2701 Warszawa Aleje Jerozolimskie
+2702 Warszawa Rakowiec
+2703 Warszawa Żwirki i Wigury
+2704 Warszawa Służewiec
+2705 Warszawa Okęcie
+2706 Warszawa Dawidy
+2707 Warszawa Jeziorki
+2708 Nowa Iwiczna
+2709 Piaseczno
+2710 Zalesie Górne
+2711 Ustanówek
+2712 Czachówek Górny
+2713 Czachówek Południowy
+2714 Sułkowice
+2715 Chynów
+2716 Krężel
+2717 Michalczew
+2718 Gośniewice
+2719 Grabów n. Pilicą
+2720 Strzyżyna
+2721 Dobieszyn
+2722 Kruszyna
+2723 Wola Bierwiecka
+2724 Bartodzieje
+2725 Lesiów
+2726 Warszawa Ursus Północny
+2727 Warszawa Gołąbki
+2728 Ożarów Mazowiecki
+2729 Płochocin
+2730 Błonie
+2731 Witanów
+2732 Boża Wola
+2733 Seroki
+2734 Teresin Niepokalanów
+2735 Piasecznica
+2736 Sochaczew
+2737 Kornelin
+2738 Leonów
+2739 Kęszyce
+2740 Jasionna Łowicka
+2741 Bednary
+2742 Mysłaków
+2743 Niedźwiada Łowicka
+2744 Jackowice
+2745 Zosinów
+2746 Żychlin
+2747 Złotniki Kutnowskie
+2748 Sklęczki
+2749 Warszawa Wola
+2750 Warszawa Kasprzaka
+2751 Warszawa Koło
+2752 Warszawa Gdańska
+2753 Warszawa ZOO
+2754 Warszawa Praga
+2755 Warszawa Toruńska
+2756 Warszawa Żerań
+2757 Warszawa Płudy
+2758 Warszawa Choszczówka
+2759 Legionowo
+2760 Legionowo Przystanek
+2761 Chotomów
+2762 Janówek
+2763 Nowy Dwór Mazowiecki
+2764 Modlin
+2765 Pomiechówek
+2766 Brody Warszawskie
+2767 Studzianki Nowe
+2768 Kątne
+2769 Jackowo Dworskie
+2770 Świercze
+2771 Kałęczyn
+2772 Gąsocin
+2773 Gołotczyzna
+2774 Ciechanów Przemysłowy
+2775 Czeruchy
+2776 Krośnice Mazowieckie
+2777 Konopki
+2778 Stupsk Mazowiecki
+2779 Wyszyny
+2780 Mława Miasto
+2781 Narzym
+2782 Legionowo Piaski
+2783 Michałów Reginów
+2784 Wieliszew
+2785 Nieporęt
+2786 Dąbkowizna
+2787 Radzymin
+2788 Krusze
+2789 Warszawa Rembertów
+2790 Zielonka Bankowa
 2791 Zielonka
-2792 Warszawa Rembertów
-2793 Zielonka Bankowa
-2794 Ossów
-2795 Kobyłka
-2796 Wołomin
-2797 Wołomin Słoneczna
-2798 Zagościniec
-2799 Dobczyn
-2800 Klembów
-2801 Jasienica Mazowiecka
-2802 Chrzęsne
-2803 Mokra Wieś
-2804 Szewnica
-2805 Urle
-2806 Barchów
-2807 Łochów
-2808 Ostrówek Węgrowski
-2809 Topór
-2810 Sadowne Węgrowskie
-2811 Prostyń
-2812 Warszawa Wesoła
-2813 Warszawa Wola Grzybowska
-2814 Sulejówek
-2815 Sulejówek Miłosna
-2816 Halinów
-2817 Cisie
-2818 Dębe Wielkie
-2819 Nowe Dębe Wielkie
-2820 Wrzosów
-2821 Mińsk Mazowiecki
-2822 Minsk Mazowiecki Anielina
-2823 Barcząca
-2824 Mienia
-2825 Cegłów
-2826 Mrozy
-2827 Grodziszcze Mazowieckie
-2828 Sosnowe
-2829 Koszewnica
-2830 Kotuń
-2831 Sabinka
-2832 Siedlce Zachodnie
-2833 Warszawa Olszynka Grochowska
-2834 Warszawa Gocławek
-2835 Warszawa Wawer
-2836 Warszawa Anin
-2837 Warszawa Międzylesie
-2838 Warszawa Radość
-2839 Warszawa Miedzeszyn
-2840 Warszawa Falenica
-2841 Michalin
-2842 Józefów
-2843 Świder
-2844 Śródborów
-2845 Pogorzel Warszawska
-2846 Stara Wieś
-2847 Celestynów
-2848 Kołbiel
-2849 Chrosna
-2850 Zabieżki
-2851 Augustówka
-2852 Warszawa Śródmieście WKD
-2853 Warszawa Ochota WKD
-2854 Warszawa Zachodnia WKD
-2855 Warszawa Reduta Ordona
-2856 Warszawa Aleje Jerozolimskie WKD
-2857 Warszawa Raków
-2858 Warszawa Salomea
-2859 Opacz
-2860 Michałowice
-2861 Reguły
-2862 Malichy
-2863 Tworki
-2864 Pruszków WKD
-2865 Komorów
-2866 Nowa Wieś Warszawska
-2867 Kanie Helenowskie
-2868 Otrębusy
-2869 Podkowa Leśna Wschodnia
-2870 Podkowa Leśna Główna
-2871 Podkowa Leśna Zachodnia
-2872 Polesie
-2873 Milanówek Grudów
-2874 Kazimierówka
-2875 Brzózki
-2876 Grodzisk Mazowiecki Okrężna
-2877 Grodzisk Mazowiecki Piaskowa
-2878 Grodzisk Mazowiecki Jordanowice
-2879 Grodzisk Mazowiecki Radońska
+2792 Ząbki
+2793 Ossów
+2794 Kobyłka
+2795 Wołomin
+2796 Wołomin Słoneczna
+2797 Zagościniec
+2798 Dobczyn
+2799 Klembów
+2800 Jasienica Mazowiecka
+2801 Chrzęsne
+2802 Mokra Wieś
+2803 Szewnica
+2804 Urle
+2805 Barchów
+2806 Łochów
+2807 Ostrówek Węgrowski
+2808 Topór
+2809 Sadowne Węgrowskie
+2810 Prostyń
+2811 Warszawa Wesoła
+2812 Warszawa Wola Grzybowska
+2813 Sulejówek
+2814 Sulejówek Miłosna
+2815 Halinów
+2816 Cisie
+2817 Dębe Wielkie
+2818 Nowe Dębe Wielkie
+2819 Wrzosów
+2820 Mińsk Mazowiecki
+2821 Minsk Mazowiecki Anielina
+2822 Barcząca
+2823 Mienia
+2824 Cegłów
+2825 Mrozy
+2826 Grodziszcze Mazowieckie
+2827 Sosnowe
+2828 Koszewnica
+2829 Kotuń
+2830 Sabinka
+2831 Siedlce Zachodnie
+2832 Warszawa Olszynka Grochowska
+2833 Warszawa Gocławek
+2834 Warszawa Wawer
+2835 Warszawa Anin
+2836 Warszawa Międzylesie
+2837 Warszawa Radość
+2838 Warszawa Miedzeszyn
+2839 Warszawa Falenica
+2840 Michalin
+2841 Józefów
+2842 Świder
+2843 Śródborów
+2844 Pogorzel Warszawska
+2845 Stara Wieś
+2846 Celestynów
+2847 Kołbiel
+2848 Chrosna
+2849 Zabieżki
+2850 Augustówka
+2851 Podkowa Leśna Zachodnia
+2852 Polesie
+2853 Milanówek Grudów
+2854 Warszawa Śródmieście WKD
+2855 Warszawa Ochota WKD
+2856 Warszawa Zachodnia WKD
+2857 Warszawa Reduta Ordona
+2858 Warszawa Aleje Jerozolimskie WKD
+2859 Warszawa Raków
+2860 Warszawa Salomea
+2861 Opacz
+2862 Michałowice
+2863 Reguły
+2864 Malichy
+2865 Tworki
+2866 Pruszków WKD
+2867 Komorów
+2868 Nowa Wieś Warszawska
+2869 Kanie Helenowskie
+2870 Otrębusy
+2871 Podkowa Leśna Wschodnia
+2872 Podkowa Leśna Główna
+2873 Kazimierówka
+2874 Brzózki
+2875 Grodzisk Mazowiecki Okrężna
+2876 Grodzisk Mazowiecki Piaskowa
+2877 Grodzisk Mazowiecki Jordanowice
+2878 Grodzisk Mazowiecki Radońska
 *Edges
-5 6 57
-6 4 50
-1 2 8
-2 3 35
-3 4 69
-4 7 74
+1 2 57
+2 3 50
+4 5 8
+5 6 35
+6 3 69
+3 7 74
 7 8 81
 8 9 26
 9 10 4
 10 11 5
-3 12 6
+6 12 6
 12 13 4
 13 14 2
 14 15 3
@@ -2899,8 +2898,8 @@
 18 19 2
 19 20 2
 20 21 1
-21 2 4
-2 22 3
+21 5 4
+5 22 3
 22 23 3
 23 24 5
 24 25 4
@@ -2946,24 +2945,24 @@
 64 65 3
 65 66 2
 66 67 3
-67 3 4
-3 68 4
+67 6 4
+6 68 4
 68 69 18
 69 18 8
-18 2 9
-79 80 7
-80 81 6
-6 70 5
-70 71 8
-71 72 5
-72 73 4
-73 74 6
-74 75 6
-75 76 2
-76 77 5
-77 78 10
-78 79 8
-79 82 4
+18 5 9
+70 71 7
+71 72 6
+2 73 5
+73 74 8
+74 75 5
+75 76 4
+76 77 6
+77 78 6
+78 79 2
+79 80 5
+80 81 10
+81 70 8
+70 82 4
 82 83 4
 83 84 4
 84 85 4
@@ -2972,10 +2971,10 @@
 87 88 3
 88 89 4
 89 22 5
-23 1 2
+23 4 2
 90 91 5
-91 6 6
-70 92 5
+91 2 6
+73 92 5
 92 93 5
 93 94 3
 94 95 4
@@ -2989,7 +2988,7 @@
 102 103 4
 103 104 1
 104 105 4
-105 5 6
+105 1 6
 106 107 3
 107 108 1
 108 109 5
@@ -3045,7 +3044,7 @@
 156 157 7
 157 158 6
 158 90 7
-70 5 52
+73 1 52
 159 160 6
 160 161 7
 161 162 8
@@ -3147,14 +3146,14 @@
 254 255 4
 255 256 4
 256 257 5
-261 262 2
-262 263 3
-263 264 1
-5 258 3
 258 259 2
-259 260 2
-260 261 2
-261 265 3
+259 260 3
+260 261 1
+1 262 3
+262 263 2
+263 264 2
+264 258 2
+258 265 3
 265 266 2
 266 267 5
 267 268 3
@@ -3258,58 +3257,58 @@
 361 362 4
 362 363 8
 363 295 5
-399 400 2
-400 401 4
-401 402 5
-281 364 8
-364 365 3
-365 366 5
+364 365 2
+365 366 4
 366 367 5
-367 368 4
-368 369 2
-369 370 3
-370 371 2
-371 372 5
-372 373 6
-373 374 5
+281 368 8
+368 369 3
+369 370 5
+370 371 5
+371 372 4
+372 373 2
+373 374 3
 374 375 2
-375 376 1
-376 377 3
-377 378 4
-378 379 4
-379 380 10
-380 381 5
+375 376 5
+376 377 6
+377 378 5
+378 379 2
+379 380 1
+380 381 3
 381 382 4
-382 383 3
-383 384 5
-384 385 4
-385 386 3
+382 383 4
+383 384 10
+384 385 5
+385 386 4
 386 387 3
-387 388 6
-388 389 3
-389 390 4
-390 391 2
-391 392 1
-392 393 4
-393 394 2
-394 395 6
-395 396 2
-396 397 3
-397 398 3
-398 399 4
-399 403 3
+387 388 5
+388 389 4
+389 390 3
+390 391 3
+391 392 6
+392 393 3
+393 394 4
+394 395 2
+395 396 1
+396 397 4
+397 398 2
+398 399 6
+399 400 2
+400 401 3
+401 402 3
+402 364 4
+364 403 3
 403 404 4
 404 405 1
 405 406 4
 406 407 2
-412 413 4
-413 414 1
-378 408 4
-408 409 2
-409 410 5
-410 411 4
-411 412 6
-412 415 4
+408 409 4
+409 410 1
+382 411 4
+411 412 2
+412 413 5
+413 414 4
+414 408 6
+408 415 4
 415 416 3
 416 417 4
 417 418 4
@@ -3377,7 +3376,7 @@
 478 479 8
 479 480 3
 480 481 3
-259 482 2
+263 482 2
 482 483 2
 483 484 1
 484 485 3
@@ -3434,7 +3433,7 @@
 535 536 3
 536 537 5
 537 538 2
-538 384 3
+538 388 3
 498 539 4
 539 540 2
 540 541 3
@@ -3466,14 +3465,14 @@
 566 567 2
 567 568 5
 568 569 1
-69 571 4
-571 572 4
-572 573 6
-573 574 1
-574 81 1
-22 570 5
-570 81 13
-81 575 5
+69 570 4
+570 571 4
+571 572 6
+572 573 1
+573 72 1
+22 574 5
+574 72 13
+72 575 5
 575 576 5
 576 577 6
 577 578 5
@@ -3485,7 +3484,7 @@
 583 584 2
 584 585 2
 585 586 4
-586 5 3
+586 1 3
 587 588 2
 588 589 2
 589 590 2
@@ -3502,7 +3501,7 @@
 600 601 4
 601 602 7
 586 603 9
-1 604 17
+4 604 17
 604 605 19
 605 606 4
 606 607 1
@@ -3522,12 +3521,25 @@
 620 621 2
 621 622 1
 622 623 2
-624 625 3
+624 625 5
 625 626 2
 626 627 4
 627 628 2
-628 629 5
-629 641 2
+628 629 3
+624 630 2
+569 631 2
+631 632 2
+632 633 2
+633 634 2
+634 635 3
+635 636 2
+636 637 2
+637 638 4
+638 613 4
+615 639 2
+639 640 2
+640 641 4
+641 624 2
 602 642 5
 642 643 4
 643 644 3
@@ -3550,15 +3562,15 @@
 609 659 7
 659 660 4
 660 661 5
-661 624 7
-624 662 6
-604 667 2
-667 668 2
-1 663 4
+661 629 7
+629 662 6
+604 663 2
 663 664 2
-664 665 2
-665 666 4
-666 604 5
+4 665 4
+665 666 2
+666 667 2
+667 668 4
+668 604 5
 604 669 3
 669 670 6
 670 671 6
@@ -3603,27 +3615,27 @@
 707 708 2
 708 709 6
 709 710 4
-659 716 22
-605 711 5
-711 712 3
-712 713 7
-713 714 1
-714 715 2
-715 716 4
-716 717 5
+659 711 22
+605 712 5
+712 713 3
+713 714 7
+714 715 1
+715 716 2
+716 711 4
+711 717 5
 717 718 3
 718 719 3
 719 697 3
-604 726 0
-726 725 0
-725 727 0
-665 720 4
-720 721 3
-721 722 4
-722 723 2
-723 724 4
-724 725 3
-725 728 5
+604 720 0
+720 721 0
+721 722 0
+667 723 4
+723 724 3
+724 725 4
+725 726 2
+726 727 4
+727 721 3
+721 728 5
 728 729 1
 729 730 4
 730 731 6
@@ -3670,11 +3682,11 @@
 770 771 5
 771 772 5
 772 773 9
-776 777 3
-128 774 5
-774 775 5
-775 776 7
-776 778 7
+774 775 3
+128 776 5
+776 777 5
+777 774 7
+774 778 7
 778 779 4
 779 780 7
 780 781 4
@@ -3688,29 +3700,29 @@
 787 788 3
 788 789 3
 789 790 7
-799 800 6
-800 801 6
-1 24 3
-25 791 2
-791 792 4
-792 793 8
-793 794 2
-794 795 3
-795 796 2
-796 797 3
+791 792 6
+792 793 6
+794 795 6
+795 780 6
+780 796 10
+796 797 5
 797 798 9
-798 799 8
-799 801 12
-801 776 10
-802 803 6
-803 780 6
-780 804 10
-804 805 5
-805 806 9
-806 807 7
-807 808 5
-808 809 6
+798 799 7
+799 800 5
+800 801 6
+801 802 9
+4 24 3
+25 803 2
+803 804 4
+804 805 8
+805 806 2
+806 807 3
+807 808 2
+808 809 3
 809 810 9
+810 791 8
+791 793 12
+793 774 10
 32 811 36
 811 812 8
 812 813 7
@@ -3767,7 +3779,7 @@
 863 864 2
 864 865 2
 865 866 6
-866 810 7
+866 802 7
 790 867 2
 867 868 3
 868 869 4
@@ -3789,7 +3801,7 @@
 884 885 3
 885 886 5
 886 887 4
-810 888 4
+802 888 4
 888 889 8
 889 890 5
 890 891 7
@@ -3833,7 +3845,7 @@
 926 927 5
 927 928 5
 928 929 13
-1 29 19
+4 29 19
 917 930 5
 930 931 4
 931 932 8
@@ -3877,33 +3889,33 @@
 965 966 5
 966 967 3
 967 968 3
-984 985 2
-985 986 3
-986 987 2
-987 988 3
-988 989 5
-989 990 5
-990 991 7
-991 992 5
-992 993 9
-993 994 3
-857 969 10
-969 970 5
-970 971 6
-971 972 5
-972 973 6
+969 970 2
+970 971 3
+971 972 2
+972 973 3
 973 974 5
-974 975 7
-975 976 8
-976 977 6
+974 975 5
+975 976 7
+976 977 5
 977 978 9
-978 979 5
-979 980 6
+978 979 3
+857 980 10
 980 981 5
-981 982 2
-982 983 6
-983 984 3
-985 995 5
+981 982 6
+982 983 5
+983 984 6
+984 985 5
+985 986 7
+986 987 8
+987 988 6
+988 989 9
+989 990 5
+990 991 6
+991 992 5
+992 993 2
+993 994 6
+994 969 3
+970 995 5
 995 996 4
 996 997 7
 997 998 1
@@ -3931,8 +3943,8 @@
 1017 1018 3
 1018 1019 8
 1019 1020 6
-1020 979 5
-979 1021 10
+1020 990 5
+990 1021 10
 1021 1022 9
 1022 1023 12
 1023 1024 7
@@ -3975,7 +3987,7 @@
 1058 1059 4
 1059 1060 3
 1060 1061 5
-984 1062 5
+969 1062 5
 1062 1063 3
 1063 1064 7
 1064 1065 7
@@ -4177,7 +4189,7 @@
 1253 1254 12
 1254 1255 3
 1255 1256 8
-777 1257 10
+775 1257 10
 1257 1258 10
 1258 1259 5
 1259 1260 7
@@ -4209,30 +4221,30 @@
 1283 1284 6
 1284 1285 11
 1285 1286 7
-777 1294 11
-1294 1295 8
-1295 1296 9
-1296 1297 6
-1297 1298 6
-1298 1299 6
-1299 1300 6
-1300 1301 9
-1301 1302 3
-1302 1303 8
-1303 1304 7
-1304 1305 8
-1305 1306 4
-1306 1307 3
-1307 1308 3
-1308 1293 6
-810 1287 7
-1287 1288 5
-1288 1289 5
-1289 1290 7
-1290 1291 7
-1291 1292 5
-1292 1293 5
-1293 1309 7
+775 1287 11
+1287 1288 8
+1288 1289 9
+1289 1290 6
+1290 1291 6
+1291 1292 6
+1292 1293 6
+1293 1294 9
+1294 1295 3
+1295 1296 8
+1296 1297 7
+1297 1298 8
+1298 1299 4
+1299 1300 3
+1300 1301 3
+1301 1302 6
+802 1303 7
+1303 1304 5
+1304 1305 5
+1305 1306 7
+1306 1307 7
+1307 1308 5
+1308 1302 5
+1302 1309 7
 1309 1310 11
 1310 1311 9
 1311 1312 3
@@ -4579,21 +4591,21 @@
 1634 1635 9
 1635 1636 7
 1636 1630 5
-1650 1649 2
-1475 1637 8
-1637 1638 4
-1638 1639 6
-1639 1640 3
-1640 1641 7
-1641 1642 2
+1637 1638 2
+1475 1639 8
+1639 1640 4
+1640 1641 6
+1641 1642 3
 1642 1643 7
-1643 1644 6
-1644 1645 8
-1645 1646 4
-1646 1647 4
-1647 1648 8
-1648 1649 5
-1649 1651 5
+1643 1644 2
+1644 1645 7
+1645 1646 6
+1646 1647 8
+1647 1648 4
+1648 1649 4
+1649 1650 8
+1650 1638 5
+1638 1651 5
 1651 1652 4
 1652 1653 6
 1653 1654 9
@@ -4605,45 +4617,45 @@
 1659 1660 4
 1660 1661 6
 1661 1628 7
-1677 1629 7
-1516 1662 11
-1662 1663 7
-1663 1664 6
-1664 1665 5
+1662 1629 7
+1516 1663 11
+1663 1664 7
+1664 1665 6
 1665 1666 5
-1666 1667 4
-1667 1668 7
+1666 1667 5
+1667 1668 4
 1668 1669 7
 1669 1670 7
-1670 1671 4
-1671 1672 6
-1672 1673 5
+1670 1671 7
+1671 1672 4
+1672 1673 6
 1673 1674 5
-1674 1675 3
+1674 1675 5
 1675 1676 3
-1676 1677 7
-1677 1636 7
+1676 1677 3
+1677 1662 7
+1662 1636 7
 1678 1679 19
 1679 1630 5
 1680 1679 10
-1695 1696 5
-1696 1697 3
-1697 1698 4
-1698 1694 5
-1681 1682 1
+1681 1682 5
 1682 1683 3
-1683 1684 3
-1684 1685 7
-1685 1686 2
-1686 1687 6
+1683 1684 4
+1684 1685 5
+1686 1687 1
 1687 1688 3
-1688 1689 4
-1689 1690 4
+1688 1689 3
+1689 1690 7
 1690 1691 2
-1691 1692 5
-1692 1693 2
-1693 1694 6
-1694 1699 7
+1691 1692 6
+1692 1693 3
+1693 1694 4
+1694 1695 4
+1695 1696 2
+1696 1697 5
+1697 1698 2
+1698 1685 6
+1685 1699 7
 1699 1700 9
 1700 1701 8
 1701 1702 7
@@ -5032,18 +5044,18 @@
 2064 2065 6
 2065 2066 9
 2066 1475 3
-2078 2077 2
-2067 2068 4
-2068 2069 4
-2069 2070 5
-2070 2071 11
-2071 2072 4
-2072 2073 1
-2073 2074 2
-2074 2075 3
-2075 2076 3
-2076 2077 8
-2077 2079 5
+2067 2068 2
+2069 2070 4
+2070 2071 4
+2071 2072 5
+2072 2073 11
+2073 2074 4
+2074 2075 1
+2075 2076 2
+2076 2077 3
+2077 2078 3
+2078 2068 8
+2068 2079 5
 2079 2052 6
 2052 2080 14
 2080 2081 8
@@ -5078,8 +5090,8 @@
 2105 2106 8
 2106 2107 6
 2107 2108 7
-2108 2067 11
-2067 2109 17
+2108 2069 11
+2069 2109 17
 2109 2110 11
 2110 2111 8
 2111 2112 6
@@ -5090,28 +5102,28 @@
 2116 2117 7
 2117 1863 6
 1721 1867 9
-2125 2126 8
-2126 2127 3
+2118 2119 8
+2119 2120 3
+2120 2121 4
+2121 2122 3
+2122 2123 3
+2123 2124 5
+2124 2125 4
+2125 2104 8
+1792 2126 7
+2126 2127 4
 2127 2128 4
 2128 2129 3
-2129 2130 3
-2130 2131 5
-2131 2132 4
-2132 2104 8
-1792 2118 7
-2118 2119 4
-2119 2120 4
-2120 2121 3
-2121 2122 7
-2122 2123 12
-2123 2124 5
-2124 2125 2
-2125 2133 7
+2129 2130 7
+2130 2131 12
+2131 2132 5
+2132 2118 2
+2118 2133 7
 2133 2134 4
 2134 2135 3
 2135 2136 7
-2136 2067 6
-2067 2137 3
+2136 2069 6
+2069 2137 3
 2137 2138 5
 2138 2139 5
 2139 2140 3
@@ -5136,12 +5148,12 @@
 2156 2157 4
 2157 2158 3
 2158 1834 5
-2125 2159 3
+2118 2159 3
 2159 2160 4
 2160 2161 6
 2161 2162 4
-2162 2078 6
-2078 2163 8
+2162 2067 6
+2067 2163 8
 2163 2164 4
 2164 2165 5
 2165 2081 5
@@ -5258,18 +5270,18 @@
 2261 2262 5
 2262 2263 4
 2263 2264 9
-2271 2272 19
-2272 2264 23
+2265 2266 19
+2266 2264 23
 1867 1720 21
 1863 1858 19
-1858 2265 6
-2265 2266 5
-2266 2267 4
-2267 2268 4
-2268 2269 10
-2269 2270 9
-2270 2271 4
-2271 2273 9
+1858 2267 6
+2267 2268 5
+2268 2269 4
+2269 2270 4
+2270 2271 10
+2271 2272 9
+2272 2265 4
+2265 2273 9
 2273 2274 4
 2274 2275 7
 2275 2276 7
@@ -5360,41 +5372,41 @@
 2358 2359 8
 2360 2344 34
 2344 2361 50
-2390 2391 7
-2391 2392 5
-2392 2393 4
-2393 2394 27
+2362 2363 7
+2363 2364 5
+2364 2365 4
+2365 2366 27
 11 2344 39
-2361 2362 9
-2362 2363 3
-2363 2364 3
-2364 2365 9
-2365 2366 7
-2366 2367 2
-2367 2368 7
-2368 2369 4
-2369 2370 4
-2370 2371 5
-2371 2372 6
-2372 2373 4
+2361 2367 9
+2367 2368 3
+2368 2369 3
+2369 2370 9
+2370 2371 7
+2371 2372 2
+2372 2373 7
 2373 2374 4
-2374 2375 2
-2375 2376 4
-2376 2377 3
+2374 2375 4
+2375 2376 5
+2376 2377 6
 2377 2378 4
-2378 2379 1
-2379 2380 4
-2380 2381 1
-2381 2382 4
-2382 2383 8
-2383 2384 6
+2378 2379 4
+2379 2380 2
+2380 2381 4
+2381 2382 3
+2382 2383 4
+2383 2384 1
 2384 2385 4
-2385 2386 4
-2386 2387 3
-2387 2388 5
-2388 2389 5
-2389 2390 6
-2390 2395 9
+2385 2386 1
+2386 2387 4
+2387 2388 8
+2388 2389 6
+2389 2390 4
+2390 2391 4
+2391 2392 3
+2392 2393 5
+2393 2394 5
+2394 2362 6
+2362 2395 9
 2395 2396 4
 2396 2397 7
 2397 2398 10
@@ -5409,7 +5421,7 @@
 2406 2407 8
 2407 2408 8
 2408 2409 8
-2382 2410 5
+2387 2410 5
 2410 2411 4
 2411 2412 4
 2412 2413 3
@@ -5512,7 +5524,7 @@
 2508 2509 2
 2509 2510 7
 2510 2511 8
-2511 2382 6
+2511 2387 6
 11 2512 23
 2512 2513 27
 2513 2514 6
@@ -5590,16 +5602,16 @@
 2583 2584 9
 2584 2585 4
 2585 159 6
-2594 2593 9
-2552 2586 9
-2586 2587 5
-2587 2588 4
-2588 2589 14
-2589 2590 5
-2590 2591 6
+2586 2587 9
+2552 2588 9
+2588 2589 5
+2589 2590 4
+2590 2591 14
 2591 2592 5
 2592 2593 6
-2593 2595 3
+2593 2594 5
+2594 2587 6
+2587 2595 3
 2595 2596 4
 2596 2597 6
 2597 2598 8
@@ -5645,44 +5657,44 @@
 2635 2636 8
 2636 2637 6
 2637 2638 8
-33 2666 7
-2666 2665 5
-2668 811 23
-11 2639 1
-2639 2640 2
-2640 2641 2
-2641 10 0
-10 2642 2
-2642 9 2
-9 2643 3
-2643 2644 3
-2644 2645 3
-2645 2646 3
-2646 2647 7
+33 2639 7
+2639 2640 5
+2641 811 23
+11 2642 1
+2642 2643 2
+2643 2644 2
+2644 10 0
+10 2645 2
+2645 9 2
+9 2646 3
+2646 2647 3
 2647 2648 3
-2648 8 4
-8 2649 6
-2649 2650 4
-2650 2651 4
-2651 2652 7
-2652 2653 1
+2648 2649 3
+2649 2650 7
+2650 2651 3
+2651 8 4
+8 2652 6
+2652 2653 4
 2653 2654 4
-2654 2655 5
-2655 31 5
-31 2656 6
+2654 2655 7
+2655 2656 1
 2656 2657 4
 2657 2658 5
-2658 2659 4
-2659 2660 5
-2660 2661 3
-2661 2662 3
-2662 2663 4
-2663 32 6
-32 2664 2
-2664 2665 5
-2665 2667 3
-2667 2668 3
-2668 2669 2
+2658 31 5
+31 2659 6
+2659 2660 4
+2660 2661 5
+2661 2662 4
+2662 2663 5
+2663 2664 3
+2664 2665 3
+2665 2666 4
+2666 32 6
+32 2667 2
+2667 2640 5
+2640 2668 3
+2668 2641 3
+2641 2669 2
 2669 2670 6
 2670 2671 3
 2671 2672 3
@@ -5716,198 +5728,197 @@
 2697 2698 6
 2698 2699 5
 2699 2700 6
-2700 2701 16
-2641 2642 2
-2642 2702 5
-2702 2703 2
+2644 2645 2
+2645 2701 5
+2701 2702 2
+2702 2703 1
 2703 2704 1
-2704 2705 1
-2705 2706 2
-2706 2707 4
+2704 2705 2
+2705 2706 4
+2706 2707 2
 2707 2708 2
-2708 2709 2
-2709 2710 3
-2710 2711 5
-2711 2712 4
-2712 2713 3
-2713 2714 1
-2714 2715 4
-2715 2716 2
-2716 2717 4
+2708 2709 3
+2709 2710 5
+2710 2711 4
+2711 2712 3
+2712 2713 1
+2713 2714 4
+2714 2715 2
+2715 2716 4
+2716 2717 3
 2717 2718 3
-2718 2719 3
-2719 129 4
-129 2720 6
-2720 2721 5
+2718 129 4
+129 2719 6
+2719 2720 5
+2720 2721 7
 2721 2722 7
-2722 2723 7
-2723 2724 3
-2724 2725 2
-2725 2726 6
-2726 130 10
-2640 10 2
-2643 2727 2
-2727 2728 2
-2728 2729 5
-2729 2730 6
-2730 2731 7
+2722 2723 3
+2723 2724 2
+2724 2725 6
+2725 130 10
+2643 10 2
+2646 2726 2
+2726 2727 2
+2727 2728 5
+2728 2729 6
+2729 2730 7
+2730 2731 3
 2731 2732 3
-2732 2733 3
-2733 2734 4
-2734 2735 3
-2735 2736 6
-2736 2737 7
+2732 2733 4
+2733 2734 3
+2734 2735 6
+2735 2736 7
+2736 2737 4
 2737 2738 4
-2738 2739 4
-2739 2740 3
-2740 2741 2
+2738 2739 3
+2739 2740 2
+2740 2741 5
 2741 2742 5
-2742 2743 5
-2743 1197 4
-1197 2744 6
-2744 2745 7
-2745 2746 6
+2742 1197 4
+1197 2743 6
+2743 2744 7
+2744 2745 6
+2745 2746 8
 2746 2747 8
-2747 2748 8
-2748 2749 6
-2749 1198 4
+2747 2748 6
+2748 1198 4
+2749 2750 2
+2750 2751 2
 2751 2752 2
 2752 2753 2
-2753 2754 2
+2753 2754 1
+11 2754 5
 2754 2755 2
-2755 2750 1
-11 2750 5
-2750 2756 2
-2756 2757 3
-2757 2758 2
-2758 2759 3
-2759 2760 6
+2755 2756 3
+2756 2757 2
+2757 2758 3
+2758 2759 6
+2759 2760 2
 2760 2761 2
-2761 2762 2
-2762 2763 7
-2763 2764 3
-2764 2765 5
-2765 2766 4
-2766 2767 5
-2767 2768 2
-2768 1831 5
-1831 2769 4
-2769 2770 2
-2770 2771 5
+2761 2762 7
+2762 2763 3
+2763 2764 5
+2764 2765 4
+2765 2766 5
+2766 2767 2
+2767 1831 5
+1831 2768 4
+2768 2769 2
+2769 2770 5
+2770 2771 4
 2771 2772 4
-2772 2773 4
-2773 2774 6
-2774 2775 10
-2775 1832 3
-1832 2776 8
-2776 2777 4
-2777 2778 3
-2778 2779 4
+2772 2773 6
+2773 2774 10
+2774 1832 3
+1832 2775 8
+2775 2776 4
+2776 2777 3
+2777 2778 4
+2778 2779 5
 2779 2780 5
-2780 2781 5
-2781 1833 3
-2236 2782 4
-2782 1834 8
-2760 2783 2
-2783 2784 2
-2784 2785 1
+2780 1833 3
+2236 2781 4
+2781 1834 8
+2759 2782 2
+2782 2783 2
+2783 2784 1
+2784 2785 4
 2785 2786 4
-2786 2787 4
-2787 2788 6
-2788 2789 12
-2789 2344 6
-2639 2792 8
-2792 2793 7
-2793 2791 2
-2360 2790 7
-2790 2791 4
-2791 2794 3
+2786 2787 6
+2787 2788 12
+2788 2344 6
+2642 2789 8
+2789 2790 7
+2790 2791 2
+2360 2792 7
+2792 2791 4
+2791 2793 3
+2793 2794 2
 2794 2795 2
-2795 2796 2
-2796 2797 1
-2797 2798 3
-2798 2799 2
-2799 2800 4
-2800 2801 3
-2801 2802 6
-2802 2803 2
-2803 2804 5
-2804 2805 6
-2805 2806 2
-2806 2807 3
+2795 2796 1
+2796 2797 3
+2797 2798 2
+2798 2799 4
+2799 2800 3
+2800 2801 6
+2801 2802 2
+2802 2803 5
+2803 2804 6
+2804 2805 2
+2805 2806 3
+2806 2807 5
 2807 2808 5
-2808 2809 5
-2809 2810 4
-2810 2811 9
-2811 2361 6
-11 2792 7
-2792 2812 5
-2812 2813 2
-2813 2814 1
-2814 2815 2
-2815 2816 4
+2808 2809 4
+2809 2810 9
+2810 2361 6
+11 2789 7
+2789 2811 5
+2811 2812 2
+2812 2813 1
+2813 2814 2
+2814 2815 4
+2815 2816 3
 2816 2817 3
-2817 2818 3
-2818 2819 1
-2819 2820 3
-2820 2821 5
-2821 2822 2
+2817 2818 1
+2818 2819 3
+2819 2820 5
+2820 2821 2
+2821 2822 4
 2822 2823 4
-2823 2824 4
-2824 2825 3
+2823 2824 3
+2824 2825 5
 2825 2826 5
 2826 2827 5
-2827 2828 5
-2828 2829 4
-2829 2830 5
-2830 2831 8
-2831 2832 4
-2832 2444 3
-11 2833 4
+2827 2828 4
+2828 2829 5
+2829 2830 8
+2830 2831 4
+2831 2444 3
+11 2832 4
+2832 2833 2
 2833 2834 2
-2834 2835 2
-2835 2836 1
+2834 2835 1
+2835 2836 2
 2836 2837 2
 2837 2838 2
-2838 2839 2
-2839 2840 1
-2840 2841 2
-2841 2842 1
-2842 2843 2
-2843 2512 2
-2512 2844 3
-2844 2845 2
+2838 2839 1
+2839 2840 2
+2840 2841 1
+2841 2842 2
+2842 2512 2
+2512 2843 3
+2843 2844 2
+2844 2845 3
 2845 2846 3
-2846 2847 3
-2847 2848 2
+2846 2847 2
+2847 2848 3
 2848 2849 3
-2849 2850 3
-2850 2851 4
-2851 2513 4
-2871 2872 1
-2872 2873 1
+2849 2850 4
+2850 2513 4
+2851 2852 1
 2852 2853 1
-2853 2854 2
 2854 2855 1
 2855 2856 2
-2856 2857 2
-2857 2858 1
+2856 2857 1
+2857 2858 2
 2858 2859 2
 2859 2860 1
 2860 2861 2
 2861 2862 1
-2862 2863 1
+2862 2863 2
 2863 2864 1
-2864 2865 2
+2864 2865 1
 2865 2866 1
-2866 2867 1
+2866 2867 2
 2867 2868 1
-2868 2869 2
+2868 2869 1
 2869 2870 1
-2870 2871 1
-2871 2874 1
-2874 2875 2
+2870 2871 2
+2871 2872 1
+2872 2851 1
+2851 2873 1
+2873 2874 2
+2874 2875 1
 2875 2876 1
 2876 2877 1
 2877 2878 1
-2878 2879 1
