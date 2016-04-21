@@ -1,0 +1,13 @@
+ROUTE;xxx;
+AA;;;0;
+BB;;;2;
+SUB_ROUTE;xxx;
+BB;;;2;
+XXX;;;5;
+YYY;;;9;
+ZZZ;;;10;
+END_ROUTE;
+CC;;;4;
+DD;;;5;
+AA;;;10;
+END_ROUTE;

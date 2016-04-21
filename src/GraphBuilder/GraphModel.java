@@ -13,6 +13,7 @@ import util.MyWriter;
 
 public class GraphModel {
 	
+	public static final boolean TEST = true;
 	public static final int DEFAULT = 0, LOGICAL = 1, PAJEK = 2;
 	public static String[] graphNames = { "Default", "Logical", "Pajek" };
 	
@@ -44,6 +45,10 @@ public class GraphModel {
 	}
 	
 	public boolean addEdge(Edge e){
+		if (e.from.name.equals(e.target.name)) {
+			Logger.logError(this, "Slucka! " + e.lineType + " - "  +e.from.name);
+			return false; //slucka
+		}
 		if (e.oriented && !oriented) {
 			Logger.logError(this, "oriented edge To Not oriented graph!");
 			return false;
@@ -143,7 +148,8 @@ public class GraphModel {
 		writer = MyWriter.getWriter(edgesF);
 		
 		for (Edge tmp : edgesA){
-			writer.print(tmp.from.id+" "+tmp.target.id);		
+			if (!TEST) writer.print(tmp.from.id+" "+tmp.target.id);	
+			else writer.print(tmp.from.name+" -> "+tmp.target.name);
 			writer.print(" "+tmp.dist.get(0));
 			/*for (int j = 0;j<tmp.dist.size();j++) 
 				writer.print(" "+tmp.dist.get(j));

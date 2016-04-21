@@ -2,7 +2,7 @@ package util;
 
 public class Logger {
 	public static void logInfo(Object o, String s){
-		//System.out.println("INFO: "+s);
+		System.out.println("INFO: "+s);
 	}
 	public static void logProblem(Object o, String s){
 		System.out.println(o+" -> "+"PROBLEM: "+s);

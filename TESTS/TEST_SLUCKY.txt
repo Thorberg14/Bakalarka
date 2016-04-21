@@ -1,0 +1,7 @@
+ROUTE;xxx;
+AA;;;0;
+BB;;;2;
+BB;;;5;
+CC;;;6;
+AA;;;10;
+END_ROUTE;

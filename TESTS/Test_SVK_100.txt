@@ -1,0 +1,8 @@
+ROUTE;vlak_100;
+Bratislava hlavná stanica;;;0;
+Bratislava-Železná studienka;;;3;
+Bratislava-Lamač;;;5;
+Devínska Nová Ves;;;13;
+Devínska Nová Ves štátna hranica;;;17;
+Marchegg [4];;;19;
+END_ROUTE;

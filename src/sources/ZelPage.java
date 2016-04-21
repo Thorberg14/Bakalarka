@@ -13,9 +13,9 @@ import util.Logger;
 
 
 public class ZelPage extends WebSource{
-	public static final int SLOVENSKO = 0, CESKO = 1, NEMECKO = 2, POLSKO = 3, BULHARSKO = 4, MADARSKO = 5, RAKUSKO = 6, RUMUNSKO = 7, SVAJCIARSKO = 8;
-	private static final String[] countries = { "slovensko", "ceska-republika","nemecko","polsko","bulharsko","madarsko", "rakousko", "rumunsko", "svycarsko"};
-	private static final String[] countries_short = { "SVK","CZE","GER","POL","BLG","HUN","AUT","ROM","SWI" }; // Nemecko DEU, Svajciarsko CHE
+	public static final int SLOVENSKO = 0, CESKO = 1, NEMECKO = 2, POLSKO = 3, BULHARSKO = 4, MADARSKO = 5, RAKUSKO = 6, RUMUNSKO = 7, SVAJCIARSKO = 8, TEST = 9;
+	private static final String[] countries = { "slovensko", "ceska-republika","nemecko","polsko","bulharsko","madarsko", "rakousko", "rumunsko", "svycarsko","test"};
+	private static final String[] countries_short = { "SVK","CZE","DEU","POL","BGR","HUN","AUT","ROM","CHE","TEST" }; // Nemecko DEU, Svajciarsko CHE
 	protected int selectedCountry = 0;
 		
 	public ZelPage(int country){
@@ -35,7 +35,7 @@ public class ZelPage extends WebSource{
 		parseRouteList(in);
 	}
 	
-	private void parseRouteList(BufferedReader in) throws IOException, InterruptedException{ 
+	protected void parseRouteList(BufferedReader in) throws IOException, InterruptedException{ 
 		List<String> links = new ArrayList<String>();
 		String s;
 		while ((s = in.readLine()) != null){
@@ -54,7 +54,7 @@ public class ZelPage extends WebSource{
 		}
 	}
 	
-	private void parseRouteTable(String link) throws IOException{
+	protected void parseRouteTable(String link) throws IOException{
 		Logger.logInfo(this, link);
 		String trackNumber = link.split("trat-")[1];
 		if (!trackIsValid(trackNumber)) return;
@@ -101,7 +101,7 @@ public class ZelPage extends WebSource{
 		for (int i=0;i<depth+1; i++) dw.endRoute(); //musi sa ukoncit route vo vsetkch vrstvach
 	}
 	
-	private String digUpStationName(String s){
+	protected String digUpStationName(String s){
 		int in = 0;
 		StringBuilder sb = new StringBuilder();
 		List<String> l = new ArrayList<String>();
@@ -136,7 +136,7 @@ public class ZelPage extends WebSource{
 		*/
 	}
 	
-	private boolean trackIsValid(String track){
+	protected boolean trackIsValid(String track){
 		int trackNum = -1;
 		try { 
 			trackNum = Integer.parseInt(track);

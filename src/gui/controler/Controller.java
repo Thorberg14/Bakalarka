@@ -28,6 +28,8 @@ public class Controller {
 		sources.add(new ZelPage(ZelPage.RUMUNSKO));
 		sources.add(new ZelPage(ZelPage.SVAJCIARSKO));
 		
+		sources.add(new Test(ZelPage.TEST));
+		
 		for (WebSource s: sources) s.init();
 		
 		availableGraphFormats.add(GraphModel.graphNames[0]); //DEFAULT

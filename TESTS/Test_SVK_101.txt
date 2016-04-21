@@ -1,0 +1,5 @@
+ROUTE;vlak_101;
+Bratislava-Petržalka;;;0;
+Bratislava Petržalka št. hr.;;;2;
+Kittsee;;;3;
+END_ROUTE;

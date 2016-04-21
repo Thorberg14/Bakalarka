@@ -1,0 +1,500 @@
+<?phpxml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" version="XHTML+RDFa 1.0" xml:lang="sk" 
+  xmlns:og="http://opengraphprotocol.org/schema/" 
+  xmlns:fb="http://www.facebook.com/2008/fbml" 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+  xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+  xmlns:gr="http://purl.org/goodrelations/v1#"
+  xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+  xmlns:rail="http://ontologi.es/rail/vocab#" 
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head>
+    <meta property="og:site_name" content="ŽelPage.cz" />
+    <meta name="twitter:site" content="@zelpage" />
+    <meta name="DC.Identifier" content="(SCHEME=ISSN) 18015425" />
+
+    <meta property="fb:page_id" content="143695120128" />
+    <meta property="fb:admins" content="1290430926,506211503,100000133742499" />
+    <meta property="fb:app_id" content="123485691020127" />
+
+    
+    <meta http-equiv="robots" content="index,follow" />
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta http-equiv="content-language" content="sk" />
+    <meta http-equiv="description" content="Online magazín o aktuálním dění na železnici. Novinky, články, reportáže z cest a tipy na cesty, jízdní řády, řazení vlaků, simulátory železnice, diskuzní fórum, fotogalerie..." />
+    <meta http-equiv="keywords" content="železnice, simulátory, jízdní řády, řazení vlaků, fórum, články, aktuality, fotogalerie" />
+    <meta http-equiv="title" content="Popis trate 520 Wiener Neustadt Hbf - Aspang - Oberwart / Hartberg - Rakousko" />
+    <meta http-equiv="cache-control" content="no-store" />
+    <meta http-equiv="copyright" content="© ŽelPage" />
+    <meta http-equiv="content-author" content="Lukáš Kohout, Zdeněk Michl" />
+    <base href="http://www.zelpage.cz/" />
+
+<title>Popis trate 520 Wiener Neustadt Hbf - Aspang - Oberwart / Hartberg - Rakousko - ŽelPage [www.zelpage.cz]</title>
+
+<link rel="stylesheet" type="text/css" href="/style.css?v=2.36" />   
+<link rel="stylesheet" type="text/css" href="/style_for_dev.css" />
+<link rel="stylesheet" type="text/css" href="/flags.css" /> 
+
+
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />                              
+<link rel="alternate" type="application/rss+xml" href="/rss.php" title="RSS ZelPage" />
+<link rel="alternate" hreflang="cs" href="/trate/rakousko/trat-520?lang=cs" />
+<link rel="alternate" hreflang="sk" href="/trate/rakousko/trat-520?lang=sk" />
+<link rel="alternate" hreflang="de" href="/trate/rakousko/trat-520?lang=de" />
+<link rel="alternate" hreflang="en" href="/trate/rakousko/trat-520?lang=en" />
+<link rel="alternate" hreflang="pl" href="/trate/rakousko/trat-520?lang=pl" />
+<link rel="alternate" hreflang="hu" href="/trate/rakousko/trat-520?lang=hu" />
+<link rel="alternate" hreflang="x-default" href="/trate/rakousko/trat-520" />
+<script type="text/javascript" src="/script.js?v=1.102"></script>
+<script type="text/javascript" src="/script2.js?v=1.102"></script>
+<script type="text/javascript" src="/jquery/jquery.js"></script>
+<script type="text/javascript" src="/jquery/jquery.ui.js"></script>
+<script type="text/javascript" src="/jquery/jquery.easing.js"></script>
+<script type="text/javascript" src="/jquery/jquery.cookie.js"></script>
+<script type="text/javascript" src="/lightbox.js?v=0.993"></script>
+<!--[if IE ]>
+	<link rel="stylesheet" media="screen" type="text/css" href="/style_ie.css?v=2.1" />
+<![endif]-->
+<script type="text/javascript">
+/* <![CDATA[ */
+(function() {
+    var s = document.createElement('script');
+    var t = document.getElementsByTagName('script')[0];
+
+    s.type = 'text/javascript';
+    s.async = true;
+    s.src = 'http://api.flattr.com/js/0.6/load.js?mode=auto';
+
+    t.parentNode.insertBefore(s, t);
+ })();
+/* ]]> */
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1226281-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+/* ]]> */
+</script>
+</head>
+
+<body >
+<div id="content">
+ <div id="telo">
+	<div id="logo">
+		<a href="http://www.zelpage.cz/" title="Hlavní strana - ŽelPage">
+                    <img src="/img/zel_logo.jpg" width="760" height="100" alt="Logo - www.ZelPage.cz" id="imgtitle" />
+        		</a>
+	</div>			<!-- Blok s hornim logem -->
+	<div id="linka">&nbsp;
+	 <span id="nav">..: Popis trate 520 Wiener Neustadt Hbf - Aspang - Oberwart / Hartberg - Rakousko :..</span>
+	</div>
+	<div id="main"><div class="ramecek">
+<div class="text_clanek"><a href="trate/rakousko">Na zoznam tratí</a> | <a href="fotogalerie.php?search=extend&amp;trat=520_31&amp;st1=&amp;st2=&amp;parent=all&amp;title=&amp;id_autor=all&amp;sort=title&amp;smer=asc">fotky z trate</a> (5)<img src="mapa.php?zeme=31&amp;trat=520&amp;magn=300" alt="Mapa trate 520" /><br /><table>
+<col align="right" />
+<col align="right" />
+<col /><col /><col />
+<tr><th>km</th><th>km</th><th>typ</th><th>stanica</th><th>&nbsp;</th><th>&nbsp;</th></tr>
+<tr onmouseover="this.style.backgroundColor='#ECF5FF';" onmouseout="this.style.backgroundColor='';"><td>
+0</td><td>
+</td><td>
+</td><td>
+<span style="cursor: pointer;" onclick="okno('/stanice/wiener-neustadt-hbf.html')" title="Kliknutím zobrazíte detailné informácie o stanici"><strong>Wiener Neustadt Hbf</strong></span> <i>(265m)</i><img src="/img/kjr/oebb_b.gif" height="14" alt=""><img src="/img/kjr/oebb_d.gif" height="14" alt=""><img src="/img/kjr/oebb_i.gif" height="14" alt=""><img src="/img/kjr/oebb_j.gif" height="14" alt=""> <a href="trate/rakousko/trat-500" title="trať Wien Südbf - Wiener Neustadt Hbf - Bruck a.d. Mur">500</a> <a href="trate/rakousko/trat-510" title="trať Wien Südbf - Baden - Wiener Neustadt - Payerbach-Reichenau">510</a> <a href="trate/rakousko/trat-511" title="trať Wien Südbf - Ebenfurth - Wiener Neustadt Hbf">511</a> <a href="trate/rakousko/trat-521" title="trať Wiener Neustadt Hbf - Wöllersdorf - Gutenstein">521</a> <a href="trate/rakousko/trat-522" title="trať Wiener Neustadt Hbf - Puchberg am Schneeberg">522</a> <a href="trate/rakousko/trat-524" title="trať Wiener Neustadt Hbf - Mattersburg - Sopron - Györ / Pécs">524</a> <a href="trate/rakousko/trat-720" title="trať Wien Südbf - Kledering - Wiener Neustadt Hbf">720</a></td><td>&nbsp;</td></tr>
+
+<tr onmouseover="this.style.backgroundColor='#ECF5FF';" onmouseout="this.style.backgroundColor='';"><td>
+7</td><td>
+</td><td>
+</td><td>
+<span style="cursor: pointer;" onclick="okno('/stanice/klein-wolkersdorf.html')" title="Kliknutím zobrazíte detailné informácie o stanici">Klein Wolkersdorf</span><img src="/img/kjr/oebb_a.gif" height="14" alt=""></td><td>&nbsp;</td></tr>
+
+<tr onmouseover="this.style.backgroundColor='#ECF5FF';" onmouseout="this.style.backgroundColor='';"><td>
+10</td><td>
+</td><td>
+</td><td>
+<span style="cursor: pointer;" onclick="okno('/stanice/erlach.html')" title="Kliknutím zobrazíte detailné informácie o stanici">Erlach</span><img src="/img/kjr/oebb_a.gif" height="14" alt=""></td><td>&nbsp;</td></tr>
+
+<tr onmouseover="this.style.backgroundColor='#ECF5FF';" onmouseout="this.style.backgroundColor='';"><td>
+12</td><td>
+</td><td>
+</td><td>
+<span style="cursor: pointer;" onclick="okno('/stanice/brunn-a-d-pitten.html')" title="Kliknutím zobrazíte detailné informácie o stanici">Brunn a. d. Pitten</span><img src="/img/kjr/oebb_a.gif" height="14" alt=""></td><td>&nbsp;</td></tr>
+
+<tr onmouseover="this.style.backgroundColor='#ECF5FF';" onmouseout="this.style.backgroundColor='';"><td>
+13</td><td>
+</td><td>
+</td><td>
+<span style="cursor: pointer;" onclick="okno('/stanice/pitten.html')" title="Kliknutím zobrazíte detailné informácie o stanici">Pitten</span><img src="/img/kjr/oebb_a.gif" height="14" alt=""></td><td>&nbsp;</td></tr>
+
+<tr onmouseover="this.style.backgroundColor='#ECF5FF';" onmouseout="this.style.backgroundColor='';"><td>
+15</td><td>
+</td><td>
+</td><td>
+<span style="cursor: pointer;" onclick="okno('/stanice/sautern-schiltern.html')" title="Kliknutím zobrazíte detailné informácie o stanici">Sautern-Schiltern</span><img src="/img/kjr/oebb_a.gif" height="14" alt=""></td><td>&nbsp;</td></tr>
+
+<tr onmouseover="this.style.backgroundColor='#ECF5FF';" onmouseout="this.style.backgroundColor='';"><td>
+16</td><td>
+</td><td>
+</td><td>
+<span style="cursor: pointer;" onclick="okno('/stanice/seebenstein.html')" title="Kliknutím zobrazíte detailné informácie o stanici">Seebenstein</span><img src="/img/kjr/oebb_a.gif" height="14" alt=""></td><td>&nbsp;</td></tr>
+
+<tr onmouseover="this.style.backgroundColor='#ECF5FF';" onmouseout="this.style.backgroundColor='';"><td>
+19</td><td>
+</td><td>
+</td><td>
+<span style="cursor: pointer;" onclick="okno('/stanice/gleissenfeld.html')" title="Kliknutím zobrazíte detailné informácie o stanici">Gleißenfeld</span><img src="/img/kjr/oebb_a.gif" height="14" alt=""></td><td>&nbsp;</td></tr>
+
+<tr onmouseover="this.style.backgroundColor='#ECF5FF';" onmouseout="this.style.backgroundColor='';"><td>
+21</td><td>
+</td><td>
+</td><td>
+<span style="cursor: pointer;" onclick="okno('/stanice/scheiblingkirchen-warth.html')" title="Kliknutím zobrazíte detailné informácie o stanici">Scheiblingkirchen-Warth</span><img src="/img/kjr/oebb_a.gif" height="14" alt=""></td><td>&nbsp;</td></tr>
+
+<tr onmouseover="this.style.backgroundColor='#ECF5FF';" onmouseout="this.style.backgroundColor='';"><td>
+24</td><td>
+</td><td>
+</td><td>
+<span style="cursor: pointer;" onclick="okno('/stanice/petersbaumgarten.html')" title="Kliknutím zobrazíte detailné informácie o stanici">Petersbaumgarten</span><img src="/img/kjr/oebb_a.gif" height="14" alt=""></td><td>&nbsp;</td></tr>
+
+<tr onmouseover="this.style.backgroundColor='#ECF5FF';" onmouseout="this.style.backgroundColor='';"><td>
+26</td><td>
+</td><td>
+</td><td>
+<span style="cursor: pointer;" onclick="okno('/stanice/edlitz-grimmenstein.html')" title="Kliknutím zobrazíte detailné informácie o stanici">Edlitz [3]-Grimmenstein</span><img src="/img/kjr/oebb_a.gif" height="14" alt=""><img src="/img/kjr/oebb_d.gif" height="14" alt=""></td><td>&nbsp;</td></tr>
+
+<tr onmouseover="this.style.backgroundColor='#ECF5FF';" onmouseout="this.style.backgroundColor='';"><td>
+33</td><td>
+</td><td>
+</td><td>
+<span style="cursor: pointer;" onclick="okno('/stanice/aspang.html')" title="Kliknutím zobrazíte detailné informácie o stanici">Aspang</span><img src="/img/kjr/oebb_a.gif" height="14" alt=""><img src="/img/kjr/oebb_d.gif" height="14" alt=""></td><td>&nbsp;</td></tr>
+
+<tr onmouseover="this.style.backgroundColor='#ECF5FF';" onmouseout="this.style.backgroundColor='';"><td>
+40</td><td>
+</td><td>
+</td><td>
+<span style="cursor: pointer;" onclick="okno('/stanice/ausschlag-zobern.html')" title="Kliknutím zobrazíte detailné informácie o stanici">Ausschlag [3]-Zöbern [5]</span> <i>(631m)</i><img src="/img/kjr/oebb_a.gif" height="14" alt=""></td><td>&nbsp;</td></tr>
+
+<tr onmouseover="this.style.backgroundColor='#ECF5FF';" onmouseout="this.style.backgroundColor='';"><td>
+47</td><td>
+</td><td>
+</td><td>
+<span style="cursor: pointer;" onclick="okno('/stanice/tauchen-schaueregg.html')" title="Kliknutím zobrazíte detailné informácie o stanici">Tauchen-Schaueregg [2]</span> <i>(649m)</i><img src="/img/kjr/oebb_a.gif" height="14" alt=""></td><td>&nbsp;</td></tr>
+
+<tr onmouseover="this.style.backgroundColor='#ECF5FF';" onmouseout="this.style.backgroundColor='';"><td>
+54</td><td>
+</td><td>
+</td><td>
+<span style="cursor: pointer;" onclick="okno('/stanice/pinggau-markt.html')" title="Kliknutím zobrazíte detailné informácie o stanici">Pinggau Markt</span> <i>(561m)</i><img src="/img/kjr/oebb_a.gif" height="14" alt=""><img src="/img/kjr/oebb_d.gif" height="14" alt=""></td><td>&nbsp;</td></tr>
+
+<tr onmouseover="this.style.backgroundColor='#ECF5FF';" onmouseout="this.style.backgroundColor='';"><td>
+55</td><td>
+</td><td>
+</td><td>
+<span style="cursor: pointer;" onclick="okno('/stanice/friedberg.html')" title="Kliknutím zobrazíte detailné informácie o stanici"><strong>Friedberg</strong></span> <i>(552m)</i><img src="/img/kjr/oebb_c.gif" height="14" alt=""><img src="/img/kjr/oebb_d.gif" height="14" alt=""></td><td>&nbsp;</td></tr>
+
+<tr onmouseover="this.style.backgroundColor='#ECF5FF';" onmouseout="this.style.backgroundColor='';"><td>
+</td><td>
+0</td><td>
+</td><td>
+<span style="cursor: pointer;" onclick="okno('/stanice/friedberg.html')" title="Kliknutím zobrazíte detailné informácie o stanici"><strong>Friedberg</strong></span> <i>(552m)</i><img src="/img/kjr/oebb_c.gif" height="14" alt=""><img src="/img/kjr/oebb_d.gif" height="14" alt=""></td><td>&nbsp;</td></tr>
+
+<tr onmouseover="this.style.backgroundColor='#ECF5FF';" onmouseout="this.style.backgroundColor='';"><td>
+</td><td>
+5</td><td>
+</td><td>
+<span style="cursor: pointer;" onclick="okno('/stanice/pinggau-freizeitzentrum.html')" title="Kliknutím zobrazíte detailné informácie o stanici">Pinggau Freizeitzentrum</span> <i>(505m)</i><img src="/img/kjr/oebb_a.gif" height="14" alt=""></td><td>&nbsp;</td></tr>
+
+<tr onmouseover="this.style.backgroundColor='#ECF5FF';" onmouseout="this.style.backgroundColor='';"><td>
+</td><td>
+11</td><td>
+</td><td>
+<span style="cursor: pointer;" onclick="okno('/stanice/sinnersdorf.html')" title="Kliknutím zobrazíte detailné informácie o stanici">Sinnersdorf</span><img src="/img/kjr/oebb_a.gif" height="14" alt=""></td><td>&nbsp;</td></tr>
+
+<tr onmouseover="this.style.backgroundColor='#ECF5FF';" onmouseout="this.style.backgroundColor='';"><td>
+</td><td>
+14</td><td>
+</td><td>
+<span style="cursor: pointer;" onclick="okno('/stanice/pinkafeld.html')" title="Kliknutím zobrazíte detailné informácie o stanici">Pinkafeld</span><img src="/img/kjr/oebb_a.gif" height="14" alt=""></td><td>&nbsp;</td></tr>
+
+<tr onmouseover="this.style.backgroundColor='#ECF5FF';" onmouseout="this.style.backgroundColor='';"><td>
+</td><td>
+14</td><td>
+</td><td>
+<span style="cursor: pointer;" onclick="okno('/stanice/pinkafeld-schule.html')" title="Kliknutím zobrazíte detailné informácie o stanici">Pinkafeld Schule</span><img src="/img/kjr/oebb_a.gif" height="14" alt=""></td><td>&nbsp;</td></tr>
+
+<tr onmouseover="this.style.backgroundColor='#ECF5FF';" onmouseout="this.style.backgroundColor='';"><td>
+</td><td>
+16</td><td>
+</td><td>
+<span style="cursor: pointer;" onclick="okno('/stanice/altpinkafeld.html')" title="Kliknutím zobrazíte detailné informácie o stanici">Altpinkafeld</span><img src="/img/kjr/oebb_a.gif" height="14" alt=""></td><td>&nbsp;</td></tr>
+
+<tr onmouseover="this.style.backgroundColor='#ECF5FF';" onmouseout="this.style.backgroundColor='';"><td>
+</td><td>
+19</td><td>
+</td><td>
+<span style="cursor: pointer;" onclick="okno('/stanice/riedlingsdorf.html')" title="Kliknutím zobrazíte detailné informácie o stanici">Riedlingsdorf</span><img src="/img/kjr/oebb_a.gif" height="14" alt=""></td><td>&nbsp;</td></tr>
+
+<tr onmouseover="this.style.backgroundColor='#ECF5FF';" onmouseout="this.style.backgroundColor='';"><td>
+</td><td>
+26</td><td>
+</td><td>
+<span style="cursor: pointer;" onclick="okno('/stanice/oberwart.html')" title="Kliknutím zobrazíte detailné informácie o stanici"><strong>Oberwart</strong></span><img src="/img/kjr/oebb_c.gif" height="14" alt=""><img src="/img/kjr/oebb_i.gif" height="14" alt=""></td><td>&nbsp;</td></tr>
+
+<tr onmouseover="this.style.backgroundColor='#ECF5FF';" onmouseout="this.style.backgroundColor='';"><td>
+26</td><td>
+</td><td>
+</td><td>
+<span style="cursor: pointer;" onclick="okno('/stanice/oberwart.html')" title="Kliknutím zobrazíte detailné informácie o stanici"><strong>Oberwart</strong></span><img src="/img/kjr/oebb_c.gif" height="14" alt=""><img src="/img/kjr/oebb_i.gif" height="14" alt=""></td><td>&nbsp;</td></tr>
+
+<tr onmouseover="this.style.backgroundColor='#ECF5FF';" onmouseout="this.style.backgroundColor='';"><td>
+</td><td>
+29</td><td>
+</td><td>
+<span style="cursor: pointer;" onclick="okno('/stanice/oberwart-einkaufszentrum.html')" title="Kliknutím zobrazíte detailné informácie o stanici">Oberwart Einkaufszentrum</span></td><td>&nbsp;</td></tr>
+
+<tr onmouseover="this.style.backgroundColor='#ECF5FF';" onmouseout="this.style.backgroundColor='';"><td>
+</td><td>
+37</td><td>
+</td><td>
+<span style="cursor: pointer;" onclick="okno('/stanice/grosspetersdorf.html')" title="Kliknutím zobrazíte detailné informácie o stanici">Großpetersdorf</span></td><td>&nbsp;</td></tr>
+
+<tr onmouseover="this.style.backgroundColor='#ECF5FF';" onmouseout="this.style.backgroundColor='';"><td>
+</td><td>
+42</td><td>
+</td><td>
+<span style="cursor: pointer;" onclick="okno('/stanice/burg-eisenberg.html')" title="Kliknutím zobrazíte detailné informácie o stanici">Burg-Eisenberg</span> <i>(253m)</i></td><td>&nbsp;</td></tr>
+
+<tr onmouseover="this.style.backgroundColor='#ECF5FF';" onmouseout="this.style.backgroundColor='';"><td>
+</td><td>
+52</td><td>
+</td><td>
+<span style="cursor: pointer;" onclick="okno('/stanice/rechnitz.html')" title="Kliknutím zobrazíte detailné informácie o stanici">Rechnitz</span> <i>(300m)</i></td><td>&nbsp;</td></tr>
+
+<tr onmouseover="this.style.backgroundColor='#ECF5FF';" onmouseout="this.style.backgroundColor='';"><td>
+</td><td>
+68</td><td>
+</td><td>
+<span style="cursor: pointer;" onclick="okno('/stanice/szombathely.html')" title="Kliknutím zobrazíte detailné informácie o stanici"><strong>Szombathely</strong></span></td><td>&nbsp;</td></tr>
+
+<tr onmouseover="this.style.backgroundColor='#ECF5FF';" onmouseout="this.style.backgroundColor='';"><td>
+59</td><td>
+</td><td>
+</td><td>
+<span style="cursor: pointer;" onclick="okno('/stanice/dechantskirchen.html')" title="Kliknutím zobrazíte detailné informácie o stanici">Dechantskirchen</span> <i>(527m)</i><img src="/img/kjr/oebb_a.gif" height="14" alt=""></td><td>&nbsp;</td></tr>
+
+<tr onmouseover="this.style.backgroundColor='#ECF5FF';" onmouseout="this.style.backgroundColor='';"><td>
+64</td><td>
+</td><td>
+</td><td>
+<span style="cursor: pointer;" onclick="okno('/stanice/rohrbach-vorau.html')" title="Kliknutím zobrazíte detailné informácie o stanici">Rohrbach-Vorau [12]</span><img src="/img/kjr/oebb_a.gif" height="14" alt=""></td><td>&nbsp;</td></tr>
+
+<tr onmouseover="this.style.backgroundColor='#ECF5FF';" onmouseout="this.style.backgroundColor='';"><td>
+71</td><td>
+</td><td>
+</td><td>
+<span style="cursor: pointer;" onclick="okno('/stanice/grafendorf-a.html')" title="Kliknutím zobrazíte detailné informácie o stanici">Grafendorf</span><img src="/img/kjr/oebb_a.gif" height="14" alt=""></td><td>&nbsp;</td></tr>
+
+<tr onmouseover="this.style.backgroundColor='#ECF5FF';" onmouseout="this.style.backgroundColor='';"><td>
+78</td><td>
+</td><td>
+</td><td>
+<span style="cursor: pointer;" onclick="okno('/stanice/st-johann-i-d-haide.html')" title="Kliknutím zobrazíte detailné informácie o stanici">St. Johann i. d. Haide</span></td><td>&nbsp;</td></tr>
+
+<tr onmouseover="this.style.backgroundColor='#ECF5FF';" onmouseout="this.style.backgroundColor='';"><td>
+83</td><td>
+</td><td>
+</td><td>
+<span style="cursor: pointer;" onclick="okno('/stanice/hartberg.html')" title="Kliknutím zobrazíte detailné informácie o stanici"><strong>Hartberg</strong></span><img src="/img/kjr/oebb_a.gif" height="14" alt=""><img src="/img/kjr/oebb_c.gif" height="14" alt=""> <a href="trate/rakousko/trat-530" title="trať Graz Hbf - Fehring - Hartberg / Szentgotthárd -  Szombathely">530</a></td><td>&nbsp;</td></tr>
+
+</table>
+</div></div>
+<div class="ramecek">
+<div class="titulek"><a id="jr" name="jr"></a>Cestovné poriadky</div>
+<div class="text_clanek"><a href="http://pkjs.de/bahn/Kursbuch1944/Teil5/453b.jpg"><img src="img/page_white_picture.png" width="16" height="16" border="0" alt="jpg" /> 1944, 453b (Wien S&uuml;dbf -) Wiener Neustadt - Aspang - Fehring(- Graz)</a><br /><a href="http://pkjs.de/bahn/Kursbuch1944/Teil5/453c.jpg"><img src="img/page_white_picture.png" width="16" height="16" border="0" alt="jpg" /> 1944, 453c Friedberg (Oststeiermark) - Oberwart - Rechnitz</a><br /><a href="http://www.oebb.at/de/Reiseplanung/Fahrplanauskunft/Fahrplanbilder/Detail_520/kif520_16.pdf"><img src="img/page_white_acrobat.png" width="16" height="16" border="0" alt="pdf" /> 2016, Wiener Neustadt Hbf - Aspang - Friedberg - Hartberg - Fehring</a><br /></div></div>
+	<div class="ramecek">
+	  <div class="text_clanek">
+        &copy;&nbsp;2001 - 2016 ŽelPage
+ - <a href="group.php?id=6">správcovia</a>
+<br />Informácie sú poskytované bez záruky.<br />Zdrojové týždenné prehľady výluk <a href="http://www.cd.cz/vyluky">ČD</a> a <a href="http://www.slovakrail.sk/sk/vyluky">ZSSK</a>.	  </div>
+	</div>
+</div>
+    
+	<div id="lmenu">
+	 <div class="ramecek" style="margin-top: 0px;">
+	 <div style="text-align: center;">
+		<a href="/trate/rakousko/trat-520?lang=cs"><img src="/img/spacer1.gif" width="16" height="10" class="flag f_cz" alt="cs" title="česky" /></a>
+		<a href="/trate/rakousko/trat-520?lang=sk"><img src="/img/spacer1.gif" width="16" height="10" class="flag f_sk" alt="sk" title="slovensky" /></a>
+		<a href="/trate/rakousko/trat-520?lang=de"><img src="/img/spacer1.gif" width="16" height="10" class="flag f_de" alt="de" title="Deutsch" /></a>
+		<a href="/trate/rakousko/trat-520?lang=en"><img src="/img/spacer1.gif" width="16" height="10" class="flag f_gb" alt="en" title="english" /></a>
+		<a href="/trate/rakousko/trat-520?lang=pl"><img src="/img/spacer1.gif" width="16" height="10" class="flag f_pl" alt="pl" title="polski" /></a>
+		<a href="/trate/rakousko/trat-520?lang=hu"><img src="/img/spacer1.gif" width="16" height="10" class="flag f_hu" alt="hu" title="magyar" /></a>
+ 	 </div>
+	</div>
+	 <div class="ramecek">
+<div class="titulek">:. Projekty<img src="img/open-blue.gif" alt="open/close" style="position:absolute;right:0px;margin:1px;" onclick="hidegag('men1')" /></div>
+<div class="navigation" id="men1"><script type="text/javascript">
+/* <![CDATA[ */
+	if(get_cookie('men1')!=null){
+		if(get_cookie('men1')==1)hidegag('men1');
+	}
+/* ]]> */
+</script>
+<ul>
+<li><a href="/" title="Aktuality a články">Aktuality</a></li>
+<li><a href="?story=1" title="Rozsiahlejšie texty">Články</a></li>
+<li><a href="atlas.php" title="Atlas železničných tratí">Atlas železníc</a></li>
+<li><a href="fotogalerie/" title="Výberová galéria rušňov">Fotogaléria</a></li>
+<li><a href="kalendar/" title="Kalendár železničných podujatí">Kalendár podujatí</a></li>
+<li><a href="akce.php" title="Prihlášky na podujatia ŽelPage">Prihlášky na podujatia</a></li>
+<li><a href="trate/ceska-republika/" title="Zoznam tratí s cestovným poriadkom">Zoznam tratí</a></li>
+<li><a href="razeni/" title="Radenia vlakov">Radenia vlakov</a></li>
+<li><a href="shop.php" title="Elektronický obchod ŽelPage">eShop</a></li>
+<li><a href="odkazy/ceska-republika/" title="Zoznam externých odkazov">Odkazy</a></li>
+<li><a href="rss.php" title="odber noviniek pre RSS čítačky">RSS kanál</a></li>
+</ul></div>
+</div>
+<div class="ramecek" id="Weby"><div class="titulek">:. Weby<img src="img/open-blue.gif" style="position:absolute;right:0px;margin:1px;" alt="open/close" onclick="hidegag('men2')" /></div>
+<div class="navigation" id="men2"><script type="text/javascript">
+/* <![CDATA[ */
+	if(get_cookie('men2')!=null){
+		if(get_cookie('men2')==1)hidegag('men2');
+	}
+/* ]]> */
+</script>
+<ul>
+<li><a href="http://www.atlaslokomotiv.net/" title="atlas českých a slovenských lokomotiv a motorových vozů">Atlas lokomotiv</a></li>
+<li><a href="http://www.atlasvozu.cz/" title="atlas železničních osobních vozů">Atlas vozů</a></li>
+<li><a href="http://www.hlaseni.net/" title="informační systémy pro cestující">Nádražní hlášení</a></li>
+<li><a href="http://www.nejnadrazi.cz/" title="soutěž o titul nejkrásnějšího nádraží v České republice">Nejkrásnější nádraží ČR</a></li>
+</ul></div>
+	 </div>
+
+	 <div class="ramecek">
+		<div class="titulek">:. Kontakty<img src="img/open-blue.gif" alt="open/close" style="position:absolute;right:0px;margin:1px;" onclick="hidegag('Kontakty')" /></div>
+		 <div class="navigation" id="Kontakty">
+			<script type="text/javascript">
+				/* <![CDATA[ */
+					 if(get_cookie('Kontakty')!=null){
+						 if(get_cookie('Kontakty')==1)hidegag('Kontakty');
+					 }
+				/* ]]> */
+			</script>
+		 <ul>
+			<li><a href="redakce.php" title="Kontaktné údaje na členov redakcie">Redakcia</a></li>
+			<li><a href="spolek.php" title="ŽelPage, o.s.">Združenie</a></li>
+			<li><a href="group.php" title="Projektové tímy">Skupiny</a></li>
+		 </ul></div>
+	 </div>
+<div class="ramecek">
+<div class="titulek">:. Sledujte nás</div>
+<div class="text_clanek" style="text-align: center;">
+<a href="http://twitter.com/zelpage"><img src="/img/icon_twitter.png" alt="Twitter page" /></a> <a href="http://facebook.com/zelpage"><img src="/img/icon_facebook.png" alt="Facebook page" /></a> <a href="http://foursquare.com/zelpage"><img src="/img/icon_foursquare.png" alt="Foursquare page" /></a> <a href="https://plus.google.com/116020145576982055776?prsrc=3" rel="publisher"><img src="/img/icon_googleplus.png" alt="Google plus" /></a>
+</div>
+</div>
+	 <div class="ramecek" style="overflow: hidden;">
+	   <div class="titulek">:. Najnovšie fotografie<img src="img/open-blue.gif" alt="open/close" style="position:absolute;right:0px;margin:1px;" onclick="hidegag('lastimgg')" /></div>
+	   <div style="text-align: center; padding: 2px;" id="lastimgg">
+		 
+<script type="text/javascript">
+/* <![CDATA[ */
+ if(get_cookie('lastimgg')==1)hidegag('lastimgg');
+/* ]]> */
+</script><a href="/fotogalerie/elektricke-lokomotivy/380/380258.html" title="380.002-6 
+Úsek: Praha-Klánovice - Odb. Praha-Běchovice Blatov 
+metys"><img src="/fotogalerie/small/380258.jpg" alt="380.002-6
+Úsek: Praha-Klánovice - Odb. Praha-Běchovice Blatovmetys" style="border: 1px solid silver; margin-top: 5px;" width="150" height="99" /></a><br /><a href="/fotogalerie/motorove-lokomotivy/754/7541670.html" title="754.019-8 
+Úsek: Hostašovice - Mořkov hlavní trať 
+Tomáš Krajcar 
+Sp 1643 &quot;Hostýn&quot;"><img src="/fotogalerie/small/7541670.jpg" alt="754.019-8
+Úsek: Hostašovice - Mořkov hlavní traťTomáš Krajcar 
+Sp 1643 &quot;Hostýn&quot;" style="border: 1px solid silver; margin-top: 5px;" width="150" height="98" /></a><br /><a href="/fotogalerie/motorove-lokomotivy/755/755059.html" title="755.001-5 
+Úsek: Řevničov - Nové Strašecí 
+Michael Hajn 
+Mn85431"><img src="/fotogalerie/small/755059.jpg" alt="755.001-5
+Úsek: Řevničov - Nové StrašecíMichael Hajn 
+Mn85431" style="border: 1px solid silver; margin-top: 5px;" width="150" height="99" /></a><br /><a href="/fotogalerie/motorove-lokomotivy/720/720147.html" title="720.508-1 
+Úsek: Bystřice u Benešova - Tomice 
+malard"><img src="/fotogalerie/small/720147.jpg" alt="720.508-1
+Úsek: Bystřice u Benešova - Tomicemalard" style="border: 1px solid silver; margin-top: 5px;" width="150" height="93" /></a><br /><a href="/fotogalerie/elektricke-lokomotivy/240/240453.html" title="240.063-8 + 240.060-4 
+Úsek: Horní Dvořiště - Rybník 
+Radim Činčala 
+Pn 44504"><img src="/fotogalerie/small/240453.jpg" alt="240.063-8 + 240.060-4
+Úsek: Horní Dvořiště - RybníkRadim Činčala 
+Pn 44504" style="border: 1px solid silver; margin-top: 5px;" width="150" height="103" /></a><br /><a href="/fotogalerie/motorove-lokomotivy/742/742660.html" title="742.403-9 
+Místo: Nučice 
+Richardisko"><img src="/fotogalerie/small/742660.jpg" alt="742.403-9
+Místo: NučiceRichardisko" style="border: 1px solid silver; margin-top: 5px;" width="112" height="112" /></a><br /><a href="/fotogalerie/zahranicni/db/db795.html" title="218.326-7 
+Úsek: Langenwang (Schwab) - Oberstdorf 
+metys"><img src="/fotogalerie/small/db795.jpg" alt="218.326-7
+Úsek: Langenwang (Schwab) - Oberstdorfmetys" style="border: 1px solid silver; margin-top: 5px;" width="150" height="100" /></a><br /><a href="/fotogalerie/elektricke-lokomotivy/163/163233.html" title="163.080-5 
+Úsek: Hr. Hořátev - Sadská 
+Louis Armstrong"><img src="/fotogalerie/small/163233.jpg" alt="163.080-5
+Úsek: Hr. Hořátev - SadskáLouis Armstrong" style="border: 1px solid silver; margin-top: 5px;" width="150" height="97" /></a><br /><a href="/fotogalerie/pracovni-mechanizmy/sukl/sukl103.html" title="08-32 Duomatic 
+Úsek: Olešnice - Řešetova Lhota 
+Louis Armstrong"><img src="/fotogalerie/small/sukl103.jpg" alt="08-32 Duomatic
+Úsek: Olešnice - Řešetova LhotaLouis Armstrong" style="border: 1px solid silver; margin-top: 5px;" width="150" height="101" /></a><br /><a href="/fotogalerie/motorove-lokomotivy/754/7541669.html" title="754.074-3 
+Úsek: Janovice nad Úhlavou - Petrovice nad Úhlavou 
+Jan Zelenda"><img src="/fotogalerie/small/7541669.jpg" alt="754.074-3
+Úsek: Janovice nad Úhlavou - Petrovice nad ÚhlavouJan Zelenda" style="border: 1px solid silver; margin-top: 5px;" width="150" height="98" /></a><br />	    <a href="aktual_photo.php?zobraz=day" title="Fotografie pridané v uplynulom týždni" style="font-size: 0.65em; ; color: navy;">Ďalšie novinky >>></a>
+        <br />
+      </div>
+    </div>
+		
+	<div class="ramecek">
+      <div class="titulek">:. Počítadlo</div>
+	  <div style="text-align: center; padding: 7px">
+	    
+          <script type="text/javascript">
+          /* <![CDATA[ */
+            document.write('<p><a href="http://www.toplist.cz/stat/33532"><img src="http://toplist.cz/count.asp?id=33532&amp;logo=bc&amp;http='+escape(document.referrer)+'&amp;wi='+escape(window.screen.width)+'&he='+escape(window.screen.height)+'&amp;cd='+escape(window.screen.colorDepth)+'&amp;t='+escape(document.title)+'" width="88" height="120" alt="TOPlist" style="border: none; width: 88px; height: 120px;" /></a></p>');
+          /* ]]> */
+          </script>
+		
+		<noscript><p><a href="http://www.toplist.cz/stat/33532"><img src="http://toplist.cz/count.asp?id=33532&amp;logo=bc" alt="TOPlist" width="88" height="120" style="border: none;" /></a></p></noscript>
+	  </div>
+	</div>
+
+
+
+
+
+
+	</div>						 <!-- Konec bloku s levym menu -->
+ </div>							<!-- Konec tela stranky -->
+<br /><br />     
+<div id="fb-root"></div>
+<script type="text/javascript">
+/*<![CDATA[ */
+
+// statistika rozliseni obrazovky
+document.write('<div><img width="1" height="1" alt="" src="/img/log_analysis_screen_info.gif?' + 'width=' + screen.width + '&amp;height=' + screen.height + '&amp;depth=' + screen.colorDepth + '" /></div>\n');
+
+
+
+/* facebook like tlacitko */
+window.fbAsyncInit = function() {
+    FB.init({appId: '123485691020127', status: true, cookie: true,xfbml: true});
+};
+
+(function() {
+    var e = document.createElement('script'); 
+    e.async = true;
+    e.src = document.location.protocol + '//connect.facebook.net/cs_CZ/all.js';
+    document.getElementById('fb-root').appendChild(e);
+}());
+
+/* ]]> */
+</script>
+
+
+
+</div>
+</body>
+</html>

@@ -1,0 +1,5 @@
+AA -> BB 2
+BB -> CC 2
+XX -> YY 3
+YY -> ZZ 1
+ZZ -> AA 3
