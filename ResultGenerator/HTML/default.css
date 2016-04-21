@@ -1,0 +1,28 @@
+body{
+	margin: 60px auto;
+    width: 70%;
+	background-color: #CCCCDD;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+a {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: #4444FF;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+h1{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+h2{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+h3{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}

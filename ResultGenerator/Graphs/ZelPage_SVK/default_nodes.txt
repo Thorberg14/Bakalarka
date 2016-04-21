@@ -1,0 +1,1003 @@
+1 Bratislava hlavná stanica
+2 Bratislava-Železná studienka
+3 Bratislava-Lamač
+4 Devínska Nová Ves
+5 Devínska Nová Ves štátna hranica
+6 Marchegg [4]
+7 Bratislava-Petržalka
+8 Bratislava Petržalka št. hr.
+9 Kittsee
+10 Devínske Jazero
+11 Stupava
+12 Zohor
+13 Plavecký Štvrtok
+14 Malacky
+15 Veľké Leváre
+16 Závod
+17 Moravský Ján
+18 Sekule
+19 Kúty
+20 Brodské
+21 Kúty štátna hranica
+22 Lozorno
+23 Jablonové
+24 Pernek pri Zohore
+25 Kuchyňa
+26 Rohožník
+27 Sološnica
+28 Plavecké Podhradie
+29 Plavecký Mikuláš
+30 Lábske Jazero zastávka
+31 Vysoká pri Morave
+32 Vysoká pri Morave zastávka
+33 Záhorská Ves
+34 Gbely zastávka
+35 Gbely
+36 Kopčany
+37 Holíč nad Moravou
+38 Kátov
+39 Skalica na Slovensku
+40 Skalica na Slovensku štátna hranica
+41 Holíč nad Moravou štátna hranica
+42 Kuklov
+43 Šaštín-Stráže
+44 Borský Mikuláš
+45 Šajdíkove Humence
+46 Senica
+47 Hlboké
+48 Jablonica
+49 Cerová-Lieskové
+50 Dúbrava
+51 Buková
+52 Smolenice
+53 Bíňovce
+54 Boleráz
+55 Klčovany
+56 Šelpice
+57 Nemčanka
+58 Trnava predmestie
+59 Trnava
+60 Brezová pod Bradlom
+61 Brezová pod Bradlom zastávka
+62 Hradište pod Vrátnom
+63 Osuské
+64 Jablonica obec
+65 Bratislava-Nové Mesto
+66 Bratislava predmestie
+67 Bratislava-Rača
+68 Piešťany
+69 Vrbové
+70 Bratislava-Vinohrady
+71 Svätý Jur
+72 Pezinok zastávka
+73 Pezinok
+74 Šenkvice
+75 Báhoň
+76 Cífer
+77 Brestovany
+78 Leopoldov
+79 Madunice
+80 Veľké Kostoľany
+81 Drahovce zastávka
+82 Horná Streda
+83 Brunovce
+84 Považany
+85 Nové Mesto nad Váhom
+86 Trenčianske Bohuslavice
+87 Melčice
+88 Kostolná-Zariečie
+89 Zlatovce
+90 Trenčín
+91 Opatová nad Váhom
+92 Trenčianska Teplá
+93 Dubnica nad Váhom
+94 Ilava
+95 Košeca
+96 Ladce
+97 Beluša
+98 Dolné Kočkovce
+99 Púchov
+100 Nosice
+101 Milochov
+102 Považská Bystrica
+103 Považská Teplá
+104 Plevník-Drienové
+105 Predmier
+106 Bytča
+107 Kotešová
+108 Dolný Hričov
+109 Horný Hričov
+110 Žilina
+111 Čachtice
+112 Višňové
+113 Hrachovište
+114 Vaďovce
+115 Stará Turá
+116 Paprad
+117 Poriadie
+118 Myjava
+119 Brestovec
+120 Vrbovce zastávka
+121 Vrbovce
+122 Vrbovce štátna hranica
+123 Trenčianska Teplá obec
+124 Trenčianska Teplá zastávka
+125 Trenčianske Teplice sídlisko
+126 Trenčianske Teplice zastávka
+127 Trenčianske Teplice
+128 Nemšová
+129 Horné Srnie
+130 Nemšová štátna hranica
+131 Borčice
+132 Bolešov
+133 Sedmerovec
+134 Pruské
+135 Tuchyňa
+136 Dulov
+137 Horovce
+138 Lednické Rovne
+139 Púchov závody
+140 Púchov zastávka
+141 Dohňany
+142 Zariečie
+143 Lúky pod Makytou
+144 Lysá pod Makytou
+145 Strelenka
+146 Lúky pod Makytou štátna hranica
+147 Žilina zariečie
+148 Žilina-Solinky
+149 Bytčica
+150 Lietavská Lúčka
+151 Porúbka
+152 Poluvsie
+153 Rajecké Teplice
+154 Konská pri Rajci
+155 Zbyňov
+156 Kľače
+157 Rajec
+158 Brodno
+159 Rudina
+160 Kysucké Nové Mesto
+161 Ochodnica
+162 Dunajov
+163 Krásno nad Kysucou
+164 Oščadnica
+165 Čadca mesto
+166 Čadca
+167 Svrčinovec zastávka
+168 Čadca štátna hranica
+169 Čadca zastávka
+170 Raková-Zemanov
+171 Raková
+172 Staškov zastávka
+173 Staškov
+174 Podvysoká
+175 Turzovka
+176 Turzovka zastávka
+177 Vysoká nad Kysucou
+178 Nižný Kelčov
+179 Makov
+180 Svrčinovec
+181 Čierne pri Čadci
+182 Čierne pri Čadci zastávka
+183 Čierne-Polesie
+184 Skalité zastávka
+185 Skalité
+186 Skalité pod Poľanou
+187 Skalité-Kudlov
+188 Skalité-Serafínov
+189 Skalité štátna hranica
+190 Bratislava-Vajnory
+191 Palárikovo
+192 Šurany
+193 Ivanka pri Dunaji
+194 Bernolákovo
+195 Veľký Biel
+196 Senec
+197 Reca
+198 Pusté Úľany
+199 Sládkovičovo
+200 Galanta
+201 Topoľnica
+202 Šaľa
+203 Trnovec nad Váhom
+204 Jatov
+205 Tvrdošovce
+206 Ľudovítov
+207 Nové Zámky
+208 Dvory nad Žitavou
+209 Pribeta
+210 Strekov
+211 Nová Vieska
+212 Gbelce
+213 Mužla
+214 Štúrovo
+215 Chľaba
+216 Štúrovo štátna hranica
+217 Szob
+218 Kvetoslavov
+219 Šamorín
+220 Podunajské Biskupice
+221 Rovinka
+222 Nové Košariská
+223 Miloslavov
+224 Kvetoslavov zastávka
+225 Malá Paka
+226 Veľká Paka
+227 Lehnice
+228 Michal na Ostrove
+229 Orechová Potôň
+230 Veľké Blahovo
+231 Dunajská Streda
+232 Kútniky
+233 Dolný Bar
+234 Dolný Štál
+235 Okoč
+236 Veľký Meder
+237 Bodza
+238 Zemianska Olča
+239 Okoličná na Ostrove
+240 Horná Zlatná
+241 Zlatná na Ostrove
+242 Nová Stráž
+243 Komárno závody
+244 Komárno
+245 Bratislava ústredná nákladná stanica
+246 Rusovce
+247 Rusovce štátna hranica
+248 Rajka
+249 Križovany nad Dudváhom
+250 Sereď
+251 Siladice
+252 Šúrovce
+253 Gáň
+254 Diakovce
+255 Tešedíkovo
+256 Žihárec
+257 Žihárec zastávka
+258 Vlčany
+259 Neded
+260 Komárno zastávka
+261 Komárno Dunaj
+262 Bajč
+263 Hurbanovo
+264 Chotín
+265 Komárno štátna hranica
+266 Komárom
+267 Komárno škola
+268 Hadovce
+269 Kameničná
+270 Balvany
+271 Čalovec
+272 Violín
+273 Kráľka
+274 Kolárovo
+275 Zbehy
+276 Jelšovce
+277 Bánov
+278 Ondrochov
+279 Komjatice
+280 Veľký Kýr
+281 Branč
+282 Ivanka pri Nitre
+283 Dolné Krškany
+284 Nitra
+285 Nitra zastávka
+286 Mlynárce
+287 Lužianky
+288 Čakajovce
+289 Výčapy-Opatovce
+290 Koniarovce
+291 Preseľany nad Nitrou zastávka
+292 Kamanová
+293 Mýtna Nová Ves
+294 Ludanice
+295 Chrabrany
+296 Topoľčany
+297 Krušovce
+298 Bošany
+299 Chynorany
+300 Žabokreky nad Nitrou
+301 Veľké Bielice
+302 Partizánske
+303 Partizánske zastávka
+304 Veľké Uherce
+305 Oslany
+306 Bystričany
+307 Zemianske Kostoľany
+308 Nováky
+309 Koš
+310 Prievidza
+311 Leopoldov zastávka
+312 Hlohovec
+313 Kľačany
+314 Rišňovce
+315 Alekšince
+316 Andač
+317 Zbehy obec
+318 Dražovce
+319 Podhorany pri Lužiankach
+320 Žirany
+321 Jelenec
+322 Ladice
+323 Sľažany
+324 Zlaté Moravce
+325 Zlaté Moravce závody
+326 Zlaté Moravce-Prílepy
+327 Volkovce
+328 Slanský Dvor
+329 Kozárovce zastávka
+330 Kozárovce
+331 Čab-Sila
+332 Čab-Sila zastávka
+333 Nové Sady
+334 Malé Zálužie
+335 Kapince
+336 Biskupová
+337 Malé Ripňany
+338 Veľké Ripňany
+339 Behynce
+340 Radošina
+341 Trenčín predmestie
+342 Trenčianska Turná
+343 Soblahov
+344 Mníchova Lehota
+345 Trenčianske Jastrabie
+346 Svinná
+347 Ruskovce
+348 Horné Ozorovce
+349 Bánovce nad Bebravou
+350 Dolné Naštice
+351 Rybany
+352 Ostratice
+353 Nedožery
+354 Pravenec
+355 Nitrianské Pravno
+356 Horná Štubňa
+357 Sklené pri Handlovej
+358 Remäta
+359 Výhybňa Pstruháry
+360 Handlová
+361 Ráztočno
+362 Jalovec
+363 Chrenovec
+364 Šurany zastávka
+365 Úľany nad Žitavou
+366 Hul
+367 Radava
+368 Podhájska
+369 Pozba
+370 Beša
+371 Jesenské údolie
+372 Pial
+373 Horný Pial
+374 Lok
+375 Kalná nad Hronom
+376 Levice
+377 Hronské Kľačany
+378 Veľké Kozmálovce
+379 Tlmače
+380 Psiare
+381 Hronský Beňadik
+382 Tekovská Breznica
+383 Nová Baňa
+384 Rudno nad Hronom
+385 Voznica výhybňa
+386 Voznica
+387 Dolné Hámre
+388 Žarnovica
+389 Bzenica
+390 Hliník nad Hronom
+391 Lehôtka pod Brehmi
+392 Žiar nad Hronom zastávka
+393 Žiar nad Hronom
+394 Šášovské Podhradie
+395 Suť
+396 Jalná
+397 Hronská Dúbrava
+398 Budča
+399 Zvolen osobná stanica
+400 Topoľčianky
+401 Malá Maňa
+402 Maňa zastávka
+403 Maňa
+404 Kmeťovo
+405 Michal nad Žitavou
+406 Martinová
+407 Lúčnica nad Žitavou
+408 Dyčka
+409 Vráble
+410 Nová Ves nad Žitavou
+411 Slepčany
+412 Tesárske Mlyňany
+413 Kamenný Most nad Hronom
+414 Kamenín
+415 Bíňa
+416 Bíňa zastávka
+417 Čata
+418 Pohronský Ruskov
+419 Hronovce
+420 Želiezovce
+421 Tekovské Lužany
+422 Tekovský Hrádok
+423 Dolná Seč
+424 Šahy
+425 Breziny
+426 Podzámčok
+427 Dobrá Niva
+428 Dobrá Niva zastávka
+429 Sása - Pliešovce
+430 Bzovská Lehôtka
+431 Babiná
+432 Krupina predmestie
+433 Krupina
+434 Bzovík
+435 Devičie
+436 Hontianske Nemce
+437 Domaníky
+438 Hontianske Tesáre
+439 Dvorníky
+440 Terany
+441 Dudince
+442 Slatina
+443 Tupá
+444 Hrkovce
+445 Vyškovce nad Ipľom
+446 Ipeľský Sokolec
+447 Bielovce
+448 Pastovce
+449 Zalaba
+450 Kozelník
+451 Banská Belá zastávka
+452 Banská Belá
+453 Banský Studenec
+454 Banská Štiavnica
+455 Lenartovce
+456 Lenartovce štátna hranica
+457 Bánréve
+458 Turňa nad Bodvou
+459 Turňa nad Bodvou štátna hr.
+460 Tornanádaska
+461 Zvolen nákladná stanica
+462 Zvolen-Bučina
+463 Zvolenská Slatina
+464 Vígľaš
+465 Pstruša
+466 Stožok
+467 Detva
+468 Kriváň
+469 Podkriváň
+470 Píla
+471 Mýtna
+472 Lovinobaňa
+473 Lovinobaňa zastávka
+474 Podrečany
+475 Tomášovce
+476 Lučenec
+477 Holiša
+478 Prša
+479 Fiľakovo zastávka
+480 Fiľakovo
+481 Urbánka
+482 Šíd
+483 Čamovce
+484 Hajnáčka
+485 Blhovce
+486 Hodejov
+487 výhybňa Lúka
+488 Gortva
+489 Jesenské
+490 Dubovec
+491 Orávka
+492 Rimavská Seč
+493 Číž kúpele
+494 Abovce
+495 Riečka
+496 Štrkovec
+497 Včelínce
+498 Tornaľa
+499 Gemer
+500 Gemerská Panica
+501 Čoltovo
+502 Bohúňovo
+503 Gemerská Hôrka
+504 Plešivec
+505 Vidová
+506 Slavec jaskyňa
+507 výhybňa Brzotín
+508 Rožňava
+509 Jovice
+510 Lipovník
+511 Jablonov nad Turňou
+512 Hrhov
+513 Dvorníky-Zádiel
+514 Drienovec
+515 Moldava nad Bodvou
+516 Mokrance
+517 Čečejovce
+518 Cestice
+519 Komárovce
+520 Veľká Ida
+521 Hutníky
+522 Haniska pri Košiciach
+523 Barca
+524 Košice predmestie
+525 Košice
+526 Mikušovce
+527 Rapovce
+528 Kalonda
+529 Rapovce štátna hranica
+530 Ipolytarnóc
+531 Litke
+532 Ráróspuszta
+533 Nógrádszakál
+534 Veĺký Krtíš štátna hranica
+535 Bušince
+536 Malé Zlievce
+537 Malé Straciny
+538 Veľký Krtíš
+539 Opatová pri Lučenci
+540 Veľká Ves
+541 Kalinovo
+542 Breznička
+543 Zelené
+544 Poltár
+545 Slaná Lehota
+546 České Brezovo
+547 Zlatno
+548 Kokava nad Rimavicou-Liešnica
+549 Kokava nad Rimavicou
+550 Utekáč
+551 Katarínska Huta
+552 Maša
+553 Cinobaňa
+554 Mládzovo
+555 Belina
+556 Radzovce
+557 Šiatorská Bukovinka
+558 Fiľakovo štátna hranica
+559 Somoskőújfalu
+560 Gemerská Hôrka zastávka
+561 Hucín
+562 Gemerský Milhosť
+563 Jelšavská Teplica
+564 Jelšava
+565 Jelšava zastávka
+566 Lubeník
+567 Revúcka Lehota
+568 Mokrá Lúka
+569 Revúca
+570 Muránska Dlhá Lúka
+571 Muráň
+572 Pašková
+573 Kunova Teplica
+574 Štítnik mesto
+575 Štítnik
+576 Roštár
+577 Ochtiná
+578 Rochovce
+579 Slavošovce obec
+580 Slavošovce
+581 Dobšiná
+582 Vlachovo
+583 Vlachovo obec
+584 Gočovo
+585 Nižná Slaná
+586 Nižná Slaná obec
+587 Henckovce
+588 Gemerská Poloma
+589 Betliar
+590 Nadabula
+591 Rožňava mesto
+592 Rožňava predmestie
+593 Moldava nad Bodvou mesto
+594 Debraď
+595 Jasov
+596 Počkaj
+597 Medzev
+598 Valaliky
+599 Geča
+600 Čaňa
+601 Gyňov
+602 Seňa
+603 Kechnec
+604 Čaňa štátna hranica
+605 Hidasnémeti
+606 Vrútky
+607 Priekopa
+608 Martin
+609 Košťany nad Turcom
+610 Príbovce
+611 Kláštor pod Znievom
+612 Jazernica
+613 Malý Čepčín
+614 Diviaky
+615 Turčianske Teplice
+616 Horná Štubňa obec
+617 Čremošné
+618 Harmanec jaskyňa
+619 Dolný Harmanec
+620 Harmanec
+621 Uľanka
+622 Kostiviarska
+623 Banská Bystrica
+624 Banská Bystrica mesto
+625 Radvaň
+626 Vlkanová
+627 Hronsek
+628 Veľká Lúka
+629 Sliač kúpele
+630 Zvolen mesto
+631 Trnavá Hora
+632 Stará Kremnička
+633 Bartošova Lehôtka
+634 Jastrabá
+635 Kremnica
+636 Kremnické Bane
+637 Turček
+638 Horná Štubňa zastávka
+639 Šalková
+640 Slovenská Ľupča-Príboj
+641 Slovenská Ľupča
+642 Lučatín
+643 Ľubietová
+644 Medzibrod
+645 Brusno kúpele
+646 Nemecká
+647 Dubová
+648 Predajná
+649 Lopej
+650 Podbrezová
+651 Chvatimech
+652 Valaská
+653 Brezno
+654 Brezno mesto
+655 Brezno-Halny
+656 Bujakovo zastávka
+657 Gašparovo
+658 Beňuš
+659 Bacúch
+660 Polomka
+661 Polomka-Hámor
+662 Závadka nad Hronom obec
+663 Závadka nad Hronom zastávka
+664 Závadka nad Hronom nákladisko
+665 Heľpa
+666 Pohorelá
+667 Pohorelská Maša
+668 Nová Maša
+669 Vaľkovňa
+670 Červená Skala
+671 Telgárt
+672 Telgárt penzión
+673 Vernár
+674 Dobšinská Ľadová Jaskyňa
+675 Stratená
+676 Dedinky
+677 Mlynky
+678 Mlynky zastávka
+679 Rakovec
+680 Sykavka
+681 Hnilec
+682 Nálepkovo-Peklisko
+683 Tretí Hámor
+684 Nálepkovo
+685 Stará Voda
+686 Švedlár
+687 Švedlár zastávka
+688 Mníšek nad Hnilcom
+689 Helcmanovce
+690 Prakovce
+691 Prakovce zastávka
+692 Gelnica zastávka
+693 Gelnica mesto
+694 Gelnica
+695 Žakarovce
+696 Jaklovce
+697 Margecany
+698 Jesenské zastávka
+699 Rimavské Janovce obec
+700 Rimavské Janovce
+701 Rimavská Sobota
+702 Čerenčany
+703 Veľké Teriakovce
+704 Nižný Skálnik
+705 Hrachovo
+706 Kociha
+707 Rimavské Zalužany
+708 Rimavská Baňa
+709 Rimavské Brezovo
+710 Likier
+711 Hnúšťa
+712 Hnúšťa zastávka
+713 Hačava skálie
+714 Hačava
+715 Rimavská Píla
+716 Tisovec mesto
+717 Tisovec
+718 Tisovec-Bánovo
+719 Zbojská
+720 Pohronská Polhora
+721 Michalová
+722 Michalová zastávka
+723 Brezno-Rohozná
+724 Husiná
+725 Dolné Zahorany
+726 Ožďany
+727 Sušany
+728 Hrnčiarske Zalužany
+729 Hrnčiarska Ves
+730 Maštinec
+731 Teplička nad Váhom
+732 Varín
+733 Strečno
+734 Vrútky nákladná stanica
+735 Sučany
+736 Turany
+737 Krpeľany
+738 Šútovo
+739 Kraľovany
+740 Stankovany
+741 Ľubochňa
+742 Švošov
+743 Hrboltová
+744 Ružomberok-Rybárpole
+745 Ružomberok
+746 Lisková
+747 Liptovská Teplá
+748 Liptovské Vlachy
+749 Paludza
+750 Liptovský Mikuláš
+751 Okoličné
+752 Podtureň
+753 Liptovský Hrádok
+754 Kráľova Lehota
+755 Východná
+756 Važec
+757 Štrba
+758 Štrba zastávka
+759 Lučivná
+760 Svit
+761 Poprad-Tatry
+762 Gánovce
+763 Spišský Štiavnik
+764 Vydrník
+765 Letanovce
+766 Spišské Tomášovce
+767 Smižany
+768 Spišská Nová Ves
+769 Teplička nad Hornádom
+770 Markušovce
+771 Matejovce nad Hornádom
+772 Chrasť nad Hornádom
+773 Vítkovce
+774 Olcnava
+775 Spišské Vlachy
+776 Krompachy
+777 Richnava
+778 Kluknava
+779 Margecany zastávka
+780 Ružín
+781 Malá Lodina
+782 Veľká Lodina
+783 Kysak
+784 Trebejov
+785 Kostoľany nad Hornádom
+786 Ťahanovce
+787 Kraľovany zastávka
+788 Párnica
+789 Istebné
+790 Veličná
+791 Dolný Kubín zastávka
+792 Dolný Kubín
+793 Mokraď
+794 Bziny
+795 Medzibrodie nad Oravou
+796 Oravský Podzámok
+797 Oravský Podzámok zastávka
+798 Horná Lehota
+799 Sedliacka Dubová
+800 Dlhá nad Oravou
+801 Krivá
+802 Podbiel
+803 Nižná
+804 Krásna Hôrka
+805 Tvrdošín
+806 Trstená
+807 Tatranský Lieskovec
+808 Štrbské Pleso
+809 Veľký Slavkov
+810 Nová Lesná
+811 Pod lesom
+812 Dolný Smokovec
+813 Starý Smokovec
+814 Nový Smokovec
+815 Sibír
+816 Tatranské Zruby
+817 Tatranská Polianka
+818 Danielov Dom
+819 Nová Polianka
+820 Vyšné Hágy
+821 Popradské Pleso
+822 Pekná Vyhliadka
+823 Horný Smokovec
+824 Tatranská Lesná
+825 Stará Lesná
+826 Tatranská Lomnica
+827 Studený Potok
+828 Veľká Lomnica-Golf
+829 Tatranská Lomnica zastávka (Eurocamp)
+830 Strážky zastávka
+831 Spišská Belá
+832 Poprad-Spišská Sobota
+833 Matejovce pri Poprade
+834 Veľká Lomnica
+835 Huncovce
+836 Kežmarok
+837 Kežmarok zastávka
+838 Strážky
+839 Spišská Belá zastávka
+840 Bušovce
+841 Podhorany pri Kežmarku
+842 Toporec
+843 Podolínec
+844 Nižné Ružbachy
+845 Forbasy
+846 Stará Ľubovňa
+847 Chmeľnica
+848 Plavnica
+849 Hromoš
+850 Plaveč
+851 Harichovce
+852 Levočské Lúky
+853 Levoča
+854 Spišské Vlachy mesto
+855 Bystrany na Spiši
+856 Katúň
+857 Spišské Podhradie
+858 Obišovce
+859 Ličartovce
+860 Drienovská Nová Ves obec
+861 Drienovská Nová Ves
+862 Kendice
+863 Haniska pri Prešove
+864 Prešov
+865 Prešov mesto
+866 Veľký Šariš
+867 Šarišské Michaľany
+868 Orkucany
+869 Sabinov
+870 Pečovská Nová Ves
+871 Červenica
+872 Rožkovany
+873 Lipany
+874 Krivany
+875 Kamenica nad Torysou
+876 Pusté Pole
+877 Ďurková
+878 Ľubotín
+879 Orlov
+880 Čirč
+881 Plaveč štátna hranica
+882 Kalša
+883 Červený Dvor
+884 Čeľovce
+885 Trebišov
+886 Slovenské Nové Mesto
+887 Slovenské Nové Mesto štátna hranica
+888 Sátoraljaújhely
+889 Krásna nad Hornádom
+890 Nižná Myšľa
+891 Vyšná Myšľa
+892 Bohdanovce
+893 Ruskov
+894 Slanec
+895 Kuzmice
+896 Michaľany
+897 Čerhov
+898 Borša
+899 Streda nad Bodrogom
+900 Somotor
+901 Veľký Horeš
+902 Pribeník
+903 Dobrá
+904 Biel
+905 Čierna nad Tisou zastávka
+906 Čierna nad Tisou
+907 Čierna nad Tisou štátna hranica
+908 Lastovce
+909 Veľaty
+910 Stanča
+911 Úpor
+912 Hrinište
+913 Bánovce nad Ondavou
+914 Laškovce
+915 Michalovce zastávka
+916 Michalovce
+917 Petrovce nad Laborcom
+918 Naciná Ves
+919 Pusté Čemerné
+920 Strážske
+921 Brekov
+922 Humenné
+923 Humenné mesto
+924 Kochanovce
+925 Udavské
+926 Ľubiša
+927 Hankovce
+928 Koškovce
+929 Zbudské Dlhé
+930 Hrabovec nad Laborcom
+931 Radvaň nad Laborcom
+932 Volica
+933 Nižné Čabiny
+934 Vyšné Čabiny
+935 Sukov
+936 Monastyr
+937 Krásny Brod
+938 Medzilaborce
+939 Medzilaborce mesto
+940 Vydraň
+941 Palota
+942 výhybňa Víťazstva
+943 Medzilaborce štátna hranica
+944 Łupków
+945 Trebišov zastávka
+946 Milhostov
+947 Vojčice
+948 Sečovce
+949 Dvorianky
+950 Parchovany
+951 Sečovská Polianka
+952 Sačurov
+953 Vranov-Ortáše
+954 Vranov nad Topľou predmestie
+955 Vranov nad Topľou
+956 Šarišské Lúky
+957 Nižná Šebastová
+958 Kapušany pri Prešove
+959 Lada
+960 Nemcovce
+961 Pavlovce
+962 Hanušovce nad Topľou mesto
+963 Hanušovce nad Topľou
+964 Bystré
+965 Čierne nad Topľou
+966 Hlinné
+967 Soľ
+968 Komárany
+969 Vranovské Dlhé
+970 Hencovce
+971 Nižný Hrabovec
+972 Fulianka
+973 Tulčík
+974 Demjata
+975 Demjata obec
+976 Raslavice
+977 Vaniškovce
+978 Bartošovce
+979 Hertník
+980 Šiba
+981 Kľušov
+982 Bardejov
+983 Veľké Kapušany
+984 Maťovce
+985 Maťovce štátna hranica
+986 Hatalov
+987 Dúbravka
+988 Budkovce
+989 Drahňov
+990 Vojany
+991 Krišovská Liesková
+992 Veľké Kapušany zastávka
+993 Hažín nad Cirochou
+994 Kamenica nad Cirochou
+995 Kamenica nad Cirochou dvor
+996 Modra nad Cirochou
+997 Dlhé nad Cirochou
+998 Dlhé nad Cirochou obec
+999 Belá nad Cirochou
+1000 Snina predmestie
+1001 Snina mesto
+1002 Snina
+1003 Stakčín

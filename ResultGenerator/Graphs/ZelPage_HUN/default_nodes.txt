@@ -1,0 +1,1760 @@
+1 Rajka
+2 Bezenye
+3 Hegyeshalom
+4 Levél
+5 Mosonmagyaróvár
+6 Kimle
+7 Lébény-Mosonszentmiklós
+8 Öttevény
+9 Abda
+10 Győr
+11 Győr-Gyárváros
+12 Győrszentiván
+13 Nagyszentjános
+14 Ács
+15 Komárom
+16 Szőny
+17 Almásfüzitő felső
+18 Almásfüzitő
+19 Tata
+20 Tóvároskert
+21 Vértesszőlős
+22 Tatabánya
+23 Alsógalla
+24 Szárliget
+25 Szár
+26 Bicske
+27 Bicske alsó
+28 Herceghalom
+29 Biatorbágy
+30 Törökbálint
+31 Budaörs
+32 Budapest-Kelenföld
+33 Budapest-Déli pu.
+34 Tokod
+35 Dorog
+36 Budapest-Nyugati pu.
+37 Rákosrendező
+38 Budapest-Angyalföld
+39 Újpest
+40 Aquincum felső
+41 Óbuda
+42 Budapest-Üröm
+43 Solymár
+44 Pilisvörösvár
+45 Szabadságliget
+46 Pázmáneum
+47 Klotildliget
+48 Piliscsaba
+49 Pilisjászfalu
+50 Piliscsév
+51 Leányvár
+52 Esztergom-Kertváros
+53 Esztergom
+54 Tát
+55 Nyergesújfalu
+56 Nyergesújfalu felső
+57 Eternitgyár
+58 Lábatlan
+59 Piszke
+60 Süttő
+61 Süttő felső
+62 Várhegyalja
+63 Neszmély
+64 Dunaalmás
+65 Székesfehérvár
+66 Szárazrét
+67 Moha
+68 Moha-Rakodó
+69 Fehérvárcsurgó
+70 Bodajk
+71 Csókakő
+72 Mór
+73 Bakonysárkány
+74 Kisbér
+75 Ászár
+76 Ászár-Keményítőgyár
+77 Tárkány-Csép
+78 Nagyigmánd-Bábolna
+79 Csémpuszta
+80 Szőny-Déli
+81 Ikrény
+82 Rábapatona
+83 Enese
+84 Kóny
+85 Bágyogszovát
+86 Dör
+87 Csorna
+88 Farád
+89 Rábatamási
+90 Szárföld
+91 Veszkény
+92 Kapuvár
+93 Vitnyéd-Csermajor
+94 Petöháza
+95 Fertőszentmiklós
+96 Pinnye
+97 Fertőboz
+98 Balffürdő
+99 Sopron
+100 Fertőszéplak-Fertőd
+101 Pamhagen
+102 Győrszabadhegy
+103 Ménfőcsanak felső
+104 Ménfőcsanak
+105 Győrszemere
+106 Halipuszta
+107 Gyömöre-Tét
+108 Gyömöre
+109 Szerecseny
+110 Gecse-Gyarmat
+111 Vaszar
+112 Pápa
+113 Mezőlak
+114 Mihályháza
+115 Vinár
+116 Külsővat
+117 Celldömölk
+118 Zirc
+119 Dudarbánya
+120 Nyúl
+121 Écs
+122 Pannonhalma
+123 Ravazd
+124 Tarjánpuszta
+125 Győrasszonyfa
+126 Bakonypéterd
+127 Veszprémvarsány
+128 Bakonygyirót
+129 Bakonyszentlászló
+130 Vinye
+131 Porva-Csesznek
+132 Eplény
+133 Veszprém
+134 Felsőgalla
+135 Bánhida
+136 Környe
+137 Kecskéd alsó
+138 Oroszlány
+139 Kecskéd
+140 Dad
+141 Szák-Szend
+142 Császár
+143 Ete
+144 Bakonyszombathely
+145 Bakonybánk
+146 Tápszentmiklós
+147 Lázi
+148 Románd
+149 Gic-Hathalom
+150 Bakonytamási
+151 Pápateszér
+152 Franciavágás
+153 Ugod
+154 Nagygyimót
+155 Pusztagyimót
+156 Nemesgörzsöny
+157 Marcaltő
+158 Rábahíd
+159 Szany-Rábaszentandrás
+160 Egyed-Rábacsanak
+161 Rábapordány
+162 Harka
+163 Kópháza
+164 Nagycenk
+165 Pereszteg
+166 Sopronkövesd
+167 Lövő
+168 Nemeskér-Egyházasfalu
+169 Újkér
+170 Tormásliget
+171 Bük
+172 Acsád
+173 Salköveskút-Vassurány
+174 Szombathely
+175 Mosonszolnok
+176 Jánossomorja
+177 Hanság-Nagyerdő
+178 Hanságliget
+179 Bősárkány
+180 Szil-Sopronnémeti
+181 Magyarkeresztúr-Zsebeháza
+182 Páli-Vadosfa
+183 Vica
+184 Beled
+185 Dénesfa
+186 Csánig
+187 Répcelak
+188 Vámoscsalád
+189 Vasegerszeg
+190 Hegyfalu
+191 Pósfa
+192 Ölbő-Alsószeleste
+193 Porpác
+194 Vép
+195 Gyöngyöshermán
+196 Sorkifalud
+197 Szentléránt
+198 Püspökmolnári
+199 Vasvár
+200 Pácsony
+201 Győrvár
+202 Egervár-Vasboldogasszony
+203 Zalaszentlőrinc
+204 Zalaszentiván
+205 Alsónemesapáti
+206 Nagykapornak
+207 Búcsúszentlászló
+208 Zalaszentmihály-Pacsa
+209 Pötréte
+210 Felsőrajk
+211 Kilimán
+212 Gelse
+213 Magyarszerdahely
+214 Újudvar
+215 Nagykanizsa
+216 Kámon
+217 Gencsapáti alsó
+218 Gencsapáti felső
+219 Gyöngyösfalu
+220 Lukácsháza alsó
+221 Lukácsháza
+222 Kőszegfalva
+223 Kőszeg
+224 Sárpentele
+225 Sárszentmihály
+226 Csór-Nádasdladány
+227 Inota
+228 Várpalota
+229 Pétfürdő
+230 Öskü
+231 Hajmáskér-Újtelep
+232 Hajmáskér
+233 Kádárta
+234 Márkó
+235 Herend
+236 Szentgál
+237 Városlőd
+238 Városlőd-Kislőd
+239 Ajka
+240 Ajka-Gyártelep
+241 Kolontár
+242 Devecser
+243 Somlóvásárhely
+244 Tüskevár
+245 Karakószörcsök
+246 Kerta
+247 Boba
+248 Nemeskocs
+249 Kemenesmihályfa
+250 Nagysimonyi
+251 Ostffyasszonyfa
+252 Sárvár
+253 Szombathely-Szőlős
+254 Ják-Balogunyom
+255 Egyházasrádóc
+256 Körmend
+257 Horvátnádalja
+258 Csákánydoroszló
+259 Rátót
+260 Alsórönök
+261 Haris
+262 Szentgotthárd
+263 Nádasd
+264 Zalaháshágy-Szőce
+265 Zalalövő
+266 Rédics
+267 Lenti
+268 Lentiszombathely
+269 Iklódbördőce
+270 Csömödér-Páka
+271 Ortaháza
+272 Gutorfölde
+273 Rádiháza
+274 Tófej
+275 Baktüttös
+276 Bak
+277 Sárhida
+278 Bocfölde
+279 Zalaegerszeg
+280 Zalabér-Batyk
+281 Tüskeszentpéter
+282 Zalaszentgrót
+283 Bajánsenye
+284 Hodoš
+285 Őriszentpéter
+286 Nagyrákos
+287 Pankasz
+288 Felsőjánosfa
+289 Zalapatakalja
+290 Budafa
+291 Zalacséb-Salomvár
+292 Zalaszentgyörgy
+293 Csurgaszi csárda
+294 Bagod
+295 Andráshida
+296 Zalaegerszeg-Ola
+297 Kemendollár
+298 Pókaszepetk
+299 Pakod
+300 Türje
+301 Ötvös
+302 Dabronc
+303 Ukk
+304 Balatonszentgyörgy
+305 Fenékpuszta
+306 Keszthely
+307 Alsógyenes
+308 Gyenesdiás
+309 Vonyarcvashegy
+310 Balatongyörök
+311 Becehegy
+312 Balatonederics
+313 Raposka
+314 Tapolca
+315 Lesencetomaj
+316 Uzsabánya alsó
+317 Uzsa
+318 Sümegi Bazaltbánya
+319 Sümeg
+320 Nyírlak
+321 Zalagyömörő
+322 Gógánfa
+323 Rigács
+324 Nemeskeresztúr
+325 Jánosháza
+326 Kemenespálfa
+327 Lepsény
+328 Balatonfőkajár
+329 Csajág
+330 Csajág felső
+331 Küngös
+332 Berhida
+333 Papkeszi
+334 Vilonya-Királyszentistván
+335 Sóly
+336 Székesfehérvár-Repülőtér
+337 Szabadbattyán
+338 Polgárdi-Ipartelepek
+339 Polgárdi
+340 Füle
+341 Balatonfőkajár felső
+342 Balatonakarattya
+343 Balatonkenese-Üdülőtelep
+344 Balatonkenese
+345 Balatonfűzfő
+346 Balatonalmádi
+347 Káptalanfüred
+348 Alsóörs
+349 Csopak
+350 Balatonarács
+351 Balatonfüred
+352 Aszófő
+353 Örvényes
+354 Balatonudvari
+355 Fövenyes
+356 Balatonakali-Dörgicse
+357 Zánkafürdő
+358 Zánka-Köveskál
+359 Balatonszepezd
+360 Szepezdfürdő
+361 Révfülöp
+362 Balatonrendes
+363 Ábrahámhegy
+364 Badacsonyörs
+365 Badacsonytomaj
+366 Badacsony
+367 Badacsonylábdihegy
+368 Badacsonytördemic-Szigliget
+369 Nemesgulács-Kisapáti
+370 Budafok-Albertfalva
+371 Budafok-Belváros
+372 Nagytétény
+373 Nagytétény-Érdliget
+374 Érd alsó
+375 Tárnok
+376 Martonvásár
+377 Baracska
+378 Pettend
+379 Kápolnásnyék
+380 Velence
+381 Velencefürdő
+382 Gárdony
+383 Agárd
+384 Dinnyés
+385 Kiscséripuszta
+386 Polgárdi-Tekerespuszta
+387 Balatonaliga
+388 Balatonvilágos
+389 Szabadisóstó
+390 Szabadifürdő
+391 Siófok
+392 Balatonszéplak felső
+393 Balatonszéplak alsó
+394 Zamárdi felső
+395 Zamárdi
+396 Szántód-Kőröshegy
+397 Balatonföldvár
+398 Balatonszárszó
+399 Balatonszemes
+400 Balatonlelle felső
+401 Balatonlelle
+402 Balatonboglár
+403 Fonyódliget
+404 Fonyód
+405 Bélatelep
+406 Alsóbélatelep
+407 Balatonfenyves
+408 Balatonfenyves alsó
+409 Balatonmáriafürdő alsó
+410 Balatonmáriafürdő
+411 Balatonberény
+412 Vörs
+413 Sávoly
+414 Zalakomár
+415 Zalaszentjakab
+416 Nagyrécse
+417 Kaposvár
+418 Kaposszentjakab
+419 Toponár
+420 Répáspuszta
+421 Somogyaszaló
+422 Somodor
+423 Mernye
+424 Felsőmocsolád
+425 Kisbárapáti
+426 Bonnya
+427 Andocs
+428 Karád
+429 Somogymeggyes
+430 Kapoly
+431 Tab
+432 Bábonymegyer
+433 Daránypuszta
+434 Som-Nagyberény
+435 Ádánd
+436 Siójut
+437 Sióvölgy
+438 Kapostüskevár
+439 Kaposfüred
+440 Várda
+441 Somogyjád
+442 Osztopán
+443 Pamuk
+444 Somogyvár
+445 Öreglak
+446 Tatárvár
+447 Lengyeltóti
+448 Pusztaberény
+449 Feketebézseny
+450 Somogyszob
+451 Segesd
+452 Felsőbogátpuszta
+453 Böhönye
+454 Mesztegnyő
+455 Marcali
+456 Kéthely
+457 Balatonújlak
+458 Balatonkeresztúr
+459 Nagyatád
+460 Balatonfenyves GV
+461 Központi főmajor
+462 Pálmajor
+463 Somogyszentpál felső
+464 Somogyszentpál
+465 Budafok-Háros
+466 Budatétény
+467 Nagytétény-Diósd
+468 Érdliget
+469 Érd felső
+470 Érd
+471 Százhalombatta
+472 Dunai Finomító
+473 Ercsi
+474 Iváncsa
+475 Pusztaszabolcs
+476 Szabadegyháza
+477 Sárosd
+478 Nagylók
+479 Sárbogárd
+480 Rétszilas
+481 Sáregres
+482 Simontornya
+483 Tolnanémedi
+484 Pincehely
+485 Belecska
+486 Keszőhidegkút-Gyönk
+487 Szárazd
+488 Regöly
+489 Szakály-Hőgyész
+490 Dúzs
+491 Csibrák
+492 Kurd
+493 Döbrököz
+494 Dombóvár
+495 Kaposszekcső
+496 Vásárosdombó
+497 Sásd
+498 Godisa
+499 Szatina-Kishajmás
+500 Abaliget
+501 Hetvehely
+502 Bükkösd
+503 Cserdi-Helesfa
+504 Szentlőrinc
+505 Bicsérd
+506 Mecsekalja-Cserkút
+507 Pécs
+508 Dombóvár alsó
+509 Kapospula
+510 Attala
+511 Csoma-Szabadi
+512 Nagyberki
+513 Baté
+514 Kaposhomok
+515 Taszár
+516 Kaposújlak
+517 Kaposmérő
+518 Kaposfő
+519 Kiskorpád
+520 Jákó-Nagybajom
+521 Kutas
+522 Beleg
+523 Ötvöskónyi
+524 Bolhás
+525 Szenta
+526 Zrínyitelep
+527 Csurgó
+528 Porrogszentkirály
+529 Gyékényes
+530 Adony
+531 Kulcs
+532 Rácalmás
+533 Dunaújváros külső
+534 Dunaújváros
+535 Újvenyim
+536 Mezőfalva
+537 Előszállás
+538 Dunaföldvár
+539 Bölcske
+540 Dunakömlőd
+541 Paks-Dunapart
+542 Paks
+543 Nagykarácsony felső
+544 Nagykarácsony
+545 Alap
+546 Rétszilas alsó
+547 Zichyújfalu
+548 Seregélyes-Szőlőhegy
+549 Seregélyes
+550 Börgönd
+551 Felsőkörtvélyes
+552 Sárszentágota
+553 Sárkeresztúr
+554 Aba-Sárkeresztúr
+555 Bodakajtor-Felsőszentiván
+556 Belsőbáránd
+557 Cece
+558 Vajta
+559 Nagydorog
+560 Kajdacs
+561 Kölesd-Alsótengelic
+562 Tengelic
+563 Szedres
+564 Fácánkert
+565 Tolna-Mözs
+566 Szekszárd-Palánk
+567 Szekszárd
+568 Őcsény
+569 Decs
+570 Sárpilis-Várdomb
+571 Bátaszék
+572 Bodolyabér
+573 Magyarhertelend
+574 Magyarszék
+575 Mecsekpölöske
+576 Mecsekjánosi
+577 Komló
+578 Alsómajsa
+579 Pacsmag
+580 Adorjánpuszta
+581 Tamási
+582 Nagykonda
+583 Dalmand
+584 Kocsola
+585 Nagykónyi
+586 Pári
+587 Fornág-Kecsege
+588 Fürged
+589 Felsőnyék
+590 Mezőhídvég
+591 Pusztaszentmihályfa
+592 Kabókapuszta
+593 Enying
+594 Csikóstőttős
+595 Mágocs-Alsómocsolád
+596 Szalatnak
+597 Kárász-Köblény
+598 Szászvár
+599 Máza-Szászvár
+600 Váralja
+601 Nagymányok
+602 Hidas-Bonyhád
+603 Cikó
+604 Mőcsény
+605 Mórágy
+606 Mórágy-Alsónána
+607 Fityeház
+608 Murakeresztúr
+609 Belezna
+610 Őrtilos
+611 Zákány
+612 Berzence
+613 Somogyudvarhely
+614 Bélavár
+615 Vízvár
+616 Babócsa
+617 Péterhida-Komlósd
+618 Barcs
+619 Barcs felső
+620 Középrigóc
+621 Darány
+622 Kisdobsza
+623 Nemeske
+624 Molvány
+625 Szigetvár
+626 Nagypeterd
+627 Szentdénes
+628 Sellye
+629 Kákics
+630 Okorág-Kárászpuszta
+631 Sumony
+632 Gyöngyfa-Magyarmecske
+633 Királyegyháza-Rigópuszta
+634 Drávatamási
+635 Kastélyosdombó
+636 Zádor
+637 Szörény
+638 Kétújfalu
+639 Teklafalu
+640 Vitézipuszta
+641 Drávafok
+642 Bogdása
+643 Csányoszró
+644 Nagycsány
+645 Vajszló
+646 Sámod
+647 Kémes
+648 Drávacsepely
+649 Kovácshida
+650 Harkány
+651 Máriagyűd
+652 Siklósi szőlők
+653 Siklós
+654 Nagyharsány
+655 Beremendi Cementmű
+656 Villány
+657 Pécs-Külváros
+658 Pécs-Gyárváros
+659 Pécsújhegy
+660 Pécs felső
+661 Pécs-Vasas
+662 Vasas-Hird
+663 Hosszúhetény
+664 Dombay-tó
+665 Pécsvárad
+666 Nagypall
+667 Erdősmecske
+668 Feked
+669 Szebény
+670 Véménd
+671 Palotabozsok
+672 Báta
+673 Pécsbánya-Rendező
+674 Pécsudvard
+675 Szőkéd
+676 Áta
+677 Kistótfalu
+678 Vokány
+679 Palkonya
+680 Villánykövesd
+681 Márok
+682 Bóly
+683 Nagynyárád
+684 Középmező
+685 Mohács
+686 Magyarbóly
+687 Istvántelek
+688 Rákospalota-Újpest
+689 Dunakeszi alsó
+690 Dunakeszi
+691 Dunakeszi-Gyártelep
+692 Alsógöd
+693 Göd
+694 Felsőgöd
+695 Sződ-Sződliget
+696 Vác-Alsóváros
+697 Vác
+698 Verőce
+699 Kismaros
+700 Nagymaros-Visegrád
+701 Nagymaros
+702 Dömösi átkelés
+703 Zebegény
+704 Szob alsó
+705 Szob
+706 Rákospalota-Kertváros
+707 Alagi major
+708 Fót
+709 Fótújfalu
+710 Fótfürdő
+711 Csomád
+712 Ivacs
+713 Veresegyház
+714 Erdőkertes
+715 Vicziántelep
+716 Őrbottyán
+717 Rudnaykert
+718 Váchartyán
+719 Vácrátót
+720 Csörög
+721 Máriaudvar
+722 Kisvác
+723 Fenyveshegy
+724 Magyarkút-Verőce
+725 Magyarkút
+726 Szokolya
+727 Berkenye
+728 Nógrád
+729 Diósjenő
+730 Borsosberény
+731 Nagyoroszi
+732 Drégelyvár
+733 Drégely
+734 Drégelypalánk
+735 Ipolyvece
+736 Dejtár
+737 Ipolyszög
+738 Balassagyarmat
+739 Tolmács
+740 Rétság
+741 Bánk
+742 Romhány
+743 Aszód
+744 Iklad-Domony
+745 Iklad-Domony felső
+746 Galgamácsa
+747 Váckisújfalu
+748 Kisnémedi
+749 Galgagyörk
+750 Püspökhatvan
+751 Acsa-Erdőkürt
+752 Galgaguta
+753 Nógrádkövesd
+754 Becske alsó
+755 Magyarnándor
+756 Mohora
+757 Szügy
+758 Őrhalom
+759 Hugyag
+760 Szécsény
+761 Ludányhalászi
+762 Nógrádszakál
+763 Ráróspuszta
+764 Litke
+765 Ipolytarnóc
+766 Budapest-Keleti pu.
+767 Kőbánya felső
+768 Rákos
+769 Rákosliget
+770 Rákoscsaba-Újtelep
+771 Rákoscsaba
+772 Pécel
+773 Isaszeg
+774 Gödöllő Állami telepek
+775 Gödöllő
+776 Máriabesnyő
+777 Bag
+778 Hévízgyörk
+779 Galgahévíz
+780 Tura
+781 Hatvan
+782 Hort-Csány
+783 Vámosgyörk
+784 Adács
+785 Karácsond
+786 Ludas
+787 Nagyút
+788 Kál-Kápolna
+789 Füzesabony
+790 Szihalom
+791 Mezőkövesd
+792 Mezőkövesd felső
+793 Mezőkeresztes-Mezőnyárád
+794 Csincse
+795 Emőd
+796 Nyékládháza
+797 Kistokaj
+798 Miskolc Tiszai pu.
+799 Felsőzsolca
+800 Hernádnémeti-Bőcs
+801 Tiszalúc
+802 Taktaharkány
+803 Taktaszada
+804 Szerencs
+805 Mezőzombor
+806 Bodrogkeresztúr
+807 Szegi
+808 Erdőbénye
+809 Olaszliszka-Tolcsva
+810 Bodrogolaszi
+811 Sárospatak
+812 Sátoraljaújhely
+813 Mátravidéki Erőmű
+814 Lőrinci
+815 Selyp
+816 Apc-Zagyvaszántó
+817 Jobbágyi
+818 Szurdokpüspöki
+819 Pásztó
+820 Mátraszőlős-Hasznos
+821 Tar
+822 Mátraverebély
+823 Nagybátony
+824 Kisterenye
+825 Kisterenye-Bányatelep
+826 Vizslás
+827 Zagyvapálfalva
+828 Salgótarján külső
+829 Salgótarján
+830 Somoskőújfalu
+831 Jászfényszaru
+832 Pusztamonostor
+833 Jászberény
+834 Meggyespele
+835 Portelek
+836 Jászboldogháza-Jánoshida
+837 Újszász
+838 Zagyvarékas
+839 Abonyi út
+840 Szolnok
+841 Nemti
+842 Mátramindszent
+843 Mátraballa
+844 Mátraderecske
+845 Recsk-Parádfürdő
+846 Sirok
+847 Kőkútpuszta
+848 Tarnaszentmária
+849 Verpelét
+850 Feldebrő
+851 Aldebrő
+852 Tófalu
+853 Kápolna
+854 Gyöngyöshalász
+855 Kitérőgyár
+856 Gyöngyös
+857 Jászárokszállás
+858 Jászdózsa
+859 Jászapáti
+860 Jászkisér
+861 Jászkisér felső
+862 Szellőhát
+863 Jászladány
+864 Szászberek
+865 Maklár
+866 Andornaktálya
+867 Eger
+868 Egervár
+869 Eger-Felnémet
+870 Almár
+871 Szarvaskő
+872 Mónosbél
+873 Bélapátfalva
+874 Bélapátfalvi Cementgyár
+875 Szilvásvárad-Szalajkavölgy
+876 Szilvásvárad
+877 Nagyvisnyó-Dédes
+878 Nekézseny
+879 Csokvaomány
+880 Sáta
+881 Kiskapud
+882 Királd
+883 Putnok
+884 Mezőcsát
+885 Igrici
+886 Hejőbába-Hejőpapi
+887 Hejőszalonta
+888 Hejőkeresztúr
+889 Tiszapalkonya-Erőmű
+890 Tiszaújváros
+891 Sajószöged
+892 Nagycsécs
+893 Onga
+894 Ongaújfalu
+895 Szikszó-Vásártér
+896 Szikszó
+897 Aszaló
+898 Halmaj
+899 Csobád
+900 Ináncs
+901 Forró-Encs
+902 Méra
+903 Novajidrány
+904 Hernádszurdok
+905 Hidasnémeti
+906 Miskolc-Gömöri
+907 Szirmabesenyő
+908 Sajókeresztúr
+909 Sajóecseg
+910 Sajószentpéter-Piactér
+911 Sajószentpéter
+912 Berente
+913 Kazincbarcika alsó
+914 Kazincbarcika
+915 Sajókaza
+916 Vadna
+917 Dubicsány
+918 Pogonyipuszta
+919 Bánréve
+920 Bánrévei Vízmű
+921 Sajónémeti
+922 Center alsó
+923 Center
+924 Ózd alsó
+925 Ózd
+926 Alsóboldva
+927 Boldva
+928 Ziliz
+929 Borsodszirák
+930 Edelény alsó
+931 Edelény
+932 Szendrőlád
+933 Büdöskútpuszta
+934 Szendrő
+935 Szendrő felső
+936 Szalonna
+937 Perkupa
+938 Jósvafő-Aggtelek
+939 Bódvaszilas
+940 Komjáti
+941 Tornanádaska
+942 Szuhakálló-Múcsony
+943 Izsófalva
+944 Ormosbánya
+945 Rudabánya
+946 Mád
+947 Rátka
+948 Tállya
+949 Golop
+950 Abaújszántói fürdő
+951 Abaújszántó
+952 Abaújkér
+953 Boldogkőváralja
+954 Korlát-Vizsoly
+955 Fony
+956 Hejce-Vilmány
+957 Göncruszka
+958 Gönc
+959 Zsujta
+960 Nyíregyháza
+961 Tarcal
+962 Tokaj
+963 Rakamaz
+964 Virányos
+965 Görögszállás
+966 Nyírtelek
+967 Füzesbokor
+968 Sóstó
+969 Sóstóhegy
+970 Kemecse
+971 Nyírbogdány
+972 Kék
+973 Demecser
+974 Gégény
+975 Pátroha
+976 Ajak
+977 Kisvárda
+978 Kisvárda-Hármasút
+979 Fényeslitke
+980 Komoró
+981 Tuzsér
+982 Tiszabezdéd
+983 Budapest-Zugló
+984 Kőbánya alsó
+985 Kőbánya-Kispest
+986 Pestszentlőrinc
+987 Szemeretelep
+988 Vecsés
+989 Vecsés-Kertekalja
+990 Üllő
+991 Hosszúberek-Péteri
+992 Monor
+993 Monorierdő
+994 Pilis
+995 Albertirsa
+996 Ceglédbercel
+997 Ceglédbercel-Cserő
+998 Budai út
+999 Cegléd
+1000 Abony
+1001 Szajol
+1002 Törökszentmiklós
+1003 Barta
+1004 Pusztaszakállas
+1005 Fegyvernek-Örményes
+1006 Kisújszállás
+1007 Karcag
+1008 Püspökladány
+1009 Kaba
+1010 Hajdúszoboszló
+1011 Ebes
+1012 Debrecen
+1013 Debrecen-Csapókert
+1014 Apafa
+1015 Bocskaikert
+1016 Hajdúhadház
+1017 Téglás
+1018 Újfehértó
+1019 Császárszállás
+1020 Báránd
+1021 Sáp
+1022 Berettyóújfalu
+1023 Mezőpeterd
+1024 Biharkeresztes
+1025 Erdőtelek
+1026 Heves
+1027 Hevesvezekény
+1028 Tarnaszentmiklós
+1029 Rákhát
+1030 Kisköre
+1031 Kisköre-Tiszahíd
+1032 Abádszalók
+1033 Kisgyócs
+1034 Kunhegyes
+1035 Előhát
+1036 Bánhalma Halastó
+1037 Kenderes
+1038 Karcag-Vásártér
+1039 Karcag Ipartelep
+1040 Berekfürdő
+1041 Kunmadaras
+1042 Pusztakettős
+1043 Tiszaszentimre
+1044 Tiszaszőlős
+1045 Tiszafüred-Gyártelep
+1046 Tiszafüred
+1047 Debrecen-Szabadságtelep.
+1048 Debrecen-Kondoros
+1049 Nagycsere
+1050 Haláp
+1051 Vámospércs
+1052 Szentannapuszta
+1053 Nyírábrány
+1054 Szepeshalom
+1055 Mikepércs
+1056 Sáránd
+1057 Derecske
+1058 Derecske-Vásártér
+1059 Konyár
+1060 Konyári Sóstófürdő
+1061 Pocsaj-Esztár
+1062 Kismarja
+1063 Nagykereki
+1064 Hajdúbagos
+1065 Hosszúpályi
+1066 Monostorpályi
+1067 Létavértes
+1068 Tócóvölgy
+1069 Látókép
+1070 Macs
+1071 Tófürdő
+1072 Nagyhát
+1073 Balmazújváros
+1074 Kónya
+1075 Hortobágy
+1076 Hortobágyi Halastó
+1077 Gyökérkút
+1078 Ohat-Pusztakócs
+1079 Egyek
+1080 Poroszló
+1081 Kétútköz
+1082 Egerfarmos
+1083 Mezőtárkány
+1084 Józsa
+1085 Hajdúszentgyörgy
+1086 Zelemér
+1087 Hajdúböszörmény
+1088 Hajdúvid
+1089 Hajdúdorog
+1090 Hajdúnánás
+1091 Hajdúnánás-Vásártér
+1092 Tedej
+1093 Tiszavasvári
+1094 Egyházerdő
+1095 Szorgalmatos
+1096 Tiszalök
+1097 Dombostanya
+1098 Hajdúsámson
+1099 Tamásipuszta
+1100 Tisztavíz
+1101 Aradványpuszta
+1102 Nyíradony
+1103 Nyírmihálydi
+1104 Nyírgelse
+1105 Nyírbogát
+1106 Nyírbátor
+1107 Nyírcsászári
+1108 Hodász
+1109 Nyírmeggyes
+1110 Mátészalka
+1111 Ópályi
+1112 Nagydobos
+1113 Vitka
+1114 Vásárosnamény
+1115 Kisvarsány
+1116 Gyüre
+1117 Aranyosapáti
+1118 Újkenéz
+1119 Tornyospálca
+1120 Mándok
+1121 Eperjeske alsó
+1122 Záhony
+1123 Nagykálló
+1124 Biri
+1125 Görénypuszta
+1126 Balkány
+1127 Cibak
+1128 Abapuszta
+1129 Kállósemjén
+1130 Máriapócs
+1131 Kocsord
+1132 Kocsord alsó
+1133 Tunyogmatolcs
+1134 Tunyogmatolcs alsó
+1135 Fehérgyarmat
+1136 Penyige
+1137 Nagyszekeres
+1138 Kisszekeres
+1139 Jánkmajtis
+1140 Gacsály
+1141 Rozsály
+1142 Zajta
+1143 Győrtelek
+1144 Győrtelek alsó
+1145 Ököritófülpös
+1146 Porcsalma-Tyukod
+1147 Csenger
+1148 Nyírcsaholy
+1149 Nagyecsed
+1150 Tiborszállás
+1151 Nyíregyháza külső
+1152 Oros
+1153 Napkor
+1154 Apagy
+1155 Levelek-Magy
+1156 Ófehértó
+1157 Ligettanya
+1158 Baktalórántháza
+1159 Vaja-Rohod
+1160 Rákóczitanya
+1161 Nyírmada
+1162 Vásárosnamény külső
+1163 Nagymajor
+1164 Tiszacsege
+1165 Kismargita
+1166 Újszentmargita
+1167 Folyás
+1168 Polgár
+1169 Újtikos
+1170 Reje
+1171 Tiszadob
+1172 Tiszadada
+1173 Tiszalöki Vízművek
+1174 Hajnalos
+1175 Kisfástanya
+1176 Tiszaeszlár
+1177 Bashalom
+1178 Nyíregyháza NyK.
+1179 Nyíregyháza-Vásártér
+1180 Sóstógyógyfürdő
+1181 Nyírszőlős
+1182 Fakapu
+1183 Kótaj
+1184 Újkótaj
+1185 Nagytanya
+1186 Buj
+1187 Buj község
+1188 Herminatanya
+1189 Gilányi
+1190 Paszab
+1191 Tiszabercel
+1192 Tiszabercel-Vásártér
+1193 Gávavencsellő felső
+1194 Gávavencsellő
+1195 Gávavencsellő alsó
+1196 Balsa
+1197 Balsai Tisza-part
+1198 Ibrányi temető
+1199 Ibrány
+1200 Nagyhalászi Kendergyár
+1201 Nagyhalász
+1202 Neszehíd
+1203 Érhát
+1204 Kétérköz
+1205 Tiszatelek
+1206 Újdombrád
+1207 Dombrád
+1208 Rákoshegy
+1209 Rákoskert
+1210 Ecser
+1211 Maglód
+1212 Maglódi nyaraló
+1213 Gyömrő
+1214 Mende
+1215 Pusztaszentistván
+1216 Sülysáp
+1217 Szőlőstelep
+1218 Tápiószecső
+1219 Szentmártonkáta
+1220 Nagykáta
+1221 Tápiószentmárton
+1222 Farmos
+1223 Tápiószele
+1224 Tápiógyörgye
+1225 Tiszatenyő
+1226 Pusztapó
+1227 Kétpó
+1228 Csugar
+1229 Mezőtúr
+1230 Nagylapos
+1231 Gyoma
+1232 Csárdaszállás
+1233 Mezőberény
+1234 Murony
+1235 Békéscsaba
+1236 Szabadkígyós
+1237 Kétegyháza
+1238 Lőkösháza
+1239 Bánkút
+1240 Medgyesegyháza
+1241 Magyarbánhegyes
+1242 Mezőkovácsháza felső
+1243 Mezőkovácsháza
+1244 Végegyháza
+1245 Végegyháza alsó
+1246 Belsőkamaráspuszta
+1247 Mezőhegyes
+1248 Csanádpalota
+1249 Nagylaki Kendergyár
+1250 Nagylak
+1251 Magyarcsanád
+1252 Apátfalva
+1253 Makó
+1254 Kiszombor megálló
+1255 Kiszombor
+1256 Deszk
+1257 Szőreg
+1258 Újszeged
+1259 Belsőperegpuszta
+1260 Tompapuszta
+1261 Battonya
+1262 Pusztabánréve
+1263 Halászlak
+1264 Szarvas
+1265 Sirató
+1266 Csabacsűd felső
+1267 Csabacsűd
+1268 Nagyrét
+1269 Kisszénás
+1270 Kiscsákó
+1271 Nagyszénás
+1272 Pusztaszenttornya
+1273 Orosháza alsó
+1274 Orosháza-Üveggyár
+1275 Orosháza
+1276 Orosháza felső
+1277 Bogárzó
+1278 Kardoskút
+1279 Tótkomlós
+1280 Nagyér
+1281 Ambrózfalva
+1282 Pitvaros
+1283 Kondoros
+1284 Körösnagyharsány
+1285 Körösszakál
+1286 Komádi
+1287 Körösújfalu
+1288 Kótpuszta
+1289 Vésztő
+1290 Szeghalom
+1291 Körösladány
+1292 Kéthalom
+1293 Dévaványa
+1294 Kősziget
+1295 Fényes
+1296 Bicere
+1297 Gyula
+1298 József Szanatórium
+1299 Sarkadi Cukorgyár
+1300 Sarkad
+1301 Kötegyán
+1302 Méhkerék
+1303 Sarkadkeresztúr
+1304 Okány
+1305 Füzesgyarmatfürdő
+1306 Füzesgyarmat
+1307 Biharnagybajom
+1308 Sárrétudvari
+1309 Szerep
+1310 Hosszúhát
+1311 Ürmöshát
+1312 Püspökladány-Vásártér
+1313 Békés
+1314 Kengyel
+1315 Bagimajor
+1316 Martfű
+1317 Tiszaföldvár
+1318 Homok
+1319 Kungyalu
+1320 Kunszentmárton
+1321 Kunszentmárton-Érpart
+1322 Nagytőke
+1323 Kistőke
+1324 Hékéd
+1325 Szentes
+1326 Berekhát
+1327 Szegvár
+1328 Kórógyszentgyörgy
+1329 Mindszent
+1330 Mártély
+1331 Hódmezővásárhelyi Népkert
+1332 Hódmezővásárhely
+1333 Hódmezővásárhely-Ipartelepek
+1334 Gorzsa
+1335 Szikáncs
+1336 Földeák
+1337 Makó-Újváros
+1338 Makó-Újvásártér
+1339 Szeged
+1340 Szeged-Rókus
+1341 Algyő
+1342 Kopáncs
+1343 Kútvölgy
+1344 Székkutas
+1345 Kakasszék
+1346 Orosházi tanyák
+1347 Csorvás
+1348 Csorvás alsó
+1349 Telekgerendás
+1350 Fürjes
+1351 Röszke
+1352 Ceglédi szállások
+1353 Nyársapát
+1354 Nagykőrös
+1355 Katonatelep
+1356 Kecskemét
+1357 Városföld
+1358 Kunszállás
+1359 Kiskunfélegyháza
+1360 Selymes
+1361 Petőfiszállás
+1362 Petőfiszállási tanyák
+1363 Csengele
+1364 Kisteleki szőlők
+1365 Kistelek
+1366 Kapitányság
+1367 Balástya
+1368 Őszeszék
+1369 Vilmaszállás
+1370 Szatymaz
+1371 Jánosszállás
+1372 Kiskundorozsma
+1373 Kispest
+1374 Pestszentimre felső
+1375 Pestszentimre
+1376 Gyál felső
+1377 Gyál
+1378 Felsőpakony
+1379 Ócsa
+1380 Ócsai szőlők
+1381 Inárcs-Kakucs
+1382 Dabas
+1383 Gyón
+1384 Hernád
+1385 Örkény
+1386 Táborfalva
+1387 Felsőlajos
+1388 Lajosmizse
+1389 Lajosmizse alsó
+1390 Klábertelep
+1391 Felsőméntelek
+1392 Méntelek
+1393 Alsóméntelek
+1394 Nagynyír
+1395 Hetényegyháza
+1396 Úrihegy
+1397 Miklóstelep
+1398 Kecskemét-Máriaváros
+1399 Kecskemét alsó
+1400 Piroska
+1401 Tószeg
+1402 Tiszavárkony
+1403 Tiszajenő-Vezseny
+1404 Tiszajenő alsó
+1405 Óbög
+1406 Újbög
+1407 Tiszakécske
+1408 Kerekdomb
+1409 Lakitelek
+1410 Árpádszállás
+1411 Tőserdő
+1412 Tiszaalpár felső
+1413 Tiszaalpár
+1414 Tiszaalpár alsó
+1415 Borsihalom
+1416 Kismindszenti út
+1417 Petőfiváros
+1418 Alsóúrrét
+1419 Kisfái
+1420 Nyárlőrinci szőlők
+1421 Nyárlőrinc
+1422 Nyárlőrinc alsó
+1423 Nyárjas
+1424 Világoshegy
+1425 Szikra
+1426 Tiszaug-Tiszahídfő
+1427 Tiszaug
+1428 Tiszasas
+1429 Csépa
+1430 Szelevény
+1431 Városi park
+1432 Csongrádi úti tanyák
+1433 Gátér
+1434 Kettőshalom
+1435 Kónyaszék
+1436 Csongrád alsó
+1437 Csongrád
+1438 Donát
+1439 Pusztatemplom
+1440 Fábiánsebestyén
+1441 Újváros
+1442 Gádoros
+1443 Justhmajor
+1444 Szentetornya
+1445 Gyopárosfürdő
+1446 Kecskemét KK
+1447 Törökfái felső
+1448 Fehértó felső
+1449 Törökfái
+1450 Kiskőrösi út
+1451 Magyarsor
+1452 Görbemajor
+1453 Ludastó
+1454 Köncsögpuszta
+1455 Határcsárda
+1456 Tóth tanya
+1457 Orgovány
+1458 Kápolnadűlő
+1459 Lőtér
+1460 Dértanya
+1461 Kispáhi
+1462 Páhi
+1463 Kaskantyúi tanyák
+1464 Kaskantyú
+1465 Kisbócsa
+1466 Felsőcebe
+1467 Kúti tanya
+1468 Kiskőrös KK
+1469 Matkó felső
+1470 Matkó alsó
+1471 Jakabszállás felső
+1472 Jakabszállás
+1473 Kocsistanya
+1474 Jakabszállási tanyák
+1475 Bugacpuszta
+1476 Bugac
+1477 Bugac felső
+1478 Móricgát
+1479 Hittanya
+1480 Nagybugac
+1481 Szanki tanyák
+1482 Soltvadkerti út
+1483 Szank
+1484 Kiskunmajsa KK
+1485 Budapest-Józsefváros
+1486 Budapest-Ferencváros
+1487 Budapest-Soroksári út
+1488 Pesterzsébet
+1489 Soroksár
+1490 Dunaharaszti
+1491 Dunaharaszti alsó
+1492 Taksony
+1493 Dunavarsány
+1494 Délegyháza
+1495 Kiskunlacháza
+1496 Dömsöd
+1497 Kunszentmiklós-Tass
+1498 Bösztör
+1499 Szabadszállás
+1500 Fülöpszállás
+1501 Soltszentimre
+1502 Csengőd
+1503 Tabdi
+1504 Kiskőrös
+1505 Feketehalom
+1506 Soltvadkert
+1507 Pirtói szőlők
+1508 Pirtó
+1509 Kiskunhalas
+1510 Balotaszállás
+1511 Kisszállás
+1512 Tompa
+1513 Kelebia
+1514 Szalkszentmárton
+1515 Dunavecse
+1516 Apostag
+1517 Solt
+1518 Állampuszta
+1519 Harta
+1520 Dunapataj
+1521 Uzovicstelep
+1522 Izsák
+1523 Agárdytelep
+1524 Ágasegyházi tanyák
+1525 Ágasegyháza
+1526 Köncsög
+1527 Ballószög
+1528 Helvécia
+1529 Kecel
+1530 Kecel-Szilos
+1531 Öregcsertő
+1532 Szakmár
+1533 Kalocsa
+1534 Alsónyék
+1535 Pörböly
+1536 Baja-Dunafürdő
+1537 Baja
+1538 Bajai szőlők
+1539 Mátéházapuszta
+1540 Bácsbokod-Bácsborsód
+1541 Almás
+1542 Bácsalmás
+1543 Mélykút
+1544 Jánoshalma
+1545 Erdőszél
+1546 Kunfehértó
+1547 Harkakötöny
+1548 Tajó
+1549 Kiskunmajsa
+1550 Jászszentlászló
+1551 Galambos
+1552 Kővágóér
+1553 Batthyány tér
+1554 Margit híd
+1555 Szépvölgyi út
+1556 Tímár utca
+1557 Árpád híd
+1558 Filatorigát
+1559 Kaszásdűlő
+1560 Aquincum
+1561 Rómaifürdő
+1562 Csillaghegy
+1563 Békásmegyer
+1564 Budakalász
+1565 Budakalász, lenfonó
+1566 Szent István-telep
+1567 Pomáz
+1568 Pannóniatelep
+1569 Szentendre
+1570 Boráros tér
+1571 Lágymányosi-híd
+1572 Szabad-kikötő
+1573 Szent Imre tér
+1574 Karácsony S. u.
+1575 Csepel
+1576 Vágóhíd
+1577 Beöthy utca
+1578 Kén utca
+1579 Timót utca
+1580 Pesterzsébet felső
+1581 Torontál utca
+1582 Soroksár felső
+1583 Soroksár, Hősök tere
+1584 Szent István utca
+1585 Millennium telep
+1586 Dunaharaszti felső
+1587 Dunaharaszti külső
+1588 Szigetszentmiklós
+1589 József Attila-telep
+1590 Szigetszentmiklós alsó
+1591 Szigetszentmiklós-Gyártelep
+1592 Szigethalom
+1593 Szigethalom alsó
+1594 Tököl
+1595 Szigetmajor
+1596 Szigetcsép
+1597 Egyetemi Tangazdaság
+1598 Szigetszentmárton-Szigetújfalu
+1599 Horgásztanyák
+1600 Angyalisziget
+1601 Ráckeve
+1602 Cinkota
+1603 Cinkota alsó
+1604 Árpádföld
+1605 Szabadságtelep
+1606 Csömör
+1607 Örs vezér tere
+1608 Rákosfalva
+1609 Nagyicce
+1610 Sashalom
+1611 Mátyásföld, Imre utca
+1612 Mátyásföld, Repülőtér
+1613 Mátyásföld alsó
+1614 Ilonatelep
+1615 Kistarcsa Kórház
+1616 Kistarcsa
+1617 Zsófialiget
+1618 Kerepes
+1619 Szilasliget
+1620 Mogyoród
+1621 Tölgyes
+1622 Gödöllő Erzsébetpark
+1623 Gödöllő Szabadság tér
+1624 Gödöllő Palotakert
+1625 Lenti ÁÉV
+1626 Lenti-Gyöngyvirág u.
+1627 Lentiszornbathely-Mumor
+1628 Zajda-Doboskert
+1629 Csömödéri-tó
+1630 Iklódbördőcei temető
+1631 Csömödér
+1632 Páka
+1633 Dömefölde
+1634 Kányavár
+1635 Törösznek
+1636 Kárnaházi erdészlak
+1637 Bánokszentgyörgyi elágazás
+1638 Bázakerettye alsó
+1639 Bázakerettye felső
+1640 Kistolmács
+1641 Baláta ló
+1642 Kaszó
+1643 Lukafai elágazás
+1644 Lukafa
+1645 Almamellék
+1646 Szentrnártonpuszta
+1647 Sasrét erdei iskola
+1648 Sasrét
+1649 Gernenc-Dunapart
+1650 Gernenci delta
+1651 Lassi
+1652 Malorntelelő
+1653 Gyöngyösoldal
+1654 Keselyűs
+1655 Bárányfok
+1656 Gyóta-Busvár
+1657 Mélyéger
+1658 Felsőkak
+1659 Morgó
+1660 Börzsönyliget
+1661 Hártókút
+1662 Szokolya-Mányoki
+1663 Szokolya felső
+1664 Paphegy
+1665 Királyrét alsó
+1666 Királyrét
+1667 Nagyirtás-Szt. Orbán Fogadó
+1668 Kisirtás-csúcsfordító
+1669 Nagybörzsöny
+1670 Kemence
+1671 Csarnapuszta
+1672 Godóvár
+1673 Kőrózsa
+1674 Pilyur rétje
+1675 Felsőtárkány-Fűtőház
+1676 Egere s völgy-Varróház
+1677 Stirneczház
+1678 Szalajkavölgy-Lovaspálya
+1679 Szalajka-Fatelep
+1680 Szalajka-Halastó
+1681 Szalajka-Fátyolvízesés
+1682 Gyöngyös felső
+1683 Jánoska
+1684 Toppancshíd
+1685 Zemanek
+1686 Gyongyössolymos
+1687 Cserkö
+1688 Örlörnü
+1689 Lajosháza
+1690 Nyúlmály-Kertészeti Tanszék
+1691 Farkasmály-Borpincék
+1692 Pipishegy
+1693 Mátrafüred alsó
+1694 Mátrafüred
+1695 Miskolc-Dorottya utca
+1696 Diósgyőr
+1697 Diósgyőr-Városközpont
+1698 Majláth
+1699 Papírgyár
+1700 Puskaporos
+1701 Lillafüred
+1702 Újrnassa-Őskohó
+1703 Középgaradna
+1704 Garadna
+1705 Chinoin
+1706 Csanyik-Erdészlak
+1707 Ortástető
+1708 Andókút
+1709 Mahóca
+1710 Pálháza
+1711 Pálháza-lpartelep
+1712 Kishuta
+1713 Kernencepatak
+1714 Kőkapu
+1715 Rostalló
+1716 Debrecen-Fetelep
+1717 Fancsika
+1718 Csereerdő
+1719 Erdészlak
+1720 Marlinka
+1721 Sámsoni út
+1722 Haláperdő
+1723 Hármashegyalja
+1724 Mexikói út
+1725 Széchenyi Fürdő
+1726 Hősök Tere
+1727 Bajza utca
+1728 Kodály Körönd
+1729 Vörösmarty utca
+1730 Oktogon
+1731 Opera
+1732 Bajcsy-Zsilinszky út
+1733 Deák Ferenc tér
+1734 Vörösmarty tér
+1735 Pillangó utca
+1736 Stadionok
+1737 Keleti Pályaudvar
+1738 Blaha Lujza tér
+1739 Astoria
+1740 Kossuth Lajos tér
+1741 Moszkva tér
+1742 Déli Pályaudvar
+1743 Kőbánya - Kispest
+1744 Határ út
+1745 Pöttyös utca
+1746 Ecseri út
+1747 Népliget
+1748 Nagyvárad tér
+1749 Klinikák
+1750 Ferenc Körút
+1751 Kálvin tér
+1752 Ferenciek Tere
+1753 Arany János utca
+1754 Nyugati Pályaudvar
+1755 Lehel tér
+1756 Dózsa György út
+1757 Forgách utca
+1758 Gyöngyösi utca
+1759 Újpest - Városkapu
+1760 Újpest - Központ

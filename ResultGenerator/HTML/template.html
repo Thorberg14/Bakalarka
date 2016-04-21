@@ -1,0 +1,87 @@
+<HTML>
+<HEAD> 
+<TITLE> [TITLE] - [COUNTRY]</TITLE> 
+<LINK rel="stylesheet" type="text/css" href="default.css">
+<LINK rel="stylesheet" type="text/css" href="tooltip.css">
+</HEAD>
+<BODY>
+<center>
+<h1> [TITLE] of [COUNTRY] </h1>
+
+<p>
+This page shows properties of a network, which represents rail routes of [COUNTRY].
+</p>
+<p>
+<b>Data Source: </b> [DATA_SOURCE] 
+</p> 
+</center>
+<hr/>
+
+<h3>Basic info:</h3>
+<ul style="list-style-type:none">
+	<li> <b>Number of nodes: </b> [NODES_COUNT] </li>
+	<li> <b>Number of edges: </b> [EDGES_COUNT] </li>
+</ul>
+
+<table>
+	<td>
+		<h3>Node degree: </h3>
+		In this network, node degree means the number of adjacent nodes, where node is a station.  
+		<ul style="list-style-type:none">
+			<li> <b>Min: </b> [MIN_NODE_DEG] </li>
+			<li> <b>Max: </b> [MAX_NODE_DEG] </li>
+			<li> <b>Avg: </b> [AVG_NODE_DEG] </li>
+		</ul>
+	</td>
+	<td>
+		<a href="[DEG_DIST]">
+			<img src="[DEG_DIST]" hspace="50" height="200px" width="300px" border="1px"/>
+		</a>
+	</td>
+</table>
+
+<h3>Advanced: </h3>
+<ul style="list-style-type:none">
+	<li>
+		<b data-tooltip="Shortest distance between the graph center and furthest node - Minimal eccentricity">Radius: </b> [RADIUS] ( [RADIUS_WEIGHT] ) 
+	</li>
+	<li>  
+		<b data-tooltip="Shortest distance between the two furthest nodes (stations) - Maximmal eccentricity">Diameter: </b> [DIAMETER] ( [DIAMETER_WEIGHT] )
+	</li>
+	<li> 
+		<b>Max. K-core value: </b> [MAX_K_CORE] 
+	</li>
+</ul>
+
+<h3>Centralities: </h3>
+<table>
+<tr>
+	<td>
+		<a href="[BETWEEN_CENTRALITY_DIST]" data-tooltip="Between centrality distribution">
+			<img src="[BETWEEN_CENTRALITY_DIST]" hspace="50" height="200px" width="300px" border="1px"/>
+		</a>
+	</td>
+	<td>
+		<a href="[CLOSE_CENTRALITY_DIST]" data-tooltip="Closeness centrality distribution">
+			<img src="[CLOSE_CENTRALITY_DIST]" hspace="50" height="200px" width="300px" border="1px"/>
+		</a>
+	<td>
+</tr>
+<tr>
+	<td>
+		<a href="[RAD_CENTRALITY_DIST]" data-tooltip="Radiality centrality distribution">
+			<img src="[RAD_CENTRALITY_DIST]" hspace="50" height="200px" width="300px" border="1px"/>
+		</a>
+	</td>
+	<td>
+		<a href="[ECC_CENTRALITY_DIST]" data-tooltip="Eccentricity centrality distribution">
+			<img src="[ECC_CENTRALITY_DIST]" hspace="50" height="200px" width="300px" border="1px"/>
+		</a>
+	</td>
+</tr>
+</table>
+
+
+</BODY>
+
+</HTML>

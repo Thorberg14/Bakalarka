@@ -1,0 +1,9 @@
+C:\skola\Bakalarka\Kod\Bakalarka\ResultGenerator\Graphs\ZelPage_AUT
+C:\skola\Bakalarka\Kod\Bakalarka\ResultGenerator\Graphs\ZelPage_BGR
+C:\skola\Bakalarka\Kod\Bakalarka\ResultGenerator\Graphs\ZelPage_CZE
+C:\skola\Bakalarka\Kod\Bakalarka\ResultGenerator\Graphs\ZelPage_DEU
+C:\skola\Bakalarka\Kod\Bakalarka\ResultGenerator\Graphs\ZelPage_HUN
+C:\skola\Bakalarka\Kod\Bakalarka\ResultGenerator\Graphs\ZelPage_CHE
+C:\skola\Bakalarka\Kod\Bakalarka\ResultGenerator\Graphs\ZelPage_POL
+C:\skola\Bakalarka\Kod\Bakalarka\ResultGenerator\Graphs\ZelPage_ROM
+C:\skola\Bakalarka\Kod\Bakalarka\ResultGenerator\Graphs\ZelPage_SVK

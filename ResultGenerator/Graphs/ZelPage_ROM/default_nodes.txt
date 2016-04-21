@@ -1,0 +1,1920 @@
+1 Teiuş
+2 Coşlariu
+3 Sântimbru Haltă
+4 Sântimbru
+5 Bărăbanţ
+6 Alba Iulia
+7 Vintu de Jos
+8 Braşov
+9 Bartolomeu
+10 Ghimbav
+11 Codlea
+12 Dumbrăviţa Bârsei
+13 Vlădeni Ardeal
+14 Valea Homorod
+15 Brădet
+16 Perşani
+17 Şercaia
+18 Şercaia  Haltă
+19 Mândra Oltului
+20 Făgăraş
+21 Beclean pe Olt
+22 Dridif
+23 Voila
+24 Olteţ
+25 Viştea
+26 Ucea
+27 Arpaş
+28 Cârta
+29 Scoreiu
+30 Sărata Colun
+31 Porumbacu
+32 Avrig
+33 Mârşa
+34 Racoviţă
+35 Sebeş Olt
+36 Podu Olt
+37 Tălmaciu
+38 Veştem
+39 Mohu
+40 Sibiu Grupa Selimbăr
+41 Sibiu Triaj
+42 Atelier Zona
+43 Sibiu
+44 Turnişor
+45 Cristian Sibiu
+46 Orlat
+47 Sibiel
+48 Săcelu Sibiului
+49 Sălişte
+50 Aciliu
+51 Tilişca
+52 Apoldu de Sus
+53 Apoldu de Joş
+54 Miercurea Sibiu
+55 Băile Miercurea
+56 Cunţa
+57 Cut
+58 Răhău
+59 Sebeş Alba
+60 Sebeş Glod
+61 Blandiana
+62 Tărtăria
+63 Balomiru de Câmp
+64 Şibot
+65 Aurel Vlaicu
+66 Geoagiu
+67 Orăştie
+68 Pricaz
+69 Turdaş
+70 Simeria Veche
+71 Simeria
+72 Săuleşti
+73 Deva
+74 Mintia
+75 Mintia h.
+76 Veţel
+77 Brănişca
+78 Bretea Mureşană
+79 Ilia
+80 Gurasada
+81 Câmpuri Surduc
+82 Burjuc
+83 Zam
+84 Petriş pe Mureş
+85 Ilteu
+86 Toc
+87 Săvârşin
+88 Vărădia Haltă
+89 Vărădia
+90 Valea Mureşului
+91 Bătuta
+92 Căpruţa
+93 Bârzava
+94 Nadăs
+95 Conop
+96 Corfeni
+97 Milova
+98 Radna
+99 Ghioroc
+100 Cicir
+101 Glogovăţ
+102 Depoul Arad
+103 Arad
+104 Şofronea
+105 Curtici
+106 Piatra Olt
+107 Găneasa
+108 Găneaşa Olt
+109 Arceşti
+110 Colibaşi
+111 Strejeşti
+112 Zlătărei
+113 Drăgăşani
+114 Călina
+115 Zăvideni
+116 Orleşti
+117 Fişcălia
+118 Bucşani Vâlcea
+119 loneşti
+120 Slăviteşti
+121 Băbeni
+122 Tătărani
+123 Govora
+124 Râureni Haltă
+125 Râureni
+126 Ostroveni
+127 Râmnicu Vâlcea
+128 Râmnicu Vâlcea Nord
+129 Buioreni Vâlcea
+130 Dăeşti
+131 Călimăneşti
+132 Păuşa
+133 Mănăstirea Turnu
+134 Canton-318
+135 Cozia
+136 Lotru
+137 Betel
+138 Cornet
+139 Balota h
+140 Robeşti
+141 Câineni
+142 Râu Vadului
+143 Valea Fratelui
+144 Valea Mărului
+145 Turnu Roşu
+146 Filiaşi
+147 Bungeţel
+148 Ţântăreni
+149 Floreşti
+150 Gilort
+151 Turburea
+152 Bibeşti
+153 Musculeşti
+154 Bărbăteşti
+155 Jupâneşti
+156 Cărbuneşti
+157 Pojogeni
+158 Scoarţa
+159 Copăcioasa
+160 Budieni
+161 Lunca Budieni
+162 Târgu Jiu
+163 Ramificaţia CAM
+164 Ecaterina Teodoroiu
+165 Ezureni
+166 Parângu
+167 Bumbeşti
+168 Valea Sadului
+169 Meri
+170 Lainici
+171 Pietrele Albe
+172 Strâmbuţa
+173 Livezeni
+174 Lunca Jiului
+175 Petroşani
+176 Petroşani Triaj
+177 Peştera Bolii
+178 Bănită
+179 Merişor
+180 Crivadia
+181 Baru Mare Haltă
+182 Baru Mare
+183 Livadia
+184 Ponor
+185 Pui
+186 Ruşor
+187 Băeşti
+188 Ohaba de sub Piatră
+189 Ciopea
+190 Subcetate
+191 Covragiu
+192 Plopi
+193 Bretea Streiului
+194 Măceu
+195 Ruşi
+196 Călan
+197 Călan Băi
+198 Batiz
+199 Băcia
+200 Băcia Haltă
+201 Simeria Triaj
+202 Cristian
+203 Râşnov
+204 Râşnov Haltă
+205 Tohanu Vechi
+206 G-ral Traian Moşoiu
+207 Zărneşti
+208 Şirineasa
+209 Popeşti Vâlcea
+210 Cernişoara
+211 Copăceni
+212 Berbeşti
+213 Alunu
+214 Vinerea
+215 Cugir Haltă
+216 Cugir
+217 Bârcea Mare
+218 Bârcea Mică
+219 Pestişu Mare
+220 Hunedoara Haltă
+221 Hunedoara
+222 Sibiu Haltă
+223 Ocna Sibiului
+224 Băile Ocna Sibiului
+225 Mândra
+226 Loamneş
+227 Hăşag
+228 Veşeud
+229 Şeica Mare Haltă
+230 Şeica Mare
+231 Agârbiciu
+232 Axente Sever
+233 Copşa Mică
+234 Şard Ighiu
+235 Ampoiţa
+236 Tăutu Ampoiului
+237 Văleni Meteş
+238 Poiana Ampoiului
+239 Prisaca
+240 Feneş
+241 Zlatna Tehnică
+242 Zlatna
+243 Dobra
+244 Lăpugiu
+245 Ohaba
+246 Holdea
+247 Coşteiu
+248 CoşteiudeSus
+249 Nemeşeşti
+250 Margina
+251 Făget
+252 Răchita
+253 Mănăştur
+254 Traian Vuia
+255 Susani Bega
+256 Cliciova
+257 Nevrincea
+258 Balinţ
+259 Păru
+260 Coşteiu Mare
+261 Lugoj Nord
+262 Lugoj
+263 Neudorf
+264 Zabrani
+265 Aliuş
+266 Gomila
+267 Şarlota
+268 Remetea Mica
+269 Fibiş
+270 Bencei
+271 Pişchia
+272 Cerneteaz
+273 Giarmata
+274 Ville Giarmata
+275 Timişoara Est
+276 Timişoara Nord
+277 Iscroni
+278 Coroieşti
+279 Vulcan
+280 Lupeni Gr. T.
+281 Lupeni Haltă
+282 Vâscoza
+283 Lupeni
+284 Arad Vest
+285 Ferma Ciala
+286 Sântoma
+287 Pecica
+288 Pecica Haltă
+289 Rovine Sălaş
+290 Semlac
+291 Şeitin
+292 Nădlac
+293 Aradu Nou
+294 Zădăreni
+295 Bodrogu Nou
+296 Felnac
+297 Sânpetru German
+298 Munor
+299 Secusigiu
+300 Aranca
+301 Periam
+302 Sânpetru
+303 Saravale
+304 Sânnicolau Mare
+305 Dudeştii Vechi
+306 Vălcani
+307 Ronaţ Triaj Haltă
+308 Ronaţ Triaj Gr. D.
+309 Sânandrei
+310 Hodoni
+311 Chinezu
+312 Bărăteaz
+313 Gelu
+314 Variaş
+315 Pesac
+316 Satu Nou
+317 Lovrin
+318 Gotlob
+319 Comloşu Mare
+320 Teremia Banat
+321 Nerău
+322 Dudeştii Noi
+323 Peşcăreţu Mic
+324 Biled
+325 Şandra
+326 Tomnaticu
+327 Sânnicolau Nord
+328 Cenad
+329 loneşti Gorj
+330 Termo Turceni
+331 Turceni
+332 Gârbovu
+333 Sărdăneşti
+334 Plopşoru
+335 Peşteana Jiu
+336 Bâlteni
+337 Vlăduleni Gorj
+338 Roşia Jiu
+339 Rovinari Sud
+340 Rovinari
+341 Rogojelu
+342 Vârţ
+343 Cârbeşti
+344 Drăguteşti
+345 Amaradia
+346 Bucureşti Nord Gr. A
+347 Bucureşti Nord Gr. B
+348 Bucureşti Băneasa
+349 Carpati
+350 Pajura
+351 Depoul Bucureşti Triaj
+352 Chitila
+353 Buftea
+354 Dârza
+355 Periş
+356 Scroviştea
+357 Crivina
+358 Prahova
+359 Brazi
+360 Ploieşti Triaj
+361 Ploieşti Sud
+362 Ploieşti Vest
+363 Buda
+364 Floreşti Prahova
+365 Câmpina
+366 Breaza
+367 Nistoreşti
+368 Breaza Nord
+369 Comarnic
+370 Posada
+371 Valea Largă
+372 Sinaia Sud
+373 Sinaia
+374 Poiana Ţapului
+375 Buşteni
+376 Azuga
+377 Predeal
+378 Tunel Mare
+379 Timişu de Sus
+380 Timişu de Jos
+381 Dârste
+382 Stupini
+383 Bod
+384 Feldioara
+385 Rotbav
+386 Vadu Roşu
+387 Măieruş
+388 Apaţa
+389 Ormeniş
+390 Augustin
+391 Racoş
+392 Mateiaş
+393 Rupea
+394 Caţa
+395 Paloş Ardeal
+396 Beia
+397 Dârju
+398 Archita
+399 Feleag
+400 Mureni
+401 Saschiz
+402 Vânători
+403 Albeşti Târnava
+404 Sighişoara
+405 Daneş
+406 Luna
+407 Dumbrăveni
+408 Aţel
+409 Bratei
+410 Mediaş
+411 Târnava
+412 Şeica Mică
+413 Micăsasa
+414 Lunca
+415 Valea Lungă
+416 Glogoveţ
+417 Mănărade
+418 Câmpu Libertăţii
+419 Blaj
+420 Crăciunel
+421 Cistei
+422 Mihalţ
+423 Coşlariu Gr. Podu Mureş
+424 Gârbova Albă
+425 Aiud
+426 Mirăslău
+427 Decea
+428 Unirea
+429 Unirea Haltă
+430 Războieni
+431 Grindeni
+432 Călăraşi Turda
+433 Câmpia Turzii
+434 Cânepişti
+435 Ploscoş
+436 Valea Florilor
+437 Boju
+438 Tunel
+439 Cojocna
+440 Apahida
+441 Dezmir
+442 Cluj Napoca Est
+443 Clujana
+444 Cluj Napoca
+445 Baciu Triaj
+446 Suceag
+447 Rădaia
+448 Mera
+449 Nădăşel
+450 Gârbău
+451 Macău
+452 Dorolţu
+453 Aghireş
+454 Aghireş Haltă
+455 Gălăşeni
+456 Stana
+457 Jebuc
+458 Huedin
+459 Brăişoru
+460 Bologa
+461 Poieni
+462 Valea Drăganului
+463 Ciucea
+464 Negreni
+465 Lacu Crişului
+466 Piatra Craiului
+467 Bulz
+468 Stâna de Vale
+469 Bratca
+470 Bălnaca
+471 Şuncuiuş
+472 Peştera
+473 Vadu Crişului Haltă
+474 Vadu Crişului
+475 Butan
+476 Aleşd Haltă
+477 Aleşd
+478 Ţeţchea
+479 Telechiu
+480 Tileagd
+481 Săbolciu
+482 Săcădat
+483 Oşorhei
+484 Oradea
+485 Episcopia Bihor
+486 Crângu lui Bot
+487 Crângu lui Tei
+488 Târgşoru Nou
+489 Brătăşanca
+490 Zalhanaua
+491 I. L. Caragiale
+492 I. L. Caragiale Vest
+493 Mija
+494 Bucşani
+495 Adânca
+496 Săcuieni
+497 Răzvad
+498 Valea Voievozilor
+499 Târgovişte Nord
+500 Teiş
+501 Romlux
+502 Târgovişte
+503 Ploieşti Est Post 1
+504 Ploieşti Nord
+505 Blejoi
+506 Scăieni
+507 Boldeşti
+508 Lipăneşti
+509 Măgurele Sud
+510 Măgurele Prahova
+511 Măgurele Nord
+512 Făget Teleajen
+513 Vălenii de Munte
+514 Văleni Nord
+515 Teişani
+516 Homorâciu
+517 Izvoarele
+518 Măneciu Pământeni
+519 Măneciu
+520 Găgeni
+521 Plopeni
+522 Plopeni Sat
+523 Gâvănel
+524 Mălăeşti
+525 Coţofeneşti
+526 Poiana Slănic
+527 Sâncel
+528 Pănade
+529 Şona
+530 Sfântu Nicolae
+531 Bălcaci
+532 Jidvei
+533 Feisa
+534 Cetatea de Baltă
+535 Crăieşti
+536 Corneşti Târnava
+537 Adămuş
+538 Târnaveni Vest
+539 Târnaveni
+540 Şeuca
+541 Găneşti
+542 Deaj
+543 Mica
+544 Bernadea
+545 Bahnea
+546 Laşlău
+547 Şoimuş
+548 Coroiu
+549 Bălăuşeri
+550 Fântânele
+551 Sângeorgiu de Pădure
+552 Cioc
+553 Ghindari
+554 Chibed
+555 Sărăţeni
+556 Sovata
+557 Praid
+558 Săcuienii Noi
+559 Sântamaria
+560 Cristur
+561 Beteşti
+562 Beteşti Est
+563 Porumbenii Mici
+564 Porumbenii Mari
+565 Lutiţa
+566 Dobeni
+567 Feliceni
+568 Odorhei Sud
+569 Odorhei
+570 Ronaţ Triaj Cab.1
+571 Băile Călacea
+572 Orţişoara
+573 Vinga
+574 Şag
+575 Valea Viilor
+576 Utvinişu Nou
+577 Utviniş
+578 Zimandu Nou
+579 Sântana
+580 Comlăuş
+581 Şimand
+582 Nădab
+583 Chişineu-Criş
+584 Zerind
+585 Tămaşda
+586 Boiu Bihor
+587 Ciumeghiu
+588 Salonta
+589 Mădăraş Bihor
+590 Cefa
+591 Gepiu
+592 Leş Bihor
+593 Oradea Vest
+594 Pădureni Arad
+595 Socodor
+596 Şiclau
+597 Grăniceri
+598 Vaşcău
+599 Ştei
+600 Rieni Bihor
+601 Sudrigiu
+602 Tărcaia
+603 Beiuş
+604 Finiş
+605 loaniş
+606 Uilacu Beiuşului
+607 Borz
+608 Urviş
+609 Şoimi
+610 Suplacu de Tinca
+611 Căpâlna
+612 Ginta
+613 Holod
+614 Holod Vest
+615 Dumbrava Bihor
+616 Râpa
+617 Tinca
+618 Gurbediu
+619 Tăut
+620 Batăr
+621 Glad
+622 Şiria
+623 Măsca Măderat
+624 Pâncota
+625 Seleuş
+626 Târnova Zărand
+627 Mocrea
+628 Ineu
+629 Tămand
+630 Bocsig
+631 Răpsig
+632 Bârşa
+633 Sebiş
+634 Paulian
+635 Joia Mare
+636 Almaş
+637 Bonţeşti
+638 Gurahonţ
+639 Romaniţa
+640 Aciuţa
+641 Tălagiu
+642 Vârfurile
+643 Cariera Leasa
+644 Hălmăgiu
+645 Ocişor
+646 Ociu
+647 Vaţa
+648 Birtin
+649 Lunca Moţilor
+650 Baia de Criş
+651 Ţebea
+652 Ribiţa
+653 Brad
+654 Teuz
+655 Cermei
+656 Pavilioanele CFR Braşov Triaj
+657 Hărman
+658 Ilieni
+659 Prejmer
+660 Chichiş
+661 Ozun
+662 Sfântu Gheorghe
+663 Arcuş
+664 Bodoc
+665 Malnaş
+666 Malnaş Băi
+667 Bicsadu Oltului
+668 Băile Tuşnad
+669 Tuşnad Sat
+670 Vrabia
+671 Sânsimion
+672 Sântimbru Ciuc
+673 Sâncrăieni
+674 Miercurea Ciuc
+675 Siculeni
+676 Racu
+677 Mădăraş Ciuc
+678 Dăneşti
+679 Cârţani
+680 Tomeşti
+681 Izvoru Oltului
+682 Sândominic
+683 Izvoru Mureşului
+684 Voşlăbeni
+685 Şugău
+686 Valea Strâmbă
+687 Gheorghieni
+688 Lăzarea
+689 Ditrău
+690 Subcetate Mureş
+691 Sărmaş Runc
+692 Gălăuţaş
+693 Topliţa
+694 Ciobotani
+695 Stânceni
+696 Stânceni Haltă
+697 Stânceni Neagra
+698 Lunca Bradului
+699 Andreneasa
+700 Răstoliţa
+701 Borzia
+702 Deda Bistra
+703 Deda
+704 Morăreni
+705 Râpa de Jos
+706 Monor Gledin
+707 Şieuţ
+708 Şieu
+709 Mărişelu
+710 Bârla pe Şieu
+711 Domneşti pe Şieu
+712 Sărătel
+713 Arcalia
+714 Măgheruş Şieu
+715 Sfântu
+716 Caila
+717 Şintereag
+718 Beclean pe Someş
+719 Coldău
+720 Ciceu Cristur
+721 Reteag Haltă
+722 Reteag
+723 Ciceu Mihăeşti
+724 Dej Triaj
+725 Dej Călători
+726 Căşeiu
+727 Coplean
+728 Câţcău
+729 Căpâlna pe Someş
+730 Gâlgău
+731 Gâlgău Haltă
+732 Glodu Someşului
+733 Rus
+734 Ileanda
+735 Bizuşa
+736 Răstoci
+737 Letca
+738 Cuciulat
+739 Băbuţeni
+740 Ciocmani
+741 Surduc Sălaj
+742 Var
+743 Jibou
+744 Someş Odorhei
+745 lnău
+746 Aluniş Sălaj
+747 Benesat
+748 Ţicău
+749 Ulmeni Sălaj
+750 Mireşu Mare
+751 Fersig
+752 Satulung pe Someş
+753 Baia Mare
+754 Buşag
+755 Cicârlău
+756 llba
+757 Săbişa
+758 Seini
+759 Apa
+760 Medieşu Aurit
+761 Odoreu
+762 Botiz
+763 Satu Mare
+764 llva Mică
+765 Podereia Feldrului h.
+766 Feldru
+767 Nepos
+768 Rebrişoara
+769 Năsăud
+770 Năsăud Haltă
+771 Salva
+772 Mititei
+773 Nimigea
+774 Nimigea Haltă
+775 Mogoşeni
+776 Cociu
+777 Nima
+778 Buneşti
+779 Gherla
+780 Livada Someş
+781 Iclod
+782 Fundătura
+783 Bonţida
+784 Răscruci
+785 Jucu
+786 Apahida Haltă
+787 Biharia
+788 Tămăşeu
+789 Roşiori Bihor
+790 Diosig
+791 Cadia
+792 Săcueni Bihor
+793 Şilindru
+794 Simion
+795 Valea lui Mihai
+796 Curtuiuşeni
+797 Resighea
+798 Sanislău
+799 Marna
+800 Carei
+801 Domăneşti
+802 Moftin
+803 General Gh. Avramescu
+804 Sătmărel
+805 Satu Mare Sud
+806 Ram. Botiz
+807 Micula
+808 Porumbeşti
+809 Halmeu
+810 Pavilioanele CFR Braşov Triai
+811 Budila
+812 Teliu
+813 Valea Teliului
+814 Poiana Florilor
+815 Întorsura Buzăului
+816 Angheluş
+817 Moacşa
+818 Biţa
+819 Boroşneu Mare
+820 Ţufalău
+821 Brateş
+822 Covasna
+823 Zăbala
+824 Imeci
+825 Cătălina
+826 Târgu Secuiesc
+827 Sânzieni
+828 Poieniţa
+829 Bălani
+830 Mereni Lutoasa
+831 Lemnia
+832 Breţcu
+833 Ruşii Munţi
+834 Aluniş Mureş
+835 Halta Aluniş
+836 Brâncoveneşti
+837 Idiciu de Jos
+838 Reghin
+839 Petelea
+840 Periş Mureş
+841 Gorneşti Mureş
+842 Dumbrăvioara
+843 Târgu Mureş Nord
+844 Târgu Mureş
+845 Azomureş
+846 Târgu Mureş Sud
+847 General Nicolae Dăscălescu
+848 Vidrasău
+849 Chirileu
+850 Sânpaul
+851 Ogra
+852 Cipău
+853 Iernut
+854 Cuci
+855 Bogata Mureşului
+856 Luduş
+857 Cheţani
+858 Gligoreşti
+859 Gura Arieşului
+860 Lunca Mureşului
+861 Bistriţa Bârgăului
+862 Bistriţa Bârgăului Haltă
+863 Bistriţa Bârgăului Sat
+864 Prundul Bârgăului
+865 Susenii Bârgăului
+866 Mijlocenii Bârgăului
+867 Josenii Bârgăului
+868 Rusul Bârgăului
+869 Livezile Bârgăului
+870 Bistriţa
+871 Bistriţa Nord
+872 Viişoara Haltă
+873 Sărata
+874 Măgheruş Sieu
+875 Chiraleş
+876 Ţigău
+877 Lechinţa
+878 Vermeş
+879 Sângiorgiu Nou
+880 Brăteni
+881 Sânmihaiu de Câmpie
+882 Miceştii de Câmpie
+883 Budeşti Cluj
+884 Ţagu
+885 Ţagu Sat
+886 Ţăgşor
+887 Sărmaşel
+888 Sărmaşel gaz metan
+889 Sărmaşu
+890 Balda
+891 Miheşu de Câmpie Sat
+892 Miheşu de Câmpie
+893 Bota Sat
+894 Zau de Câmpie
+895 Melini Valea Largă
+896 Tăureni
+897 Sânger Tăureni
+898 Luduş Sat
+899 Coşbuc
+900 Bichigiu
+901 Telciu
+902 Fiezel
+903 Fiad
+904 Romuli
+905 Dealu Stefăniţei
+906 Săcel
+907 Iza
+908 Vişeu de Jos
+909 Bocicoel
+910 Leordina Haltă
+911 Leordina
+912 Petrova
+913 Vişeu Bistra
+914 Valea Vişeului
+915 Lunca la Tisa
+916 Bocicoi
+917 Crăciuneşti
+918 Tisa
+919 Cămara Sighet
+920 Sighetu Marmaţiei
+921 Cuceu Sălaj
+922 Poptelec
+923 Mirşid
+924 Zalău Nord
+925 Guruşlău
+926 Borla
+927 Bocşa Sălaj
+928 Câmpia Sălaj
+929 Sărmăşag
+930 Sărmăşag Haltă
+931 Derşida
+932 Giorocuţa
+933 Supur
+934 Supur Haltă
+935 Acâş
+936 Săcăşeni
+937 Tăşnad
+938 Santău
+939 Hotoan
+940 Tiream
+941 Cărei
+942 Târguşor Bihor
+943 Bolcaş
+944 Abrămuţ
+945 Petreu
+946 Marghita
+947 Chiribiş
+948 Abrami
+949 Marginea Bihor
+950 Sădălbagiu
+951 Balc
+952 Suplacu de Barcău
+953 Porţi
+954 Ipu
+955 Nuşfalău
+956 Măgura Şimleului
+957 Şimleu Silvaniei
+958 Uilacu Şimleului
+959 Giurtelec
+960 Vânătoreşti
+961 Dumbrăviţa
+962 Livada Nouă
+963 Livada Hm
+964 Mujdeni
+965 Oraşu Nou
+966 Vama Turului
+967 Negreşti Oaş
+968 Bixad
+969 Sângeorz Băi
+970 Cormaia
+971 Maieru
+972 Anieş
+973 Rodna Veche
+974 Bucureşti Basarab
+975 Bucureşti Triaj
+976 Ploieşti Est
+977 Valea Călugărească
+978 Muru
+979 Cricov
+980 Tomşani
+981 Inoteşti
+982 Mizil
+983 Săhăteni
+984 Pietroasele
+985 Ulmeni
+986 Băile Sarata Monteoru
+987 Buzău
+988 Boboc
+989 Zoita
+990 Râmnicu Sărat
+991 Voetin
+992 Sihlea
+993 Gugeşti
+994 Coteşti
+995 Focşani
+996 Putna Seacă
+997 Mărăşeşti
+998 Pădureni Putna
+999 Călimăneşti Vrancea
+1000 Pufeşti
+1001 Domneşti Târg
+1002 Adjud
+1003 Adjudu Vechi
+1004 Şişcani
+1005 Sascut
+1006 Orbeni
+1007 Răcăciuni
+1008 Faraoani
+1009 Siretu Bacău
+1010 Valea Seacă
+1011 Letea
+1012 Bacău
+1013 Iteşti
+1014 Şerbeşti Bacău
+1015 Galbeni
+1016 Săcueni Roman
+1017 Ram. Trifeşti
+1018 Roman
+1019 Săbăoani
+1020 Mirceşti
+1021 Hălăuceşti
+1022 Mogoşeşti
+1023 Muncel
+1024 Stolniceni
+1025 Paşcani Triaj
+1026 Paşcani
+1027 Lunca Şiretului
+1028 Lespezi
+1029 Probota
+1030 Dolhasca
+1031 Corni
+1032 Liteni
+1033 Băneşti Suceava
+1034 Vereşti
+1035 Văratec
+1036 Suceava Nord
+1037 Dărmăneşti
+1038 Suceava
+1039 Dănila
+1040 Milişăuţi
+1041 Ţibeni
+1042 Dorneşti
+1043 laz Suceava
+1044 Vicşani
+1045 Urecheşti
+1046 Cornăţel Moldova
+1047 Bâlca
+1048 Căiuti
+1049 Borzeşti Bacău
+1050 Borzeşti Bacău Haltă
+1051 Oneşti
+1052 Trotuş
+1053 Viişoara
+1054 Târgu Ocna
+1055 Saline
+1056 Cireşoaia
+1057 Dofteana Bacău
+1058 Valea Uzului Haltă
+1059 Valea Uzului
+1060 Comăneşti
+1061 Asău
+1062 Caraliţa
+1063 Goioasa
+1064 Simbrea
+1065 Brusturoasa
+1066 Palanca
+1067 Ghimeş
+1068 Bolovăniş
+1069 Lunca de Mijloc
+1070 Tarcău
+1071 Lunca de Sus
+1072 Utuşoiu
+1073 Livezi Ciuc
+1074 Caracău
+1075 Nădejdea
+1076 Nădejdea Sat
+1077 Mihăileni
+1078 Suceava Vest
+1079 Stroieşti
+1080 Ciprian Porumbescu
+1081 Lucăceşti
+1082 Berchişeşti
+1083 Gura Humorului
+1084 Gura Humorului Oraş
+1085 Frasin
+1086 Molid
+1087 Prisaca Domei
+1088 Vama
+1089 Câmpulung Est
+1090 Câmpulung Moldovenesc
+1091 Sadova
+1092 Pojorâta
+1093 Valea Putnei
+1094 Meştecăniş
+1095 lacobeni
+1096 Argestru
+1097 Vatra Dornei
+1098 Vatra Dornei Băi
+1099 Roşu
+1100 Dorna Candrenilor
+1101 Floreni
+1102 Coşna
+1103 Grădiniţa
+1104 Larion
+1105 Silhoasa
+1106 Lunca Ilvei
+1107 llva Mare
+1108 Măgura Ilvei
+1109 Poiana Ilvei
+1110 Leşu Ilvei
+1111 Buzău Nord
+1112 Verneşti
+1113 Cândeşti
+1114 Berca
+1115 Ojasca
+1116 Unguriu
+1117 Măgura
+1118 Pârscov
+1119 Bădila
+1120 Ruşavăţu
+1121 Vipereşti
+1122 Cislău
+1123 Măruntişu
+1124 Pătârlagele
+1125 Valea Sibiciului
+1126 Şeţu
+1127 Păltineni
+1128 Nehoiu
+1129 Nehoiaşu
+1130 Diocheti
+1131 Panciu
+1132 Hămeiuş
+1133 Gârleni
+1134 Lespezi Bacău
+1135 Racova
+1136 Buhuşi
+1137 Costişa
+1138 Podoleni
+1139 Zăneşti Neamţ
+1140 Roznov
+1141 Săvineşti
+1142 Dumbrava
+1143 Piatra Neamţ
+1144 Bistriţa Neamţ
+1145 Vaduri
+1146 Pângăraţi
+1147 Stejaru
+1148 Tarcău Neamţ
+1149 Bicaz
+1150 Vămeni
+1151 Dolheşti
+1152 Arghira
+1153 Preoteşti
+1154 Fălticeni
+1155 Bursuceni
+1156 Bucecea
+1157 Leorda
+1158 Botoşani
+1159 Brăeşti
+1160 Văculeşti
+1161 Dorohoi
+1162 Părhăuţi
+1163 Todireşti
+1164 Soloneţ
+1165 Pârteşti
+1166 Cacica
+1167 Deia
+1168 Frumosu
+1169 Dragoşa
+1170 Valea Stânei
+1171 Vatra Moldovitei
+1172 Moldoviţa
+1173 Rădăuţi
+1174 Horodnicu
+1175 Gălăneşti
+1176 Vicovu de Jos
+1177 Vicovu de Sus
+1178 Bivolăria
+1179 Gura Putnei
+1180 Putna
+1181 Podu Coşnei
+1182 Turbăria Stampei
+1183 Poiana Stampei
+1184 Dorna Burcut
+1185 Dornişoara
+1186 Topile
+1187 Cristeşti Paşcani
+1188 Timişeşti
+1189 Plăieşu
+1190 Sfântu Mina
+1191 Târgu Neamţ
+1192 Făurei
+1193 Nisipurile
+1194 Jirlău
+1195 Udreşti
+1196 Drogu
+1197 Ghergheaşa
+1198 Bălţa Albă
+1199 Spătaru
+1200 Ciorăşti
+1201 Tătăranu
+1202 Bordeasca Nouă
+1203 Boţârlău
+1204 Suraia
+1205 Condrea
+1206 Rotunda
+1207 Tecuci
+1208 Tecuci Nord
+1209 Frunzeasca
+1210 Rateş Munteni
+1211 Berheci
+1212 Nichişeni
+1213 Ghidigeni
+1214 Tutova
+1215 Dragalina
+1216 Bârlad
+1217 Zorleni
+1218 Banca
+1219 Dodeşti
+1220 Roşieşti
+1221 Crasna
+1222 Bulboaca
+1223 Munteni
+1224 Vaslui
+1225 Bălteni
+1226 Brăhăşoaia
+1227 Bârzeşti
+1228 Buhăieşti
+1229 Rateşu Cuzei
+1230 Rebricea
+1231 Scânteia
+1232 Grajduri
+1233 Bârnova
+1234 Picioru Lupului
+1235 Ciurea
+1236 Nicolina
+1237 laşi
+1238 Socola
+1239 Remiza T Socola
+1240 Holboca
+1241 Cristeşti Jijia Frontieră
+1242 Ungheni Prut
+1243 Ungheni
+1244 Bujoreni
+1245 Horga
+1246 Bursuci
+1247 Şuletea
+1248 Epureni
+1249 Murgeni
+1250 Făiciu
+1251 Fălciu Nord
+1252 Târzii
+1253 Olteneşti
+1254 Curteni
+1255 Creţeşti
+1256 Huşi
+1257 Sagna
+1258 Vulpăşeşti
+1259 Stăniţa
+1260 Piscu Rusului
+1261 Dagâţa
+1262 Suhuleţ
+1263 Mareşal C-tin Prezan
+1264 Dumeşti
+1265 Rafaila
+1266 Negreşti Vaslui
+1267 Leţcani
+1268 Podu Iloaiei
+1269 Budăi
+1270 Sârca
+1271 Târgu Frumos
+1272 Pietrişu
+1273 Costeşti laşi
+1274 Rugionasa
+1275 Erbiceni
+1276 Spinoasa
+1277 Belceşti
+1278 Podu Ulmi
+1279 Hodora
+1280 Cotnari
+1281 Cepleniţa
+1282 Bădeni
+1283 Hârlău
+1284 Movileni
+1285 Potângeni
+1286 Larga Jijia
+1287 Vlădeni
+1288 lacobenii Vechi
+1289 Şoldana
+1290 Andrieşeni
+1291 Rediu
+1292 Răuşeni
+1293 Todireni
+1294 Jijia
+1295 Zlăţunoaia
+1296 Truşeşti
+1297 Buhăceni
+1298 Dângeni
+1299 Dângeni Nord
+1300 Ungureni
+1301 Mândreşti
+1302 Vorniceni
+1303 Mateieni
+1304 Carasa
+1305 Mogoşoaia
+1306 Odăile
+1307 Baloteşti
+1308 Căciulaţi
+1309 Moara Vlăsiei
+1310 Greci
+1311 Fierbinţi
+1312 Dridu
+1313 Moldoveni
+1314 Armăşeşti
+1315 Bărbuleşti
+1316 Urziceni
+1317 Manasia
+1318 Gârbovi
+1319 Cotorca
+1320 Scutelnici
+1321 Pogoanele
+1322 Căldăraşti
+1323 Sătucani
+1324 Ruşeţu
+1325 Surdila
+1326 Găiseanca
+1327 Deduleşti
+1328 lanca Haltă
+1329 lanca
+1330 Urleasca
+1331 Traian Sat
+1332 Lacu Sărat
+1333 Brăila
+1334 Baldovineşti
+1335 Vâdeni
+1336 Zagna Vădeni
+1337 Bărboşi
+1338 Fileşti
+1339 Galaţi
+1340 Dâmbu
+1341 Corlăteşti
+1342 Râtov
+1343 Trestieni
+1344 Zănoaga
+1345 Comurile
+1346 Drăgăneşti Prahova
+1347 Hătcărău
+1348 Ciorani
+1349 Fulga
+1350 Ialomiţa
+1351 Alexeni
+1352 Broşteni
+1353 Malu
+1354 Km. 74+600
+1355 Sărătuica
+1356 Sărăţeni-lalomiţa
+1357 Munteni Buzău
+1358 Căzăneşti
+1359 Ciochina
+1360 Andrăşeşti
+1361 Fundata
+1362 Perieţi
+1363 Slobozia Veche
+1364 Slobozia Nouă
+1365 Bucu
+1366 Ograda
+1367 Ţăndărei
+1368 Buzău Sud
+1369 Tăbărăşti
+1370 Tăbărăşti Sud
+1371 Bentu
+1372 Ciiibia
+1373 Movila Oii
+1374 C. A. Rosetti
+1375 Vizireni
+1376 Baza I.F.F.
+1377 Cireşu
+1378 Scărlăteşti
+1379 Dudeşti
+1380 Spicu
+1381 Murgeanca
+1382 Platoneşti
+1383 Movila
+1384 Feteşti
+1385 Km. 6+200
+1386 Tuluceşti
+1387 Şiviţa
+1388 Frumuşiţa
+1389 Stoicani
+1390 Folteşti
+1391 Chiraftei
+1392 Fârţăneşti
+1393 Băleni
+1394 Târgu Bujor
+1395 Moscu
+1396 Roşcani
+1397 Balinteşti
+1398 Bereşti
+1399 Tălaşmani
+1400 Docăneasa
+1401 Bălăbăneşti
+1402 Griviţa
+1403 Ram. G-ral. E. Grigorescu
+1404 G-ral. E. Grigorescu
+1405 Cosmeşti
+1406 Malul Alb
+1407 Barcea
+1408 Umbrăreşti
+1409 Iveşti
+1410 Buceşti
+1411 Lieşti
+1412 Şerbăneşti
+1413 Hanu Conachi
+1414 Tudor Vladimirescu
+1415 Vameş
+1416 Piscu
+1417 Independenţa
+1418 Vasile Alecsandri
+1419 Braniştea
+1420 Şerbeştii Vechi
+1421 Şendreni
+1422 Bărboşi Triaj
+1423 Bucureşti Obor
+1424 Pantelimon
+1425 Pasărea
+1426 Brăneşti Sat
+1427 Brăneşti
+1428 Islaz
+1429 Fundulea
+1430 Mostiştea
+1431 Săruleşti
+1432 Preasna
+1433 Lehliu
+1434 Dor Mărunt Sat
+1435 Dor Mărunt
+1436 Dâlga
+1437 Bogdana
+1438 Dragoş Vodă
+1439 Ivăneşti
+1440 Ciulniţa
+1441 Ogoarele
+1442 Perişoru
+1443 Recolta
+1444 Jegălia
+1445 Ştefan cel Mare
+1446 Bărăganu
+1447 Ramificaţia Borcea
+1448 Ovidiu
+1449 Dunărea
+1450 Cernavodă Pod
+1451 Satigny Gr. Est
+1452 Mircea Vodă
+1453 Medgidia
+1454 Castelu
+1455 Dorobanţu
+1456 Poarta Albă
+1457 Basarabi
+1458 Murfatlar
+1459 Valul lui Traian
+1460 Palas
+1461 Constanţa
+1462 Agigea Nord
+1463 Agigea Ecluză
+1464 Eforie Nord
+1465 Eforie Sud
+1466 Tuzla
+1467 Costineşti
+1468 Costineşti Tabără
+1469 Pescăruş
+1470 Neptun
+1471 Mangalia
+1472 Pantelimon Sud
+1473 Bucureşti Sud Gr. Călători
+1474 Titan Sud
+1475 Cernica
+1476 Tânganu
+1477 Frunzăneşti
+1478 Plătăreşti
+1479 Cucuieţi Sudiţi
+1480 Gălbinaşi
+1481 Vasilaţi
+1482 Budeşti
+1483 Negoeşti
+1484 Luica
+1485 Curcani
+1486 Valea Roşie
+1487 Olteniţa
+1488 Slobozia Sud
+1489 Brâncoveni
+1490 Ştefan Vodă
+1491 Călăraşi Nord
+1492 Km. 25+700
+1493 Călăraşi Sud
+1494 Medgidia Post 2
+1495 Medgidia PC2
+1496 Valea Dacilor
+1497 Ciocârlia
+1498 Cobadin
+1499 Ciobăniţa
+1500 Casicea
+1501 Chirnogeni
+1502 Negru Vodă
+1503 Derin
+1504 Nicolae Bălcescu
+1505 Târguşor Dobrogea
+1506 Pod Casian
+1507 Cogealac
+1508 Istria
+1509 Mihai Viteazu
+1510 Baia Dobrogea
+1511 Ceamurlia de Jos
+1512 Codru
+1513 Babadag
+1514 Zebil
+1515 Mihail Kogălniceanu
+1516 Cataloi
+1517 Tulcea Mărfuri
+1518 Tulcea Oraş
+1519 Bucureştii Noi
+1520 Chiajna
+1521 Domneştii de Sus
+1522 Grădinari
+1523 Zorile
+1524 Vadu Lat
+1525 Angheleşti
+1526 Zăvestreni
+1527 Videle
+1528 Ciolpani
+1529 Gălăteni
+1530 Olteni
+1531 Vârtoapele
+1532 Rădoieşti
+1533 Atârnaţi
+1534 Roşiori Nord
+1535 Măldăeni
+1536 Mihăeşti
+1537 Radomireşti
+1538 Dăneasa
+1539 Drăgăneşti Olt
+1540 Stoeneşti
+1541 Fărcaşele
+1542 Caracal
+1543 Cezieni
+1544 Grozăveşti
+1545 Radomiru
+1546 Jianca
+1547 Ţărţăl
+1548 Leu
+1549 Pasaju Coşoveni
+1550 Malu Mare
+1551 Viaductu Cârcea
+1552 Banu Mărăcine
+1553 Bordei
+1554 Craiova
+1555 Craiova Triaj
+1556 Cernele
+1557 Işalniţa Haltă
+1558 Işalniţa
+1559 Almăj
+1560 Coţofeni
+1561 Brădeşti
+1562 Răcari
+1563 Canton-282
+1564 Gura Motrului
+1565 Butoieşti
+1566 Lunca Banului
+1567 Strehaia
+1568 Strehaia Haltă
+1569 Ciochiuţa
+1570 Tâmna
+1571 Igiroasa
+1572 Prunişor
+1573 Gârniţa
+1574 Balota
+1575 Valea Albă
+1576 Ergheviţa
+1577 Drobeta-Turnu Severin Mărfuri
+1578 Drobeta-Turnu Severin Est
+1579 Drobeta-Turnu Severin
+1580 Dinamica
+1581 Gura Văii
+1582 Jidoştiţa
+1583 Vârciorova
+1584 Iloviţa
+1585 Şantier Naval
+1586 Orşova
+1587 Valea Cernei
+1588 Topleţ
+1589 Băile Herculane
+1590 Mehadia Nouă
+1591 Mehadia
+1592 lablaniţa
+1593 Cruşovăţ
+1594 Cornea
+1595 Domaşnea Cornea
+1596 Luncaviţa
+1597 Poarta
+1598 Teregova
+1599 Armeniş
+1600 Slatina Timiş
+1601 Vălişoara
+1602 Valea Timişului
+1603 Balta Sărată
+1604 Caransebeş Haltă
+1605 Caransebeş
+1606 Tibiscu
+1607 Zăgujeni
+1608 Căvăran
+1609 Sacu
+1610 Jena
+1611 Găvojdia
+1612 Tapia
+1613 Jabăr
+1614 Belinţ
+1615 Chizătău
+1616 Topolovăţ
+1617 Şuştra
+1618 Recaş
+1619 Izvin
+1620 Remetea Mare
+1621 Timişoara Eşt
+1622 Ram. Săbăreni
+1623 Săbăreni
+1624 Ciocăneşti
+1625 Bâldana
+1626 Ghergani
+1627 Conteşti
+1628 Boteni
+1629 Titu
+1630 Fusea
+1631 Mătăsaru
+1632 Cojocaru
+1633 Găeşti Sud
+1634 Găeşti
+1635 Pătroaia
+1636 Leordeni Argeş
+1637 Călineşti
+1638 Canton 97+770
+1639 Goleşti
+1640 Km 107+000
+1641 Piteşti
+1642 Km 109+000
+1643 Bradu de Sus
+1644 Pârvu
+1645 Pârvu Haltă
+1646 Suseni
+1647 Costeşti
+1648 Fâlfani
+1649 Stolnici
+1650 Hârşeşti
+1651 Corbu
+1652 Sineşti
+1653 Potcoava
+1654 Bălteni Olt
+1655 Recea
+1656 Slatina
+1657 Milcov
+1658 Slătioara
+1659 Criva
+1660 Brăneţ
+1661 Canton-217
+1662 Balş
+1663 Spineni
+1664 Robăneşti
+1665 Toporaş
+1666 Pieleşti
+1667 Cârcea
+1668 Plaiu Vulcăneşti
+1669 Bucureşti Progresu
+1670 Jilava
+1671 Sinteşti
+1672 Vidra
+1673 Grădiştea
+1674 Comana
+1675 Vlad Ţepeş
+1676 Mihai Bravu
+1677 Băneasa Giurgiu
+1678 Tabanu
+1679 Daia
+1680 Frăţeşti
+1681 Giurgiu Nord
+1682 Giurgiu
+1683 Răduleşţi
+1684 Târnavele
+1685 Vlaşca
+1686 Răsuceni
+1687 Toporu
+1688 Chiriacu
+1689 Stăneşti
+1690 Onceşti
+1691 Bălanoaia
+1692 Cetatea
+1693 Dâmbovicioara
+1694 Podu Rizii
+1695 Băneşti
+1696 Movila Dâmboviţa
+1697 Nucet
+1698 Cazaci
+1699 Văcăreşti
+1700 Aninoasa
+1701 Săteni
+1702 Doiceşti
+1703 Doiceşti Haltă
+1704 Vulcana Pandele
+1705 Scârlenţa
+1706 Trainica
+1707 Pucioasa
+1708 Motăeni
+1709 Fieni
+1710 Ţepeş Vodă
+1711 Pietroşiţa
+1712 Ştefăneşti Argeş
+1713 Gropeni
+1714 Ciumeşti
+1715 Mioveni
+1716 Clucereasa
+1717 Bucşeneşti
+1718 Sţâlpeni
+1719 Rădeşti
+1720 Drăghici
+1721 Lăzăreşti
+1722 Schitu Goleşti
+1723 Pescăreasa
+1724 Câmpulung
+1725 Parcul Kreţulescu
+1726 Piteşti Nord
+1727 C. I. L.
+1728 Bascov
+1729 Borleşti Argeş
+1730 Merişani
+1731 Băiculeşti
+1732 Curtea de Argeş
+1733 Papa
+1734 Drăcşenei
+1735 Beuca Sat
+1736 Beuca
+1737 Zâmbreasca
+1738 Balaci
+1739 Surduleşti
+1740 Miroşi
+1741 Colţ
+1742 Roşiori
+1743 Bratcov
+1744 Km. 200+400 P.aj.
+1745 Troian
+1746 Salcia Teleorman
+1747 Km. 231+600
+1748 Km. 239+150
+1749 Turnu Măgurele
+1750 Peret
+1751 Plosca
+1752 Buzescu
+1753 Alexandria Nord
+1754 Alexandria
+1755 Alexandria Sud
+1756 Ţigăneşti
+1757 Brânceni
+1758 Smârdioasa
+1759 Păuleasa
+1760 Şoimu
+1761 Ulmuleţ
+1762 Zimnicea
+1763 Romula
+1764 Fălcoiu
+1765 Vlăduleni
+1766 Şopârliţa
+1767 Pârşcoveni
+1768 Canton-239+700
+1769 Gr.Tehnica Caracal
+1770 Deveselu
+1771 Frăsinet
+1772 Studiniţa
+1773 Studina
+1774 Vişina
+1775 Vişina Veche
+1776 Corabia
+1777 Jiu
+1778 Podari
+1779 Sălcuţa
+1780 Dealul Robului
+1781 Segarcea Nord
+1782 Segarcea
+1783 Cerăt
+1784 Portăreşti
+1785 Urzica Mare
+1786 Afumaţi
+1787 Siliştea Crucii
+1788 Boureni
+1789 Băileşti
+1790 Horticola
+1791 Moţăţei
+1792 Maglavit
+1793 Golenţi
+1794 Cobuz
+1795 Calafat
+1796 Strehaia Nord
+1797 Comanda
+1798 Cernaia
+1799 Jirov
+1800 Ceramica
+1801 Corcova
+1802 Samarineşti
+1803 Motru Est
+1804 Motru
+1805 Valea Păltinişului
+1806 Cornuţel Banat
+1807 Valeadeni
+1808 Brebu
+1809 Ezeriş
+1810 Bănila Câlnic
+1811 Reşiţa Nord
+1812 Reşiţa Nouă
+1813 Reşiţa Sud
+1814 Boldur
+1815 Sinia
+1816 Căpăt
+1817 Buziaş
+1818 Nichişoara
+1819 Tormac
+1820 Şoşdea
+1821 Gătaia Haltă
+1822 Gătaia
+1823 Şemlacu Mare
+1824 Ferendia
+1825 Clopodia
+1826 Jamu Mare
+1827 Caransebeş Cazarmă
+1828 Caransebeş Ţiglărie
+1829 laz
+1830 Obreja
+1831 Bucium
+1832 Oţelu Roşu
+1833 Oţelu Roşu Haltă
+1834 Zăvoiu
+1835 Voislova
+1836 Marga
+1837 Bouţari
+1838 Timişoara Sud
+1839 Giroc
+1840 Semenic
+1841 Urseni
+1842 Uliuc
+1843 Sacoşu Mic
+1844 Chevereş
+1845 Bacova
+1846 Săcălaz
+1847 Beregsău
+1848 Cărpiniş
+1849 Clarii Vii
+1850 Jimbolia
+1851 Jebel
+1852 Jebelu de Sus
+1853 Conacul losif
+1854 Liebling
+1855 Giera
+1856 Livezile Banat
+1857 Banloc
+1858 Ghilad
+1859 Târgu Ciacova
+1860 Ciacova
+1861 Obădeni
+1862 Timişoara C.E.T.
+1863 Timişeni
+1864 Pădureni Timiş
+1865 Voiteni
+1866 Deta
+1867 Denta
+1868 Stamora Moraviţa
+1869 Birda
+1870 Măureni
+1871 Gherteniş
+1872 Berzovia
+1873 Bocşa Română Haltă
+1874 Bocşa Română
+1875 Vasiova
+1876 Bocşa Montană
+1877 Colţan
+1878 Moniom
+1879 Câlnic
+1880 Fizeş
+1881 Tirol
+1882 Doclin
+1883 Surduc Banat
+1884 Forotic
+1885 Comorâşte
+1886 Grădinari Caraş
+1887 Greoni
+1888 Ticvanu Mic
+1889 Agadici
+1890 Oraviţa
+1891 Răcăşdiuta
+1892 Răcăşdia
+1893 Vrăniuţi
+1894 Berlişte
+1895 Milcoveni
+1896 lam
+1897 Brădişoru de Jos
+1898 Dobrei
+1899 Lişava
+1900 Ciudanoviţa
+1901 Gârlişte
+1902 Anina
+1903 Timişoara Vest
+1904 Utvin
+1905 Sânmihai
+1906 Parţa
+1907 Peciu Nou
+1908 Cebza
+1909 Giulvăz
+1910 Rudna
+1911 Cruceni
+1912 Checea
+1913 Cenei
+1914 Cetăţuia
+1915 Pustiniş
+1916 Otelec
+1917 Ionel
+1918 Grabaţ
+1919 Lenauheim
+1920 Bulgăruş

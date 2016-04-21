@@ -1,0 +1,3331 @@
+*Vertices 1645
+1 St. Pölten Hbf
+2 Prinzersdorf
+3 Markersdorf a. d. Pielach
+4 Groß Sierning
+5 Loosdorf
+6 Melk
+7 Pöchlarn
+8 Krummnußbaum
+9 Säusenstein
+10 Ybbs a. d. Donau [3]
+11 Neumarkt a. d. Ybbs-Karlsb.
+12 Hubertendorf
+13 Blindenmarkt
+14 Amstetten
+15 Mauer-Öhling
+16 Aschbach
+17 Krenstetten-Biberbach [3]
+18 St. Peter [2]-Seitenstetten [3]
+19 St. Johann-Weistrach [4]
+20 Haag [2]
+21 Stadt Haag
+22 St. Valentin
+23 Ennsdorf
+24 Enns [2]
+25 Asten-Fisching Hst
+26 Linz Ebelsberg
+27 Linz Kleinmünchen
+28 Linz Hbf
+29 Leonding
+30 Pasching
+31 Hörsching [4]
+32 Oftering
+33 Marchtrenk [2]
+34 Wels Hbf
+35 Gunskirchen
+36 Lambach
+37 Lambach Markt
+38 Neukirchen bei Lambach
+39 Breitenschützing
+40 Schwanenstadt
+41 Attnang-Puchheim
+42 Vöcklabruck
+43 Timelkam
+44 Neukirchen [4]-Gampern [4]
+45 Redl-Zipf [2]
+46 Vöcklamarkt
+47 Frankenmarkt
+48 Pöndorf
+49 Ederbauer
+50 Oberhofen-Zell am Moos [7]
+51 Straßwalchen [2]
+52 Steindorf bei Straßwalchen
+53 Neumarkt-Köstendorf [2]
+54 Weng
+55 Wallersee
+56 Seekirchen am Wallersee
+57 Eugendorf
+58 Hallwang-Elixhausen [3]
+59 Salzburg Kasern
+60 Salzburg Hbf
+61 Wien Westbahnhof
+62 Wien Penzing
+63 Wien Hütteldorf
+64 Wien Hadersdorf
+65 Wien Weidlingau
+66 Purkersdorf Sanatorium
+67 Unter Purkersdorf [2]
+68 Purkersdorf-Gablitz [4]
+69 Unter Tullnerbach
+70 Tullnerbach-Pressbaum
+71 Pressbaum
+72 Dürrwien
+73 Rekawinkel
+74 Eichgraben-Altlengbach [7]
+75 Unter Oberndorf
+76 Maria Anzbach
+77 Hofstatt
+78 Neulengbach Stadt
+79 Neulengbach
+80 Ollersbach
+81 Kirchstetten
+82 Böheimkirchen
+83 Schildberg
+84 Pottenbrunn [2]
+85 Herzogenburg
+86 Herzogenburg-Wielandsthal
+87 Statzendorf
+88 Meidling im Tal
+89 Paudorf
+90 Klein Wien
+91 Furth-Göttweig
+92 Furth-Palt
+93 Krems a.d. Donau
+94 St. Pölten-Traisenpark
+95 Viehofen
+96 Ober Radlberg
+97 Unter Radlberg
+98 Herzogenburg Stadt
+99 Getzersdorf
+100 Traismauer
+101 Gemeinlebarn
+102 Sitzenberg-Reidling
+103 Trasdorf
+104 Moosbierbaum-Heiligeneich
+105 Atzenbrugg
+106 Michelhausen
+107 Pixendorf
+108 Judenau-Sieghartskirchen [3]
+109 Tulln Stadt
+110 Tulln
+111 Traisen
+112 Traisen Markt
+113 Marktl [A]
+114 Lilienfeld
+115 Lilienfeld Krankenhaus
+116 Schrambach
+117 Freiland
+118 Innerfahrafeld
+119 Furthof
+120 Hohenberg
+121 In der Bruck
+122 Amt Mitterbach
+123 St. Aegyd Eisenwerk
+124 St. Aegyd am Neuwalde
+125 Markt St. Aegyd a. N.
+126 St. Pölten Alpenbf
+127 St. Pölten-Porschestraße
+128 Spratzern Haltestelle
+129 Spratzern
+130 Hart-Wörth
+131 St. Georgen am Steinfeld
+132 Wilhelmsburg a. d. Traisen
+133 Kreisbach
+134 Göblasbruck
+135 Rotheau-Eschenau [3]
+136 Wiesenfeld-Schwarzenbach [2]
+137 St. Veit a. d. Gölsen
+138 Rainfeld-Klein Zell [11]
+139 Rohrbach a. d. Gölsen
+140 Hainfeld
+141 Ober Grafendorf
+142 St. Margarethen-Rammersdorf
+143 Bischofstetten
+144 Teufelsdorf
+145 Kilb
+146 Heinrichsberg
+147 Mank
+148 St. Pölten Alpenbf MAZ
+149 Schwadorf
+150 Klangen
+151 Weinburg
+152 Kammerhof
+153 Hofstetten-Grünau
+154 Mainburg
+155 Rabenstein NÖ
+156 Steinklamm
+157 Steinschal-Tradigist [2]
+158 Kirchberg a. d. Pielach
+159 Schwerbach
+160 Loich [2]
+161 Schwarzenbach a. d. Pielach [6]
+162 Frankenfels
+163 Boding
+164 Laubenbachmühle
+165 Unter Buchberg
+166 Winterbach
+167 Puchenstuben
+168 Gösing
+169 Annaberg [6]
+170 Wienerbruck-Josefsberg [3]
+171 Erlaufklause
+172 Mitterbach
+173 Mariazell
+174 Erlauf
+175 Petzenkirchen
+176 Wieselburg a. d. Erlauf
+177 Mühling
+178 Mühling-Plaika
+179 Schauboden
+180 Purgstall
+181 Sölling
+182 Saffen
+183 Scheibbs
+184 Neustift
+185 Neubruck
+186 Peutenburg
+187 Kienberg-Gaming [3]
+188 Greinsfurth
+189 Ulmerfeld-Hausmening
+190 Kröllendorf
+191 Hilm-Kematen
+192 Rosenau
+193 Sonntagberg Hst [4]
+194 Böhlerwerk a. d. Ybbs
+195 Waidhofen a. d. Ybbs
+196 Stadt Waidhofen a. d. Ybbs
+197 Oberland
+198 Gaflenz
+199 Weyer
+200 Kastenreith Hst
+201 Kleinreifling
+202 Schönau a. d. Enns
+203 Weißenbach-St. Gallen [3]
+204 Großreifling
+205 Landl
+206 Hieflau
+207 Gstatterboden i. Nationalpark
+208 Johnsbach i. Nationalpark [6]
+209 Admont
+210 Frauenberg a. d. Enns [2]
+211 Selzthal
+212 Herzograd
+213 Ernsthofen
+214 Dorf a. d. Enns
+215 Ramingdorf-Haidershofen
+216 Steyr-Münichholz
+217 Steyr
+218 Garsten
+219 Sand
+220 Lahrndorf
+221 Dürnbach
+222 Ternberg
+223 Trattenbach
+224 Losenstein
+225 Reichraming
+226 Großraming Kraftwerk
+227 Großraming
+228 Küpfern
+229 Kummerbrücke
+230 Gesäuse Eingang
+231 Gstadt
+232 Schütt
+233 Steinmühl
+234 Ederlehen
+235 Gurhof
+236 Ybbsitz
+237 Waidhofen a. d. Ybbs-Schillerpark
+238 Waidhofen a. d. Ybbs Lokalbahn
+239 Vogelsang
+240 Kreilhof
+241 Gaissulz
+242 Mirenau
+243 Opponitz
+244 Seeburg
+245 Hohenlehen
+246 Kleinhollenstein
+247 Saimannslehen
+248 Großhollenstein
+249 Blamau
+250 Königsberg
+251 Obereinöd
+252 St. Georgen am Reith
+253 Kogelsbach
+254 Göstling a. d. Ybbs
+255 Stiegengraben-Ybbstalerhütte
+256 Kasten
+257 St. Pantaleon [4]
+258 Mauthausen
+259 Schwertberg
+260 Aisthofen
+261 Perg
+262 Perg Schulzentrum
+263 Arbing
+264 Baumgartenberg
+265 Saxen
+266 Dornach
+267 Grein-Bad Kreuzen [7]
+268 Grein Stadt
+269 St. Nikola-Struden
+270 Sarmingstein
+271 Linz Oed
+272 Linz Wegscheid
+273 St. Martin bei Traun
+274 Traun
+275 Ansfelden
+276 Nettingsdorf
+277 Nöstlbach-St. Marien [3]
+278 Neuhofen a. d. Krems
+279 Kematen a. d. Krems
+280 Rohr-Bad Hall [4]
+281 Kremsmünster
+282 Wartberg a. d. Krems
+283 Nußbach [4]
+284 Schlierbach
+285 Kirchdorf a. d. Krems
+286 Micheldorf
+287 Klaus
+288 Steyrling [3]
+289 Hinterstoder [13]
+290 Roßleithen [6]
+291 Windischgarsten
+292 Spital am Pyhrn
+293 Ardning
+294 Linz Franckstraße
+295 Steyregg
+296 Pulgarn
+297 St. Georgen a. d. Gusen
+298 St. Georgen a. d. Gusen Hst
+299 Lungitz
+300 Katsdorf
+301 Gaisbach-Wartberg [3]
+302 Schloß Haus
+303 Pregarten
+304 Selker
+305 Kefermarkt
+306 Lasberg - St. Oswald
+307 Freistadt [3]
+308 Summerau
+309 Linz Urfahr
+310 Puchenau
+311 Puchenau West
+312 Achleitnersiedlung
+313 Dürnberg
+314 Ottensheim
+315 Walding
+316 Rottenegg
+317 Lacken
+318 Gerling OÖ
+319 Neuhaus [6]-Niederwaldkirchen [2]
+320 Kleinzell [2]
+321 Neufelden
+322 Pürnstein
+323 Iglmühle
+324 Haslach [3]
+325 Rohrbach-Berg
+326 Oepping
+327 Schlägl
+328 Aigen-Schlägl [2]
+329 Niederspaching
+330 Peuerbach
+331 Untergaumberg
+332 Gaumberg
+333 Leonding Lokalbahn
+334 Straßfeld
+335 Bergham
+336 Am Dürrweg
+337 Rufling
+338 Rufling West
+339 Dörnbach-Hitzing
+340 Thurnharting
+341 Kirchberg-Thürnau
+342 Straßham-Schönering
+343 Wehrgasse
+344 Alkoven
+345 Alkoven Schule
+346 Straß-Emling
+347 Fraham
+348 Unterhillinglah
+349 Eferding Haltestelle
+350 Eferding
+351 Sperneck
+352 Wackersbach
+353 Kirnberg
+354 Gstocket
+355 Gschnarret
+356 Prattsdorf-Dachsberg
+357 Prambachkirchen-Bad Wein.
+358 Manzing-Prambach
+359 Schurrer-Prambach
+360 Hochscharten
+361 Waizenkirchen
+362 Willersdorf a. d. Aschach
+363 Itzling
+364 Stefansdorf
+365 Prambeckenhof
+366 Pötting
+367 Oberaschach
+368 Straßhof a. d. Aschach
+369 Neumarkt-Kallham
+370 Haiding
+371 Bad Schallerbach-Wallern
+372 Schlüßlberg
+373 Grieskirchen-Gallspach [6]
+374 Obertrattnach-Markt Hofkirchen [4]
+375 Kimpling
+376 Kumpfmühl
+377 Riedau
+378 Zell a. d. Pram
+379 Andorf
+380 Taufkirchen a. d. Pram
+381 Gopperding
+382 Schärding
+383 Wernstein
+384 Passau Hbf
+385 Wendling [2]
+386 Pram-Haag [9]
+387 Peterskirchen
+388 Ried im Innkreis
+389 Neuratting
+390 Gurten
+391 Geinberg
+392 Obernberg [9]-Altheim [2]
+393 Mühlheim
+394 Mining
+395 Hagenau im Innkreis
+396 Braunau am Inn
+397 Simbach (Inn)
+398 Breitwiesen
+399 Finklham
+400 Breitenaich
+401 Kalköfen-Daxberg [6]
+402 Lahöfen
+403 Leumühle
+404 Pupping
+405 Karling
+406 Aschach a. d. Donau
+407 Wels Lokalbahn
+408 Wels Messe
+409 Schauersberg
+410 Steinhaus bei Wels
+411 Oberhart
+412 Unterhart
+413 Sattledt
+414 Maidorf
+415 Großendorf
+416 Wiesmühle
+417 Voitsdorf
+418 Wilfling
+419 Diensthubersiedlung
+420 Pettenbach
+421 Steinbachbrücke
+422 Viechtwang
+423 Scharnstein-Mühldorf
+424 Kothmühle
+425 Traxenbichl
+426 Grünau im Almtal
+427 Stadl-Paura
+428 Bad Wimsbach Styria Siedlung
+429 Bad Wimsbach-Neydharting
+430 Steinfeld
+431 Au
+432 Mittlere Au
+433 Blankenberg
+434 Waldl
+435 Kößlwang
+436 Feldham
+437 Vorchdorf-Schule
+438 Vorchdorf-Eggenberg
+439 Schloss Eggenberg
+440 Weidach
+441 Falkenohren
+442 Kirchham
+443 Kirchham Ort
+444 Laizing
+445 Eisengattern
+446 Karl z’Neuhub
+447 Neuhub
+448 Gschwandt-Schule
+449 Gschwandt-Rabersberg
+450 Unterm Wald
+451 Baumgarten-Waldbach
+452 Engelhof Lokalbahn
+453 Lembergweg
+454 Gmunden-Traundorf
+455 Gmunden Seebf
+456 Stroham
+457 Aichkirchen
+458 Bachmanning
+459 Getzing
+460 Hörbach
+461 Eggerding
+462 Gaspoltshofen
+463 Altenhof am Hausruck
+464 Weinberg-Geboltskirchen [4]
+465 Weibern-Aistersheim [4]
+466 Meggenbach
+467 Haag am Hausruck
+468 Wankham
+469 Aurachkirchen
+470 Pinsdorf
+471 Gmunden [2]
+472 Altmünster am Traunsee
+473 Traunkirchen
+474 Traunkirchen Ort
+475 Ebensee Landungsplatz
+476 Ebensee
+477 Steinkogel
+478 Lahnstein
+479 Langwies [A]
+480 Mitterweißenbach
+481 Bad Ischl
+482 Lauffen
+483 Goisern Jodschwefelbad
+484 Bad Goisern
+485 Steeg-Gosau [15]
+486 Obersee
+487 Hallstatt
+488 Obertraun-Dachsteinhöhlen
+489 Obertraun-Koppenbrüllerhöhle
+490 Bad Aussee [2]
+491 Kainisch
+492 Bad Mitterndorf-Heilbrunn
+493 Bad Mitterndorf
+494 Schiflugschanze Kulm
+495 Tauplitz
+496 Pürgg
+497 Stainach-Irdning [5]
+498 Lehen-Altensam
+499 Wolfshütte
+500 Ottnang-Wolfsegg
+501 Bergern
+502 Holzleithen
+503 Hausruck
+504 Eberschwang [2]
+505 Oberbrunn
+506 Bad Ried
+507 Aurolzmünster Hst
+508 St. Martin im Innkreis
+509 Hart im Innkreis
+510 Antiesenhofen
+511 Dietrichshofen
+512 Suben
+513 Oberthalheim-Timelkam
+514 Lenzing
+515 Lenzing Ort
+516 Siebenmühlen-Rosenau
+517 Kammer-Schörfling
+518 St. Wolfgang Schafbergbf
+519 Schafbergalpe
+520 Schafbergspitze
+521 Haid
+522 Walchen (Kinderweltmuseum)
+523 Schmidham
+524 Walsberg
+525 Hipping
+526 Kogl
+527 St. Georgen im Attergau
+528 Seniorenheim
+529 Thern
+530 Stöttham
+531 Palmsdorf
+532 Attersee
+533 Friedburg [3]
+534 Lengau
+535 Teichstätt
+536 Achenlohe
+537 Munderfing Dampfsäge
+538 Munderfing
+539 Mattighofen
+540 Furth
+541 Uttendorf-Helpfau
+542 Mauerkirchen
+543 St. Georgen a. d. Mattig
+544 Salzburg Sam
+545 Salzburg Gnigl
+546 Salzburg Parsch
+547 Salzburg Aigen
+548 Salzburg Süd
+549 Elsbethen
+550 Puch Urstein
+551 Puch-Oberalm
+552 Hallein
+553 Hallein Burgfried
+554 Bad Vigaun
+555 Kuchl Garnei
+556 Kuchl
+557 Golling-Abtenau [19]
+558 Tenneck
+559 Werfen
+560 Pfarrwerfen
+561 Bischofshofen
+562 Mitterberghütten
+563 St. Johann im Pongau
+564 Schwarzach-St. Veit
+565 Lend
+566 Eschenau
+567 Taxenbach-Rauris [10]
+568 Gries im Pinzgau
+569 Bruck-Fusch [7]
+570 Zell am See
+571 Maishofen-Saalbach [15]
+572 Gerling im Pinzgau
+573 Saalfelden
+574 Leogang-Steinberge
+575 Leogang [2]
+576 Hütten
+577 Hochfilzen
+578 Pfaffenschwendt
+579 Fieberbrunn [2]
+580 Grieswirt
+581 St. Johann in Tirol
+582 Wiesenschwang-Oberndorf
+583 Kitzbühel
+584 Kitzbühel Hahnenkamm
+585 Schwarzsee
+586 Kirchberg in Tirol
+587 Brixen im Thale
+588 Westendorf (Tirol)
+589 Windau
+590 Hopfgarten Berglift
+591 Hopfgarten
+592 Bruckhäusl
+593 Wörgl
+594 Jenbach
+595 Innsbruck Hbf
+596 Bürmoos
+597 Eching
+598 Irlach
+599 St. Georgen bei Salzburg
+600 St. Pantaleon-Reith
+601 Wildshut
+602 Eiferding
+603 Riedersbach
+604 Trimmelkam
+605 Salzburg Lokalbahn
+606 Salzburg Itzling
+607 Maria Plain-Plainbrücke
+608 Hagenau
+609 Bergheim
+610 Schlachthof
+611 Muntigl
+612 Siggerwiesen
+613 Anthering
+614 Acharting
+615 Pabing am Haunsberg
+616 Weitwörth-Nußdorf [5]
+617 Oichtensiedlung
+618 Oberndorf Stadt
+619 Oberndorf bei Salzburg
+620 Ziegelhaiden
+621 Arnsdorf
+622 Zehmemoos
+623 Lamprechtshausen
+624 Loifarn
+625 Dorfgastein
+626 Bad Hofgastein [3]
+627 Bad Hofgastein Haltestelle
+628 Angertal
+629 Bad Gastein
+630 Böckstein
+631 Mallnitz-Obervellach [8]
+632 Oberfalkenstein
+633 Penk
+634 Kolbnitz
+635 Mühldorf-Möllbrücke [3]
+636 Pusarnitz
+637 Spittal-Millstättersee
+638 Rothenthurn
+639 Ferndorf
+640 Markt Paternion
+641 Paternion [4]-Feistritz
+642 Weißenstein-Kellerberg
+643 Puch
+644 Gummern
+645 Villach Hbf
+646 Velden am Wörthersee
+647 Pörtschach am Wörthersee
+648 Krumpendorf
+649 Klagenfurt Hbf
+650 Villach Westbf
+651 Villach Warmbad
+652 Gödersdorf
+653 Finkenstein
+654 Faak am See
+655 Ledenitzen
+656 Winkl im Rosental
+657 Rosenbach
+658 Jesenice
+659 Lendorf
+660 Möllbrücke-Sachsenburg
+661 Markt Sachsenburg
+662 Kleblach-Lind
+663 Steinfeld im Drautal [2]
+664 Greifenburg [2]-Weißensee [11]
+665 Berg im Drautal
+666 Dellach im Drautal
+667 Irschen [3]
+668 Oberdrauburg
+669 Nikolsdorf [2]
+670 Dölsach [2]
+671 Lienz
+672 Thal [2]
+673 Mittewald a. d. Drau
+674 Abfaltersbach [2]
+675 Tassenbach
+676 Sillian
+677 Weitlanbrunn
+678 San Candido/Innichen
+679 Tischlerhäusl
+680 Kitzsteinhornstraße
+681 Bruckberg
+682 Zellermoos
+683 Bruckberg Golfplatz
+684 Fürth-Kaprun [2]
+685 Piesendorf
+686 Piesendorf Bad
+687 Walchen im Pinzgau
+688 Jesdorf-Bergfried
+689 Niedernsill
+690 Lengdorf
+691 Uttendorf-Stubachtal
+692 Pirtendorf
+693 Stuhlfelden
+694 Heilbad Burgwies
+695 Burk
+696 Mittersill
+697 Rettenbach
+698 Hollersbach
+699 Dorf Paßthurn
+700 Mühlbach im Pinzgau
+701 Wenns
+702 Bramberg
+703 Bramberg-Steinach
+704 Habachtal
+705 Neukirchen Vorstadl
+706 Neukirchen am Großvenediger
+707 Sulzbachtäler
+708 Rosental Großvenediger
+709 Wald im Pinzgau
+710 Kreidlsiedlung
+711 Lahnsiedlung
+712 Krimml
+713 Pöham
+714 Hüttau
+715 Niedernfritz-St. Martin [5]
+716 Eben im Pongau
+717 Altenmarkt im Pongau
+718 Radstadt
+719 Mandling
+720 Pichl
+721 Schladming
+722 Haus [3]
+723 Aich-Assach
+724 Pruggern
+725 Gröbming [4]
+726 Stein a. d. Enns
+727 Oeblarn
+728 Niederöblarn
+729 St. Martin am Grimming [2]
+730 Trautenfels
+731 Wörschach Schwefelbad Hst
+732 Liezen
+733 Stadt Rottenmann
+734 Trieben
+735 Gaishorn
+736 Treglwang
+737 Wald am Schoberpaß
+738 Kalwang
+739 Mautern
+740 Kammern
+741 Seiz
+742 Traboch-Timmersdorf
+743 St. Michael
+744 Kufstein
+745 Schaftenau
+746 Langkampfen
+747 Kirchbichl
+748 Kundl
+749 Rattenberg-Kramsach
+750 Brixlegg
+751 Münster [2]-Wiesing [2]
+752 Stans bei Schwaz
+753 Schwaz
+754 Pill-Vomperbach
+755 Terfens-Weer [2]
+756 Fritzens-Wattens
+757 Volders-Baumkirchen
+758 Hall in Tirol
+759 Rum
+760 Unterberg-Stefansbrücke
+761 Patsch [2]
+762 Matrei
+763 Steinach in Tirol
+764 St. Jodok
+765 Gries
+766 Brennersee
+767 Brennero/Brenner
+768 Rotholz
+769 Straß im Zillertal
+770 Schlitters
+771 Gagering
+772 Fügen-Hart [2]
+773 Kapfing
+774 Uderns
+775 Ried im Zillertal
+776 Kaltenbach-Stumm
+777 Aschau im Zillertal
+778 Erlach im Zillertal
+779 Zell am Ziller
+780 Ramsau-Hippach
+781 Bühel
+782 Mayrhofen
+783 Burgeck
+784 Eben
+785 Maurach
+786 Achensee Schiffstation
+787 Innsbruck Stubaitalbf
+788 Sonnenburgerhof
+789 Gärberbach
+790 Hölltal
+791 Natters
+792 Burgstall
+793 Mutters
+794 Birchfeld
+795 Nockhofweg-Muttereralmb.
+796 Raitis
+797 Feldeler
+798 Außerkreith
+799 Kreith
+800 Brandeck
+801 Telfer-Wiesen
+802 Luimes
+803 Telfes im Stubai
+804 Telfes im Stubai Tenniscamp
+805 Fulpmes
+806 Innsbruck Westbf
+807 Völs
+808 Kematen in Tirol
+809 Zirl
+810 Inzing
+811 Hatting
+812 Flaurling
+813 Oberhofen im Inntal
+814 Telfs-Pfaffenhofen
+815 Rietz
+816 Stams
+817 Mötz
+818 Silz
+819 Haiming
+820 Ötztal
+821 Roppen
+822 Imst [4]-Pitztal
+823 Imsterberg
+824 Schönwies
+825 Landeck-Zams
+826 St. Anton am Arlberg
+827 Langen am Arlberg
+828 Bludenz
+829 Feldkirch
+830 Altenstadt
+831 Gisingen
+832 Tisis
+833 Schaanwald
+834 Nendeln
+835 Forst Hilti
+836 Schaan-Vaduz [2]
+837 Buchs SG
+838 St. Margrethen
+839 Lustenau Markt
+840 Lustenau
+841 Hard-Fussach
+842 Riedenburg
+843 Bregenz
+844 Nüziders
+845 Ludesch
+846 Nenzing
+847 Schlins
+848 Frastanz
+849 Feldkirch Amberg
+850 Rankweil
+851 Sulz [2]-Röthis [2]
+852 Klaus in Vorarlberg [2]
+853 Götzis
+854 Altach
+855 Hohenems
+856 Hatlerdorf
+857 Dornbirn-Schoren
+858 Dornbirn
+859 Haselstauden
+860 Schwarzach in Vorarlberg
+861 Wolfurt
+862 Lauterach
+863 Bregenz Hafen
+864 Lochau-Hörbranz [2]
+865 Lindau Hbf
+866 Schwarzenberg
+867 Bezau
+868 Innsbruck Hötting
+869 Allerheiligenhöfe
+870 Kranebitten
+871 Hochzirl
+872 Leithen
+873 Reith
+874 Seefeld in Tirol
+875 Gießenbach
+876 Scharnitz
+877 Mittenwald
+878 Klais
+879 Garmisch-Partenkirchen
+880 Untergrainau
+881 Griesen (Oberbay)
+882 Ehrwald Zugspitzbahn
+883 Lermoos
+884 Lähn
+885 Bichlbach-Berwang [5]
+886 Bichlbach-Almkopfbahn
+887 Heiterwang-Plansee
+888 Bad Kreckelmoos
+889 Reutte in Tirol Schulzentrum
+890 Reutte in Tirol
+891 Pflach
+892 Musau
+893 Ulrichsbrücke-Füssen [6]
+894 Vils
+895 Schönbichl
+896 Pfronten-Steinach
+897 Bludenz-Moos
+898 Brunnenfeld
+899 Lorüns
+900 St. Anton im Montafon
+901 Vandans
+902 Kaltenbrunnen
+903 Tschagguns
+904 Schruns
+905 Wien Südbahnhof
+906 Wien Meidling
+907 Mödling
+908 Baden
+909 Leobersdorf
+910 Wiener Neustadt Hbf
+911 St. Egyden [4]
+912 Neunkirchen NÖ
+913 Ternitz
+914 Pottschach
+915 Gloggnitz
+916 Schlöglmühl
+917 Payerbach-Reichenau
+918 Küb
+919 Eichberg
+920 Klamm-Schottwien [2]
+921 Breitenstein
+922 Wolfsbergkogel
+923 Semmering
+924 Steinhaus
+925 Spital am Semmering
+926 Mürzzuschlag
+927 Hönigsberg
+928 Langenwang
+929 Krieglach
+930 Mitterdorf-Veitsch [8]
+931 Wartberg im Mürztal
+932 Kindberg
+933 Allerheiligen-Mürzhofen
+934 Marein-St. Lorenzen
+935 Kapfenberg Fachhochschule
+936 Kapfenberg
+937 Bruck/Mur
+938 Pernegg
+939 Mixnitz-Bärenschützklamm [3]
+940 Frohnleiten
+941 Peggau-Deutschfeistritz
+942 Stübing
+943 Gratwein-Gratkorn
+944 Judendorf-Straßengel
+945 Graz Hbf
+946 Graz Don Bosco
+947 Puntigam
+948 Feldkirchen-Seiersberg
+949 Flughafen Graz-Feldkirchen
+950 Kalsdorf
+951 Werndorf
+952 Wildon
+953 Lebring Hst
+954 Kaindorf a. d. Sulm [2]
+955 Leibnitz
+956 Ehrenhausen
+957 Magnesitwerk Veitsch-Radex
+958 Wien Hetzendorf
+959 Wien Atzgersdorf
+960 Wien Liesing
+961 Perchtoldsdorf
+962 Brunn-Maria Enzersdorf
+963 Guntramsdorf Südbahn
+964 Gumpoldskirchen
+965 Pfaffstätten
+966 Bad Vöslau
+967 Kottingbrunn
+968 Sollenau
+969 Felixdorf
+970 Theresienfeld
+971 Wiener Neustadt Nord
+972 Wien Inzersdorf
+973 Wien Blumental
+974 Hennersdorf
+975 Achau
+976 Münchendorf
+977 Ebreichsdorf
+978 Weigelsdorf
+979 Wampersdorf [2]
+980 Pottendorf-Landegg
+981 Ebenfurth
+982 Untereggendorf
+983 Obereggendorf
+984 Wiener Neustadt Civitas Nova
+985 Neufeld a. d. Leitha
+986 Müllendorf
+987 Wulkaprodersdorf
+988 Draßburg
+989 Baumgarten [2]
+990 Sopron
+991 Weissenbach-Neuhaus
+992 Wittmannsdorf
+993 Enzesfeld-Lindabrunn [3]
+994 Hirtenberg
+995 St. Veit a. d. Triesting
+996 Berndorf Fabrik
+997 Berndorf Stadt
+998 Pottenstein a. d. Triesting
+999 Fahrafeld
+1000 Wien Oper
+1001 Johann-Strauß-Gasse
+1002 Kliebergasse
+1003 Wien Matzleinsdorfer Platz
+1004 Eichenstraße
+1005 Wien Wolfganggasse
+1006 Wien Dörfelstraße
+1007 Wien Philadelphiabrücke
+1008 Schedifkaplatz
+1009 Schöpfwerk
+1010 Gutheil-Schoder-Gasse
+1011 Inzersdorf Personenbahnhof
+1012 Neu Erlaa
+1013 Schönbrunner Allee
+1014 Vösendorf-Siebenhirten
+1015 Vösendorf-Shopping City Süd
+1016 Maria Enzersdorf-Südstadt
+1017 Wiener Neudorf
+1018 Griesfeld
+1019 Neu Guntramsdorf
+1020 Guntramsdorf Lokalbahn
+1021 Eigenheimsiedlung
+1022 Möllersdorf
+1023 Traiskirchen Lokalbahn
+1024 Tribuswinkel-Josefsthal
+1025 Pfaffstätten Rennplatz
+1026 Leesdorf
+1027 Baden Viadukt
+1028 Baden Josefsplatz
+1029 Friedberg
+1030 Pinggau Freizeitzentrum
+1031 Sinnersdorf
+1032 Pinkafeld
+1033 Pinkafeld Schule
+1034 Altpinkafeld
+1035 Riedlingsdorf
+1036 Oberwart
+1037 Oberwart Einkaufszentrum
+1038 Großpetersdorf
+1039 Burg-Eisenberg
+1040 Rechnitz
+1041 Szombathely
+1042 Klein Wolkersdorf
+1043 Erlach
+1044 Brunn a. d. Pitten
+1045 Pitten
+1046 Sautern-Schiltern
+1047 Seebenstein
+1048 Gleißenfeld
+1049 Scheiblingkirchen-Warth
+1050 Petersbaumgarten
+1051 Edlitz [3]-Grimmenstein
+1052 Aspang
+1053 Ausschlag [3]-Zöbern [5]
+1054 Tauchen-Schaueregg [2]
+1055 Pinggau Markt
+1056 Dechantskirchen
+1057 Rohrbach-Vorau [12]
+1058 Grafendorf
+1059 St. Johann i. d. Haide
+1060 Hartberg
+1061 Wiener Neustadt Anemonensee
+1062 Bad Fischau-Brunn
+1063 Bad Fischau
+1064 Feuerwerksanstalt
+1065 Wöllersdorf
+1066 Wöllersdorf-Marchgraben
+1067 Piesting Harzwerk
+1068 Piesting
+1069 Dreistetten
+1070 Ober Piesting
+1071 Wopfing
+1072 Waldegg
+1073 Waldegg-Dürnbach
+1074 Oed
+1075 Miesenbach-Waidmannsfeld [4]
+1076 Ortmann
+1077 Pernitz Wipfelhofstraße
+1078 Pernitz-Muggendorf [3]
+1079 Pernitz Raimundviertel
+1080 Gutenstein
+1081 Brunn a. d. Schneebergbahn
+1082 Winzendorf
+1083 Urschendorf
+1084 Willendorf
+1085 Rothengrub
+1086 Unter Höflein
+1087 Grünbach am Schneeberg
+1088 Grünbach Schule
+1089 Grünbach Kohlenwerk
+1090 Pfennigbach
+1091 Puchberg am Schneeberg
+1092 Schneebergdörfl
+1093 Hauslitzsattel
+1094 Hengsthütte
+1095 Ternitzerhütte
+1096 Baumgartner
+1097 Hochschneeberg
+1098 Neckenmarkt-Horitschon
+1099 Oberpullendorf
+1100 Katzelsdorf
+1101 Neudörfl
+1102 Bad Sauerbrunn
+1103 Wiesen [3]-Sigleß [4]
+1104 Mattersburg Nord
+1105 Mattersburg
+1106 Marz-Rohrbach
+1107 Loipersbach-Schattendorf [3]
+1108 Harka
+1109 Deutschkreutz
+1110 Oberloisdorf
+1111 Kőszeg
+1112 Fehring
+1113 Hatzendorf
+1114 Söchau
+1115 Übersbach
+1116 Fürstenfeld
+1117 Bierbaum
+1118 Bad Blumau
+1119 Bad Waltersdorf
+1120 Sebersdorf
+1121 Graz Ostbf
+1122 Raaba
+1123 Autal
+1124 Laßnitzhöhe
+1125 Laßnitzthal
+1126 Gleisdorf
+1127 Takern-St. Margarethen
+1128 Kroisbach [4]-Zöbing
+1129 Studenzen-Fladnitz
+1130 Rohr Haltestelle
+1131 Gniebing
+1132 Feldbach
+1133 Lödersdorf
+1134 Hohenbrugg a. d. Raab
+1135 Jennersdorf
+1136 Weichselbaum a. d. Raab
+1137 Mogersdorf
+1138 Szentgotthárd
+1139 Gleisdorf West
+1140 Albersdorf
+1141 Wollsdorf
+1142 St. Ruprecht a. d. Raab
+1143 Fladnitz-Neudorf
+1144 Preding
+1145 Weiz
+1146 Weiz Stadt
+1147 Feldbach Landesbahn
+1148 Oedt Siedlung
+1149 Oedt
+1150 Prädiberg
+1151 Fischa
+1152 Burgfried
+1153 Gnas
+1154 Katzendorf
+1155 Maierdorf
+1156 Hofstätten
+1157 Trautmannsdorf in Steiermark
+1158 Bad Gleichenberg
+1159 Birkfeld
+1160 Deutschfeistritz
+1161 Zitoll
+1162 Prenning Viertler
+1163 Prenning
+1164 Waldstein
+1165 Himberg Haltestelle
+1166 Guggenbach Pulverwerksiedlung
+1167 Guggenbach
+1168 Guggenbach Warthkogelsiedlung
+1169 Übelbach Vormarkt
+1170 Übelbach
+1171 Lieboch
+1172 Lannach
+1173 Oisnitz-St. Josef [2]
+1174 Alling-Tobisegg
+1175 Preding [3]-Wieselsdorf
+1176 Wettmannstätten
+1177 Gussendorf
+1178 Groß St. Florian
+1179 Frauental-Bad Gams [5]
+1180 Deutschlandsberg
+1181 Hollenegg
+1182 Schwanberg [4]
+1183 St. Peter im Sulmtal
+1184 St. Martin i.S. [2]-Bergla
+1185 Dietmannsdorf
+1186 Pölfing-Brunn
+1187 Wies Markt
+1188 Wies-Eibiswald [5]
+1189 Graz Köflacherbf
+1190 Graz Wetzelsdorf
+1191 Graz Webling
+1192 Straßgang
+1193 Premstätten [2]-Tobelbad [3]
+1194 Lieboch Schadendorf
+1195 Söding-Mooskirchen
+1196 Köppling
+1197 Krottendorf-Ligist [2]
+1198 Gaisfeld
+1199 Krems in Steiermark
+1200 Voitsberg
+1201 Bärnbach
+1202 Köflach
+1203 Spielfeld-Straß
+1204 Oberaich
+1205 Niklasdorf
+1206 Leoben Hbf
+1207 Leoben Göss
+1208 Leoben Hinterberg
+1209 Kraubath
+1210 Preg
+1211 Fentsch-St. Lorenzen
+1212 Knittelfeld
+1213 Spielberg
+1214 Zeltweg
+1215 Judenburg [2]
+1216 Thalheim-Pöls [4]
+1217 St. Georgen ob Judenburg
+1218 Unzmarkt
+1219 Scheifling
+1220 Mariahof [3]-St. Lambrecht [8]
+1221 Neumarkt in Steiermark
+1222 Friesach
+1223 Micheldorf-Hirt
+1224 Treibach-Althofen
+1225 Kappel am Krappfeld
+1226 Passering
+1227 Launsdorf-Hochosterwitz
+1228 St. Georgen am Längsee [3]
+1229 St. Veit a. d. Glan
+1230 Glandorf
+1231 Maria Saal
+1232 Klagenfurt Annabichl
+1233 Klagenfurt Ostbf
+1234 Klagenfurt Lend
+1235 Pritschitz
+1236 Töschling
+1237 Lind-Rosegg [3]
+1238 Föderlach
+1239 Villach Seebach
+1240 Fürnitz
+1241 Neuhaus a. d. Gail
+1242 Pöckau
+1243 Arnoldstein
+1244 Thörl-Maglern
+1245 Tarvisio Boscoverde
+1246 Vordernberg Markt
+1247 Eisenerz
+1248 Weißkirchen
+1249 Eppenstein
+1250 Kathal
+1251 Obdach
+1252 Taxwirt
+1253 Reichenfels-St. Peter
+1254 Bad St. Leonhard
+1255 Wiesenau
+1256 Preblau-Sauerbrunn
+1257 Twimberg
+1258 Frantschach-St. Gertraud
+1259 Wolfsberg
+1260 Priel
+1261 St. Stefan im Lavanttal
+1262 St. Andrä im Lavanttal
+1263 Mühldorf im Lavanttal
+1264 St. Paul
+1265 St. Paul Bad
+1266 Granitztal
+1267 Eis-Ruden [5]
+1268 Aich im Jauntal
+1269 Bleiburg Stadt
+1270 Bleiburg [2]
+1271 St. Michael ob Bleiburg
+1272 Mittlern
+1273 Völkermarkt [7]-Kühnsdorf
+1274 Tainach [3]-Stein
+1275 Grafenstein
+1276 Klagenfurt Ebenthal
+1277 Tamsweg
+1278 St.Andrä-Andlwirt
+1279 Wallersbach
+1280 Lind-Scheifling
+1281 Niederwölz-Oberwölz [9]
+1282 Teufenbach
+1283 Frojach-Puxerboden
+1284 Frojach-Katschtal
+1285 Saurau
+1286 Triebendorf
+1287 Gestüthof
+1288 St. Egidi
+1289 Murau-Stolzalpe
+1290 Murau-St. Leonhard
+1291 Murau West
+1292 Kaindorf im Murtal
+1293 Marbach
+1294 St. Lorenzen ob Murau
+1295 Kreischberg Talstation
+1296 Lutzmannsdorf
+1297 Cäciliabrücke
+1298 Wandritsch
+1299 St. Ruprecht ob Murau
+1300 Falkendorf
+1301 Hagendorf
+1302 Stadl a. d. Mur
+1303 Einach
+1304 Predlitz-Ladin
+1305 Predlitz-Pichl
+1306 Predlitz-Turrach [12]
+1307 Kendlbruck
+1308 Hintering
+1309 Ramingstein
+1310 Ramingstein-Thomatal
+1311 Madling
+1312 Tamsweg-St. Leonhard
+1313 Mauterndorf
+1314 St. Veit a. d. Glan Westbf
+1315 Liebenfels
+1316 Tauchendorf-Haidensee
+1317 Glanegg
+1318 Mautbrücken
+1319 St. Martin-Sittich [4]
+1320 Feldkirchen in Kärnten
+1321 Tiffen
+1322 Steindorf am Ossiachersee
+1323 Ossiach-Bodensdorf
+1324 St. Urban am Ossiachersee
+1325 Sattendorf
+1326 Annenheim
+1327 Villach St. Ruprecht
+1328 Viktring [3]
+1329 Maria Rain in Kärnten
+1330 Weizelsdorf
+1331 Weizelsdorf Ort
+1332 St. Johann im Rosental
+1333 Feistritz im Rosental
+1334 Feistritz im Rosental West
+1335 Suetschach
+1336 Ladinach
+1337 Maria Elend im Rosental
+1338 Nötsch
+1339 Emmersdorf im Gailtal
+1340 St. Stefan [2]-Vorderberg
+1341 Görtschach-Förolach
+1342 Pressegger See
+1343 Vellach-Khünburg
+1344 Hermagor
+1345 Postran
+1346 Watschig
+1347 Tröpolach
+1348 Rattendorf-Jenig
+1349 Waidegg
+1350 Kirchbach im Gailtal
+1351 Reisach
+1352 Gundersheim
+1353 Dellach im Gailtal
+1354 St. Daniel
+1355 Kötschach-Mauthen
+1356 Parndorf Ort
+1357 Neusiedl am See
+1358 Wien Grillgasse
+1359 Kledering
+1360 Lanzendorf-Rannersdorf
+1361 Himberg
+1362 Gramatneusiedl
+1363 Götzendorf
+1364 Trautmannsdorf a. d. Leitha
+1365 Sarasdorf
+1366 Wilfleinsdorf
+1367 Bruck a. d. Leitha
+1368 Parndorf
+1369 Zurndorf
+1370 Nickelsdorf
+1371 Hegyeshalom
+1372 Neudorf
+1373 Gattendorf
+1374 Pama
+1375 Kittsee
+1376 Bratislava-Petržalka
+1377 Maria Lanzendorf
+1378 Laxenburg-Biedermannsdorf
+1379 Guntramsdorf-Kaiserau
+1380 Möllersdorf Aspangbahn
+1381 Traiskirchen Aspangbahn
+1382 Trumau
+1383 Ober Waltersdorf
+1384 Tattendorf
+1385 Teesdorf
+1386 Jois
+1387 Winden
+1388 Breitenbrunn
+1389 Purbach am Neusiedlersee
+1390 Donnerskirchen
+1391 Schützen Haltestelle
+1392 Schützen am Gebirge
+1393 Eisenstadt Schule
+1394 Eisenstadt
+1395 Wulkaprodersdorf Haltestelle
+1396 Bad Neusiedl am See
+1397 Weiden am See
+1398 Gols
+1399 Mönchhof Haltestelle
+1400 Mönchhof-Halbturn [3]
+1401 Frauenkirchen
+1402 St. Andrä am Zicksee
+1403 Wallern im Burgenland
+1404 Pamhagen
+1405 Fertőszéplak-Fertőd
+1406 Fertőszentmiklós
+1407 Absdorf-Hippersdorf [3]
+1408 Absberg
+1409 Großwiesendorf-Tiefenthal
+1410 Groß Weikersdorf
+1411 Heldenberg
+1412 Glaubendorf-Wetzdorf
+1413 Ziersdorf
+1414 Ravelsbach [3]
+1415 Limberg-Maissau [4]
+1416 Straning
+1417 Eggenburg
+1418 Kl. Meiseldorf-Maria Dreieichen
+1419 Sigmundsherberg
+1420 Hötzelsdorf-Geras [8]
+1421 Irnfritz
+1422 Göpfritz
+1423 Allentsteig [3]
+1424 Schwarzenau
+1425 Vitis
+1426 Hirschbach
+1427 Pürbach-Schrems [4]
+1428 Gmünd NÖ
+1429 Dietmanns
+1430 Alt Weitra
+1431 Weitra
+1432 St. Martin bei Weitra
+1433 Steinbach-Groß Pertholz [2]
+1434 Abschlag Fassldorf Hst
+1435 Langschlag
+1436 Groß Gerungs
+1437 Alt Nagelberg
+1438 Langegg
+1439 Aalfang
+1440 Heidenreichstein
+1441 Neu Nagelberg
+1442 Schönau Dorfwirtshaus Böhm
+1443 Litschau
+1444 Wien Franz-Josefs-Bahnhof
+1445 Wien Spittelau
+1446 Wien Heiligenstadt
+1447 Wien Nußdorf
+1448 Klosterneuburg-Weidling
+1449 Klosterneuburg-Kierling
+1450 Unter Kritzendorf
+1451 Kritzendorf
+1452 Höflein a.d. Donau
+1453 Greifenstein-Altenberg
+1454 St. Andrä [2]-Wördern
+1455 Zeiselmauer-Königstetten [4]
+1456 Muckendorf-Wipfing
+1457 Langenlebarn
+1458 Königsbrunn-Unterstockstall
+1459 Kirchberg am Wagram
+1460 Fels
+1461 Wagram-Grafenegg [4]
+1462 Etsdorf-Straß
+1463 Hadersdorf am Kamp
+1464 Gedersdorf
+1465 Rohrendorf
+1466 Campus Krems-Kunstmeile Krems
+1467 Stein-Mautern
+1468 Unterloiben
+1469 Dürnstein-Oberloiben
+1470 Weißenkirchen in der Wachau
+1471 Wösendorf-Joching
+1472 Spitz a. d. Donau
+1473 Schwallenbach
+1474 Willendorf in der Wachau
+1475 Aggsbach Markt
+1476 Grimsing
+1477 Emmersdorf a. d. Donau
+1478 Weitenegg
+1479 Klein Pöchlarn
+1480 Marbach-Maria Taferl [4]
+1481 Persenbeug
+1482 Weins-Isperdorf
+1483 Gobelsburg
+1484 Langenlois
+1485 Zöbing
+1486 Schönberg am Kamp
+1487 Stiefern
+1488 Altenhof
+1489 Plank am Kamp
+1490 Buchberg
+1491 Gars-Thunau
+1492 Kamegg
+1493 Stallegg
+1494 Rosenburg
+1495 Horn
+1496 Breiteneich bei Horn
+1497 Ganz
+1498 Bernschlag
+1499 Hörmanns
+1500 Groß Globnitz
+1501 Groß Haslau
+1502 Gerotten
+1503 Zwettl
+1504 Zwettl Stadt
+1505 Windigsteig
+1506 Kottschallings
+1507 Waidhofen a. d. Thaya
+1508 Wien Speising
+1509 Wien Floridsdorf
+1510 Wien Brünner Straße
+1511 Wien Jedlersdorf
+1512 Wien Strebersdorf
+1513 Wien Leopoldau
+1514 Wien Süßenbrunn
+1515 Wien Südtiroler Platz
+1516 Wien Rennweg
+1517 Wien Mitte Landstraße
+1518 Wien Praterstern
+1519 Wien Traisengasse
+1520 Wien Handelskai
+1521 Wien Siemensstraße
+1522 Gerasdorf
+1523 Gänserndorf
+1524 Weikendorf
+1525 Oberweiden
+1526 Marchegg [4]
+1527 Deutsch Wagram
+1528 Helmahof
+1529 Strasshof
+1530 Silberwald
+1531 Weikendorf-Dörfles
+1532 Tallesbrunn
+1533 Angern
+1534 Stillfried
+1535 Dürnkrut
+1536 Jedenspeigen
+1537 Sierndorf a. d. March
+1538 Drösing
+1539 Hohenau
+1540 Rabensburg
+1541 Bernhardsthal
+1542 Břeclav
+1543 Kapellerfeld
+1544 Seyring
+1545 Obersdorf
+1546 Wolkersdorf
+1547 Ulrichskirchen
+1548 Schleinbach [2]
+1549 Hautzendorf
+1550 Niederkreuzstetten
+1551 Neubau-Kreuzstetten
+1552 Ladendorf [2]
+1553 Paasdorf
+1554 Mistelbach
+1555 Siebenhirten
+1556 Hörersdorf
+1557 Frättingsdorf
+1558 Enzersdorf bei Staatz
+1559 Staatz [3]
+1560 Kottingneusiedl
+1561 Laa a. d. Thaya [2]
+1562 Laa a. d. Thaya Stadt
+1563 Stockerau
+1564 Hausleiten
+1565 Gaisruck
+1566 Langenzersdorf
+1567 Bisamberg
+1568 Korneuburg
+1569 Leobendorf-Burg Kreuzenstein [2]
+1570 Spillern
+1571 Ober Olberndorf
+1572 Sierndorf
+1573 Höbersdorf
+1574 Schönborn-Mallebern
+1575 Göllersdorf
+1576 Breitenwaida
+1577 Hollabrunn
+1578 Hetzmannsdorf-Wullersdorf
+1579 Guntersdorf
+1580 Platt
+1581 Zellerndorf
+1582 Retz
+1583 Šatov
+1584 Znojmo
+1585 Wien St. Marx (Vienna Bio Center)
+1586 Wien Geiselbergstraße
+1587 Wien Zentralfriedhof
+1588 Wien Kaiserebersdorf
+1589 Schwechat
+1590 Mannswörth
+1591 Flughafen Wien
+1592 Fischamend
+1593 Maria Ellend a.d. Donau
+1594 Haslau
+1595 Regelsbrunn
+1596 Wildungsmauer
+1597 Petronell-Carnuntum
+1598 Bad Deutsch Altenburg
+1599 Hainburg a.d. D. Frachtenbf
+1600 Hainburg a.d. D. Personenbf
+1601 Hainburg a.d. D. Ungartor
+1602 Wolfsthal
+1603 Wien Erzherzog-Karl-Straße
+1604 Wien Hirschstetten
+1605 Wien Hausfeldstraße
+1606 Wien Simmering
+1607 Wien Haidestraße
+1608 Wien Praterkai
+1609 Wien Lobau
+1610 Wien Stadlau
+1611 Wien Breitenleer Straße [2]
+1612 Raasdorf
+1613 Glinzendorf [3]
+1614 Siebenbrunn-Leopoldsdorf
+1615 Untersiebenbrunn
+1616 Schönfeld [2]-Lassee [3]
+1617 Breitensee NÖ
+1618 Prottes
+1619 Matzen
+1620 Raggendorf
+1621 Groß Schweinbarth
+1622 Pillichsdorf
+1623 Groß Engersdorf
+1624 Bockfließ
+1625 Auersthal
+1626 Raggendorf Markt
+1627 Bad Pirawarth
+1628 Klein Harras
+1629 Hohenruppersdorf
+1630 Sulz Museumsdorf
+1631 Hofern
+1632 Nieder Fladnitz
+1633 Pleißing-Waschbach
+1634 Weitersfeld NÖ
+1635 Ober Höflein
+1636 Anglerparadies Hessendorf
+1637 Langau
+1638 Geras-Kottaun [3]
+1639 Drosendorf
+1640 Wien Oberdöbling
+1641 Wien Krottenbachstraße
+1642 Wien Gersthof
+1643 Wien Hernals
+1644 Wien Ottakring
+1645 Wien Breitensee
+*Edges
+1 2 8
+2 3 2
+3 4 3
+4 5 5
+5 6 7
+6 7 9
+7 8 5
+8 9 4
+9 10 5
+10 11 4
+11 12 3
+12 13 3
+13 14 8
+14 15 7
+15 16 4
+16 17 5
+17 18 4
+18 19 4
+19 20 3
+20 21 3
+21 22 10
+22 23 5
+23 24 2
+24 25 2
+25 26 7
+26 27 2
+27 28 6
+28 29 4
+29 30 4
+30 31 2
+31 32 3
+32 33 5
+33 34 7
+34 35 7
+35 36 6
+36 37 2
+37 38 3
+38 39 3
+39 40 4
+40 41 6
+41 42 5
+42 43 5
+43 44 4
+44 45 3
+45 46 4
+46 47 5
+47 48 7
+48 49 3
+49 50 4
+50 51 3
+51 52 2
+52 53 2
+53 54 5
+54 55 2
+55 56 3
+56 57 3
+57 58 3
+58 59 4
+59 60 4
+61 62 3
+62 63 3
+63 64 3
+64 65 1
+65 66 1
+66 67 1
+67 68 1
+68 69 4
+69 70 3
+70 71 1
+71 72 1
+72 73 2
+73 74 5
+74 75 2
+75 76 2
+76 77 2
+77 78 1
+78 79 1
+79 80 4
+80 81 2
+81 82 6
+82 83 2
+83 84 3
+84 1 6
+85 86 1
+86 87 6
+87 88 3
+88 89 2
+89 90 1
+90 91 2
+91 92 2
+92 93 3
+1 94 2
+94 95 2
+95 96 2
+96 97 2
+97 85 3
+85 98 1
+98 99 5
+99 100 4
+100 101 5
+101 102 1
+102 103 5
+103 104 2
+104 105 2
+105 106 1
+106 107 3
+107 108 2
+108 109 6
+109 110 1
+111 112 2
+112 113 2
+113 114 2
+114 115 1
+115 116 1
+116 117 4
+117 118 6
+118 119 1
+119 120 2
+120 121 2
+121 122 4
+122 123 2
+123 124 1
+124 125 1
+1 126 2
+126 127 2
+127 128 1
+128 129 2
+129 130 1
+130 131 1
+131 132 3
+132 133 1
+133 134 2
+134 135 2
+135 111 2
+111 136 3
+136 137 2
+137 138 3
+138 139 3
+139 140 2
+141 142 4
+142 143 4
+143 144 2
+144 145 3
+145 146 3
+146 147 3
+1 148 2
+148 149 4
+149 141 6
+141 150 4
+150 151 1
+151 152 1
+152 153 2
+153 154 3
+154 155 2
+155 156 2
+156 157 2
+157 158 2
+158 159 3
+159 160 1
+160 161 4
+161 162 4
+162 163 4
+163 164 2
+164 165 2
+165 166 7
+166 167 4
+167 168 6
+168 169 4
+169 170 2
+170 171 4
+171 172 3
+172 173 4
+7 174 4
+174 175 5
+175 176 2
+176 177 3
+177 178 1
+178 179 3
+179 180 2
+180 181 2
+181 182 3
+182 183 2
+183 184 2
+184 185 2
+185 186 4
+186 187 3
+14 188 4
+188 189 4
+189 190 4
+190 191 3
+191 192 2
+192 193 2
+193 194 2
+194 195 2
+195 196 1
+196 197 7
+197 198 2
+198 199 6
+199 200 3
+200 201 3
+201 202 9
+202 203 6
+203 204 11
+204 205 4
+205 206 6
+206 207 9
+207 208 3
+208 209 11
+209 210 6
+210 211 8
+22 212 3
+212 213 5
+213 214 5
+214 215 3
+215 216 2
+216 217 2
+217 218 2
+218 219 3
+219 220 3
+220 221 3
+221 222 3
+222 223 2
+223 224 6
+224 225 6
+225 226 3
+226 227 4
+227 228 7
+228 200 3
+206 229 6
+229 207 3
+208 230 5
+230 209 6
+231 232 1
+232 233 1
+233 234 2
+234 235 1
+235 236 1
+195 237 2
+237 238 0
+238 239 1
+239 240 1
+240 231 2
+231 241 2
+241 242 4
+242 243 2
+243 244 2
+244 245 4
+245 246 2
+246 247 1
+247 248 2
+248 249 6
+249 250 2
+250 251 2
+251 252 1
+252 253 4
+253 254 5
+254 255 3
+255 256 5
+22 257 6
+257 258 2
+258 259 5
+259 260 2
+260 261 3
+261 262 1
+262 263 5
+263 264 4
+264 265 3
+265 266 3
+266 267 5
+267 268 2
+268 269 5
+269 270 3
+28 271 3
+271 272 2
+272 273 2
+273 274 2
+274 275 1
+275 276 3
+276 277 3
+277 278 3
+278 279 4
+279 280 5
+280 281 4
+281 282 7
+282 283 2
+283 284 4
+284 285 4
+285 286 3
+286 287 7
+287 288 4
+288 289 4
+289 290 12
+290 291 2
+291 292 6
+292 293 11
+293 211 6
+28 294 3
+294 295 3
+295 296 3
+296 297 5
+297 298 1
+298 299 4
+299 300 3
+300 301 5
+301 302 2
+302 303 3
+303 304 5
+304 305 6
+305 306 3
+306 307 7
+307 308 9
+309 310 4
+310 311 0
+311 312 3
+312 313 1
+313 314 1
+314 315 2
+315 316 2
+316 317 5
+317 318 2
+318 319 7
+319 320 2
+320 321 4
+321 322 3
+322 323 4
+323 324 4
+324 325 5
+325 326 3
+326 327 5
+327 328 1
+329 330 3
+28 331 2
+331 332 1
+332 333 1
+333 334 0
+334 335 1
+335 336 2
+336 337 0
+337 338 0
+338 339 1
+339 340 0
+340 341 3
+341 342 2
+342 343 1
+343 344 2
+344 345 0
+345 346 3
+346 347 3
+347 348 0
+348 349 3
+349 350 0
+350 351 3
+351 352 1
+352 353 1
+353 354 1
+354 355 3
+355 356 0
+356 357 3
+357 358 2
+358 359 1
+359 360 3
+360 361 0
+361 362 2
+362 329 1
+329 363 2
+363 364 1
+364 365 2
+365 366 1
+366 367 1
+367 368 0
+368 369 3
+34 370 8
+370 371 5
+371 372 4
+372 373 3
+373 374 6
+374 369 5
+369 375 4
+375 376 4
+376 377 4
+377 378 2
+378 379 7
+379 380 6
+380 381 8
+381 382 3
+382 383 5
+383 384 9
+369 385 7
+385 386 3
+386 387 6
+387 388 7
+388 389 11
+389 390 3
+390 391 5
+391 392 3
+392 393 3
+393 394 4
+394 395 5
+395 396 5
+396 397 2
+370 398 3
+398 399 3
+399 400 2
+400 401 2
+401 402 2
+402 350 2
+350 403 2
+403 404 2
+404 405 2
+405 406 2
+34 407 2
+407 408 0
+408 409 2
+409 410 3
+410 411 2
+411 412 2
+412 413 2
+413 414 3
+414 415 2
+415 416 2
+416 417 1
+417 418 4
+418 419 2
+419 420 1
+420 421 4
+421 422 3
+422 423 2
+423 424 2
+424 425 1
+425 426 3
+36 427 4
+427 428 3
+428 429 0
+429 430 1
+430 431 1
+431 432 1
+432 433 1
+433 434 0
+434 435 1
+435 436 1
+436 437 2
+437 438 0
+438 439 0
+439 440 2
+440 441 0
+441 442 1
+442 443 0
+443 444 2
+444 445 1
+445 446 1
+446 447 2
+447 448 1
+448 449 0
+449 450 2
+450 451 0
+451 452 1
+452 453 1
+453 454 1
+454 455 0
+38 456 1
+456 457 2
+457 458 1
+458 459 2
+459 460 1
+460 461 2
+461 462 1
+462 463 4
+463 464 1
+464 465 3
+465 466 2
+466 467 2
+41 468 2
+468 469 4
+469 470 4
+470 471 2
+471 472 5
+472 473 5
+473 474 2
+474 475 4
+475 476 1
+476 477 3
+477 478 2
+478 479 3
+479 480 4
+480 481 5
+481 482 5
+482 483 2
+483 484 2
+484 485 3
+485 486 4
+486 487 3
+487 488 2
+488 489 3
+489 490 8
+490 491 7
+491 492 7
+492 493 2
+493 494 4
+494 495 1
+495 496 6
+496 497 3
+41 498 3
+498 499 3
+499 500 5
+500 501 3
+501 502 3
+502 503 4
+503 504 4
+504 505 3
+505 388 5
+388 506 2
+506 507 5
+507 508 5
+508 509 3
+509 510 4
+510 511 3
+511 512 4
+512 381 5
+42 513 3
+513 514 2
+514 515 2
+515 516 1
+516 517 2
+518 519 4
+519 520 2
+46 521 2
+521 522 2
+522 523 0
+523 524 3
+524 525 1
+525 526 0
+526 527 1
+527 528 0
+528 529 2
+529 530 0
+530 531 1
+531 532 2
+52 533 4
+533 534 2
+534 535 1
+535 536 3
+536 537 3
+537 538 1
+538 539 5
+539 540 3
+540 541 3
+541 542 4
+542 543 4
+543 396 7
+60 544 2
+544 545 1
+545 546 2
+546 547 2
+547 548 2
+548 549 1
+549 550 3
+550 551 3
+551 552 3
+552 553 0
+553 554 3
+554 555 0
+555 556 4
+556 557 4
+557 558 14
+558 559 3
+559 560 1
+560 561 6
+561 562 3
+562 563 6
+563 564 5
+564 565 8
+565 566 4
+566 567 5
+567 568 5
+568 569 5
+569 570 6
+570 571 5
+571 572 4
+572 573 4
+573 574 6
+574 575 2
+575 576 3
+576 577 7
+577 578 4
+578 579 5
+579 580 6
+580 581 3
+581 582 6
+582 583 3
+583 584 3
+584 585 2
+585 586 5
+586 587 4
+587 588 3
+588 589 3
+589 590 6
+590 591 1
+591 592 5
+592 593 4
+593 594 25
+594 595 35
+596 597 2
+597 598 2
+598 599 0
+599 600 2
+600 601 1
+601 602 0
+602 603 1
+603 604 1
+605 606 1
+606 607 1
+607 608 1
+608 609 1
+609 610 1
+610 611 1
+611 612 1
+612 613 2
+613 614 1
+614 615 4
+615 616 1
+616 617 1
+617 618 2
+618 619 0
+619 620 1
+620 621 3
+621 596 1
+596 622 1
+622 623 1
+564 624 6
+624 625 9
+625 626 5
+626 627 3
+627 628 3
+628 629 5
+629 630 4
+630 631 12
+631 632 10
+632 633 3
+633 634 6
+634 635 5
+635 636 4
+636 637 8
+637 638 8
+638 639 4
+639 640 2
+640 641 3
+641 642 6
+642 643 4
+643 644 1
+644 645 9
+645 646 16
+646 647 8
+647 648 6
+648 649 8
+645 650 1
+650 651 3
+651 652 3
+652 653 2
+653 654 4
+654 655 5
+655 656 4
+656 657 3
+657 658 13
+637 659 6
+659 660 4
+660 661 2
+661 662 7
+662 663 7
+663 664 6
+664 665 5
+665 666 4
+666 667 5
+667 668 3
+668 669 7
+669 670 6
+670 671 5
+671 672 10
+672 673 6
+673 674 7
+674 675 4
+675 676 3
+676 677 3
+677 678 10
+570 679 1
+679 680 1
+680 681 1
+681 682 1
+682 683 1
+683 684 2
+684 685 2
+685 686 1
+686 687 2
+687 688 2
+688 689 2
+689 690 1
+690 691 5
+691 692 3
+692 693 1
+693 694 1
+694 695 1
+695 696 1
+696 697 3
+697 698 3
+698 699 2
+699 700 1
+700 701 1
+701 702 1
+702 703 0
+703 704 3
+704 705 1
+705 706 2
+706 707 1
+707 708 3
+708 709 1
+709 710 0
+710 711 1
+711 712 2
+561 713 4
+713 714 6
+714 715 2
+715 716 5
+716 717 4
+717 718 3
+718 719 9
+719 720 5
+720 721 5
+721 722 10
+722 723 2
+723 724 5
+724 725 2
+725 726 4
+726 727 5
+727 728 3
+728 729 2
+729 730 5
+730 497 2
+497 731 4
+731 732 9
+732 211 6
+211 733 6
+733 734 11
+734 735 5
+735 736 4
+736 737 7
+737 738 7
+738 739 8
+739 740 5
+740 741 2
+741 742 3
+742 743 5
+744 745 4
+745 746 2
+746 747 3
+747 593 4
+593 748 6
+748 749 8
+749 750 1
+750 751 6
+751 594 4
+594 752 5
+752 753 3
+753 754 3
+754 755 4
+755 756 4
+756 757 3
+757 758 4
+758 759 4
+759 595 5
+595 760 6
+760 761 3
+761 762 9
+762 763 5
+763 764 4
+764 765 5
+765 766 4
+766 767 1
+594 768 2
+768 769 2
+769 770 3
+770 771 2
+771 772 2
+772 773 1
+773 774 1
+774 775 3
+775 776 1
+776 777 4
+777 778 2
+778 779 2
+779 780 3
+780 781 1
+781 782 3
+594 783 1
+783 784 3
+784 785 1
+785 786 2
+595 787 3
+787 788 2
+788 789 1
+789 790 1
+790 791 1
+791 792 1
+792 793 0
+793 794 1
+794 795 0
+795 796 1
+796 797 0
+797 798 2
+798 799 1
+799 800 1
+800 801 1
+801 802 2
+802 803 1
+803 804 1
+804 805 1
+595 806 2
+806 807 6
+807 808 4
+808 809 4
+809 810 3
+810 811 2
+811 812 2
+812 813 4
+813 814 1
+814 815 4
+815 816 4
+816 817 2
+817 818 2
+818 819 4
+819 820 3
+820 821 5
+821 822 5
+822 823 4
+823 824 4
+824 825 10
+825 826 27
+826 827 11
+827 828 25
+829 830 2
+830 831 2
+831 832 4
+832 833 2
+833 834 2
+834 835 1
+835 836 3
+836 837 3
+838 839 2
+839 840 1
+840 841 4
+841 842 4
+842 843 3
+828 844 3
+844 845 2
+845 846 6
+846 847 1
+847 848 5
+848 829 4
+829 849 3
+849 850 2
+850 851 3
+851 852 2
+852 853 3
+853 854 3
+854 855 2
+855 856 5
+856 857 2
+857 858 1
+858 859 2
+859 860 2
+860 861 2
+861 862 2
+862 842 2
+843 863 1
+863 864 2
+864 865 7
+843 866 30
+866 867 5
+806 868 2
+868 869 2
+869 870 2
+870 871 7
+871 872 4
+872 873 2
+873 874 4
+874 875 7
+875 876 3
+876 877 7
+877 878 6
+878 879 11
+879 880 5
+880 881 8
+881 882 9
+882 883 3
+883 884 4
+884 885 3
+885 886 2
+886 887 2
+887 888 5
+888 889 3
+889 890 1
+890 891 2
+891 892 4
+892 893 2
+893 894 2
+894 895 4
+895 896 2
+828 897 2
+897 898 1
+898 899 2
+899 900 2
+900 901 2
+901 902 2
+902 903 1
+903 904 1
+905 906 4
+906 907 12
+907 908 11
+908 909 8
+909 910 15
+910 911 9
+911 912 6
+912 913 5
+913 914 3
+914 915 5
+915 916 3
+916 917 4
+917 918 3
+918 919 3
+919 920 4
+920 921 5
+921 922 5
+922 923 1
+923 924 4
+924 925 3
+925 926 6
+926 927 4
+927 928 3
+928 929 5
+929 930 4
+930 931 2
+931 932 5
+932 933 4
+933 934 3
+934 935 4
+935 936 3
+936 937 4
+937 938 10
+938 939 3
+939 940 12
+940 941 8
+941 942 4
+942 943 6
+943 944 2
+944 945 9
+945 946 2
+946 947 3
+947 948 2
+948 949 2
+949 950 4
+950 951 5
+951 952 6
+952 953 4
+953 954 5
+954 955 3
+955 956 7
+939 957 10
+906 958 2
+958 959 2
+959 960 3
+960 961 1
+961 962 2
+962 907 2
+907 963 4
+963 964 2
+964 965 3
+965 908 2
+908 966 4
+966 967 2
+967 909 2
+909 968 5
+968 969 1
+969 970 3
+970 971 3
+971 910 3
+906 972 4
+972 973 3
+973 974 3
+974 975 4
+975 976 6
+976 977 8
+977 978 1
+978 979 2
+979 980 4
+980 981 4
+981 982 4
+982 983 2
+983 984 4
+984 910 3
+981 985 2
+985 986 8
+986 987 6
+987 988 6
+988 989 3
+989 990 8
+909 992 3
+992 993 3
+993 994 1
+994 995 2
+995 996 2
+996 997 2
+997 998 3
+998 999 2
+999 991 3
+991 140 25
+1000 1001 1
+1001 1002 1
+1002 1003 1
+1003 1004 1
+1004 1005 0
+1005 1006 1
+1006 1007 0
+1007 1008 0
+1008 1009 1
+1009 1010 1
+1010 1011 1
+1011 1012 1
+1012 1013 2
+1013 1014 0
+1014 1015 2
+1015 1016 1
+1016 1017 1
+1017 1018 2
+1018 1019 1
+1019 1020 2
+1020 1021 0
+1021 1022 2
+1022 1023 2
+1023 1024 2
+1024 1025 0
+1025 1026 2
+1026 1027 1
+1027 1028 1
+1029 1030 5
+1030 1031 6
+1031 1032 3
+1032 1033 0
+1033 1034 2
+1034 1035 3
+1035 1036 7
+1037 1038 8
+1038 1039 5
+1039 1040 10
+1040 1041 16
+910 1042 7
+1042 1043 3
+1043 1044 2
+1044 1045 1
+1045 1046 2
+1046 1047 1
+1047 1048 3
+1048 1049 2
+1049 1050 3
+1050 1051 2
+1051 1052 7
+1052 1053 7
+1053 1054 7
+1054 1055 7
+1055 1029 1
+1029 1056 4
+1056 1057 5
+1057 1058 7
+1058 1059 7
+1059 1060 5
+910 1061 2
+1061 1062 4
+1062 1063 1
+1063 1064 2
+1064 1065 2
+1065 1066 1
+1066 1067 3
+1067 1068 1
+1068 1069 1
+1069 1070 1
+1070 1071 2
+1071 1072 2
+1072 1073 1
+1073 1074 2
+1074 1075 2
+1075 1076 2
+1076 1077 1
+1077 1078 1
+1078 1079 1
+1079 1080 3
+1062 1081 2
+1081 1082 4
+1082 1083 2
+1083 1084 2
+1084 1085 1
+1085 1086 1
+1086 1087 3
+1087 1088 1
+1088 1089 1
+1089 1090 4
+1090 1091 1
+1091 1092 2
+1092 1093 1
+1093 1094 1
+1094 1095 1
+1095 1096 1
+1096 1097 3
+910 1100 4
+1100 1101 3
+1101 1102 3
+1102 1103 4
+1103 1104 2
+1104 1105 2
+1105 1106 3
+1106 1107 6
+1107 990 7
+990 1108 5
+1108 1109 5
+1109 1098 7
+1098 1099 23
+1099 1110 7
+1110 1111 11
+1112 1113 4
+1113 1114 10
+1114 1115 3
+1115 1116 4
+1116 1117 7
+1117 1118 2
+1118 1119 7
+1119 1120 2
+1120 1060 11
+946 1121 2
+1121 1122 5
+1122 1123 6
+1123 1124 4
+1124 1125 6
+1125 1126 4
+1126 1127 6
+1127 1128 3
+1128 1129 4
+1129 1130 4
+1130 1131 4
+1131 1132 3
+1132 1133 4
+1133 1112 5
+1112 1134 4
+1134 1135 6
+1135 1136 4
+1136 1137 3
+1137 1138 3
+1126 1139 1
+1139 1140 2
+1140 1141 2
+1141 1142 2
+1142 1143 3
+1143 1144 3
+1144 1145 2
+1145 1146 0
+1132 1147 2
+1147 1148 2
+1148 1149 1
+1149 1150 3
+1150 1151 2
+1151 1152 1
+1152 1153 2
+1153 1154 2
+1154 1155 1
+1155 1156 2
+1156 1157 2
+1157 1158 2
+1145 1159 24
+941 1160 1
+1160 1161 1
+1161 1162 1
+1162 1163 1
+1163 1164 2
+1164 1165 1
+1165 1166 1
+1166 1167 1
+1167 1168 0
+1168 1169 1
+1169 1170 1
+1171 1172 4
+1172 1173 4
+1173 1174 4
+1174 1175 3
+1175 1176 2
+1176 1177 3
+1177 1178 3
+1178 1179 5
+1179 1180 2
+1180 1181 6
+1181 1182 2
+1182 1183 2
+1183 1184 2
+1184 1185 2
+1185 1186 3
+1186 1187 3
+1187 1188 1
+945 1189 1
+1189 1190 2
+1190 1191 2
+1191 1192 1
+1192 1193 5
+1193 1171 5
+1171 1194 2
+1194 1195 4
+1195 1196 3
+1196 1197 2
+1197 1198 2
+1198 1199 2
+1199 1200 3
+1200 1201 2
+1201 1202 4
+937 1204 6
+1204 1205 5
+1205 1206 5
+1206 1207 2
+1207 1208 3
+1208 743 7
+743 1209 7
+1209 1210 4
+1210 1211 5
+1211 1212 6
+1212 1213 5
+1213 1214 3
+1214 1215 7
+1215 1216 7
+1216 1217 7
+1217 1218 5
+1218 1219 7
+1219 1220 8
+1220 1221 5
+1221 1222 17
+1222 1223 5
+1223 1224 5
+1224 1225 4
+1225 1226 4
+1226 1227 6
+1227 1228 3
+1228 1229 6
+1229 1230 3
+1230 1231 9
+1231 1232 4
+1232 1233 3
+1233 649 1
+649 1234 3
+1234 648 5
+648 1235 4
+1235 647 2
+647 1236 3
+1236 646 5
+646 1237 4
+1237 1238 3
+1238 1239 7
+1239 645 2
+651 1240 5
+1240 1241 3
+1241 1242 3
+1242 1243 3
+1243 1244 5
+1244 1245 5
+1206 1246 16
+1246 1247 19
+1247 206 14
+1214 1248 4
+1248 1249 3
+1249 1250 5
+1250 1251 4
+1251 1252 7
+1252 1253 2
+1253 1254 7
+1254 1255 3
+1255 1256 2
+1256 1257 2
+1257 1258 8
+1258 1259 4
+1259 1260 2
+1260 1261 3
+1261 1262 5
+1262 1263 3
+1263 1264 4
+1264 1265 2
+1265 1266 3
+1266 1267 3
+1267 1268 4
+1268 1269 5
+1269 1270 3
+1270 1271 3
+1271 1272 4
+1272 1273 7
+1273 1274 7
+1274 1275 7
+1275 1276 9
+1276 649 2
+1218 1279 2
+1279 1280 4
+1280 1281 3
+1281 1282 2
+1282 1283 2
+1283 1284 3
+1284 1285 1
+1285 1286 3
+1286 1287 4
+1287 1288 3
+1288 1289 0
+1289 1290 1
+1290 1291 2
+1291 1292 1
+1292 1293 2
+1293 1294 2
+1294 1295 0
+1295 1296 1
+1296 1297 1
+1297 1298 2
+1298 1299 1
+1299 1300 1
+1300 1301 2
+1301 1302 1
+1302 1303 3
+1303 1304 2
+1304 1305 0
+1305 1306 1
+1306 1307 2
+1307 1308 2
+1308 1309 2
+1309 1310 1
+1310 1311 0
+1311 1312 6
+1312 1277 2
+1277 1278 2
+1278 1313 9
+1229 1314 1
+1314 1315 7
+1315 1316 4
+1316 1317 2
+1317 1318 2
+1318 1319 3
+1319 1320 5
+1320 1321 4
+1321 1322 4
+1322 1323 4
+1323 1324 2
+1324 1325 4
+1325 1326 1
+1326 1327 3
+1327 645 4
+649 1328 2
+1328 1329 5
+1329 1330 5
+1330 1331 2
+1331 1332 1
+1332 1333 3
+1333 1334 1
+1334 1335 1
+1335 1336 1
+1336 1337 4
+1337 657 6
+1243 1338 9
+1338 1339 4
+1339 1340 4
+1340 1341 6
+1341 1342 3
+1342 1343 2
+1343 1344 3
+1344 1345 4
+1345 1346 2
+1346 1347 2
+1347 1348 3
+1348 1349 2
+1349 1350 4
+1350 1351 2
+1351 1352 3
+1352 1353 3
+1353 1354 2
+1354 1355 4
+1356 1357 6
+905 1358 3
+1358 1359 5
+1359 1360 2
+1360 1361 3
+1361 1362 6
+1362 1363 7
+1363 1364 4
+1364 1365 3
+1365 1366 3
+1366 1367 5
+1367 1356 6
+1356 1368 2
+1368 1369 12
+1369 1370 6
+1370 1371 6
+1368 1372 6
+1372 1373 4
+1373 1374 5
+1374 1375 5
+1375 1376 5
+906 1359 11
+1359 1377 4
+1377 1378 6
+1378 1379 4
+1379 1380 2
+1380 1381 2
+1381 1382 4
+1382 1383 2
+1383 1384 3
+1384 1385 2
+1385 968 7
+1357 1386 3
+1386 1387 3
+1387 1388 1
+1388 1389 5
+1389 1390 4
+1390 1391 5
+1391 1392 1
+1392 1393 6
+1393 1394 1
+1394 1395 6
+1395 987 1
+1357 1396 4
+1396 1397 2
+1397 1398 5
+1398 1399 3
+1399 1400 1
+1400 1401 5
+1401 1402 7
+1402 1403 6
+1403 1404 4
+1404 1405 10
+1405 1406 3
+1407 1408 2
+1408 1409 3
+1409 1410 4
+1410 1411 4
+1411 1412 1
+1412 1413 3
+1413 1414 4
+1414 1415 5
+1415 1416 3
+1416 1417 6
+1417 1418 7
+1418 1419 3
+1419 1420 10
+1420 1421 11
+1421 1422 13
+1422 1423 7
+1423 1424 10
+1424 1425 9
+1425 1426 4
+1426 1427 4
+1427 1428 7
+1428 1429 4
+1429 1430 6
+1430 1431 4
+1431 1432 7
+1432 1433 3
+1433 1434 2
+1434 1435 10
+1435 1436 7
+1437 1438 10
+1438 1439 10
+1439 1440 10
+1428 1441 10
+1441 1437 10
+1437 1442 10
+1442 1443 10
+1444 1445 1
+1445 1446 2
+1446 1447 1
+1447 1448 5
+1448 1449 2
+1449 1450 2
+1450 1451 2
+1451 1452 3
+1452 1453 3
+1453 1454 3
+1454 1455 3
+1455 1456 2
+1456 1457 2
+1457 110 5
+110 1407 11
+1407 1458 4
+1458 1459 3
+1459 1460 5
+1460 1461 4
+1461 1462 4
+1462 1463 2
+1463 1464 3
+1464 1465 3
+1465 93 4
+93 1466 2
+1466 1467 1
+1467 1468 2
+1468 1469 2
+1469 1470 6
+1470 1471 2
+1471 1472 4
+1472 1473 3
+1473 1474 3
+1474 1475 3
+1475 1476 5
+1476 1477 3
+1477 1478 4
+1478 1479 6
+1479 1480 5
+1480 1481 7
+1481 1482 5
+1482 270 8
+1463 1483 2
+1483 1484 2
+1484 1485 2
+1485 1486 3
+1486 1487 3
+1487 1488 2
+1488 1489 3
+1489 1490 3
+1490 1491 3
+1491 1492 2
+1492 1493 1
+1493 1494 2
+1494 1495 7
+1495 1496 2
+1496 1419 8
+1424 1497 4
+1497 1498 2
+1498 1499 4
+1499 1500 4
+1500 1501 3
+1501 1502 2
+1502 1503 3
+1503 1504 1
+1424 1505 4
+1505 1506 2
+1506 1507 4
+61 63 6
+63 1508 5
+1508 906 4
+1509 1510 1
+1510 1511 1
+1511 1512 2
+1513 1514 3
+906 1003 2
+1003 1515 1
+1515 905 1
+905 1516 2
+1516 1517 1
+1517 1518 2
+1518 1519 2
+1519 1520 1
+1520 1509 2
+1509 1521 2
+1521 1513 2
+1513 1522 3
+1523 1524 2
+1524 1525 6
+1525 1526 9
+1514 1527 6
+1527 1528 3
+1528 1529 2
+1529 1530 4
+1530 1523 4
+1523 1531 2
+1531 1532 3
+1532 1533 4
+1533 1534 4
+1534 1535 7
+1535 1536 3
+1536 1537 2
+1537 1538 3
+1538 1539 6
+1539 1540 6
+1540 1541 4
+1541 1542 9
+1522 1543 2
+1543 1544 2
+1544 1545 4
+1545 1546 2
+1546 1547 3
+1547 1548 2
+1548 1549 4
+1549 1550 4
+1550 1551 3
+1551 1552 6
+1552 1553 3
+1553 1554 3
+1554 1555 6
+1555 1556 2
+1556 1557 3
+1557 1558 4
+1558 1559 4
+1559 1560 2
+1560 1561 6
+1561 1562 2
+1563 1564 8
+1564 1565 3
+1565 1407 6
+1512 1566 3
+1566 1567 1
+1567 1568 3
+1568 1569 3
+1569 1570 4
+1570 1563 3
+1563 1571 5
+1571 1572 2
+1572 1573 2
+1573 1574 3
+1574 1575 3
+1575 1576 5
+1576 1577 6
+1577 1578 6
+1578 1579 4
+1579 1580 9
+1580 1581 3
+1581 1582 8
+1582 1583 6
+1583 1584 11
+1516 1585 1
+1585 1586 2
+1586 1587 3
+1587 1588 4
+1588 1589 2
+1589 1590 2
+1590 1591 4
+1591 1592 6
+1592 1593 6
+1593 1594 2
+1594 1595 5
+1595 1596 2
+1596 1597 5
+1597 1598 5
+1598 1599 2
+1599 1600 1
+1600 1601 1
+1601 1602 5
+1603 1604 1
+1604 1605 1
+905 1606 4
+1606 1607 1
+1607 1608 3
+1608 1609 1
+1609 1610 2
+1610 1603 1
+1603 1611 2
+1611 1513 5
+1605 1612 8
+1612 1613 4
+1613 1614 5
+1614 1615 3
+1615 1616 5
+1616 1617 5
+1617 1526 3
+1523 1618 6
+1618 1619 3
+1619 1620 3
+1620 1621 3
+1545 1622 2
+1622 1623 2
+1623 1624 3
+1624 1625 3
+1625 1626 4
+1626 1621 4
+1621 1627 5
+1627 1628 3
+1628 1629 2
+1629 1630 4
+1582 1631 8
+1631 1632 2
+1632 1633 4
+1633 1634 4
+1634 1635 5
+1635 1636 1
+1636 1637 3
+1637 1638 5
+1638 1639 9
+1520 1446 3
+1446 1640 2
+1640 1641 1
+1641 1642 2
+1642 1643 2
+1643 1644 1
+1644 1645 2
+1645 62 1

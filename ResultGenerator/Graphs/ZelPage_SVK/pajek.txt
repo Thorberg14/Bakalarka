@@ -1,0 +1,2034 @@
+*Vertices 1003
+1 Bratislava hlavná stanica
+2 Bratislava-Železná studienka
+3 Bratislava-Lamač
+4 Devínska Nová Ves
+5 Devínska Nová Ves štátna hranica
+6 Marchegg [4]
+7 Bratislava-Petržalka
+8 Bratislava Petržalka št. hr.
+9 Kittsee
+10 Devínske Jazero
+11 Stupava
+12 Zohor
+13 Plavecký Štvrtok
+14 Malacky
+15 Veľké Leváre
+16 Závod
+17 Moravský Ján
+18 Sekule
+19 Kúty
+20 Brodské
+21 Kúty štátna hranica
+22 Lozorno
+23 Jablonové
+24 Pernek pri Zohore
+25 Kuchyňa
+26 Rohožník
+27 Sološnica
+28 Plavecké Podhradie
+29 Plavecký Mikuláš
+30 Lábske Jazero zastávka
+31 Vysoká pri Morave
+32 Vysoká pri Morave zastávka
+33 Záhorská Ves
+34 Gbely zastávka
+35 Gbely
+36 Kopčany
+37 Holíč nad Moravou
+38 Kátov
+39 Skalica na Slovensku
+40 Skalica na Slovensku štátna hranica
+41 Holíč nad Moravou štátna hranica
+42 Kuklov
+43 Šaštín-Stráže
+44 Borský Mikuláš
+45 Šajdíkove Humence
+46 Senica
+47 Hlboké
+48 Jablonica
+49 Cerová-Lieskové
+50 Dúbrava
+51 Buková
+52 Smolenice
+53 Bíňovce
+54 Boleráz
+55 Klčovany
+56 Šelpice
+57 Nemčanka
+58 Trnava predmestie
+59 Trnava
+60 Brezová pod Bradlom
+61 Brezová pod Bradlom zastávka
+62 Hradište pod Vrátnom
+63 Osuské
+64 Jablonica obec
+65 Bratislava-Nové Mesto
+66 Bratislava predmestie
+67 Bratislava-Rača
+68 Piešťany
+69 Vrbové
+70 Bratislava-Vinohrady
+71 Svätý Jur
+72 Pezinok zastávka
+73 Pezinok
+74 Šenkvice
+75 Báhoň
+76 Cífer
+77 Brestovany
+78 Leopoldov
+79 Madunice
+80 Veľké Kostoľany
+81 Drahovce zastávka
+82 Horná Streda
+83 Brunovce
+84 Považany
+85 Nové Mesto nad Váhom
+86 Trenčianske Bohuslavice
+87 Melčice
+88 Kostolná-Zariečie
+89 Zlatovce
+90 Trenčín
+91 Opatová nad Váhom
+92 Trenčianska Teplá
+93 Dubnica nad Váhom
+94 Ilava
+95 Košeca
+96 Ladce
+97 Beluša
+98 Dolné Kočkovce
+99 Púchov
+100 Nosice
+101 Milochov
+102 Považská Bystrica
+103 Považská Teplá
+104 Plevník-Drienové
+105 Predmier
+106 Bytča
+107 Kotešová
+108 Dolný Hričov
+109 Horný Hričov
+110 Žilina
+111 Čachtice
+112 Višňové
+113 Hrachovište
+114 Vaďovce
+115 Stará Turá
+116 Paprad
+117 Poriadie
+118 Myjava
+119 Brestovec
+120 Vrbovce zastávka
+121 Vrbovce
+122 Vrbovce štátna hranica
+123 Trenčianska Teplá obec
+124 Trenčianska Teplá zastávka
+125 Trenčianske Teplice sídlisko
+126 Trenčianske Teplice zastávka
+127 Trenčianske Teplice
+128 Nemšová
+129 Horné Srnie
+130 Nemšová štátna hranica
+131 Borčice
+132 Bolešov
+133 Sedmerovec
+134 Pruské
+135 Tuchyňa
+136 Dulov
+137 Horovce
+138 Lednické Rovne
+139 Púchov závody
+140 Púchov zastávka
+141 Dohňany
+142 Zariečie
+143 Lúky pod Makytou
+144 Lysá pod Makytou
+145 Strelenka
+146 Lúky pod Makytou štátna hranica
+147 Žilina zariečie
+148 Žilina-Solinky
+149 Bytčica
+150 Lietavská Lúčka
+151 Porúbka
+152 Poluvsie
+153 Rajecké Teplice
+154 Konská pri Rajci
+155 Zbyňov
+156 Kľače
+157 Rajec
+158 Brodno
+159 Rudina
+160 Kysucké Nové Mesto
+161 Ochodnica
+162 Dunajov
+163 Krásno nad Kysucou
+164 Oščadnica
+165 Čadca mesto
+166 Čadca
+167 Svrčinovec zastávka
+168 Čadca štátna hranica
+169 Čadca zastávka
+170 Raková-Zemanov
+171 Raková
+172 Staškov zastávka
+173 Staškov
+174 Podvysoká
+175 Turzovka
+176 Turzovka zastávka
+177 Vysoká nad Kysucou
+178 Nižný Kelčov
+179 Makov
+180 Svrčinovec
+181 Čierne pri Čadci
+182 Čierne pri Čadci zastávka
+183 Čierne-Polesie
+184 Skalité zastávka
+185 Skalité
+186 Skalité pod Poľanou
+187 Skalité-Kudlov
+188 Skalité-Serafínov
+189 Skalité štátna hranica
+190 Bratislava-Vajnory
+191 Palárikovo
+192 Šurany
+193 Ivanka pri Dunaji
+194 Bernolákovo
+195 Veľký Biel
+196 Senec
+197 Reca
+198 Pusté Úľany
+199 Sládkovičovo
+200 Galanta
+201 Topoľnica
+202 Šaľa
+203 Trnovec nad Váhom
+204 Jatov
+205 Tvrdošovce
+206 Ľudovítov
+207 Nové Zámky
+208 Dvory nad Žitavou
+209 Pribeta
+210 Strekov
+211 Nová Vieska
+212 Gbelce
+213 Mužla
+214 Štúrovo
+215 Chľaba
+216 Štúrovo štátna hranica
+217 Szob
+218 Kvetoslavov
+219 Šamorín
+220 Podunajské Biskupice
+221 Rovinka
+222 Nové Košariská
+223 Miloslavov
+224 Kvetoslavov zastávka
+225 Malá Paka
+226 Veľká Paka
+227 Lehnice
+228 Michal na Ostrove
+229 Orechová Potôň
+230 Veľké Blahovo
+231 Dunajská Streda
+232 Kútniky
+233 Dolný Bar
+234 Dolný Štál
+235 Okoč
+236 Veľký Meder
+237 Bodza
+238 Zemianska Olča
+239 Okoličná na Ostrove
+240 Horná Zlatná
+241 Zlatná na Ostrove
+242 Nová Stráž
+243 Komárno závody
+244 Komárno
+245 Bratislava ústredná nákladná stanica
+246 Rusovce
+247 Rusovce štátna hranica
+248 Rajka
+249 Križovany nad Dudváhom
+250 Sereď
+251 Siladice
+252 Šúrovce
+253 Gáň
+254 Diakovce
+255 Tešedíkovo
+256 Žihárec
+257 Žihárec zastávka
+258 Vlčany
+259 Neded
+260 Komárno zastávka
+261 Komárno Dunaj
+262 Bajč
+263 Hurbanovo
+264 Chotín
+265 Komárno štátna hranica
+266 Komárom
+267 Komárno škola
+268 Hadovce
+269 Kameničná
+270 Balvany
+271 Čalovec
+272 Violín
+273 Kráľka
+274 Kolárovo
+275 Zbehy
+276 Jelšovce
+277 Bánov
+278 Ondrochov
+279 Komjatice
+280 Veľký Kýr
+281 Branč
+282 Ivanka pri Nitre
+283 Dolné Krškany
+284 Nitra
+285 Nitra zastávka
+286 Mlynárce
+287 Lužianky
+288 Čakajovce
+289 Výčapy-Opatovce
+290 Koniarovce
+291 Preseľany nad Nitrou zastávka
+292 Kamanová
+293 Mýtna Nová Ves
+294 Ludanice
+295 Chrabrany
+296 Topoľčany
+297 Krušovce
+298 Bošany
+299 Chynorany
+300 Žabokreky nad Nitrou
+301 Veľké Bielice
+302 Partizánske
+303 Partizánske zastávka
+304 Veľké Uherce
+305 Oslany
+306 Bystričany
+307 Zemianske Kostoľany
+308 Nováky
+309 Koš
+310 Prievidza
+311 Leopoldov zastávka
+312 Hlohovec
+313 Kľačany
+314 Rišňovce
+315 Alekšince
+316 Andač
+317 Zbehy obec
+318 Dražovce
+319 Podhorany pri Lužiankach
+320 Žirany
+321 Jelenec
+322 Ladice
+323 Sľažany
+324 Zlaté Moravce
+325 Zlaté Moravce závody
+326 Zlaté Moravce-Prílepy
+327 Volkovce
+328 Slanský Dvor
+329 Kozárovce zastávka
+330 Kozárovce
+331 Čab-Sila
+332 Čab-Sila zastávka
+333 Nové Sady
+334 Malé Zálužie
+335 Kapince
+336 Biskupová
+337 Malé Ripňany
+338 Veľké Ripňany
+339 Behynce
+340 Radošina
+341 Trenčín predmestie
+342 Trenčianska Turná
+343 Soblahov
+344 Mníchova Lehota
+345 Trenčianske Jastrabie
+346 Svinná
+347 Ruskovce
+348 Horné Ozorovce
+349 Bánovce nad Bebravou
+350 Dolné Naštice
+351 Rybany
+352 Ostratice
+353 Nedožery
+354 Pravenec
+355 Nitrianské Pravno
+356 Horná Štubňa
+357 Sklené pri Handlovej
+358 Remäta
+359 Výhybňa Pstruháry
+360 Handlová
+361 Ráztočno
+362 Jalovec
+363 Chrenovec
+364 Šurany zastávka
+365 Úľany nad Žitavou
+366 Hul
+367 Radava
+368 Podhájska
+369 Pozba
+370 Beša
+371 Jesenské údolie
+372 Pial
+373 Horný Pial
+374 Lok
+375 Kalná nad Hronom
+376 Levice
+377 Hronské Kľačany
+378 Veľké Kozmálovce
+379 Tlmače
+380 Psiare
+381 Hronský Beňadik
+382 Tekovská Breznica
+383 Nová Baňa
+384 Rudno nad Hronom
+385 Voznica výhybňa
+386 Voznica
+387 Dolné Hámre
+388 Žarnovica
+389 Bzenica
+390 Hliník nad Hronom
+391 Lehôtka pod Brehmi
+392 Žiar nad Hronom zastávka
+393 Žiar nad Hronom
+394 Šášovské Podhradie
+395 Suť
+396 Jalná
+397 Hronská Dúbrava
+398 Budča
+399 Zvolen osobná stanica
+400 Topoľčianky
+401 Malá Maňa
+402 Maňa zastávka
+403 Maňa
+404 Kmeťovo
+405 Michal nad Žitavou
+406 Martinová
+407 Lúčnica nad Žitavou
+408 Dyčka
+409 Vráble
+410 Nová Ves nad Žitavou
+411 Slepčany
+412 Tesárske Mlyňany
+413 Kamenný Most nad Hronom
+414 Kamenín
+415 Bíňa
+416 Bíňa zastávka
+417 Čata
+418 Pohronský Ruskov
+419 Hronovce
+420 Želiezovce
+421 Tekovské Lužany
+422 Tekovský Hrádok
+423 Dolná Seč
+424 Šahy
+425 Breziny
+426 Podzámčok
+427 Dobrá Niva
+428 Dobrá Niva zastávka
+429 Sása - Pliešovce
+430 Bzovská Lehôtka
+431 Babiná
+432 Krupina predmestie
+433 Krupina
+434 Bzovík
+435 Devičie
+436 Hontianske Nemce
+437 Domaníky
+438 Hontianske Tesáre
+439 Dvorníky
+440 Terany
+441 Dudince
+442 Slatina
+443 Tupá
+444 Hrkovce
+445 Vyškovce nad Ipľom
+446 Ipeľský Sokolec
+447 Bielovce
+448 Pastovce
+449 Zalaba
+450 Kozelník
+451 Banská Belá zastávka
+452 Banská Belá
+453 Banský Studenec
+454 Banská Štiavnica
+455 Lenartovce
+456 Lenartovce štátna hranica
+457 Bánréve
+458 Turňa nad Bodvou
+459 Turňa nad Bodvou štátna hr.
+460 Tornanádaska
+461 Zvolen nákladná stanica
+462 Zvolen-Bučina
+463 Zvolenská Slatina
+464 Vígľaš
+465 Pstruša
+466 Stožok
+467 Detva
+468 Kriváň
+469 Podkriváň
+470 Píla
+471 Mýtna
+472 Lovinobaňa
+473 Lovinobaňa zastávka
+474 Podrečany
+475 Tomášovce
+476 Lučenec
+477 Holiša
+478 Prša
+479 Fiľakovo zastávka
+480 Fiľakovo
+481 Urbánka
+482 Šíd
+483 Čamovce
+484 Hajnáčka
+485 Blhovce
+486 Hodejov
+487 výhybňa Lúka
+488 Gortva
+489 Jesenské
+490 Dubovec
+491 Orávka
+492 Rimavská Seč
+493 Číž kúpele
+494 Abovce
+495 Riečka
+496 Štrkovec
+497 Včelínce
+498 Tornaľa
+499 Gemer
+500 Gemerská Panica
+501 Čoltovo
+502 Bohúňovo
+503 Gemerská Hôrka
+504 Plešivec
+505 Vidová
+506 Slavec jaskyňa
+507 výhybňa Brzotín
+508 Rožňava
+509 Jovice
+510 Lipovník
+511 Jablonov nad Turňou
+512 Hrhov
+513 Dvorníky-Zádiel
+514 Drienovec
+515 Moldava nad Bodvou
+516 Mokrance
+517 Čečejovce
+518 Cestice
+519 Komárovce
+520 Veľká Ida
+521 Hutníky
+522 Haniska pri Košiciach
+523 Barca
+524 Košice predmestie
+525 Košice
+526 Mikušovce
+527 Rapovce
+528 Kalonda
+529 Rapovce štátna hranica
+530 Ipolytarnóc
+531 Litke
+532 Ráróspuszta
+533 Nógrádszakál
+534 Veĺký Krtíš štátna hranica
+535 Bušince
+536 Malé Zlievce
+537 Malé Straciny
+538 Veľký Krtíš
+539 Opatová pri Lučenci
+540 Veľká Ves
+541 Kalinovo
+542 Breznička
+543 Zelené
+544 Poltár
+545 Slaná Lehota
+546 České Brezovo
+547 Zlatno
+548 Kokava nad Rimavicou-Liešnica
+549 Kokava nad Rimavicou
+550 Utekáč
+551 Katarínska Huta
+552 Maša
+553 Cinobaňa
+554 Mládzovo
+555 Belina
+556 Radzovce
+557 Šiatorská Bukovinka
+558 Fiľakovo štátna hranica
+559 Somoskőújfalu
+560 Gemerská Hôrka zastávka
+561 Hucín
+562 Gemerský Milhosť
+563 Jelšavská Teplica
+564 Jelšava
+565 Jelšava zastávka
+566 Lubeník
+567 Revúcka Lehota
+568 Mokrá Lúka
+569 Revúca
+570 Muránska Dlhá Lúka
+571 Muráň
+572 Pašková
+573 Kunova Teplica
+574 Štítnik mesto
+575 Štítnik
+576 Roštár
+577 Ochtiná
+578 Rochovce
+579 Slavošovce obec
+580 Slavošovce
+581 Dobšiná
+582 Vlachovo
+583 Vlachovo obec
+584 Gočovo
+585 Nižná Slaná
+586 Nižná Slaná obec
+587 Henckovce
+588 Gemerská Poloma
+589 Betliar
+590 Nadabula
+591 Rožňava mesto
+592 Rožňava predmestie
+593 Moldava nad Bodvou mesto
+594 Debraď
+595 Jasov
+596 Počkaj
+597 Medzev
+598 Valaliky
+599 Geča
+600 Čaňa
+601 Gyňov
+602 Seňa
+603 Kechnec
+604 Čaňa štátna hranica
+605 Hidasnémeti
+606 Vrútky
+607 Priekopa
+608 Martin
+609 Košťany nad Turcom
+610 Príbovce
+611 Kláštor pod Znievom
+612 Jazernica
+613 Malý Čepčín
+614 Diviaky
+615 Turčianske Teplice
+616 Horná Štubňa obec
+617 Čremošné
+618 Harmanec jaskyňa
+619 Dolný Harmanec
+620 Harmanec
+621 Uľanka
+622 Kostiviarska
+623 Banská Bystrica
+624 Banská Bystrica mesto
+625 Radvaň
+626 Vlkanová
+627 Hronsek
+628 Veľká Lúka
+629 Sliač kúpele
+630 Zvolen mesto
+631 Trnavá Hora
+632 Stará Kremnička
+633 Bartošova Lehôtka
+634 Jastrabá
+635 Kremnica
+636 Kremnické Bane
+637 Turček
+638 Horná Štubňa zastávka
+639 Šalková
+640 Slovenská Ľupča-Príboj
+641 Slovenská Ľupča
+642 Lučatín
+643 Ľubietová
+644 Medzibrod
+645 Brusno kúpele
+646 Nemecká
+647 Dubová
+648 Predajná
+649 Lopej
+650 Podbrezová
+651 Chvatimech
+652 Valaská
+653 Brezno
+654 Brezno mesto
+655 Brezno-Halny
+656 Bujakovo zastávka
+657 Gašparovo
+658 Beňuš
+659 Bacúch
+660 Polomka
+661 Polomka-Hámor
+662 Závadka nad Hronom obec
+663 Závadka nad Hronom zastávka
+664 Závadka nad Hronom nákladisko
+665 Heľpa
+666 Pohorelá
+667 Pohorelská Maša
+668 Nová Maša
+669 Vaľkovňa
+670 Červená Skala
+671 Telgárt
+672 Telgárt penzión
+673 Vernár
+674 Dobšinská Ľadová Jaskyňa
+675 Stratená
+676 Dedinky
+677 Mlynky
+678 Mlynky zastávka
+679 Rakovec
+680 Sykavka
+681 Hnilec
+682 Nálepkovo-Peklisko
+683 Tretí Hámor
+684 Nálepkovo
+685 Stará Voda
+686 Švedlár
+687 Švedlár zastávka
+688 Mníšek nad Hnilcom
+689 Helcmanovce
+690 Prakovce
+691 Prakovce zastávka
+692 Gelnica zastávka
+693 Gelnica mesto
+694 Gelnica
+695 Žakarovce
+696 Jaklovce
+697 Margecany
+698 Jesenské zastávka
+699 Rimavské Janovce obec
+700 Rimavské Janovce
+701 Rimavská Sobota
+702 Čerenčany
+703 Veľké Teriakovce
+704 Nižný Skálnik
+705 Hrachovo
+706 Kociha
+707 Rimavské Zalužany
+708 Rimavská Baňa
+709 Rimavské Brezovo
+710 Likier
+711 Hnúšťa
+712 Hnúšťa zastávka
+713 Hačava skálie
+714 Hačava
+715 Rimavská Píla
+716 Tisovec mesto
+717 Tisovec
+718 Tisovec-Bánovo
+719 Zbojská
+720 Pohronská Polhora
+721 Michalová
+722 Michalová zastávka
+723 Brezno-Rohozná
+724 Husiná
+725 Dolné Zahorany
+726 Ožďany
+727 Sušany
+728 Hrnčiarske Zalužany
+729 Hrnčiarska Ves
+730 Maštinec
+731 Teplička nad Váhom
+732 Varín
+733 Strečno
+734 Vrútky nákladná stanica
+735 Sučany
+736 Turany
+737 Krpeľany
+738 Šútovo
+739 Kraľovany
+740 Stankovany
+741 Ľubochňa
+742 Švošov
+743 Hrboltová
+744 Ružomberok-Rybárpole
+745 Ružomberok
+746 Lisková
+747 Liptovská Teplá
+748 Liptovské Vlachy
+749 Paludza
+750 Liptovský Mikuláš
+751 Okoličné
+752 Podtureň
+753 Liptovský Hrádok
+754 Kráľova Lehota
+755 Východná
+756 Važec
+757 Štrba
+758 Štrba zastávka
+759 Lučivná
+760 Svit
+761 Poprad-Tatry
+762 Gánovce
+763 Spišský Štiavnik
+764 Vydrník
+765 Letanovce
+766 Spišské Tomášovce
+767 Smižany
+768 Spišská Nová Ves
+769 Teplička nad Hornádom
+770 Markušovce
+771 Matejovce nad Hornádom
+772 Chrasť nad Hornádom
+773 Vítkovce
+774 Olcnava
+775 Spišské Vlachy
+776 Krompachy
+777 Richnava
+778 Kluknava
+779 Margecany zastávka
+780 Ružín
+781 Malá Lodina
+782 Veľká Lodina
+783 Kysak
+784 Trebejov
+785 Kostoľany nad Hornádom
+786 Ťahanovce
+787 Kraľovany zastávka
+788 Párnica
+789 Istebné
+790 Veličná
+791 Dolný Kubín zastávka
+792 Dolný Kubín
+793 Mokraď
+794 Bziny
+795 Medzibrodie nad Oravou
+796 Oravský Podzámok
+797 Oravský Podzámok zastávka
+798 Horná Lehota
+799 Sedliacka Dubová
+800 Dlhá nad Oravou
+801 Krivá
+802 Podbiel
+803 Nižná
+804 Krásna Hôrka
+805 Tvrdošín
+806 Trstená
+807 Tatranský Lieskovec
+808 Štrbské Pleso
+809 Veľký Slavkov
+810 Nová Lesná
+811 Pod lesom
+812 Dolný Smokovec
+813 Starý Smokovec
+814 Nový Smokovec
+815 Sibír
+816 Tatranské Zruby
+817 Tatranská Polianka
+818 Danielov Dom
+819 Nová Polianka
+820 Vyšné Hágy
+821 Popradské Pleso
+822 Pekná Vyhliadka
+823 Horný Smokovec
+824 Tatranská Lesná
+825 Stará Lesná
+826 Tatranská Lomnica
+827 Studený Potok
+828 Veľká Lomnica-Golf
+829 Tatranská Lomnica zastávka (Eurocamp)
+830 Strážky zastávka
+831 Spišská Belá
+832 Poprad-Spišská Sobota
+833 Matejovce pri Poprade
+834 Veľká Lomnica
+835 Huncovce
+836 Kežmarok
+837 Kežmarok zastávka
+838 Strážky
+839 Spišská Belá zastávka
+840 Bušovce
+841 Podhorany pri Kežmarku
+842 Toporec
+843 Podolínec
+844 Nižné Ružbachy
+845 Forbasy
+846 Stará Ľubovňa
+847 Chmeľnica
+848 Plavnica
+849 Hromoš
+850 Plaveč
+851 Harichovce
+852 Levočské Lúky
+853 Levoča
+854 Spišské Vlachy mesto
+855 Bystrany na Spiši
+856 Katúň
+857 Spišské Podhradie
+858 Obišovce
+859 Ličartovce
+860 Drienovská Nová Ves obec
+861 Drienovská Nová Ves
+862 Kendice
+863 Haniska pri Prešove
+864 Prešov
+865 Prešov mesto
+866 Veľký Šariš
+867 Šarišské Michaľany
+868 Orkucany
+869 Sabinov
+870 Pečovská Nová Ves
+871 Červenica
+872 Rožkovany
+873 Lipany
+874 Krivany
+875 Kamenica nad Torysou
+876 Pusté Pole
+877 Ďurková
+878 Ľubotín
+879 Orlov
+880 Čirč
+881 Plaveč štátna hranica
+882 Kalša
+883 Červený Dvor
+884 Čeľovce
+885 Trebišov
+886 Slovenské Nové Mesto
+887 Slovenské Nové Mesto štátna hranica
+888 Sátoraljaújhely
+889 Krásna nad Hornádom
+890 Nižná Myšľa
+891 Vyšná Myšľa
+892 Bohdanovce
+893 Ruskov
+894 Slanec
+895 Kuzmice
+896 Michaľany
+897 Čerhov
+898 Borša
+899 Streda nad Bodrogom
+900 Somotor
+901 Veľký Horeš
+902 Pribeník
+903 Dobrá
+904 Biel
+905 Čierna nad Tisou zastávka
+906 Čierna nad Tisou
+907 Čierna nad Tisou štátna hranica
+908 Lastovce
+909 Veľaty
+910 Stanča
+911 Úpor
+912 Hrinište
+913 Bánovce nad Ondavou
+914 Laškovce
+915 Michalovce zastávka
+916 Michalovce
+917 Petrovce nad Laborcom
+918 Naciná Ves
+919 Pusté Čemerné
+920 Strážske
+921 Brekov
+922 Humenné
+923 Humenné mesto
+924 Kochanovce
+925 Udavské
+926 Ľubiša
+927 Hankovce
+928 Koškovce
+929 Zbudské Dlhé
+930 Hrabovec nad Laborcom
+931 Radvaň nad Laborcom
+932 Volica
+933 Nižné Čabiny
+934 Vyšné Čabiny
+935 Sukov
+936 Monastyr
+937 Krásny Brod
+938 Medzilaborce
+939 Medzilaborce mesto
+940 Vydraň
+941 Palota
+942 výhybňa Víťazstva
+943 Medzilaborce štátna hranica
+944 Łupków
+945 Trebišov zastávka
+946 Milhostov
+947 Vojčice
+948 Sečovce
+949 Dvorianky
+950 Parchovany
+951 Sečovská Polianka
+952 Sačurov
+953 Vranov-Ortáše
+954 Vranov nad Topľou predmestie
+955 Vranov nad Topľou
+956 Šarišské Lúky
+957 Nižná Šebastová
+958 Kapušany pri Prešove
+959 Lada
+960 Nemcovce
+961 Pavlovce
+962 Hanušovce nad Topľou mesto
+963 Hanušovce nad Topľou
+964 Bystré
+965 Čierne nad Topľou
+966 Hlinné
+967 Soľ
+968 Komárany
+969 Vranovské Dlhé
+970 Hencovce
+971 Nižný Hrabovec
+972 Fulianka
+973 Tulčík
+974 Demjata
+975 Demjata obec
+976 Raslavice
+977 Vaniškovce
+978 Bartošovce
+979 Hertník
+980 Šiba
+981 Kľušov
+982 Bardejov
+983 Veľké Kapušany
+984 Maťovce
+985 Maťovce štátna hranica
+986 Hatalov
+987 Dúbravka
+988 Budkovce
+989 Drahňov
+990 Vojany
+991 Krišovská Liesková
+992 Veľké Kapušany zastávka
+993 Hažín nad Cirochou
+994 Kamenica nad Cirochou
+995 Kamenica nad Cirochou dvor
+996 Modra nad Cirochou
+997 Dlhé nad Cirochou
+998 Dlhé nad Cirochou obec
+999 Belá nad Cirochou
+1000 Snina predmestie
+1001 Snina mesto
+1002 Snina
+1003 Stakčín
+*Edges
+1 2 3
+2 3 2
+3 4 8
+4 5 4
+5 6 2
+7 8 2
+8 9 1
+10 11 2
+4 10 4
+10 12 9
+12 13 5
+13 14 7
+14 15 8
+15 16 4
+16 17 5
+17 18 2
+18 19 7
+19 20 4
+20 21 3
+12 22 5
+22 23 4
+23 24 4
+24 25 4
+25 26 5
+26 27 5
+27 28 3
+28 29 5
+12 30 4
+30 31 2
+31 32 4
+32 33 4
+19 34 6
+34 35 2
+35 36 6
+36 37 5
+37 38 3
+38 39 4
+39 40 2
+37 41 3
+19 42 2
+42 43 6
+43 44 4
+44 45 6
+45 46 5
+46 47 5
+47 48 4
+48 49 2
+49 50 5
+50 51 4
+51 52 3
+52 53 3
+53 54 4
+54 55 2
+55 56 4
+56 57 4
+57 58 1
+58 59 4
+60 61 2
+61 62 4
+62 63 3
+63 64 2
+64 48 1
+65 66 2
+66 67 4
+68 69 8
+1 70 4
+70 67 3
+67 71 6
+71 72 3
+72 73 3
+73 74 7
+74 75 8
+75 76 3
+76 59 9
+59 77 9
+77 78 8
+78 79 4
+79 80 4
+80 81 2
+81 68 8
+68 82 6
+82 83 4
+83 84 2
+84 85 6
+85 86 7
+86 87 5
+87 88 6
+88 89 4
+89 90 3
+90 91 4
+91 92 4
+92 93 5
+93 94 7
+94 95 2
+95 96 3
+96 97 3
+97 98 4
+98 99 3
+99 100 2
+100 101 4
+101 102 6
+102 103 5
+103 104 4
+104 105 4
+105 106 2
+106 107 4
+107 108 4
+108 109 2
+109 110 7
+85 111 5
+111 112 5
+112 113 2
+113 114 2
+114 115 6
+115 116 6
+116 117 4
+117 118 6
+118 119 3
+119 120 3
+120 121 2
+121 122 1
+92 123 1
+123 124 1
+124 125 2
+125 126 1
+126 127 1
+92 128 4
+128 129 4
+129 130 4
+128 131 2
+131 132 2
+132 133 3
+133 134 3
+134 135 1
+135 136 1
+136 137 2
+137 138 3
+99 139 2
+139 140 1
+140 141 4
+141 142 4
+142 143 2
+143 144 3
+144 145 4
+145 146 1
+110 147 2
+147 148 3
+148 149 1
+149 150 1
+150 151 3
+151 152 3
+152 153 2
+153 154 1
+154 155 2
+155 156 1
+156 157 2
+110 158 5
+158 159 2
+159 160 3
+160 161 5
+161 162 2
+162 163 2
+163 164 5
+164 165 5
+165 166 1
+166 167 4
+167 168 3
+166 169 1
+169 170 2
+170 171 1
+171 172 3
+172 173 2
+173 174 2
+174 175 3
+175 176 4
+176 177 3
+177 178 3
+178 179 2
+166 180 4
+180 181 3
+181 182 3
+182 183 1
+183 184 1
+184 185 2
+185 186 2
+186 187 1
+187 188 3
+188 189 1
+66 190 5
+191 192 8
+70 190 6
+190 193 4
+193 194 4
+194 195 4
+195 196 4
+196 197 3
+197 198 7
+198 199 6
+199 200 7
+200 201 6
+201 202 5
+202 203 6
+203 204 7
+204 205 4
+205 191 4
+191 206 4
+206 207 6
+207 208 6
+208 209 6
+209 210 8
+210 211 6
+211 212 4
+212 213 8
+213 214 6
+214 215 12
+215 216 2
+216 217 1
+218 219 5
+65 220 8
+220 221 4
+221 222 2
+222 223 2
+223 224 5
+224 218 1
+218 225 2
+225 226 2
+226 227 4
+227 228 4
+228 229 2
+229 230 3
+230 231 3
+231 232 4
+232 233 3
+233 234 4
+234 235 8
+235 236 4
+236 237 4
+237 238 4
+238 239 4
+239 240 4
+240 241 2
+241 242 6
+242 243 3
+243 244 3
+1 65 5
+65 245 6
+245 7 6
+7 246 11
+246 247 4
+247 248 1
+59 249 8
+249 250 7
+78 251 8
+251 252 5
+252 250 4
+250 253 7
+253 200 6
+202 254 3
+254 255 2
+255 256 4
+256 257 2
+257 258 6
+258 259 2
+244 260 1
+260 261 1
+207 262 8
+262 263 6
+263 264 8
+264 244 7
+244 265 4
+265 266 1
+244 267 3
+267 268 2
+268 269 5
+269 270 2
+270 271 2
+271 272 2
+272 273 5
+273 274 5
+275 276 5
+207 277 6
+277 192 4
+192 278 4
+278 279 4
+279 280 4
+280 281 3
+281 282 4
+282 283 3
+283 284 4
+284 285 2
+285 286 2
+286 287 3
+287 288 2
+288 276 2
+276 289 4
+289 290 2
+290 291 2
+291 292 2
+292 293 2
+293 294 3
+294 295 3
+295 296 4
+296 297 4
+297 298 3
+298 299 3
+299 300 2
+300 301 4
+301 302 1
+302 303 2
+303 304 2
+304 305 4
+305 306 3
+306 307 3
+307 308 4
+308 309 5
+309 310 4
+78 311 2
+311 312 3
+312 313 7
+313 314 2
+314 315 4
+315 316 3
+316 275 3
+275 317 2
+317 287 2
+287 318 3
+318 319 6
+319 320 5
+320 321 6
+321 322 2
+322 323 4
+323 324 7
+324 325 3
+325 326 5
+326 327 4
+327 328 3
+328 329 5
+329 330 2
+275 331 1
+331 332 2
+332 333 1
+333 334 3
+334 335 1
+335 336 2
+336 337 1
+337 338 3
+338 339 2
+339 340 4
+90 341 2
+341 342 4
+342 343 3
+343 344 7
+344 345 5
+345 346 4
+346 347 5
+347 348 3
+348 349 2
+349 350 4
+350 351 2
+351 352 3
+352 299 5
+310 353 5
+353 354 3
+354 355 3
+356 357 6
+357 358 5
+358 359 3
+359 360 4
+360 361 6
+361 362 1
+362 363 3
+363 310 9
+192 364 3
+364 365 3
+365 366 3
+366 367 3
+367 368 3
+368 369 4
+369 370 3
+370 371 3
+371 372 2
+372 373 1
+373 374 4
+374 375 4
+375 376 7
+376 377 4
+377 378 5
+378 379 1
+379 330 2
+330 380 2
+380 381 2
+381 382 6
+382 383 5
+383 384 4
+384 385 2
+385 386 1
+386 387 3
+387 388 1
+388 389 5
+389 390 3
+390 391 3
+391 392 4
+392 393 2
+393 394 4
+394 395 2
+395 396 2
+396 397 3
+397 398 5
+398 399 6
+324 400 4
+365 401 5
+401 402 1
+402 403 1
+403 404 1
+404 405 2
+405 406 2
+406 407 1
+407 408 3
+408 409 3
+409 410 5
+410 411 3
+411 412 3
+412 324 5
+214 413 7
+413 414 5
+414 415 3
+415 416 2
+416 417 3
+417 418 2
+418 419 4
+419 420 4
+420 421 9
+421 422 6
+422 423 2
+423 376 5
+399 425 8
+425 426 2
+426 427 2
+427 428 1
+428 429 6
+429 430 2
+430 431 4
+431 432 7
+432 433 2
+433 434 2
+434 435 4
+435 436 4
+436 437 2
+437 438 8
+438 439 1
+439 440 3
+440 441 2
+441 442 2
+442 443 4
+443 444 3
+444 424 5
+424 445 9
+445 446 6
+446 447 4
+447 448 3
+448 449 5
+449 417 5
+397 450 8
+450 451 5
+451 452 2
+452 453 3
+453 454 2
+455 456 1
+456 457 1
+458 459 1
+459 460 1
+399 461 2
+461 462 1
+462 463 8
+463 464 2
+464 465 2
+465 466 4
+466 467 4
+467 468 3
+468 469 3
+469 470 5
+470 471 3
+471 472 3
+472 473 2
+473 474 3
+474 475 4
+475 476 5
+476 477 6
+477 478 4
+478 479 4
+479 480 1
+480 481 5
+481 482 2
+482 483 2
+483 484 4
+484 485 6
+485 486 3
+486 487 3
+487 488 1
+488 489 3
+489 490 7
+490 491 3
+491 492 2
+492 493 4
+493 455 4
+455 494 3
+494 495 2
+495 496 2
+496 497 4
+497 498 4
+498 499 3
+499 500 3
+500 501 2
+501 502 2
+502 503 3
+503 504 3
+504 505 2
+505 506 3
+506 507 4
+507 508 4
+508 509 3
+509 510 4
+510 511 8
+511 512 7
+512 513 5
+513 458 4
+458 514 5
+514 515 4
+515 516 2
+516 517 3
+517 518 2
+518 519 4
+519 520 2
+520 521 3
+521 522 4
+522 523 6
+523 524 3
+524 525 2
+476 526 4
+526 527 3
+527 528 2
+528 529 2
+529 530 2
+530 531 3
+531 532 5
+532 533 5
+533 534 2
+534 535 1
+535 536 5
+536 537 4
+537 538 3
+476 539 2
+539 540 5
+540 541 2
+541 542 4
+542 543 3
+543 544 3
+544 545 3
+545 546 3
+546 547 4
+547 548 4
+548 549 3
+549 550 5
+551 552 1
+552 553 2
+553 554 3
+554 542 4
+480 555 3
+555 556 3
+556 557 4
+557 558 2
+558 559 1
+504 560 4
+560 561 8
+561 562 3
+562 563 2
+563 564 4
+564 565 2
+565 566 2
+566 567 2
+567 568 2
+568 569 3
+569 570 5
+570 571 4
+504 572 5
+572 573 2
+573 574 6
+574 575 1
+575 576 2
+576 577 2
+577 578 3
+578 579 2
+579 580 1
+581 582 2
+582 583 3
+583 584 2
+584 585 2
+585 586 1
+586 587 2
+587 588 4
+588 589 2
+589 590 3
+590 591 2
+591 592 1
+592 508 2
+515 593 1
+593 594 4
+594 595 5
+595 596 3
+596 597 2
+523 598 4
+598 599 2
+599 600 2
+600 601 2
+601 602 4
+602 603 2
+603 604 2
+604 605 1
+606 607 3
+607 608 4
+608 609 4
+609 610 4
+610 611 5
+611 612 3
+612 613 3
+613 614 3
+614 615 1
+615 616 6
+616 617 6
+617 618 7
+618 619 6
+619 620 2
+620 621 6
+621 622 7
+622 623 5
+623 624 1
+624 625 2
+625 626 6
+626 627 2
+627 628 2
+628 629 2
+629 630 5
+630 399 1
+397 631 4
+631 632 5
+632 633 6
+633 634 2
+634 635 9
+635 636 10
+636 637 5
+637 356 5
+356 638 4
+638 615 5
+623 639 5
+639 640 1
+640 641 4
+641 642 4
+642 643 1
+643 644 3
+644 645 2
+645 646 4
+646 647 2
+647 648 3
+648 649 3
+649 650 2
+650 651 3
+651 652 1
+652 653 5
+653 654 2
+654 655 3
+655 656 1
+656 657 5
+657 658 1
+658 659 5
+659 660 4
+660 661 3
+661 662 2
+662 663 1
+663 664 1
+664 665 1
+665 666 4
+666 667 1
+667 668 3
+668 669 1
+669 670 5
+670 671 6
+671 672 2
+672 673 7
+673 674 5
+674 675 4
+675 676 4
+676 677 2
+677 678 1
+678 679 1
+679 680 3
+680 681 4
+681 682 6
+682 683 3
+683 684 5
+684 685 5
+685 686 4
+686 687 3
+687 688 5
+688 689 4
+689 690 3
+690 691 1
+691 692 2
+692 693 4
+693 694 1
+694 695 2
+695 696 2
+696 697 4
+489 698 1
+698 699 4
+699 700 2
+700 701 4
+701 702 5
+702 703 3
+703 704 2
+704 705 1
+705 706 2
+706 707 2
+707 708 1
+708 709 4
+709 710 2
+710 711 2
+711 712 3
+712 713 2
+713 714 1
+714 715 3
+715 716 4
+716 717 1
+717 718 7
+718 719 5
+719 720 4
+720 721 2
+721 722 2
+722 723 4
+723 655 4
+701 724 9
+724 725 2
+725 726 3
+726 727 4
+727 728 1
+728 729 3
+729 730 4
+730 544 4
+110 731 3
+731 732 5
+732 733 4
+733 606 9
+606 734 2
+734 735 3
+735 736 4
+736 737 3
+737 738 2
+738 739 4
+739 740 3
+740 741 2
+741 742 3
+742 743 5
+743 744 3
+744 745 2
+745 746 3
+746 747 5
+747 748 8
+748 749 3
+749 750 7
+750 751 4
+751 752 4
+752 753 3
+753 754 5
+754 755 11
+755 756 6
+756 757 6
+757 758 3
+758 759 5
+759 760 4
+760 761 7
+761 762 5
+762 763 5
+763 764 3
+764 765 5
+765 766 1
+766 767 4
+767 768 3
+768 769 5
+769 770 4
+770 771 3
+771 772 3
+772 773 1
+773 774 2
+774 775 4
+775 776 8
+776 777 3
+777 778 2
+778 697 5
+697 779 2
+779 780 5
+780 781 2
+781 782 3
+782 783 7
+783 784 2
+784 785 5
+785 786 5
+786 525 4
+739 787 3
+787 788 5
+788 789 3
+789 790 2
+790 791 2
+791 792 2
+792 793 2
+793 794 1
+794 795 3
+795 796 4
+796 797 1
+797 798 2
+798 799 3
+799 800 2
+800 801 4
+801 802 3
+802 803 4
+803 804 2
+804 805 3
+805 806 5
+757 807 2
+807 808 3
+761 809 5
+809 810 3
+810 811 2
+811 812 1
+812 813 2
+813 814 1
+814 815 1
+815 816 1
+816 817 1
+817 818 2
+818 819 1
+819 820 2
+820 821 5
+821 808 2
+813 822 1
+822 823 1
+823 824 1
+824 825 1
+825 826 2
+827 828 3
+828 829 2
+829 826 4
+830 831 4
+761 832 1
+832 833 3
+833 827 4
+827 834 1
+834 835 1
+835 836 4
+836 837 1
+837 838 2
+838 830 2
+830 839 2
+839 840 5
+840 841 1
+841 842 2
+842 843 2
+843 844 5
+844 845 4
+845 846 4
+846 847 4
+847 848 5
+848 849 3
+849 850 4
+768 851 5
+851 852 3
+852 853 5
+775 854 1
+854 855 2
+855 856 2
+856 857 4
+783 858 3
+858 859 1
+859 860 3
+860 861 1
+861 862 2
+862 863 4
+863 864 3
+864 865 2
+865 866 7
+866 867 6
+867 868 4
+868 869 2
+869 870 4
+870 871 2
+871 872 2
+872 873 3
+873 874 3
+874 875 5
+875 876 5
+876 877 5
+877 878 2
+878 850 3
+850 879 2
+879 880 4
+880 881 1
+882 883 3
+883 884 8
+884 885 8
+886 887 1
+887 888 1
+524 889 5
+889 890 8
+890 891 2
+891 892 2
+892 893 3
+893 894 7
+894 882 5
+882 895 6
+895 896 8
+896 897 7
+897 886 7
+886 898 4
+898 899 4
+899 900 3
+900 901 8
+901 902 7
+902 903 2
+903 904 3
+904 905 1
+905 906 1
+906 907 4
+896 908 1
+908 909 4
+909 910 6
+910 911 2
+911 885 7
+885 912 6
+912 913 5
+913 914 2
+914 915 4
+915 916 3
+916 917 6
+917 918 3
+918 919 3
+919 920 3
+920 921 4
+921 922 5
+922 923 1
+923 924 4
+924 925 1
+925 926 4
+926 927 3
+927 928 3
+928 929 2
+929 930 3
+930 931 5
+931 932 2
+932 933 2
+933 934 2
+934 935 2
+935 936 3
+936 937 1
+937 938 3
+938 939 2
+939 940 4
+940 941 5
+941 942 3
+942 943 1
+943 944 3
+885 945 1
+945 946 3
+946 947 1
+947 948 4
+948 949 3
+949 950 3
+950 951 3
+951 952 5
+952 953 4
+953 954 3
+954 955 2
+864 956 4
+956 957 3
+957 958 3
+958 959 3
+959 960 4
+960 961 5
+961 962 4
+962 963 1
+963 964 2
+964 965 3
+965 966 4
+966 967 3
+967 968 3
+968 955 4
+955 969 3
+969 970 2
+970 971 2
+971 920 8
+958 972 4
+972 973 3
+973 974 1
+974 975 1
+975 976 6
+976 977 3
+977 978 4
+978 979 2
+979 980 3
+980 981 3
+981 982 5
+983 984 3
+984 985 3
+913 986 5
+986 987 2
+987 988 3
+988 989 5
+989 990 4
+990 991 2
+991 992 3
+992 983 2
+923 993 4
+993 994 2
+994 995 1
+995 996 3
+996 997 1
+997 998 1
+998 999 4
+999 1000 2
+1000 1001 2
+1001 1002 2
+1002 1003 4

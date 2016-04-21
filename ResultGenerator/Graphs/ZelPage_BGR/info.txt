@@ -1,0 +1,7 @@
+[TITLE] Rail-network
+[COUNTRY] Bulgaria
+[COUNTRY_CODE] BGR
+[DATA_SOURCE] ZelPage.cz
+[EDGE_LIST] GRAPH_PATH\default_edges.txt
+[NODE_LIST] GRAPH_PATH\default_nodes.txt
+[PAJEK] GRAPH_PATH\pajek.txt
