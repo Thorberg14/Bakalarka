@@ -1,15 +1,15 @@
-[EDGES_COUNT] C:\Julia\Julia-0.4.5\bin\julia.exe C:\skola\Bakalarka\Kod\ResultGen\Scripts\number_edges.jl [EDGE_LIST]
-[NODES_COUNT] C:\Julia\Julia-0.4.5\bin\julia.exe C:\skola\Bakalarka\Kod\ResultGen\Scripts\number_vertices.jl [EDGE_LIST]
-[AVG_NODE_DEG] C:\Julia\Julia-0.4.5\bin\julia.exe C:\skola\Bakalarka\Kod\ResultGen\Scripts\average_degree.jl [EDGE_LIST]
-[MIN_NODE_DEG] C:\Julia\Julia-0.4.5\bin\julia.exe C:\skola\Bakalarka\Kod\ResultGen\Scripts\minimum_degree.jl [EDGE_LIST]
-[MAX_NODE_DEG] C:\Julia\Julia-0.4.5\bin\julia.exe C:\skola\Bakalarka\Kod\ResultGen\Scripts\maximum_degree.jl [EDGE_LIST]
-[DIAMETER_WEIGHT] C:\Julia\Julia-0.4.5\bin\julia.exe C:\skola\Bakalarka\Kod\ResultGen\Scripts\graph_diameter_weighted.jl [EDGE_LIST]
-[DIAMETER] C:\Julia\Julia-0.4.5\bin\julia.exe C:\skola\Bakalarka\Kod\ResultGen\Scripts\graph_diameter.jl [EDGE_LIST]
-[RADIUS_WEIGHT] C:\Julia\Julia-0.4.5\bin\julia.exe C:\skola\Bakalarka\Kod\ResultGen\Scripts\graph_radius_weighted.jl [EDGE_LIST]
-[RADIUS] C:\Julia\Julia-0.4.5\bin\julia.exe C:\skola\Bakalarka\Kod\ResultGen\Scripts\graph_radius.jl [EDGE_LIST]
-[MAX_K_CORE] C:\Julia\Julia-0.4.5\bin\julia.exe C:\skola\Bakalarka\Kod\ResultGen\Scripts\max_k_core.jl [EDGE_LIST]
-[DEG_DIST] C:\Julia\Julia-0.4.5\bin\julia.exe C:\skola\Bakalarka\Kod\ResultGen\Scripts\degree_histogram_image.jl [EDGE_LIST] HTML\Images\[COUNTRY_CODE]-degree_dist.png Images\[COUNTRY_CODE]-degree_dist.png
-[BETWEEN_CENTRALITY_DIST] C:\Julia\Julia-0.4.5\bin\julia.exe C:\skola\Bakalarka\Kod\ResultGen\Scripts\cent_between_image.jl [EDGE_LIST] HTML\Images\[COUNTRY_CODE]-between_cent_dist.png Images\[COUNTRY_CODE]-between_cent_dist.png
-[CLOSE_CENTRALITY_DIST] C:\Julia\Julia-0.4.5\bin\julia.exe C:\skola\Bakalarka\Kod\ResultGen\Scripts\cent_closeness_image.jl [EDGE_LIST] HTML\Images\[COUNTRY_CODE]-closeness_cent_dist.png Images\[COUNTRY_CODE]-closeness_cent_dist.png
-[ECC_CENTRALITY_DIST] C:\Julia\Julia-0.4.5\bin\julia.exe C:\skola\Bakalarka\Kod\ResultGen\Scripts\cent_eccent_image.jl [EDGE_LIST] HTML\Images\[COUNTRY_CODE]-eccent_cent_dist.png Images\[COUNTRY_CODE]-eccent_cent_dist.png
-[RAD_CENTRALITY_DIST] C:\Julia\Julia-0.4.5\bin\julia.exe C:\skola\Bakalarka\Kod\ResultGen\Scripts\cent_radiality_image.jl [EDGE_LIST] HTML\Images\[COUNTRY_CODE]-radiality_cent_dist.png Images\[COUNTRY_CODE]-radiality_cent_dist.png
+[BETWEEN_CENTRALITY_DIST] C:\Julia\Julia-0.4.5\bin\julia.exe C:\skola\Bakalarka\Projects\ResultGenerator\Scripts\cent_between_image_new.jl [EDGE_LIST] HTML\Images\[COUNTRY_CODE]-between_cent_dist.png Images\[COUNTRY_CODE]-between_cent_dist.png
+[CLOSE_CENTRALITY_DIST] C:\Julia\Julia-0.4.5\bin\julia.exe C:\skola\Bakalarka\Projects\ResultGenerator\Scripts\cent_closeness_image_new.jl [EDGE_LIST] HTML\Images\[COUNTRY_CODE]-closeness_cent_dist.png Images\[COUNTRY_CODE]-closeness_cent_dist.png
+[ECC_CENTRALITY_DIST] C:\Julia\Julia-0.4.5\bin\julia.exe C:\skola\Bakalarka\Projects\ResultGenerator\Scripts\cent_eccent_image_new.jl [EDGE_LIST] HTML\Images\[COUNTRY_CODE]-eccent_cent_dist.png Images\[COUNTRY_CODE]-eccent_cent_dist.png
+[RAD_CENTRALITY_DIST] C:\Julia\Julia-0.4.5\bin\julia.exe C:\skola\Bakalarka\Projects\ResultGenerator\Scripts\cent_radiality_image_new.jl [EDGE_LIST] HTML\Images\[COUNTRY_CODE]-radiality_cent_dist.png Images\[COUNTRY_CODE]-radiality_cent_dist.png
+[DEG_DIST] C:\Julia\Julia-0.4.5\bin\julia.exe C:\skola\Bakalarka\Projects\ResultGenerator\Scripts\degree_histogram_image.jl [EDGE_LIST] HTML\Images\[COUNTRY_CODE]-degree_dist.png Images\[COUNTRY_CODE]-degree_dist.png
+[EDGES_COUNT] C:\Julia\Julia-0.4.5\bin\julia.exe C:\skola\Bakalarka\Projects\ResultGenerator\Scripts\number_edges.jl [EDGE_LIST]
+[NODES_COUNT] C:\Julia\Julia-0.4.5\bin\julia.exe C:\skola\Bakalarka\Projects\ResultGenerator\Scripts\number_vertices.jl [EDGE_LIST]
+[AVG_NODE_DEG] C:\Julia\Julia-0.4.5\bin\julia.exe C:\skola\Bakalarka\Projects\ResultGenerator\Scripts\average_degree.jl [EDGE_LIST]
+[MIN_NODE_DEG] C:\Julia\Julia-0.4.5\bin\julia.exe C:\skola\Bakalarka\Projects\ResultGenerator\Scripts\minimum_degree.jl [EDGE_LIST]
+[MAX_NODE_DEG] C:\Julia\Julia-0.4.5\bin\julia.exe C:\skola\Bakalarka\Projects\ResultGenerator\Scripts\maximum_degree.jl [EDGE_LIST]
+[DIAMETER_WEIGHT] C:\Julia\Julia-0.4.5\bin\julia.exe C:\skola\Bakalarka\Projects\ResultGenerator\Scripts\graph_diameter_weighted.jl [EDGE_LIST]
+[DIAMETER] C:\Julia\Julia-0.4.5\bin\julia.exe C:\skola\Bakalarka\Projects\ResultGenerator\Scripts\graph_diameter.jl [EDGE_LIST]
+[RADIUS_WEIGHT] C:\Julia\Julia-0.4.5\bin\julia.exe C:\skola\Bakalarka\Projects\ResultGenerator\Scripts\graph_radius_weighted.jl [EDGE_LIST]
+[RADIUS] C:\Julia\Julia-0.4.5\bin\julia.exe C:\skola\Bakalarka\Projects\ResultGenerator\Scripts\graph_radius.jl [EDGE_LIST]
+[MAX_K_CORE] C:\Julia\Julia-0.4.5\bin\julia.exe C:\skola\Bakalarka\Projects\ResultGenerator\Scripts\max_k_core.jl [EDGE_LIST]

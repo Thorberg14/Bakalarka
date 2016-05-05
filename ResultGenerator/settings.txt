@@ -1,2 +1,2 @@
 JULIA C:\Julia\Julia-0.4.5\bin\julia.exe
-WORK_DIR C:\skola\Bakalarka\Kod\ResultGen
+WORK_DIR C:\skola\Bakalarka\Projects\ResultGenerator

@@ -10,7 +10,7 @@ import java.util.Map;
 
 
 public class Program {
-	static String path = "C:\\skola\\Bakalarka\\Kod\\Bakalarka\\ResultGenerator";
+	static String path = "C:\\skola\\Bakalarka\\Projects\\ResultGenerator";
 	//static String julia = "C:\\Julia\\Julia-0.4.5\\bin\\julia.exe";
 	//static String graphFile = path+"\\Graphs\\Zelpage_SVK\\default_edges.txt";
 	
