@@ -8,6 +8,7 @@ import java.net.URL;
 import java.util.ArrayList;
 import java.util.List;
 
+import gui.controler.Controller;
 import util.DataModul;
 import util.Logger;
 
@@ -46,8 +47,10 @@ public class ZelPage extends WebSource{
 					links.add(link);
 			}
 		}
+		int i = 0;
 		for (String link : links ) {
-			//Logger.logInfo(link);
+			Controller.gui.progressInfo.setText("Spracuváva sa trať: "+ (++i)+" / "+links.size());
+			Logger.logInfo(this,link);
 			parseRouteTable(rootUrl+link);
 			delay();
 			//break;
