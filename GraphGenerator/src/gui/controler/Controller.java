@@ -36,7 +36,7 @@ public class Controller {
 		availableGraphFormats.add(GraphModel.graphNames[1]); //LOGICAL
 		availableGraphFormats.add(GraphModel.graphNames[2]); //PAJEK				
 			
-		Screen gui = new Screen();
+		gui = new Screen();
 		
 		for (WebSource s: sources) gui.sourceSelector.addItem(s.getName());
 		for (String t: availableGraphFormats) gui.graphFormatSelector.addItem(t);
@@ -61,14 +61,27 @@ public class Controller {
 		gui.confirm.addActionListener(new ActionListener(){
 			@Override
 			public void actionPerformed(ActionEvent e) {
-				WebSource s = sources.get( gui.sourceSelector.getSelectedIndex() );
-				try {
-					if (gui.dataReloadCheck.isSelected()) s.reloadData();
-					GraphModel gm = s.processData();
-					gm.printToFile(gui.graphFormatSelector.getSelectedIndex(),s.getName(),gui.orientedType.isSelected());
-				} catch (IOException | InterruptedException er) {
-					er.printStackTrace();
-				}
+
+				new Thread(){
+					public void run() {
+						gui.confirm.setEnabled(false);
+						gui.progressInfo.setVisible(true);
+						gui.progressInfo.setText("");
+						
+						WebSource s = sources.get( gui.sourceSelector.getSelectedIndex() );
+						try {
+							if (gui.dataReloadCheck.isSelected()) s.reloadData();
+							GraphModel gm = s.processData();
+							gm.printToFile(gui.graphFormatSelector.getSelectedIndex(),s.getName(),gui.orientedType.isSelected());
+						} catch (IOException | InterruptedException er) {
+							er.printStackTrace();
+						}
+						gui.progressInfo.setText("Hotovo");
+						//gui.progressInfo.setVisible(false);
+						gui.confirm.setEnabled(true);
+					}
+				}.start();
+
 			}
 			
 		});

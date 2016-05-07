@@ -2,16 +2,14 @@ package gui.view;
 
 import javax.swing.*;
 
-import thorberg.gui.MyComboBox;
-import thorberg.gui.MyLabel;
-
 public class Screen extends JFrame{
 	
-	public MyComboBox sourceSelector;
+	public JComboBox<String> sourceSelector;
 	public JCheckBox dataReloadCheck;
 	public MyLabel dataInfo;
+	public MyLabel progressInfo;
 	
-	public MyComboBox graphFormatSelector;
+	public JComboBox<String> graphFormatSelector;
 	
 	public ButtonGroup graphTypeSelector;
 	public JRadioButton orientedType;
@@ -31,13 +29,15 @@ public class Screen extends JFrame{
         
         add(new MyLabel("Zdroj dát: ",50,50));
 	     
-	    sourceSelector = new MyComboBox(150,50);
+	    sourceSelector = new JComboBox<String>();
+	    sourceSelector.setLocation(150,30);
 	    sourceSelector.setSize(150,30);
 	    add(sourceSelector);
 	    
 	    MyLabel graphLabel = new MyLabel("Grafový formát: ",50,200);
 	    add(graphLabel);
-	    graphFormatSelector = new MyComboBox(150,200);
+	    graphFormatSelector = new JComboBox<String>();
+	    graphFormatSelector.setLocation(150,200);
 	    graphFormatSelector.setSize(150,30);
 	    add(graphFormatSelector);
 	     
@@ -45,6 +45,11 @@ public class Screen extends JFrame{
 	    dataInfo.setSize(250,30);
 	    dataInfo.setVisible(true);
 	    add(dataInfo);
+	    
+	    progressInfo = new MyLabel("",100,160);
+	    progressInfo.setSize(250,30);
+	    progressInfo.setVisible(false);
+	    add(progressInfo);
 			
 		dataReloadCheck = new JCheckBox();
 		dataReloadCheck.setVisible(false);

@@ -1,6 +1,4 @@
-package thorberg.gui;
-
-import java.awt.Color;
+package gui.view;
 
 import javax.swing.JLabel;
 
@@ -13,6 +11,5 @@ public class MyLabel extends JLabel{
 		setVisible(true);
 		setLocation(x,y);
 		setSize(100,30);
-		//setForeground(Color.black);
 	}
 }

@@ -13,7 +13,7 @@ import util.MyWriter;
 
 public class GraphModel {
 	
-	public static final boolean TEST = true;
+	public static final boolean TEST = false;
 	public static final int DEFAULT = 0, LOGICAL = 1, PAJEK = 2;
 	public static String[] graphNames = { "Default", "Logical", "Pajek" };
 	

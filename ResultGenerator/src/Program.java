@@ -10,11 +10,11 @@ import java.util.Map;
 
 
 public class Program {
-	static String path = "C:\\skola\\Bakalarka\\Projects\\ResultGenerator";
-	//static String julia = "C:\\Julia\\Julia-0.4.5\\bin\\julia.exe";
-	//static String graphFile = path+"\\Graphs\\Zelpage_SVK\\default_edges.txt";
+	static String path = "";
 	
 	public static void main(String[] args) throws IOException {	
+		path = args[0];
+		System.out.println("Working path changed to: "+path);
 		Commander.setWorkingPath(path);
 		List<String> gf = getGraphFiles();	
 		for (String path : gf){
@@ -31,6 +31,7 @@ public class Program {
 		while ((s = br.readLine())!= null){
 			files.add(s);	
 		}
+		br.close();
 		return files;	
 	}
 	
@@ -46,7 +47,8 @@ public class Program {
 
 			dict.put(a[0], a[1]);
 		}
-
+		br.close();
+		
 		if (dict.get("[TITLE]") == null)
 			dict.put("[TITLE]","Network");
 		
@@ -70,6 +72,7 @@ public class Program {
 			if (result!=null)
 				dict.put(key, result);
 		} 
+		br.close();
 		return dict;
 	}
 	
@@ -90,5 +93,6 @@ public class Program {
 			writer.println(s);				
 		}
 		writer.close();
+		br.close();
 	}
 }
